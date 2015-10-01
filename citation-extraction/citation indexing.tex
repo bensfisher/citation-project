@@ -1,0 +1,116 @@
+\documentclass[12pt]{article}
+\usepackage[swedish,icelandic,english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{afterpage}
+\usepackage{setspace}
+\usepackage{amssymb}
+\usepackage{epsfig}
+\usepackage{dcolumn}
+\usepackage{afterpage}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{fullpage}
+\usepackage{times}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{lscape}
+\usepackage{threeparttable}
+\usepackage{psfrag}
+\usepackage{dcolumn}
+\usepackage{fleqn}
+\usepackage{epic}
+\usepackage{longtable}
+\usepackage{rotating}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{endnotes}
+\usepackage{url}
+\usepackage{subcaption}
+\usepackage{subfigure}
+\usepackage [abbr] {harvard}
+\usepackage[hang,flushmargin]{footmisc} 
+%\usepackage{natbib}
+\renewcommand{\harvardurl}{URL: \url}
+\usepackage{amsmath, bm}
+\usepackage{afterpage}
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{paralist} % \setdefaultenum{(a)}{i}{A}{1}
+\setlength{\LTcapwidth}{6in}
+
+\def\p3s{\phantom{xxx}}
+\parskip=0pt
+\parindent=0pt
+\interfootnotelinepenalty=10000
+\begin{document}
+\parindent=30pt
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+
+\doublespace
+\setcounter{page}{1}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\normalsize
+\hyphenpenalty 1000
+
+\singlespace
+\begin{center}
+
+\huge \textbf{Automated Citation Indexing of Government Documents} \\
+
+
+\vspace{1cm}
+\large
+\normalsize\vspace*{8.5cm}
+
+
+%\textsc{}\\
+%\textit{}\\
+
+\end{center}
+\vspace{3.5cm}
+
+%\begin{center}
+%\large \textbf{ABSTRACT}
+%\end{center}
+
+\singlespace \noindent 
+
+% \noindent Abstract
+
+\newpage
+\doublespace
+\setcounter{page}{1}
+\renewcommand{\thefootnote}{\arabic{footnote}} \setcounter{footnote}{0}
+\normalsize
+\hyphenpenalty 1000
+
+
+\section{Introduction}
+
+\section{Literature Review}
+The development of citation indexing has primarily focused on indexing scholarly citations in the confines of large-scale projects like \citeasnoun{garfield1964}'s Science Citation Index, which eventually morphed present Web of Science or \citeasnoun{lawrenceetal1999}'s Citeseer database. The process by which proprietary services like Web of Science or Google Scholar actually extract citations is opaque. The Citeseer project employs a heuristic, rule-based approach to identify citation strings within text. For example, the ParsCit parser developed by \citeasnoun{councilletal2008}, which Citeseer currently uses, identifies the bibliography of a paper by searching for ``bibliography'' or synonyms like ``references''. If one of these is found past the first 40\% of the paper, then the parser extracts all of the text past that line through the end of the paper or the appearance of another section heading, such as ``appendix''. The citation strings are then separated using regular expressions. \\
+
+There has been limited publicly available work done on improving automated citation indexing beyond the Citeseer project. Papers on citation metadata extraction generally rely on citation datasets downloaded from Citeseer or manually compiled datasets, rather than developing new methods for parsing documents themselves \cite{anzaroot2013}. Additionally, the automated citation indexing methods used by Citeseer and similar databases is tailored for extracting scholarly citations, making the application of existing algorithms problematic for extracting heterogeneous citations from government reports.\\
+
+
+
+\section{RIA Description}
+
+\section{Modeling Description}
+
+\section{Results}
+
+\section{Conclusion}
+
+\clearpage
+\singlespace
+\bibliographystyle{apsr}
+\nocite{*}
+\bibliography{citationextraction}
+\clearpage
+
+\end{document}

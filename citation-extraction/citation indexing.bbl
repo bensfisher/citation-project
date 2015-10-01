@@ -1,0 +1,32 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Anzaroot \harvardand\ McCallum}{2013}{anzaroot2013}
+Anzaroot, Sam \harvardand\ Andrew McCallum. 2013.
+\newblock ``A New Dataset for Fine-Grained Citation Field Extraction.'' {\em
+  Proceedings of the 30th International Conference on Machine Learning} .
+
+\harvarditem[Councill, Giles \harvardand\ Kan]{Councill, Giles \harvardand\
+  Kan}{2008}{councilletal2008}
+Councill, Isaac, C.~Lee Giles \harvardand\ Min-Yen Kan. 2008.
+\newblock ``ParsCit: An Open-Source CRF Reference String Parsing Package.''
+  {\em LREC} .
+
+\harvarditem{Garfield}{1964}{garfield1964}
+Garfield, Eugene. 1964.
+\newblock ``Science Citation Index - A New Dimension in Indexing.'' {\em
+  Science} .
+
+\harvarditem[Lafferty, McCallum \harvardand\ Pereira]{Lafferty, McCallum
+  \harvardand\ Pereira}{2001}{laffertyetal2001}
+Lafferty, John, Andrew McCallum \harvardand\ Fernando~C.N. Pereira. 2001.
+\newblock ``Conditional Random Fields: Probabilistic Models for Segmenting and
+  Labeling Sequence Data.'' {\em Proceedings of the 18th Inernational
+  Conference on Machine Learning} .
+
+\harvarditem[Lawrence, Giles \harvardand\ Bollacker]{Lawrence, Giles
+  \harvardand\ Bollacker}{1999}{lawrenceetal1999}
+Lawrence, Steve, C.~Lee Giles \harvardand\ Kurt Bollacker. 1999.
+\newblock ``Digital Libraries and Autonomous Citation Indexing.'' {\em
+  Computer} .
+
+\end{thebibliography}

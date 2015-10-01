@@ -1,0 +1,5 @@
+# convert pdfs to txts
+for file in ~/Desktop/School/GradSchool/RIA/Parscit-assessment/test-RIAs/*.pdf; do pdf2txt.py -o "$file".txt -t text $file; done
+
+# extract citations with Parscit
+for file in ~/Desktop/School/GradSchool/RIA/Parscit-assessment/test-RIAs/*.pdf.txt; do ~/Desktop/School/GradSchool/RIA/ParsCit-master/bin/citeExtract.pl -m extract_citations $file; done
