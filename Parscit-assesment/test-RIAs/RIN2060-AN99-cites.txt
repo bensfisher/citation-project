@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<title>Industry-wide Uses of Chlorine by Industry................................................................. 2-7 2-2. Use of Caustic Soda by Industry................................................................................... 2-7 2-3. Use of Caustic Potash by Industry ................................................................................ 2-8 2-4. Income (or Loss) as Net a Percentage of Sales, Basic Chemicals, Resins, and Synthetics (NAICS 3251 and 3252): 2000–2005 ....................................................... 2-14 3-1. Capital Cost Factor ($/ton Cl2 produced) vs. Capacity ................................................ 3-5 4-1. Price Trends: Alkalis and Chlorine Manufacturing:</title>
+<date>2000</date>
+<booktitle>NESHAP in 2013 (millions of 2007$)a ..................... 1-4 2-1. Comparison of the Processes ........................................................................................</booktitle>
+<pages>2--2</pages>
+<note>to</note>
+<marker>2000</marker>
+<rawString>2-1. Industry-wide Uses of Chlorine by Industry................................................................. 2-7 2-2. Use of Caustic Soda by Industry................................................................................... 2-7 2-3. Use of Caustic Potash by Industry ................................................................................ 2-8 2-4. Income (or Loss) as Net a Percentage of Sales, Basic Chemicals, Resins, and Synthetics (NAICS 3251 and 3252): 2000–2005 ....................................................... 2-14 3-1. Capital Cost Factor ($/ton Cl2 produced) vs. Capacity ................................................ 3-5 4-1. Price Trends: Alkalis and Chlorine Manufacturing: 2000 to 2009 ............................... 4-2 4-2. Unemployment Rates by County: 2000–2008 .............................................................. 4-5 4-3. Unemployment Rate Differences from National Average: May 2009 and Historical Average: 2000–2008 .................................................................................... 4-6 4-4. Historical ECU Cash Margins ...................................................................................... 4-9 4-5. Profit Tests: ECU Cash Margin Reductions Associated with Conversion Costs ....... 4-10 5-1. Breakdown of Monetized PM2.5 Health Co-Benefits using Mortality Function from Pope et al. (2002)a .............................................................................................. 5-10 5-2. Total Monetized PM2.5 Co-Benefits for the Proposed Mercury Chlor Alkali NESHAP in 2013 (Option 1) ...................................................................................... 5-13 5-3. Breakdown of Monetized Co-benefits by Pollutant at 3% discount rate (Option 1) .. 5-17 5-4. Percentage of Adult Population by Annual Mean PM2.5 Exposure (pre- and postpolicy policy) .............................................................................................................. 5-20 5-5. Cumulative Distribution of Adult Population at Annual Mean PM2.5 levels (preand post-policy policy) ............................................................................................... 5-20 6-1. Net Benefits for the Proposed Mercury Chlor Alkali NESHAP at 3% Discount Rate (Option 1)a ............................................................................................................ 6-3 6-2. Net Benefits for the Proposed Mercury Chlor Alkali NESHAP at 7% Discount 1-1. Summary of the Monetized Co-Benefits, Social Costs, and Net benefits for the Proposed Mercury Chlor Alkali NESHAP in 2013 (millions of 2007$)a ..................... 1-4 2-1. Comparison of the Processes ........................................................................................ 2-2 2-2. Approximate Energy Requirements of Different Cell Types ....................................... 2-4 2-3. Olin Corporation Products and Services and Major End Uses: 2008 ........................... 2-9 2-4. 2002 Economic Census Sales and Employment by Establishment Size .................... 2-12 2-5. Estimated Plant-Level Sales and Employment: 2008 ................................................. 2-12 2-6. Ultimate Parent Company Sales and Employment: 2008 ........................................... 2-13 3-1. Cost Factors for Conversion of Mercury Cell Chlor-Alkali Facilities to Membrane Cell Technology ($/ton Cl2 produced) ....................................................... 3-4 3-2. Estimated Capital Costs for Existing Mercury Cell Chlor-Alkali Facilities ................ 3-6 3-3. Estimated Capital Recovery Costs for Varying Finance Periods (Using 7 percent interest rate) .................................................................................................................. 3-8 3-4. Estimate of Annual Mercury Storage Costs ................................................................. 3-9 3-5. Environmental Compliance Cost Savings Factors from Elimination of the Mercury Process ......................................................................................................... 3-13 3-6. Annual Cost Savings from Elimination of the Mercury Processes, by Facility ......... 3-14 3-7. Energy Savings Associated with Conversion from the Mercury Cell to the Membrane Cell Process .............................................................................................. 3-16 3-8. Ranges of Individual Annual Cost/Savings Elements for the Conversion of Mercury Cells to Membrane Cells .............................................................................. 3-17 3-9. EPA Estimates of the Annual Costs of Conversion of Mercury Cells to Membrane Cells .......................................................................................................... 3-18 Source: U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 31: Manufacturing: Industry Series: Industry Statistics by Employment Size: 2002.” &amp;lt;http://factfinder.census.gov&amp;gt;; accessed July, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Access Intelligence</author>
+<author>LLC</author>
+</authors>
+<title>Oxychem Completes Taft,</title>
+<date>2008</date>
+<journal>LA KOH Conversion.” ChemWeek’s Business Daily, April</journal>
+<volume>29</volume>
+<marker>Intelligence, LLC, 2008</marker>
+<rawString>Access Intelligence, LLC. 2008. “Oxychem Completes Taft, LA KOH Conversion.” ChemWeek’s Business Daily, April 29, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Access Intelligence</author>
+<author>LLC</author>
+</authors>
+<date>2009</date>
+<journal>Chlor-alkali Market Wire.</journal>
+<marker>Intelligence, LLC, 2009</marker>
+<rawString>Access Intelligence, LLC. June 16, 2009. Chlor-alkali Market Wire.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>American Chemistry Council</author>
+</authors>
+<title>Chlorine: Ensuring Rail Transportation Safety.”</title>
+<date>2000</date>
+<note>http://www.americanchemistry.com/s_acc/sec_article_acc.asp?CID=1695&amp;DID=10018.</note>
+<marker>Council, 2000</marker>
+<rawString>American Chemistry Council. 2000. “Chlorine: Ensuring Rail Transportation Safety.” http://www.americanchemistry.com/s_acc/sec_article_acc.asp?CID=1695&amp;DID=10018.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>Accessed</institution>
+<marker>2009</marker>
+<rawString>Accessed August 19, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Armand Products Company</author>
+</authors>
+<date>2009</date>
+<booktitle>Potassium Carbonate Handbook.” http://www.armandproducts.com/pdfs/k2so3P1_12.pdf. Accessed</booktitle>
+<marker>Company, 2009</marker>
+<rawString>Armand Products Company. 2009. “Potassium Carbonate Handbook.” http://www.armandproducts.com/pdfs/k2so3P1_12.pdf. Accessed August 2009.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>ASHTA Chemicals Inc. 2009a. About ASHTA. http://www.ashtachemicals.com/aboutfs.htm.</booktitle>
+<marker></marker>
+<rawString>ASHTA Chemicals Inc. 2009a. About ASHTA. http://www.ashtachemicals.com/aboutfs.htm.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>Accessed</institution>
+<marker>2009</marker>
+<rawString>Accessed August 2009.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>ASHTA Chemicals</author>
+</authors>
+<booktitle>Inc. 2009b. Potassium Hydroxide,</booktitle>
+<location>Liquid.</location>
+<marker>Chemicals, </marker>
+<rawString>ASHTA Chemicals, Inc. 2009b. Potassium Hydroxide, Liquid.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Accessed</author>
+</authors>
+<date>2009</date>
+<note>Industrial Directory. http://clevelandchamber.com/images/stories/pdf/2009inddir.pdf.</note>
+<marker>Accessed, 2009</marker>
+<rawString>http://www.ashtachemicals.com/products/lkohfs.htm. Accessed August 2009. Industrial Directory. http://clevelandchamber.com/images/stories/pdf/2009inddir.pdf.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>Accessed</institution>
+<marker>2009</marker>
+<rawString>Accessed August 7, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A K Dixit</author>
+<author>R S Pindyck</author>
+</authors>
+<title>Investment under Uncertainty.</title>
+<date>1994</date>
+<publisher>Princeton University Press: Princeton, NJ.</publisher>
+<marker>Dixit, Pindyck, 1994</marker>
+<rawString>Dixit, A.K., and R.S. Pindyck. 1994. Investment under Uncertainty. Princeton University Press: Princeton, NJ.</rawString>
+</citation>
+<citation valid="true">
+<title>Energy Information Administration.</title>
+<date>2009</date>
+<booktitle>State Data Tables.” http://www.eia.doe.gov/cneaf/electricity/epa/epa_sprdshts.html. Accessed</booktitle>
+<marker>2009</marker>
+<rawString>Energy Information Administration. 2009. “Electric Power Annual 2007: State Data Tables.” http://www.eia.doe.gov/cneaf/electricity/epa/epa_sprdshts.html. Accessed July 31, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Environmental News Service</author>
+</authors>
+<date>2005</date>
+<journal>Chlorine Gas from South Carolina Train Crash Kills Nine.” http://www.ens-newswire.com/ens/jan2005/2005-01-10-04.asp. Accessed</journal>
+<volume>18</volume>
+<marker>Service, 2005</marker>
+<rawString>Environmental News Service. January 10, 2005. “Chlorine Gas from South Carolina Train Crash Kills Nine.” http://www.ens-newswire.com/ens/jan2005/2005-01-10-04.asp. Accessed 18, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>ERCO Worldwide</author>
+</authors>
+<title>Potassium Hydroxide.” http://www.ercoworldwide.com/ products_potassiumhydroxide.asp. Accessed</title>
+<date>2009</date>
+<marker>Worldwide, 2009</marker>
+<rawString>ERCO Worldwide. 2009. “Potassium Hydroxide.” http://www.ercoworldwide.com/ products_potassiumhydroxide.asp. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>D Fullerton</author>
+</authors>
+<title>Distributional Effects of Environmental and Energy Policy: An Introduction.</title>
+<date>2008</date>
+<journal>National Bureau of Economic Research.</journal>
+<location>Cambridge, MA:</location>
+<marker>Fullerton, 2008</marker>
+<rawString>Fullerton, D. 2008. Distributional Effects of Environmental and Energy Policy: An Introduction. Cambridge, MA: National Bureau of Economic Research.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Hoffmann</author>
+</authors>
+<date>2004</date>
+<booktitle>Potassium Carbonate Faces Pressures from the Video Glass.” Chemical Market Reporter,</booktitle>
+<pages>15</pages>
+<marker>Hoffmann, 2004</marker>
+<rawString>Hoffmann, J. April 19, 2004. “Potassium Carbonate Faces Pressures from the Video Glass.” Chemical Market Reporter, p. 15.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Millennium Inorganic Chemicals</author>
+</authors>
+<title>Site Fact Sheet Ashtabula Complex.” http://www.millenniumchem.com/NR/rdonlyres/6AE8BF59-D7CD-4768-951F37AE6F1C7321/0/SiteFactSheetAshtabula.pdf. Accessed</title>
+<date>2009</date>
+<marker>Chemicals, 2009</marker>
+<rawString>Millennium Inorganic Chemicals. 2009. “Site Fact Sheet Ashtabula Complex.” http://www.millenniumchem.com/NR/rdonlyres/6AE8BF59-D7CD-4768-951F37AE6F1C7321/0/SiteFactSheetAshtabula.pdf. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<date>2009</date>
+<booktitle>Occidental Chemical Corporation. 2008a. “OxyChem Caustic Potash Handbook.” http://www.oxy.com/Our_Businesses/chemicals/Pages/chem_products_basic_alkali.aspx #alk_koh. Accessed</booktitle>
+<marker>2009</marker>
+<rawString>Occidental Chemical Corporation. 2008a. “OxyChem Caustic Potash Handbook.” http://www.oxy.com/Our_Businesses/chemicals/Pages/chem_products_basic_alkali.aspx #alk_koh. Accessed July 28, 2009.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Occidental Chemical Corporation. 2008b. “OxyChem Caustic Soda Handbook.” http://www.oxy.com/Our_Businesses/chemicals/Documents/caustic_soda/caustic.pdf.</booktitle>
+<marker></marker>
+<rawString>Occidental Chemical Corporation. 2008b. “OxyChem Caustic Soda Handbook.” http://www.oxy.com/Our_Businesses/chemicals/Documents/caustic_soda/caustic.pdf.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>Accessed</institution>
+<marker>2009</marker>
+<rawString>Accessed August 6, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Olin Corporation</author>
+</authors>
+<title>Form 10-K405. Filed</title>
+<date>2001</date>
+<note>http://b2i.api.edgaronline.com/EFX_dll/EdgarPro.dll?FetchFilingConvPDF1?SessionID=n9ZFWjsyBGA3E -9&amp;ID=1782286. Accessed</note>
+<marker>Corporation, 2001</marker>
+<rawString>Olin Corporation. December 31, 2001. Form 10-K405. Filed March 4, 2002. http://b2i.api.edgaronline.com/EFX_dll/EdgarPro.dll?FetchFilingConvPDF1?SessionID=n9ZFWjsyBGA3E -9&amp;ID=1782286. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Olin Corporation</author>
+</authors>
+<title>Form 10-K. Filed</title>
+<date>2008</date>
+<note>http://b2i.api.edgaronline.com/EFX_dll/EdgarPro.dll?FetchFilingConvPDF1?SessionID=DOVFWfuqOuZB E-9&amp;ID=6436012. Accessed</note>
+<marker>Corporation, 2008</marker>
+<rawString>Olin Corporation. December 31, 2008. Form 10-K. Filed February 25, 2009. http://b2i.api.edgaronline.com/EFX_dll/EdgarPro.dll?FetchFilingConvPDF1?SessionID=DOVFWfuqOuZB E-9&amp;ID=6436012. Accessed July 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Olin Corporation</author>
+</authors>
+<date>2009</date>
+<booktitle>BB&amp;T Capital Markets Presentation Manufacturing and Materials Conference.” http://www.olin.com/. Accessed</booktitle>
+<marker>Corporation, 2009</marker>
+<rawString>Olin Corporation. April 1, 2009a. “BB&amp;T Capital Markets Presentation Manufacturing and Materials Conference.” http://www.olin.com/. Accessed July 31, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Olin Corporation</author>
+</authors>
+<date>2009</date>
+<journal>Olin Transportation of KOH.” http://koh.olinchloralkali.com/Facilities/chas/ChasLogistics.aspx. Accessed</journal>
+<marker>Corporation, 2009</marker>
+<rawString>Olin Corporation. 2009b. “Olin Transportation of KOH.” http://koh.olinchloralkali.com/Facilities/chas/ChasLogistics.aspx. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>R Pavey</author>
+</authors>
+<title>Bill Would End Mercury Use at Chlorine Plants.” http://chronicle.augusta.com/stories/031308/met_190792.shtml. Accessed</title>
+<date>2008</date>
+<marker>Pavey, 2008</marker>
+<rawString>Pavey, R. 2008. “Bill Would End Mercury Use at Chlorine Plants.” http://chronicle.augusta.com/stories/031308/met_190792.shtml. Accessed August 7, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>PPG Industries</author>
+<author>Inc</author>
+</authors>
+<date>2001</date>
+<booktitle>Form 10-K. Filed</booktitle>
+<marker>Industries, Inc, 2001</marker>
+<rawString>PPG Industries, Inc. December 31, 2001. Form 10-K. Filed February 22, 2002.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>http www secinfo comdV5Ff 32Wq 7 htm25thPage</author>
+</authors>
+<title>Accessed</title>
+<date>2009</date>
+<marker>htm25thPage, 2009</marker>
+<rawString>http://www.secinfo.com/dV5Ff.32Wq.7.htm#25thPage. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>PPG Industries</author>
+<author>Inc</author>
+</authors>
+<date>2008</date>
+<booktitle>Form 10-K. Filed</booktitle>
+<marker>Industries, Inc, 2008</marker>
+<rawString>PPG Industries, Inc. December 31, 2008. Form 10-K. Filed February 19, 2009.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<pages>49--9</pages>
+<publisher>Accessed</publisher>
+<marker>2009</marker>
+<rawString>http://corporateportal.ppg.com/NR/rdonlyres/EAC49DFC-DB9C-4320-B9A3-421E40162220/0/10KYREND2008.pdf. Accessed July 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>PPG Industries</author>
+</authors>
+<date>2009</date>
+<booktitle>Chlorine Product Bulletin.” http://corporateportal.ppg.com/NA/Chemicals/CAD/ProductInformation/Bull /English/EN. Accessed</booktitle>
+<marker>Industries, 2009</marker>
+<rawString>PPG Industries. 2009a. “Chlorine Product Bulletin.” http://corporateportal.ppg.com/NA/Chemicals/CAD/ProductInformation/Bull /English/EN. Accessed August 19, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>PPG Industries</author>
+</authors>
+<date>2009</date>
+<booktitle>PPG Reaches Agreement with State of Maryland.” PPG News Release. http://corporateportal.ppg.com/PPG/Newsroom/News/20090811.htm.</booktitle>
+<marker>Industries, 2009</marker>
+<rawString>PPG Industries. August 11, 2009b. “PPG Reaches Agreement with State of Maryland.” PPG News Release. http://corporateportal.ppg.com/PPG/Newsroom/News/20090811.htm.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>Accessed</institution>
+<marker>2009</marker>
+<rawString>Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>P W Sim</author>
+</authors>
+<date>2005</date>
+<journal>ASHTA to Build Chlorine-KOH Plant in Arkansas.” Chemical Week</journal>
+<pages>13</pages>
+<marker>Sim, 2005</marker>
+<rawString>Sim, P.W. January 19, 2005. “ASHTA to Build Chlorine-KOH Plant in Arkansas.” Chemical Week p. 13.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>L D Snyder</author>
+<author>N H Miller</author>
+<author>R N Stavins</author>
+</authors>
+<title>The Effects of Environmental Regulation on Technology Diffusion: The Case of</title>
+<date>2003</date>
+<journal>Chlorine Manufacturing.” American Economic Review</journal>
+<pages>93--2</pages>
+<marker>Snyder, Miller, Stavins, 2003</marker>
+<rawString>Snyder, L.D., N.H. Miller, and R.N. Stavins. 2003. “The Effects of Environmental Regulation on Technology Diffusion: The Case of Chlorine Manufacturing.” American Economic Review 93(2):431-435.</rawString>
+</citation>
+<citation valid="true">
+<title>Special Focus on Chlorine.”</title>
+<date>2007</date>
+<booktitle>Business Source Corporate database. Accessed</booktitle>
+<pages>27--40</pages>
+<marker>2007</marker>
+<rawString>“Special Focus on Chlorine.” October 2007. Chemical Business. pp. 27-40. Business Source Corporate database. Accessed July 29, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Superior Plus</author>
+</authors>
+<date>2009</date>
+<tech>Annual Report</tech>
+<note>http://www.olin.com/. Accessed</note>
+<marker>Plus, 2009</marker>
+<rawString>Superior Plus. 2009. Annual Report 2008. http://www.olin.com/. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<title>The Innovation Group (TIG).</title>
+<date>2009</date>
+<booktitle>Caustic Potash Chemical Profile.” http://www.theinnovation-group.com/welcome.htm. Accessed</booktitle>
+<marker>2009</marker>
+<rawString>The Innovation Group (TIG). 2009. “Caustic Potash Chemical Profile.” http://www.theinnovation-group.com/welcome.htm. Accessed July 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Labor Statistics.</title>
+<date>2009</date>
+<booktitle>2009a. Current Employment Statistics—CES (National) Series Id: LNU04000000. Accessed</booktitle>
+<marker>Bureau, 2009</marker>
+<rawString>U.S. Bureau of Labor Statistics. 2009a. Current Employment Statistics—CES (National) Series Id: LNU04000000. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Labor Statistics. 2009b. LAU Local Area Unemployment Statistics Series Id:</title>
+<date>2009</date>
+<booktitle>LAUPS39011004, LAUPS39011005, LAUPA47035004, LAUPA47035005, LAUCN13245004, LAUCN13245005, LAUCN54103004, LAUCN54103005. Accessed</booktitle>
+<marker>Bureau, 2009</marker>
+<rawString>U.S. Bureau of Labor Statistics. 2009b. LAU Local Area Unemployment Statistics Series Id: LAUPS39011004, LAUPS39011005, LAUPA47035004, LAUPA47035005, LAUCN13245004, LAUCN13245005, LAUCN54103004, LAUCN54103005. Accessed August 2009.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Labor Statistics.</title>
+<booktitle>2009c. LAU Local Area Unemployment Statistics Series Id: LAUPS39011006, LAUPA47035006, LAUCN13245006, and LAUCN54103006.</booktitle>
+<marker>Bureau, </marker>
+<rawString>U.S. Bureau of Labor Statistics. 2009c. LAU Local Area Unemployment Statistics Series Id: LAUPS39011006, LAUPA47035006, LAUCN13245006, and LAUCN54103006.</rawString>
+</citation>
+<citation valid="true">
+<title>4-13 U.S. Bureau of Labor Statistics.</title>
+<date>2009</date>
+<booktitle>2009d. Producer Price Index Industry Data, Series ID = PCU PCU325181325181. http://data.bls.gov/PDQ/outside.jsp?survey=pc. Accessed</booktitle>
+<institution>Accessed</institution>
+<marker>2009</marker>
+<rawString>Accessed August 2009. 4-13 U.S. Bureau of Labor Statistics. 2009d. Producer Price Index Industry Data, Series ID = PCU PCU325181325181. http://data.bls.gov/PDQ/outside.jsp?survey=pc. Accessed August 18, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Labor Statistics.</title>
+<date>2009</date>
+<booktitle>2009e. Quarterly Census of Employment and Wages. Accessed</booktitle>
+<marker>Bureau, 2009</marker>
+<rawString>U.S. Bureau of Labor Statistics. 2009e. Quarterly Census of Employment and Wages. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2001</date>
+<booktitle>Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations, 1st Quarter reports. http://www.census.gov/prod/www/abs/qfrmm.html. Accessed</booktitle>
+<marker>Bureau, 2001</marker>
+<rawString>U.S. Census Bureau. 2001–2006. Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations, 1st Quarter reports. http://www.census.gov/prod/www/abs/qfrmm.html. Accessed July 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Economic Census.</title>
+<date>2007</date>
+<pages>325181</pages>
+<publisher>NAICS</publisher>
+<marker>Bureau, 2007</marker>
+<rawString>U.S. Census Bureau. Economic Census. 2007. Sector 31: EC0731I1: Manufacturing: Industry Series: Detailed Statistics by Industry for the United States: 2007. NAICS code 325181.</rawString>
+</citation>
+<citation valid="true">
+<date>2009</date>
+<booktitle>http://factfinder.census.gov/servlet/DatasetMainPageServlet?_program=ECN&amp;_tabId=E CN1&amp;_submenuId=datasets_4&amp;_lang=en&amp;_ts=24636668839. Accessed</booktitle>
+<marker>2009</marker>
+<rawString>http://factfinder.census.gov/servlet/DatasetMainPageServlet?_program=ECN&amp;_tabId=E CN1&amp;_submenuId=datasets_4&amp;_lang=en&amp;_ts=24636668839. Accessed July 23, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 31: Manufacturing: Industry Series: Industry Statistics by Employment Size:</title>
+<date>2002</date>
+<note>http://factfinder.census.gov. Accessed</note>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 31: Manufacturing: Industry Series: Industry Statistics by Employment Size: 2002.” http://factfinder.census.gov. Accessed July 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Transportation.</title>
+<date>2009</date>
+<booktitle>2009a. “Part 172—Hazardous Materials Table, Special Provisions, Hazardous Materials Communications, Emergency Response Information, Training Requirements, And Security Plans.” http://ecfr.gpoaccess.gov/cgi/t/text/textidx?c=ecfr&amp;sid=1dbcd9fcab84b206ffd37360976a4c4f&amp;tpl=/ecfrbrowse/Title49/49cfr17 2_main_02.tpl. Accessed</booktitle>
+<marker>S, 2009</marker>
+<rawString>U.S. Department of Transportation. 2009a. “Part 172—Hazardous Materials Table, Special Provisions, Hazardous Materials Communications, Emergency Response Information, Training Requirements, And Security Plans.” http://ecfr.gpoaccess.gov/cgi/t/text/textidx?c=ecfr&amp;sid=1dbcd9fcab84b206ffd37360976a4c4f&amp;tpl=/ecfrbrowse/Title49/49cfr17 2_main_02.tpl. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Transportation.</title>
+<date>2009</date>
+<booktitle>2009b. Pipeline and Hazardous Materials Safety Administration. http://www.phmsa.dot.gov/regulations. Accessed</booktitle>
+<marker>S, 2009</marker>
+<rawString>U.S. Department of Transportation. 2009b. Pipeline and Hazardous Materials Safety Administration. http://www.phmsa.dot.gov/regulations. Accessed August 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2000</date>
+<journal>EPA</journal>
+<pages>240--00</pages>
+<location>Washington, DC:</location>
+<note>EPA. http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/Guidelines.html.</note>
+<marker>S, 2000</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). September 2000. Guidelines for Preparing Economic Analyses. EPA 240-R-00-003. Washington, DC: EPA. http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/Guidelines.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Federal Trade Commission (FTC).</title>
+<date>2005</date>
+<booktitle>With Conditions, FTC Clears Occidental Chemical’s Purchase of Vulcan’s Chemical Assets.” http://www.ftc.gov/opa/2005/06/vulcan.shtm. Accessed</booktitle>
+<marker>S, 2005</marker>
+<rawString>U.S. Federal Trade Commission (FTC). 2005. “With Conditions, FTC Clears Occidental Chemical’s Purchase of Vulcan’s Chemical Assets.” http://www.ftc.gov/opa/2005/06/vulcan.shtm. Accessed August 7, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Geological Survey</author>
+</authors>
+<title>Soda Ash. http://minerals.usgs.gov/minerals/pubs/ commodity/soda_ash/mcs-2009-sodaa.pdf. Accessed August 4,</title>
+<date>2009</date>
+<booktitle>U.S. House of Representatives Committee on Commerce and Energy, Subcommittee on Commerce, Trade, and Consumer Protection; Pertaining to the Mercury Pollution Press.</booktitle>
+<pages>229</pages>
+<location>Washington, DC.</location>
+<marker>Survey, 2009</marker>
+<rawString>U.S. Geological Survey (USGS). 2009. Soda Ash. http://minerals.usgs.gov/minerals/pubs/ commodity/soda_ash/mcs-2009-sodaa.pdf. Accessed August 4, 2009. U.S. House of Representatives Committee on Commerce and Energy, Subcommittee on Commerce, Trade, and Consumer Protection; Pertaining to the Mercury Pollution Press. Washington, DC. p. 229.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C A Pope</author>
+<author>R T Burnett</author>
+<author>M J Thun</author>
+<author>E E Calle</author>
+<author>D Krewski</author>
+<author>K Ito</author>
+<author>G D Thurston</author>
+</authors>
+<title>Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.”</title>
+<date>2002</date>
+<journal>Journal of the American Medical Association</journal>
+<pages>287--1132</pages>
+<marker>Pope, Burnett, Thun, Calle, Krewski, Ito, Thurston, 2002</marker>
+<rawString>Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D. Krewski, K. Ito, and G.D. Thurston. 2002. “Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.” Journal of the American Medical Association 287:1132-1141.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>H A Roman</author>
+<author>K D Walker</author>
+<author>T L Walsh</author>
+<author>L Conner</author>
+<author>H M Richmond</author>
+<author>J Hubbell</author>
+<author>P L Kinney</author>
+</authors>
+<date>2008</date>
+<booktitle>Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S.” Environ. Sci. Technol.</booktitle>
+<pages>42--7</pages>
+<marker>Roman, Walker, Walsh, Conner, Richmond, Hubbell, Kinney, 2008</marker>
+<rawString>Roman, H.A., K.D. Walker, T.L. Walsh, L. Conner, H.M. Richmond, J. Hubbell, and P.L. Kinney. 2008. “Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S.” Environ. Sci. Technol. 42(7):2268-2274.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency—Science Advisory Board (U.S.</title>
+<date></date>
+<journal>Available</journal>
+<booktitle>EPA-SAB). 2009b. Consultation on EPA’s Particulate Matter National Ambient Air Quality Standards: Scope and Methods Plan for Health Risk and Exposure Assessment.</booktitle>
+<volume>at</volume>
+<pages>09--009</pages>
+<marker>S, </marker>
+<rawString>U.S. Environmental Protection Agency—Science Advisory Board (U.S. EPA-SAB). 2009b. Consultation on EPA’s Particulate Matter National Ambient Air Quality Standards: Scope and Methods Plan for Health Risk and Exposure Assessment. EPA-COUNCIL-09-009. May. Available at &amp;lt;http://yosemite.epa.gov/sab/SABPRODUCT.NSF/81e39f4c09954fcb85256ead006be86 e/723FE644C5D758DF852575BD00763A32/$File/EPA-CASAC-09-009-unsigned.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>V K Viscusi</author>
+<author>J E Aldy</author>
+</authors>
+<title>The Value of a Statistical Life: A Critical Review of Market Estimates throughout the World.”</title>
+<date>2003</date>
+<journal>Journal of Risk and Uncertainty</journal>
+<pages>27--1</pages>
+<marker>Viscusi, Aldy, 2003</marker>
+<rawString>Viscusi, V.K., and J.E. Aldy. 2003. “The Value of a Statistical Life: A Critical Review of Market Estimates throughout the World.” Journal of Risk and Uncertainty 27(1):5-76.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>R L Jackson</author>
+<author>ASHTA Chemicals Inc</author>
+<author>to Jones</author>
+<author>U S D L</author>
+</authors>
+<title>Environmental Protection Agency. RE: Docket No. EPA-HQ-OAR-2002-0017—National Emission Standards for Hazardous Air Pollutants:</title>
+<date>2009</date>
+<booktitle>Mercury Emissions from Mercury Cell Chlor-Alkali Plants—ASHTA Chemicals Inc. Comments and Rebuttal on Recent EC/R Study.</booktitle>
+<marker>Jackson, Inc, Jones, L, 2009</marker>
+<rawString>52 Letter. Jackson, R.L., ASHTA Chemicals Inc., to Jones, D.L., U.S. Environmental Protection Agency. RE: Docket No. EPA-HQ-OAR-2002-0017—National Emission Standards for Hazardous Air Pollutants: Mercury Emissions from Mercury Cell Chlor-Alkali Plants—ASHTA Chemicals Inc. Comments and Rebuttal on Recent EC/R Study. June 30, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Later in</author>
+</authors>
+<title>EPA requested documentation of these emission estimates using their authority under section 114 of the Clean Air Act.</title>
+<date>2009</date>
+<booktitle>In 53 Letter. Hall, R.K., Olin Chlor Alkali Products, to Jones, D.L., U.S. Environmental Protection Agency.</booktitle>
+<marker>in, 2009</marker>
+<rawString>Later in 2009, EPA requested documentation of these emission estimates using their authority under section 114 of the Clean Air Act. In 53 Letter. Hall, R.K., Olin Chlor Alkali Products, to Jones, D.L., U.S. Environmental Protection Agency. June 25, 2009. 54 Letter. Smith, T.P., PPG Industries, Inc., to Jones, D.L., U.S. Environmental Protection Agency. Re: Docket No.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Heather P Brown</author>
+<author>P E</author>
+</authors>
+<title>EPA-HQ-OAR-2002-0017—National Emission Standards for Hazardous Air Pollutants: Mercury Emissions from Mercury Cell Chlor-Alkali Plants—Memo: “Updated Cost Impacts Associated with the Conversion from Chlorine Production Utilizing Mercury Cell Chlor-Alkali Technology to Membrane Cell Technology,” from</title>
+<date>2009</date>
+<publisher>(EC/R Inc.) to</publisher>
+<location>Donna Lee Jones, PhD (USEPA), dated</location>
+<marker>Brown, E, 2009</marker>
+<rawString>EPA-HQ-OAR-2002-0017—National Emission Standards for Hazardous Air Pollutants: Mercury Emissions from Mercury Cell Chlor-Alkali Plants—Memo: “Updated Cost Impacts Associated with the Conversion from Chlorine Production Utilizing Mercury Cell Chlor-Alkali Technology to Membrane Cell Technology,” from Heather P. Brown, P.E. (EC/R Inc.) to Donna Lee Jones, PhD (USEPA), dated June 5, 2009.” July 13, 2009. Tracking System/Continuous Emissions Monitoring data. The engineering assessment considers the emissions factors representative and reasonable for the analysis given the physical location of chlorine plants and the power companies and the power companies fuel mix used to meet it customer’s electricity requirements.</rawString>
+</citation>
+<citation valid="false">
+<title>B-4 Table B-3. Power Company Emission Factors: Fuel=Coal (Short tons per kWh)</title>
+<date>2009</date>
+<booktitle>Power Company NOX SO2 CO2 Hg American Electric Power Co 1.72E-06 5.71E-06 9.71E-04 2.96E-11 First Energy Corp 1.64E-06 6.41E-06 1.03E-03 3.76E-11 Southern Company Services Inc 1.39E-06 6.41E-06 1.03E-03 2.60E-11</booktitle>
+<volume>2</volume>
+<location>Tennessee Valley</location>
+<marker>2009</marker>
+<rawString>B-4 Table B-3. Power Company Emission Factors: Fuel=Coal (Short tons per kWh) Power Company NOX SO2 CO2 Hg American Electric Power Co 1.72E-06 5.71E-06 9.71E-04 2.96E-11 First Energy Corp 1.64E-06 6.41E-06 1.03E-03 3.76E-11 Southern Company Services Inc 1.39E-06 6.41E-06 1.03E-03 2.60E-11 Tennessee Valley Authority 1.89E-06 4.50E-06 1.07E-03 2.15E-11 Table B-4. Power Company Emission Factors: Fuel=Natural Gas (Short tons per kWh) Power Company NOX SO2 CO2 American Electric Power Co 1.48E-06 9.15E-09 6.30E-04 First Energy Corp 1.73E-07 2.45E-08 5.70E-04 Southern Company Services Inc 1.23E-07 2.68E-08 4.66E-04 Tennessee Valley Authority 1.14E-07 2.80E-09 4.86E-04 Emission factors could not be identified for PM2.5, NH3, and VOCs in eGRID. As a American Electric Power. 2009. Available on the internet at http://www.aep.com/investors/edgar/docs/AEP_10K_2009.pdf First Energy. 2009. Available on the internet at http://investors.firstenergycorp.com/phoenix.zhtml?c=102230&amp;p=irol-sec10k Southern Company. 2009. Available on the internet at http://www.southerncompany.com/sotogo/SOtoGo.pdf Tennessee Valley Authority. 2009. Available on the internet at http://www.tva.com/finance/reports/pdf/fy2009ar.pdf U.S. Department of Homeland Security. Homeland Security Information Program Gold (HSIP Gold), Version 2 (April 2007) U.S. Energy Information Administration. 2008. State Electricity Profiles. Table 10. Available on the internet at http://tonto.eia.doe.gov/ftproot/electricity/stateprofiles/07st_profiles/062907.pdf U.S. Energy Information Administration. 2009. Supplemental Tables to the Annual Energy Outlook 2010. Table 2. Available on the internet at http://www.eia.doe.gov/oiaf/aeo/aeoref_tab.html U.S. Environmental Protection Agency (U.S. EPA). 2005. Clean Air Interstate Rule Emissions Inventory Technical Support Document. Office of Air Quality Planning and Standards.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>March</author>
+</authors>
+<title>Available on the internet at http://www.epa.gov/CAIR/pdfs/finaltech01.pdf U.S. Environmental Protection Agency</title>
+<date>2008</date>
+<marker>March, 2008</marker>
+<rawString>March. Available on the internet at http://www.epa.gov/CAIR/pdfs/finaltech01.pdf U.S. Environmental Protection Agency (U.S. EPA). 2008. The Emissions and Generation Resource Integrated Database for 2007 (eGRID2007) Technical Support Document. Office of Atmospheric Programs Climate Protection Partnerships Division. November.</rawString>
+</citation>
+<citation valid="false">
+<title>Available on the internet at http://www.epa.gov/cleanenergy/documents/egridzips/eGRID2007TechnicalSupportDoc ument.pdf U.S. Environmental Protection Agency</title>
+<date>2009</date>
+<marker>2009</marker>
+<rawString>Available on the internet at http://www.epa.gov/cleanenergy/documents/egridzips/eGRID2007TechnicalSupportDoc ument.pdf U.S. Environmental Protection Agency (U.S. EPA). 2009. User’s Manual for the Co-Benefits Risk Assessment (COBRA) Screening Model. Climate Protection Partnerships Division State and Local Climate and Energy Programs. November. Available on the internet at http://www.epa.gov/statelocalclimate/documents/pdf/COBRA_manual.pdf</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

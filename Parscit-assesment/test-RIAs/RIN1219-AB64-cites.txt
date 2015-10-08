@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Review CPDM Plan</author>
+</authors>
+<title>Proposed §§ 70.208(f)(4), 70.208(g)(4), 70.209(g)(4), 71.207(k)(4), 71.207(n)(2), 90.209(e)(4) and 90.209(f)(4) X. REFERENCES U.S. Environmental Protection Agency (EPA,</title>
+<date>2003</date>
+<booktitle>Proposed Rule “National Primary Drinking Water Regulations; Stage 2 Disinfectants and Disinfection Byproducts Rule; National Primary and Secondary Drinking Water Regulations; Approval of Analytical Methods for Chemical Contaminants,”</booktitle>
+<volume>68</volume>
+<pages>49548</pages>
+<marker>Plan, 2003</marker>
+<rawString>Review CPDM Plan - Proposed §§ 70.208(f)(4), 70.208(g)(4), 70.209(g)(4), 71.207(k)(4), 71.207(n)(2), 90.209(e)(4) and 90.209(f)(4) X. REFERENCES U.S. Environmental Protection Agency (EPA, 2003). Proposed Rule “National Primary Drinking Water Regulations; Stage 2 Disinfectants and Disinfection Byproducts Rule; National Primary and Secondary Drinking Water Regulations; Approval of Analytical Methods for Chemical Contaminants,” (68 FR 49548).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>B Hintermann</author>
+<author>A Alberini</author>
+<author>A Markandya</author>
+</authors>
+<title>Estimating the Value of Safety with Labor Market Data: Are the Results Trustworthy?”, Applied Economics</title>
+<date>2008</date>
+<pages>1085--1100</pages>
+<note>Published electronically in</note>
+<marker>Hintermann, Alberini, Markandya, 2008</marker>
+<rawString>Hintermann, B., Alberini, A. and Markandya, A. (2008). “Estimating the Value of Safety with Labor Market Data: Are the Results Trustworthy?”, Applied Economics (2010): 1085-1100. Published electronically in July 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W Magat</author>
+<author>W Viscusi</author>
+<author>J Huber</author>
+</authors>
+<title>A Reference Lottery Metric for Valuing Health”,</title>
+<date>1996</date>
+<journal>Management Science.</journal>
+<volume>42</volume>
+<issue>8</issue>
+<pages>1118--1130</pages>
+<marker>Magat, Viscusi, Huber, 1996</marker>
+<rawString>Magat W., Viscusi, W., and Huber, J., (1996) “A Reference Lottery Metric for Valuing Health”, Management Science. 42(8): 1118-1130.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C Sunstein</author>
+</authors>
+<title>Valuing Life: A Plea for Disaggregation”,</title>
+<date>2004</date>
+<journal>Duke Law Journal.</journal>
+<volume>54</volume>
+<pages>385--445</pages>
+<contexts>
+<context position="67818" citStr="Sunstein, 2004" startWordPosition="9751" endWordPosition="9752">.7 million). Although MSHA is using the willingness-to-pay approach as the basis for monetizing the expected benefits of the proposed rule, the Agency does so with several reservations, given the methodological difficulties involved in estimating the compensating wage differentials (see Hintermann, Alberini and Markandya, 2008). Furthermore, these estimates pooled across different industries may not capture the unique circumstances faced by coal miners. For example, some have suggested that VSL models be disaggregated to account for different levels of risk, as might occur in coal mining (see Sunstein, 2004). In addition, coal miners may have few options of alternative employers and in some cases only one employer (near-monopsony or monopsony) that may depress wages below those in a more competitive labor market. MSHA developed the estimates in Table III-4 by multiplying the number of adverse health effects in Tables III-2 and III-3 by the monetized value of each adverse health effect. Table III-4: Estimated Value of Adverse Health Effects Prevented 23 Over a 45-Years1 Work Lifetime (Millions of 2009 Dollars) CWP 1+ CWP 2+ PMF Severe Emphysema Deaths from NMRD Total Benefits Based Upon Table III-</context>
+</contexts>
+<marker>Sunstein, 2004</marker>
+<rawString>Sunstein, C. (2004). “Valuing Life: A Plea for Disaggregation”, Duke Law Journal. 54 (November): 385-445.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Economic Analysis (BEA,</title>
+<date>2010</date>
+<marker>Bureau, 2010</marker>
+<rawString>U.S. Bureau of Economic Analysis (BEA, 2010). National Income and Product Accounts Table: Table 1.1.9. Implicit Price Deflators for Gross Domestic Product [Index numbers, 2005=100]. Revised May 27, 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>http www bea govnationalnipawebTableView aspSelectedTable13&amp;FreqQte&amp;Fir stYear2006&amp;LastYear2008 U S</author>
+</authors>
+<title>Department of Energy (DOE,</title>
+<date>2009</date>
+<marker>S, 2009</marker>
+<rawString>http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=13&amp;Freq=Qte&amp;Fir stYear=2006&amp;LastYear=2008 U.S. Department of Energy (DOE, 2009). Energy Information Administration (EIA, 2009). “Annual Coal Report 2009”, Table 28. October.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Department of Labor</author>
+</authors>
+<title>Quantitative Risk Assessment</title>
+<date>2010</date>
+<booktitle>in Support of Proposed Respirable Coal Mine Dust Rule, Jon Kogut, Statistical Methods and Analysis, MSHA Contract DOLJ094R22516,</booktitle>
+<marker>Labor, 2010</marker>
+<rawString>U.S. Department of Labor, Quantitative Risk Assessment in Support of Proposed Respirable Coal Mine Dust Rule, Jon Kogut, Statistical Methods and Analysis, MSHA Contract DOLJ094R22516, September 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W Viscusi</author>
+<author>J Aldy</author>
+</authors>
+<title>The Value of a Statistical Life: A Critical Review of market Estimates Throughout the World”,</title>
+<date>2003</date>
+<journal>Journal of Risk and Uncertainty.</journal>
+<volume>27</volume>
+<pages>5--76</pages>
+<contexts>
+<context position="65260" citStr="Viscusi &amp; Aldy (2003)" startWordPosition="9342" endWordPosition="9345"> the reductions in cases of CWP 1+, CWP 2+, PMF, severe emphysema and deaths from NMRD, MSHA performed an analysis of the imputed value of illnesses and fatalities avoided based on a willingness-to-pay approach. This approach relies on the theory of compensating wage differentials (i.e., the wage 22 premium paid to workers to accept the risk associated with various jobs) in the labor market. A number of studies have shown a correlation between higher job risk and higher wages, suggesting that employees demand monetary compensation in return for incurring a greater risk of illness or fatality. Viscusi &amp; Aldy (2003) conducted an analysis of studies that use a willingness-topay methodology to estimate the imputed value of life-saving programs (i.e., metaanalysis) and found that each fatality avoided was valued at approximately $7 million and each lost work-day injury was approximately $50,000 in 2000 dollars. Using the GDP Deflator (U.S. Bureau of Economic Analysis, 2010), this yields an estimate of $8.7 million for each fatality avoided and $62,000 for each injury avoided in 2009 dollars. MSHA is using the $8.7 million estimate for the value of a death prevented and $62,000 for each case of CWP 1+ or CWP</context>
+</contexts>
+<marker>Viscusi, Aldy, 2003</marker>
+<rawString>Viscusi, W. &amp; Aldy, J. (2003). “The Value of a Statistical Life: A Critical Review of market Estimates Throughout the World”, Journal of Risk and Uncertainty. (27: 5-76).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J C Volkwein</author>
+<author>R P Vinson</author>
+<author>S J Page</author>
+<author>L J McWilliams</author>
+<author>G J Joy</author>
+<author>S E Mischler</author>
+<author>D P Tuchman</author>
+</authors>
+<title>Laboratory and Field Performance of a Continuously Measuring Personal Respirable Dust Monitor.</title>
+<date>2006</date>
+<booktitle>RI9669. Centers for Disease Control (CDC). National Institute for Occupational Safety</booktitle>
+<pages>47</pages>
+<marker>Volkwein, Vinson, Page, McWilliams, Joy, Mischler, Tuchman, 2006</marker>
+<rawString>Volkwein, J.C., Vinson R.P., Page S.J, McWilliams L.J., Joy G.J., Mischler S.E., and Tuchman D.P. (2006). Laboratory and Field Performance of a Continuously Measuring Personal Respirable Dust Monitor. RI9669. Centers for Disease Control (CDC). National Institute for Occupational Safety and Health (NIOSH). September. pp 47.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J C Volkwein</author>
+<author>R P Vinson</author>
+<author>L J McWilliams</author>
+<author>D P Tuchman</author>
+<author>S E Mischler</author>
+</authors>
+<title>Performance of a New Personal Respirable Dust Monitor for Mine Use.</title>
+<date>2004</date>
+<booktitle>RI9663. Centers for Disease Control (CDC). National Institute for Occupational Safety and Health (NIOSH).</booktitle>
+<pages>25</pages>
+<marker>Volkwein, Vinson, McWilliams, Tuchman, Mischler, 2004</marker>
+<rawString>Volkwein, J.C., Vinson R.P., McWilliams L.J., Tuchman D.P., and Mischler S.E. (2004). Performance of a New Personal Respirable Dust Monitor for Mine Use. RI9663. Centers for Disease Control (CDC). National Institute for Occupational Safety and Health (NIOSH). June. pp 25.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

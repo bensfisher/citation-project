@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<title>Simplified Flow Sheet of Clinker and Cement Manufacture........................................ 2-2 2-2. Labor Costs per Metric Ton of Cement</title>
+<date>2005</date>
+<journal>Cement Manufacturing Employment (NAICS</journal>
+<booktitle>Number of Kilns and Clinker Capacity by Age and Process Type .............................</booktitle>
+<volume>327310</volume>
+<pages>2--7</pages>
+<institution>Ultimate Parent Company Summary Data:</institution>
+<note>to</note>
+<marker>2005</marker>
+<rawString>2-1. Simplified Flow Sheet of Clinker and Cement Manufacture........................................ 2-2 2-2. Labor Costs per Metric Ton of Cement ($2005) .......................................................... 2-7 2-3. Distribution of Energy Consumption ............................................................................ 2-8 2-4. End Uses of Cement: 1975 to 2003 .............................................................................. 2-9 2-5. Producer Price Indices for Competitive Building Materials: 2003 to 2008................ 2-10 2-6. Distribution of Cement Kilns in the United States ..................................................... 2-13 2-7. Historical U.S. Cement Price ...................................................................................... 2-23 2-8. Deviation from National Average Cement Price per Metric Ton by Region: 2005............................................................................................................................. 2-24 3-1. Distribution of Annualized Direct Compliance Costs per Metric Ton of Clinker Capacity: Existing Grey and White Cement Kilns (2005$) .......................................... 3-3 3-2. Hypothetical Cost-to-Sales Ratios for a Representative Kiln Coming On Line in 2013............................................................................................................................. 3-12 4-1. SBREFA Screening Analysis Results ........................................................................... 4-3 2-1. Portland Cement Shipped from Plants in the United States to Domestic Customers, by Typea, b .................................................................................................. 2-4 2-2. Raw Material Input Ratios for the U.S. Cement Industry: 2000 to 2005 ..................... 2-5 2-3. Raw Material Costs by Market and State: 2005 ........................................................... 2-6 2-4. Labor Productivity Measures for the U.S. Cement Industry by Process Type: 2000 to 2005 (employee hours per metric ton) ............................................................. 2-6 2-5. Energy Consumption by Type of U.S. Cement Plant (million BTU per metric ton) ................................................................................................................................ 2-8 2-6. Number of Kilns and Clinker Capacity by State: 2005 .............................................. 2-12 2-7. Number of Kilns and Clinker Capacity by Age and Process Type ............................. 2-14 2-8. Clinker Capacity, Production, and Capacity Utilization in the United States: 2000 to 2005 ............................................................................................................... 2-15 2-9. Capacity Utilization Rates by State: 2005 .................................................................. 2-17 2-10. Cement Manufacturing Employment (NAICS 327310): 2000 to 2005 ...................... 2-18 2-11. Ultimate Parent Company Summary Data: 2005 ........................................................ 2-19 2-12. Historical U.S. Cement Statistics (106 metric tons) .................................................... 2-21 2-13. U.S. Cement Trade Data: 2000 to 2007 ...................................................................... 2-22 3-1. Summary of Direct Compliance Costs (106 2005$) ...................................................... 3-2 3-2. Portland Cement Prices by Market ($/metric tons): 2005 ............................................ 3-4 3-3. Portland Cement Markets (106 metric tons): 2005 ....................................................... 3-5 3-4. National-Level Market Impacts: 2005 .......................................................................... 3-7 3-5. Regional Compliance Costs and Market Price Changes ($/metric ton of cement): 2005................................................................................................................ 3-8 3-6. Summary of Regional Market Impacts: 2005 ............................................................... 3-9 3-7. National-Level Industry Impacts: 2005 ...................................................................... 3-10 3-8. Distributional of Industry Impacts: 2005 .................................................................... 3-10 3-9. Cement Plants with Significant Utilization Changes: 2005 ........................................ 3-11 3-10. Distribution of Social Costs ($106): 2005 ................................................................... 3-14 3-11. U.S. Cement Sector Energy Consumption (Trillion BTUs)a: 2013 ............................ 3-15 4-1. Small Entity Summary Data: 2005 ............................................................................... 4-2 4-2. Summary Statistics for Small Business Regulatory Enforcement Fairness Act (SBREFA) Screening Analysis ..................................................................................... 4-4 4-3. Market Analysis—Small Entity Impacts: 2005 ............................................................ 4-4 Sources: Portland Cement Association. December 2005. U.S. and Canadian Labor-Energy Input Survey 2005. Skokie, IL: PCA’s Economic Research Department.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Current Employment Statistics (National): Customizable Data Tables” Available at As obtained on</title>
+<date>2007</date>
+<institution>Department of Labor, Bureau of Labor Statistics (BLS).</institution>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of Labor, Bureau of Labor Statistics (BLS). 2007a. “Current Employment Statistics (National): Customizable Data Tables” Available at &lt;http://www.bls.gov/ces/&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Consumer Price Index All Items – U.S. City Average Data: Customizable Data Tables.” Available at As obtained on</title>
+<date>2008</date>
+<institution>Department of Labor, Bureau of Labor</institution>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Labor, Bureau of Labor Statistics (BLS). 2008. “Consumer Price Index All Items – U.S. City Average Data: Customizable Data Tables.” Available at &lt;http://www.bls.gov/cpi/&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Source Portland</author>
+</authors>
+<title>Cement Association.</title>
+<date>2005</date>
+<booktitle>U.S. and Canadian Labor-Energy Input Survey 2005. Skokie, IL: PCA’s Economic Research Department.</booktitle>
+<marker>Portland, 2005</marker>
+<rawString>Source: Portland Cement Association. December 2005. U.S. and Canadian Labor-Energy Input Survey 2005. Skokie, IL: PCA’s Economic Research Department.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Source Portland</author>
+</authors>
+<title>Cement Association. 2008b. “Market Research: Producer Price Indices—Competitive Building Materials.” Available at</title>
+<marker>Portland, </marker>
+<rawString>Source: Portland Cement Association. 2008b. “Market Research: Producer Price Indices—Competitive Building Materials.” Available at &lt;http://www.cement.org/market/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Source Portland</author>
+</authors>
+<title>Cement Association (PCA).</title>
+<date>2004</date>
+<institution>Portland Cement Association Economic Research Department.</institution>
+<location>Skokie, IL:</location>
+<marker>Portland, 2004</marker>
+<rawString>Source: Portland Cement Association (PCA). December 2004. U.S. and Canadian Portland Cement Industry: Plant Information Summary. Skokie, IL: Portland Cement Association Economic Research Department.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Sources</author>
+</authors>
+<title>Department of Commerce, Bureau of the Census.</title>
+<date>2006</date>
+<marker>Sources, 2006</marker>
+<rawString>Sources: U.S. Department of Commerce, Bureau of the Census. 2006. 2005 Annual Survey of Manufactures.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M05-1 Washington</author>
+</authors>
+<title>DC: Government Printing Office. Available at As obtained on</title>
+<date>2008</date>
+<marker>Washington, 2008</marker>
+<rawString>M05(AS)-1. Washington, DC: Government Printing Office. Available at &lt;http://www.census.gov/prod/2003pubs/m01as-1.pdf&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>the Census.</title>
+<date>2003</date>
+<institution>Department of Commerce, Bureau of</institution>
+<marker>S, 2003</marker>
+<rawString>U.S. Department of Commerce, Bureau of the Census. 2003. 2001 Annual Survey of Manufactures.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M05-1 Washington</author>
+</authors>
+<title>DC: Government Printing Office. Available at As obtained on</title>
+<date>2008</date>
+<marker>Washington, 2008</marker>
+<rawString>M05(AS)-1. Washington, DC: Government Printing Office. Available at &lt;http://www.census.gov/prod/2003pubs/m01as-1.pdf&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Distribution of Small</author>
+<author>Large Companies Broda</author>
+<author>N Limao C</author>
+<author>D Weinstein 2009</author>
+</authors>
+<title>Optimal Tariffs and Market Power: The Evidence.” American Economic Review 98(5):2032-2065.</title>
+<marker>Small, Broda, C, 2009, </marker>
+<rawString>2.3.3.1 Distribution of Small and Large Companies Broda, C., N. Limao, and D. Weinstein.2009. “Optimal Tariffs and Market Power: The Evidence.” American Economic Review 98(5):2032-2065.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M J Daniels</author>
+<author>F Dominici</author>
+<author>J M Samet</author>
+<author>S L Zeger</author>
+</authors>
+<title>Estimating Particulate MatterMortality Dose-Response Curves and Threshold Levels: An Analysis of Daily TimeSeries for the 20 Largest</title>
+<date>2000</date>
+<journal>US Cities.” American Journal of Epidemiology</journal>
+<pages>152--5</pages>
+<marker>Daniels, Dominici, Samet, Zeger, 2000</marker>
+<rawString>Daniels, M.J., F. Dominici, J.M. Samet, and S.L. Zeger. 2000. “Estimating Particulate MatterMortality Dose-Response Curves and Threshold Levels: An Analysis of Daily TimeSeries for the 20 Largest US Cities.” American Journal of Epidemiology 152(5):397-406.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S Das</author>
+</authors>
+<title>A Micro-Econometric Model of Capital Utilization and Retirement: The Case of the U.S.</title>
+<date>1992</date>
+<journal>Cement Industry.” Review of Economic Studies</journal>
+<pages>59--2</pages>
+<marker>Das, 1992</marker>
+<rawString>Das, S. 1992. “A Micro-Econometric Model of Capital Utilization and Retirement: The Case of the U.S. Cement Industry.” Review of Economic Studies 59(2):277-297.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Dun</author>
+<author>Inc Bradstreet</author>
+</authors>
+<title>D&amp;B Million Dollar Directory.</title>
+<date>2007</date>
+<publisher>Dun &amp; Bradstreet, Inc.</publisher>
+<location>Bethlehem, PA:</location>
+<marker>Dun, Bradstreet, 2007</marker>
+<rawString>Dun &amp; Bradstreet, Inc. 2007. D&amp;B Million Dollar Directory. Bethlehem, PA: Dun &amp; Bradstreet, Inc.</rawString>
+</citation>
+<citation valid="true">
+<title>Expanded Expert Judgment Assessment of the ConcentrationResponse Relationship Between</title>
+<date>2006</date>
+<booktitle>PM2.5 Exposure and Mortality. Prepared for the U.S. EPA, Office of Air Quality Planning and Standards, September. Available on the Internet at</booktitle>
+<institution>Industrial Economics, Inc.</institution>
+<marker>2006</marker>
+<rawString>Industrial Economics, Inc. 2006. Expanded Expert Judgment Assessment of the ConcentrationResponse Relationship Between PM2.5 Exposure and Mortality. Prepared for the U.S. EPA, Office of Air Quality Planning and Standards, September. Available on the Internet at &lt;http://www.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_report.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>I Jans</author>
+<author>D I Rosenbaum</author>
+</authors>
+<title>Multimarket Contact and Pricing: Evidence from the U.S.</title>
+<date>1997</date>
+<journal>Cement Industry.” International Journal of Industrial Organization</journal>
+<pages>15--391</pages>
+<marker>Jans, Rosenbaum, 1997</marker>
+<rawString>Jans, I. and D. I. Rosenbaum. 1997. “Multimarket Contact and Pricing: Evidence from the U.S. Cement Industry.” International Journal of Industrial Organization 15:391-412.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Kelly</author>
+<author>G Matos</author>
+</authors>
+<title>Historical Statistics for Mineral and Material Commodities in the United States: Cement End Use Statistics.” U.S. Geological Survey Data Series 140, Version 1.2. Available at</title>
+<date>2007</date>
+<marker>Kelly, Matos, 2007</marker>
+<rawString>Kelly, T. and G. Matos. 2007a. “Historical Statistics for Mineral and Material Commodities in the United States: Cement End Use Statistics.” U.S. Geological Survey Data Series 140, Version 1.2. Available at &lt;http://minerals.usgs.gov/ds/2005/140/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Kelly</author>
+<author>G Matos</author>
+</authors>
+<title>Historical Statistics for Mineral and Material Commodities in the United States: Cement Supply and</title>
+<date>2007</date>
+<booktitle>Demand Statistics.” U.S. Geological Survey Data Series 140, Version 1.2. Available at Last modified</booktitle>
+<marker>Kelly, Matos, 2007</marker>
+<rawString>Kelly, T. and G. Matos. 2007b. “Historical Statistics for Mineral and Material Commodities in the United States: Cement Supply and Demand Statistics.” U.S. Geological Survey Data Series 140, Version 1.2. Available at &lt;http://minerals.usgs.gov/ds/2005/140/&gt;. Last modified April 11, 2006.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>D Krewski</author>
+<author>R T Burnett</author>
+<author>M S Goldbert</author>
+<author>K Hoover</author>
+<author>J Siemiatycki</author>
+<author>M Jerrett</author>
+<author>M Abrahamowicz</author>
+<author>W H White</author>
+</authors>
+<title>Reanalysis of the Harvard Six Cities Study and the American Cancer Society Study of Particulate Air Pollution and Mortality. Special Report to the Health Effects Institute.</title>
+<date>2000</date>
+<location>Cambridge MA.</location>
+<marker>Krewski, Burnett, Goldbert, Hoover, Siemiatycki, Jerrett, Abrahamowicz, White, 2000</marker>
+<rawString>Krewski, D., R.T. Burnett, M.S. Goldbert, K. Hoover, J. Siemiatycki, M. Jerrett, M. Abrahamowicz, and W.H. White. 2000. Reanalysis of the Harvard Six Cities Study and the American Cancer Society Study of Particulate Air Pollution and Mortality. Special Report to the Health Effects Institute. Cambridge MA. July.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>F Laden</author>
+<author>J Schwartz</author>
+<author>F E Speizer</author>
+<author>D W Dockery</author>
+</authors>
+<title>Reduction in Fine Particulate Air Pollution and Mortality.”</title>
+<date>2006</date>
+<journal>American Journal of Respiratory and Critical Care Medicine</journal>
+<location>Dayton, OH: LexisNexis.</location>
+<marker>Laden, Schwartz, Speizer, Dockery, 2006</marker>
+<rawString>Laden, F., J. Schwartz, F.E. Speizer, and D.W. Dockery. 2006. “Reduction in Fine Particulate Air Pollution and Mortality.” American Journal of Respiratory and Critical Care Medicine 173:667-672. LexisNexis. LexisNexis Academic [electronic resource]. Dayton, OH: LexisNexis.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>National Research Council</author>
+</authors>
+<title>Estimating the Public Health Benefits of Proposed Air Pollution Regulations.</title>
+<date>2002</date>
+<publisher>The National Academies Press.</publisher>
+<location>Washington, DC:</location>
+<marker>Council, 2002</marker>
+<rawString>National Research Council (NRC). 2002. Estimating the Public Health Benefits of Proposed Air Pollution Regulations. Washington, DC: The National Academies Press.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C Newmark</author>
+</authors>
+<title>Price and Seller Concentration in Cement: Effective Oligopoly or</title>
+<date>1998</date>
+<journal>Misspecified Transportation Costs.” Economics Letters</journal>
+<pages>60--243</pages>
+<marker>Newmark, 1998</marker>
+<rawString>Newmark, C. 1998. “Price and Seller Concentration in Cement: Effective Oligopoly or Misspecified Transportation Costs.” Economics Letters 60:243-250.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Budget</author>
+</authors>
+<title>Circular A-4: Regulatory Analysis.</title>
+<date>2003</date>
+<institution>Office of Management</institution>
+<location>Washington, DC.</location>
+<note>Available on the internet at http://www.whitehouse.gov/omb/circulars/a004/a-4.html.</note>
+<marker>Budget, 2003</marker>
+<rawString>Office of Management and Budget (OMB). 2003. Circular A-4: Regulatory Analysis. Washington, DC. Available on the internet at http://www.whitehouse.gov/omb/circulars/a004/a-4.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C A Pope</author>
+</authors>
+<title>Invited Commentary: Particulate Matter-Mortality Exposure-Response Relations and Thresholds.”</title>
+<date>2000</date>
+<journal>American Journal of Epidemiology</journal>
+<pages>152--407</pages>
+<marker>Pope, 2000</marker>
+<rawString>Pope, C.A. 2000. “Invited Commentary: Particulate Matter-Mortality Exposure-Response Relations and Thresholds.” American Journal of Epidemiology 152:407-412.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C A Pope</author>
+<author>R T Burnett</author>
+<author>M J Thun</author>
+<author>E E Calle</author>
+<author>D Krewski</author>
+<author>K Ito</author>
+<author>G D Thurston</author>
+</authors>
+<title>Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.”</title>
+<date>2002</date>
+<journal>Journal of the American Medical Association</journal>
+<pages>287--1132</pages>
+<marker>Pope, Burnett, Thun, Calle, Krewski, Ito, Thurston, 2002</marker>
+<rawString>Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D. Krewski, K. Ito, and G.D. Thurston. 2002. “Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.” Journal of the American Medical Association 287:1132-1141.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Portland Cement Association</author>
+</authors>
+<title>U.S. and Canadian Portland Cement Industry: Plant Information Summary.</title>
+<date>2004</date>
+<institution>Portland Cement Association Economic Research Department.</institution>
+<location>Skokie, IL:</location>
+<marker>Association, 2004</marker>
+<rawString>Portland Cement Association (PCA). December 2004. U.S. and Canadian Portland Cement Industry: Plant Information Summary. Skokie, IL: Portland Cement Association Economic Research Department.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Portland Cement Association</author>
+</authors>
+<title>U.S. and Canadian Labor-Energy Input Survey</title>
+<date>2005</date>
+<institution>Portland Cement Association Economic Research Department.</institution>
+<location>Skokie, IL:</location>
+<marker>Association, 2005</marker>
+<rawString>Portland Cement Association (PCA). December 2005. U.S. and Canadian Labor-Energy Input Survey 2005. Skokie, IL: Portland Cement Association Economic Research Department.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Portland Cement Association</author>
+</authors>
+<title>Flash Report: Capacity Expansion Update.” Available at &lt; http://www.cement.org/econ/pdf/NONMEMBERCapacity Expansion.pdf&gt;. As obtained on</title>
+<date>2007</date>
+<marker>Association, 2007</marker>
+<rawString>Portland Cement Association (PCA). September 28, 2007. “Flash Report: Capacity Expansion Update.” Available at &lt; http://www.cement.org/econ/pdf/NONMEMBERCapacity Expansion.pdf&gt;. As obtained on March 31, 2008.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Association (PCA). 2008a. “Cement and Concrete Basics: History &amp; Manufacture of Portland Cement.” Available at concretebasics_history.asp&gt;.</booktitle>
+<institution>Portland Cement</institution>
+<marker></marker>
+<rawString>Portland Cement Association (PCA). 2008a. “Cement and Concrete Basics: History &amp; Manufacture of Portland Cement.” Available at &lt;http://www.cement.org/basics/ concretebasics_history.asp&gt;.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Association (PCA). 2008b. “Market Research: Producer Price Indices— Competitive Building Materials.” Available at</booktitle>
+<institution>Portland Cement</institution>
+<marker></marker>
+<rawString>Portland Cement Association (PCA). 2008b. “Market Research: Producer Price Indices— Competitive Building Materials.” Available at &lt;http://www.cement.org/market/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<title>Association (PCA).</title>
+<date>2008</date>
+<journal>North American Cement Industry Annual Yearbook.” Available at</journal>
+<institution>Portland Cement</institution>
+<marker>2008</marker>
+<rawString>Portland Cement Association (PCA). 2008c. “2007 North American Cement Industry Annual Yearbook.” Available at &lt;http://testinter.cement.org/bookstore/profile.asp?printpage=true&amp;store=&amp;id=15743&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Rock Products</author>
+</authors>
+<title>Cement Plant Operating Cost Study.”</title>
+<date>1994</date>
+<pages>19</pages>
+<publisher>Intertec Publishing.</publisher>
+<location>Overland Park, KS:</location>
+<marker>Products, 1994</marker>
+<rawString>Rock Products. 1994. “Cement Plant Operating Cost Study.” Overland Park, KS: Intertec Publishing. p. 19.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Henry A Roman</author>
+<author>Katherine D Walker</author>
+<author>Tyra L Walsh</author>
+<author>Lisa Conner</author>
+<author>Harvey M Richmond</author>
+<author>Bryan J Hubbell</author>
+<author>Patrick L Kinney</author>
+</authors>
+<date>2008</date>
+<booktitle>Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci.</booktitle>
+<marker>Roman, Walker, Walsh, Conner, Richmond, Hubbell, Kinney, 2008</marker>
+<rawString>Roman, Henry A., Katherine D. Walker, Tyra L. Walsh, Lisa Conner, Harvey M. Richmond, Bryan J. Hubbell, and Patrick L. Kinney. 2008. Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Technol</author>
+</authors>
+<pages>42--7</pages>
+<marker>Technol, </marker>
+<rawString>Technol., 42(7):2268-2274.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>G Rossi</author>
+<author>M A Vigotti</author>
+<author>A Zanobetti</author>
+<author>F Repetto</author>
+<author>V Gianelle</author>
+<author>J Schwartz</author>
+</authors>
+<date>1999</date>
+<booktitle>Air Pollution and Cause-Specific Mortality in Milan, Italy, 1980–1989.” Arch Environ Health</booktitle>
+<pages>54--3</pages>
+<marker>Rossi, Vigotti, Zanobetti, Repetto, Gianelle, Schwartz, 1999</marker>
+<rawString>Rossi, G., M.A. Vigotti, A. Zanobetti, F. Repetto, V. Gianelle, and J. Schwartz. 1999. “Air Pollution and Cause-Specific Mortality in Milan, Italy, 1980–1989.” Arch Environ Health 54(3):158-164.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S Ryan</author>
+</authors>
+<title>The Cost of Environmental Regulation in a Concentrated Industry.” Available at</title>
+<date>2006</date>
+<marker>Ryan, 2006</marker>
+<rawString>Ryan, S. 2006. “The Cost of Environmental Regulation in a Concentrated Industry.” Available at &lt;http://econ-www.mit.edu/files/1166&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Schwartz</author>
+<author>F Laden</author>
+<author>A Zanobetti</author>
+</authors>
+<date>2002</date>
+<booktitle>The Concentration-Response Relation between PM(2.5) and Daily Deaths.” Environ Health Perspectives</booktitle>
+<pages>110--10</pages>
+<marker>Schwartz, Laden, Zanobetti, 2002</marker>
+<rawString>Schwartz, J., F. Laden, and A. Zanobetti. 2002. “The Concentration-Response Relation between PM(2.5) and Daily Deaths.” Environ Health Perspectives 110(10):1025-1029.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Schwartz</author>
+<author>B Coull</author>
+<author>F Laden</author>
+</authors>
+<date>2008</date>
+<booktitle>The Effect of Dose and Timing of Dose on the Association between Airborne Particles and Survival.” Environmental Health Perspectives</booktitle>
+<pages>116--64</pages>
+<marker>Schwartz, Coull, Laden, 2008</marker>
+<rawString>Schwartz, J., B. Coull, and F. Laden. 2008. “The Effect of Dose and Timing of Dose on the Association between Airborne Particles and Survival.” Environmental Health Perspectives 116:64-69.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Schwartz</author>
+<author>A Zanobetti</author>
+</authors>
+<title>Using Meta-Smoothing to Estimate Dose-Response Trends Across Multiple Studies, with Application to Air Pollution and Daily Death.”</title>
+<date>2000</date>
+<journal>Epidemiology</journal>
+<pages>11--666</pages>
+<marker>Schwartz, Zanobetti, 2000</marker>
+<rawString>Schwartz, J., and A. Zanobetti. 2000. “Using Meta-Smoothing to Estimate Dose-Response Trends Across Multiple Studies, with Application to Air Pollution and Daily Death.” Epidemiology 11:666-672.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A Smith</author>
+<author>T Kim</author>
+<author>M Fuentes</author>
+<author>D Spitzner</author>
+</authors>
+<title>Threshold Dependence of Mortality Effects for Fine and Coarse Particles in Phoenix,</title>
+<date>2000</date>
+<journal>Arizona. Journal of the Air and Waste Management Association</journal>
+<pages>5--1367</pages>
+<marker>Smith, Kim, Fuentes, Spitzner, 2000</marker>
+<rawString>Smith, A., T. Kim, M. Fuentes, and D. Spitzner. 2000. Threshold Dependence of Mortality Effects for Fine and Coarse Particles in Phoenix, Arizona. Journal of the Air and Waste Management Association 5:1367-1379.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>of the Census.</title>
+<date>2003</date>
+<booktitle>Annual Survey of Manufactures. M05(AS)-1.</booktitle>
+<institution>Department of Commerce, Bureau</institution>
+<location>Washington, DC:</location>
+<marker>S, 2003</marker>
+<rawString>U.S. Department of Commerce, Bureau of the Census. 2003. 2001 Annual Survey of Manufactures. M05(AS)-1. Washington, DC: Government Printing Office. Available at &lt;http://www.census.gov/prod/2003pubs/m01as-1.pdf&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>of the Census.</title>
+<date>2006</date>
+<booktitle>Annual Survey of Manufactures. M05(AS)-1.</booktitle>
+<institution>Department of Commerce, Bureau</institution>
+<location>Washington, DC:</location>
+<marker>S, 2006</marker>
+<rawString>U.S. Department of Commerce, Bureau of the Census. 2006. 2005 Annual Survey of Manufactures. M05(AS)-1. Washington, DC: Government Printing Office. Available at &lt;http://www.census.gov/prod/2003pubs/m01as-1.pdf&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>of the Census; generated by RTI International; using American FactFinder; “Sector 31: Annual Survey of Manufactures: General Statistics: Statistics for Industry Groups and Industries:</title>
+<date>2006</date>
+<institution>Department of Commerce, Bureau</institution>
+<location>and</location>
+<marker>S, 2006</marker>
+<rawString>U.S. Department of Commerce, Bureau of the Census; generated by RTI International; using American FactFinder; “Sector 31: Annual Survey of Manufactures: General Statistics: Statistics for Industry Groups and Industries: 2006 and 2005.” &lt;http://factfinder.census.gov&gt;; (April 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Commerce, Bureau of Economic Analysis.</title>
+<date>2007</date>
+<booktitle>Current-Dollar and “Real” Gross Domestic Product. Available at</booktitle>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of Commerce, Bureau of Economic Analysis. 2007. Current-Dollar and “Real” Gross Domestic Product. Available at &lt;http://www.bea.gov/national/xls/gdplev.xls&gt;.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Information Administration.</title>
+<booktitle>2006a. Electric Power Annual 2005. Figure 7-7.</booktitle>
+<location>Washington, DC:</location>
+<marker>S, </marker>
+<rawString>U.S. Department of Energy, Energy Information Administration. 2006a. Electric Power Annual 2005. Figure 7-7. Washington, DC: U.S. Energy Information Administration.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Information Administration.</title>
+<booktitle>2006b. State Energy Consumption, Price, and Expenditure Estimates (SEDS): Technical Notes Prices and Expenditures Section 4.</booktitle>
+<location>Washington, DC:</location>
+<marker>S, </marker>
+<rawString>U.S. Department of Energy, Energy Information Administration. 2006b. State Energy Consumption, Price, and Expenditure Estimates (SEDS): Technical Notes Prices and Expenditures Section 4. Washington, DC: U.S. Energy Information Administration. Available at &lt;http://www.eia.doe.gov/emeu/states/sep_prices/notes/pr_petrol.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Information Administration.</title>
+<date>2007</date>
+<booktitle>Annual Energy Outlook</booktitle>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of Energy, Energy Information Administration. 2007. Annual Energy Outlook 2007. Supplemental Washington, DC: U.S. Energy Information Administration.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Information Administration.</title>
+<date>2008</date>
+<booktitle>Annual Energy Outlook</booktitle>
+<location>Washington, DC:</location>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Energy, Energy Information Administration. 2008. Annual Energy Outlook 2009. Washington, DC: U.S. Energy Information Administration.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2000</date>
+<institution>U.S. Department of</institution>
+<location>Cement. . Washington, DC:</location>
+<marker>S, 2000</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2000. Minerals Yearbook, Cement. . Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.usgs.gov/minerals/pubs/commodity/cement/&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2001</date>
+<institution>U.S. Department of</institution>
+<location>Minerals Yearbook, Cement. Washington, DC:</location>
+<marker>S, 2001</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2001. 2000 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Available at ,&lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2002</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Minerals Yearbook, Cement. Washington, DC:</location>
+<marker>S, 2002</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2002. 2001 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2003</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Minerals Yearbook, Cement. Washington, DC:</location>
+<marker>S, 2003</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2003. 2002 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2004</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Minerals Yearbook, Cement. Washington, DC:</location>
+<marker>S, 2004</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2004. 2003 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2005</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Minerals Yearbook, Cement. Washington, DC:</location>
+<marker>S, 2005</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2005. 2004 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2007</date>
+<journal>Department of the Interior. Tables</journal>
+<volume>11</volume>
+<pages>http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/.</pages>
+<location>Minerals Yearbook, Cement. Washington, DC: U.S.</location>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2007a. 2005 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Tables 11 and 15. http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2007</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Crushed Stone. Washington, DC:</location>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2007b. 2005 Minerals Yearbook, Crushed Stone. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey.</title>
+<date>2008</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Minerals Yearbook, Cement. Washington, DC:</location>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2008a. 2006 Minerals Yearbook, Cement. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.er.usgs.gov/minerals/pubs/commodity/cement/&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of the Interior, U.S. Geological Survey. 2008b. Minerals Commodity Summaries, Cement</title>
+<date>2008</date>
+<booktitle>U.S. Department of the Interior. Available at</booktitle>
+<location>Washington, DC:</location>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of the Interior, U.S. Geological Survey. 2008b. Minerals Commodity Summaries, Cement 2008. Washington, DC: U.S. Department of the Interior. Available at &lt;http://minerals.usgs.gov/minerals/pubs/commodity/cement/mcs-2008-cemen.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Current Employment Statistics (National): Customizable Data Tables.” Available at As obtained on</title>
+<date>2007</date>
+<institution>Department of Labor, Bureau of Labor Statistics (BLS).</institution>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of Labor, Bureau of Labor Statistics (BLS). 2007a. “Current Employment Statistics (National): Customizable Data Tables.” Available at &lt;http://www.bls.gov/ces/&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<date>2005</date>
+<booktitle>Statistics (BLS). 2007b. “State and Area Employment, Hours and Earnings</booktitle>
+<institution>Department of Labor, Bureau of Labor</institution>
+<location>Washington, DC:</location>
+<marker>S, 2005</marker>
+<rawString>U.S. Department of Labor, Bureau of Labor Statistics (BLS). 2007b. “State and Area Employment, Hours and Earnings 2005.” Washington, DC: U.S. Department of Labor.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Consumer Price Index All Items – U.S. City Average Data: Customizable Data Tables.” Available at As obtained on</title>
+<date>2008</date>
+<institution>Department of Labor, Bureau of Labor</institution>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Labor, Bureau of Labor Statistics (BLS). 2008. “Consumer Price Index All Items – U.S. City Average Data: Customizable Data Tables.” Available at &lt;http://www.bls.gov/cpi/&gt;. As obtained on March 14, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Regulatory Impact Analysis of Cement Kiln Dust Rulemaking. Appendix C,</title>
+<date>1998</date>
+<pages>12</pages>
+<location>Washington, DC:</location>
+<marker>Agency, 1998</marker>
+<rawString>U.S. Environmental Protection Agency. June 1998. Regulatory Impact Analysis of Cement Kiln Dust Rulemaking. Appendix C, p. 12. Washington, DC: U.S. Environmental Protection Agency. Available at &lt;http://www.epa.gov/epaoswer/other/ckd/ckd/ckdriafn.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>1999</date>
+<marker>S, 1999</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 1999. Economic Analysis of Air Pollution Regulations: Portland Cement, Final Report: 4–8 and 4–10. Available at &lt;http://yosemite.epa.gov/ee/epa/ria.nsf/vwRef/A.99.17+A?OpenDocument&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2000</date>
+<journal>EPA</journal>
+<pages>240--00</pages>
+<location>Washington, DC:</location>
+<note>EPA. Available at</note>
+<marker>S, 2000</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). September 2000. Guidelines for Preparing Economic Analyses. EPA 240-R-00-003. Washington, DC: EPA. Available at &lt;http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/Guidelines.html&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2004</date>
+<marker>S, 2004</marker>
+<rawString>U.S. Environmental Protection Agency. 2004. Final Regulatory Analysis: Control of Emissions from Nonroad Diesel Engines. EPA420-R-04-007. Prepared by Office of Air and Radiation. Available at &lt;http://www.epa.gov/nonroad-diesel/2004fr/420r04007.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2005</date>
+<booktitle>EPA). 2008c. Technical Support Document: Calculating Benefit Per-Ton estimates, Ozone NAAQS Docket</booktitle>
+<pages>2007--0225</pages>
+<note>Available at</note>
+<marker>S, 2005</marker>
+<rawString>U.S. Environmental Protection Agency. 2005. Regulatory Impact Analysis for the Clean Air U.S. Environmental Protection Agency (U.S. EPA). 2008c. Technical Support Document: Calculating Benefit Per-Ton estimates, Ozone NAAQS Docket #EPA-HQ-OAR-2007-0225-0284. Available at &lt;http://www.regulations.gov&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency, Office of Air Quality Planning and Standards.</title>
+<date>1999</date>
+<journal>OAQPS Economic Analysis Resource Document. Available at</journal>
+<marker>S, 1999</marker>
+<rawString>U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards. 1999a. OAQPS Economic Analysis Resource Document. Available at &lt;http://www.epa.gov/ttn/ecas/analguid.html&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency Science Advisory</title>
+<date>1999</date>
+<booktitle>Section 812 Prospective Study of Costs and Benefits (1999): Advisory by the Health and Ecological Effects Subcommittee on Initial Assessments of Health and Ecological Effects; Part</booktitle>
+<volume>1</volume>
+<pages>99--012</pages>
+<marker>S, 1999</marker>
+<rawString>U.S. Environmental Protection Agency Science Advisory Board (U.S. EPA-SAB). 1999b. The Clean Air Act Amendments (CAAA) Section 812 Prospective Study of Costs and Benefits (1999): Advisory by the Health and Ecological Effects Subcommittee on Initial Assessments of Health and Ecological Effects; Part 1. EPA-COUNCIL-ADV-99-012. July.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency Science Advisory</title>
+<date>2004</date>
+<location>Board (U.S. EPA-SAB).</location>
+<marker>S, 2004</marker>
+<rawString>U.S. Environmental Protection Agency Science Advisory Board (U.S. EPA-SAB). 2004.</rawString>
+</citation>
+<citation valid="true">
+<title>Advisory on Plans for Health Effects Analysis for EPA’s Second Prospective Analysis— Benefits and Costs of the Clean Air Act,</title>
+<date>1990</date>
+<pages>04--002</pages>
+<marker>1990</marker>
+<rawString>Advisory on Plans for Health Effects Analysis for EPA’s Second Prospective Analysis— Benefits and Costs of the Clean Air Act, 1990—2020. EPA-SAB-COUNCIL-04-002. March.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency Science Advisory</title>
+<date>2005</date>
+<booktitle>EPA’s Review of the National Ambient Air Quality Standards for Particulate Matter (Second Draft PM Staff Paper,</booktitle>
+<pages>05--007</pages>
+<marker>S, 2005</marker>
+<rawString>U.S. Environmental Protection Agency Science Advisory Board (U.S. EPA-SAB). 2005. EPA’s Review of the National Ambient Air Quality Standards for Particulate Matter (Second Draft PM Staff Paper, January 2005). EPA-SAB-CASAC-05-007. June.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency Science Advisory</title>
+<date>2008</date>
+<pages>08--002</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency Science Advisory Board (U.S. EPA-SAB). 2008. Characterizing Uncertainty in Particulate Matter Benefits Using Expert Elicitation. EPA-COUNCIL-08-002. July.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<booktitle>International Trade Commission (USITC). 2006. Gray Portland Cement and Cement Clinker from Japan Investigation No. 731-TA-461 (Second Review). Publication 3856. Available at</booktitle>
+<marker>S, </marker>
+<rawString>U.S. International Trade Commission (USITC). 2006. Gray Portland Cement and Cement Clinker from Japan Investigation No. 731-TA-461 (Second Review). Publication 3856. Available at &lt;http://hotdocs.usitc.gov/docs/pubs/701_731/pub3856.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S International</author>
+</authors>
+<title>Trade Commission.</title>
+<date>2007</date>
+<booktitle>USITC Interactive Tariff and Trade DataWeb. Available at HTS codes:</booktitle>
+<pages>271311--271312</pages>
+<marker>International, 2007</marker>
+<rawString>U.S. International Trade Commission. 2007. USITC Interactive Tariff and Trade DataWeb. Available at &lt;http://dataweb.usitc.gov/scripts/user_set.asp&gt;. HTS codes: 271311 and 271312.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>H G Van Oss</author>
+<author>A C Padovani</author>
+</authors>
+<title>Cement Manufacture and the Environment Part I: Chemistry and</title>
+<date>2002</date>
+<journal>Technology.” Journal of Industrial Ecology</journal>
+<pages>6--1</pages>
+<marker>Van Oss, Padovani, 2002</marker>
+<rawString>Van Oss, H.G., and A.C. Padovani. 2002. “Cement Manufacture and the Environment Part I: Chemistry and Technology.” Journal of Industrial Ecology 6(1):89-105.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>H Varian</author>
+</authors>
+<title>Microeconomic Analysis. 3rd Ed.</title>
+<date>1992</date>
+<journal>NM 45 C Dry-X</journal>
+<booktitle>MO401 St. Louis Holcim (U.S.) Inc. Clarksville Plant Clarksville MO 38 C Wet 1,241 $41 $38 MO201 St. Louis Buzzi Unicem USA, Inc. Festus Plant Festus MO 40 K Dry 592 $44 $40 MO202 St. Louis Buzzi Unicem USA, Inc. Festus Plant Festus MO 36 K Dry 592 $44 $40 IL401 St. Louis Lafarge North America Joppa Plant Grand Chain IL 42 K Dry 443 $53 $48 IL402 St. Louis Lafarge North America Joppa Plant Grand Chain IL 30 K Dry 612 $42 $38 MO301 St. Louis Continental Cement Co., Inc. Hannibal Plant Hannibal MO 39</booktitle>
+<volume>216</volume>
+<pages>41</pages>
+<institution>Buzzi Unicem USA, Inc. Maryneal Plant Sweetwater</institution>
+<location>New York:</location>
+<marker>Varian, 1992</marker>
+<rawString>Varian, H. 1992. Microeconomic Analysis. 3rd Ed. New York: W.W. Norton &amp; Company. Tijeras Plant Tijeras NM 45 C Dry-X 216 $48 $43 PA401 Pittsburgh Essroc Cement Corp. Bessemer Plant Bessemer PA 44 C Wet 225 $54 $49 PA402 Pittsburgh Essroc Cement Corp. Bessemer Plant Bessemer PA 41 C Wet 339 $54 $49 PA101 Pittsburgh Armstrong Cement &amp; Sup. Corp. Cabot Plant Cabot PA 79 C Wet 143 $57 $52 PA102 Pittsburgh Armstrong Cement &amp; Sup. Corp. Cabot Plant Cabot PA 79 C Wet 143 $57 $52 PA301 Pittsburgh Cemex Wampum Plant Wampum PA 47 C Dry 215 $57 $51 PA302 Pittsburgh Cemex Wampum Plant Wampum PA 47 C Dry 205 $57 $51 PA303 Pittsburgh Cemex Wampum Plant Wampum PA 47 C Dry 238 $57 $51 TX301 San Antonio Buzzi Unicem USA, Inc. Maryneal Plant Sweetwater TX 34 C Dry-X 153 $52 $47 TX302 San Antonio Buzzi Unicem USA, Inc. Maryneal Plant Sweetwater TX 34 C Dry-X 153 $52 $47 TX303 San Antonio Buzzi Unicem USA, Inc. Maryneal Plant Sweetwater TX 34 C Dry-X 162 $52 $47 Seattle Plant Seattle WA 38 K Wet 425 $51 $46 MO101 St. Louis Buzzi Unicem USA, Inc. Cape Girardeau Plant Cape Girardeau MO 24 C Dry-C 1,265 $38 $34 MO401 St. Louis Holcim (U.S.) Inc. Clarksville Plant Clarksville MO 38 C Wet 1,241 $41 $38 MO201 St. Louis Buzzi Unicem USA, Inc. Festus Plant Festus MO 40 K Dry 592 $44 $40 MO202 St. Louis Buzzi Unicem USA, Inc. Festus Plant Festus MO 36 K Dry 592 $44 $40 IL401 St. Louis Lafarge North America Joppa Plant Grand Chain IL 42 K Dry 443 $53 $48 IL402 St. Louis Lafarge North America Joppa Plant Grand Chain IL 30 K Dry 612 $42 $38 MO301 St. Louis Continental Cement Co., Inc. Hannibal Plant Hannibal MO 39 C Wet 549 $45 $41</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

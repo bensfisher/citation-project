@@ -1,0 +1,3632 @@
+  Recurring Year Employee Population Estimates 
+ 
+In order to estimate the number of employees that will need to be vetted in the recurring 
+years, several assumptions were made.  Below is the step-by step process used to 
+estimate the number of recurring year contract employees that will be vetted though E-
+Verify.  
+ 
+The initial year of the period of analysis is FY 2009; therefore the first “recurring year” 
+is FY 2010.  In this section, we estimate the number of employees vetted through E-
+Verify due to this rulemaking for FY 2010 through FY 2018.  Consistent with the 
+previous section, “Initial Year Employee Population Estimates,” we calculate the 
+number of employees expected to be vetted through E-Verify based on FY 2007 data 
+and then estimate the number of employees vetted through E-Verify in FY 2008, since 
+FY 2008 is the first “recurring year” after FY 2007.  After we estimate the number of 
+employees vetted in FY 2008, we make adjustments to the FY 2008 estimate based on 
+anticipated future contract growth to arrive at the FY 2010 employee population 
+estimate.   
+ 
+Recall that as discussed in the “Recurring Year Company Population Estimate” section 
+of this document, after the initial year, we assumed that 80% of the covered contracts 
+each year would be performed by contractors and/or subcontractors that worked on 
+contracting transactions within the scope of the accompanying rule in the previous year 
+and consequently were already required by this rule to be enrolled in E-Verify.  For the 
+subsequent years, we estimated 20% of the contractors will be newly required to enroll 
+into the E-Verify program. 
+ 
+Similarly, we estimate that 80% of the employees will work for contractors who are 
+already enrolled in the E-Verify program and will continue to work on new or ongoing 
+contracts. The remaining 20% of employees would be required to be vetted through the 
+E-Verify program as they are performing work for a newly covered contractor.   For 
+example, in FY 2008, there would be 324,017 employees (1,620,08511 * 20% = 324,017) 
+directly assigned to the contract and required to be vetted by E-Verify because their 
+employer is newly required to enroll in E-Verify.  We previously estimated a 5% growth 
+rate in future years.  Allowing for this growth, the number of employees directly 
+assigned to the contract vetted through E-Verify would be 81,004 (1,620,085 * 5% = 
+81,004).  The total new direct labor working on contracts in FY 2008 would be 405,021 
+(324,017 + 81,004 = 405,021) using FY 2007 as the initial year and FY 2008 as the first 
+“recurring year”. 
+ 
+Throughout each subsequent year we estimate that there will be a 40.7% turnover rate in 
+employees.12 The amount of turnover is based on the number of employees working for 
+a covered contractor since all newly hired employees by the contractor will be required 
+                                                 
+111,620,085 is the number of employees initially vetted through E-Verify (without assuming subsequent 
+turnover). In Table 2 column 7 this can be found by summing the two Labor rows together (1,540,004 
+(contractor) + 80,080 (subcontractor) = 1,620,085). 
+12 “Job Openings and Labor Turnover: January 2007” www.bls.gov/jlt/ 
+
+ 
+
+25 
+
+to be vetted through E-Verify.  In order to determine the amount of turnover expected 
+for FY 2008, we first need to look at FY 2007.  In FY 2007, the total number of 
+employees expected to work on a covered contract either directly or in an overhead or a 
+support role is 2,851,349.13 For FY 2008 this number is expected to increase by 5%, 
+from 2,851,349 to 2,993,916 (2,851,349 * 1.05 = 2,993,916), due to growth.   
+ 
+In addition, to account for the new hires of a covered contractor or subcontractor that we 
+could not calculate based on Table 2, we increase the number of employees by 25%.14  
+This brings the number of employees working for covered contractors and 
+subcontractors in FY 2008 to 3,742,395 (2,993,916* 1.25 = 3,742,395).   
+ 
+Once we estimate the number of employees that are working for a covered contractor or 
+subcontractor we multiply this by the BLS turnover rate of 40.7% to determine that the 
+expected turnover in FY 2008 would be 1,523,155 (3,742,395 * .407 = 1,523,155).  
+ 
+The total population of employees that would be required to be vetted through E-verify 
+in FY 2008 is 1,928,176 (324,017 (new direct labor employees due to new contractors) + 
+81,004 (due to an estimated 5% growth) + 1,523,155 (turnover) = 1,928,176).  Again, 
+this FY 2008 estimate is based on using FY 2007 as the initial year and FY 2008 as the 
+first “recurring year”. 
+ 
+Now that we have an estimate of the number of employees vetted in FY 2008, we are 
+able to update this estimate to reflect anticipated future growth in order to approximate 
+the number of employees vetted in FY 2010.  Assuming a 5% future growth rate, the 
+number of employees that are anticipated to be vetted in FY 2010 is 2,125,814.  This 
+number is calculated by multiplying the FY 2008 estimate of 1,928,176 employees X 
+1.05  to equal the FY 2009 estimate of 2,024,585 and then multiplying the FY 2009 
+estimate of 2,024,585 X 1.05 to equal the FY 2010 estimate of 2,125,814. 
+ 
+ Table 3 provides an estimate of the number of initial employees that would need to be 
+enrolled in E-Verify as well as the number of new employees that would be required to 
+be enrolled in E-Verify.   
+ 
+ 
+
+                                                 
+13 This is calculated by summing the total number of employees working directly and indirectly on a 
+covered contract and can be found in column 7 of Table 2 (1,540,004 + 616,002 + 554,402 + 80,080 + 
+32,032 + 28,829 = 2,851,349). 
+14 Recall that in Step 6 of the Initial Year Employee Population Estimate, we also increased the number of 
+employees by 25% to account for new hires that were not otherwise included in the employee population 
+estimate. 
+
+ 
+
+26 
+
+Table 3: Number of Initial and New Employees Vetted Through the  
+
+E-Verify Program  
+
+ 
+
+27 
+
+3. Cost Analysis 
+
+Startup Costs 
+All companies wishing to enroll in the E-Verify program are required to first register 
+online and sign a memorandum of understanding.   
+  Registration  
+E-Verify Registration is a ten minute process completed online that we expect will be 
+completed by an employee equivalent to a Human Resources manager.  A registration 
+wizard is designed to assist employers in determining which access method will best 
+suite their company needs. The HR manager is required to enter the company contact 
+information, including the number of company locations for which E-Verify will be used 
+and the address of these locations.15  Within 24 hours the HR manger will receive an 
+email from E-Verify that includes their username and password.   
+ 
+According to the National Compensation Survey provided by the Bureau of Labor 
+Statistics (BLS), the average hourly labor rate for an HR manager is $34.52.16  For the 
+purpose of this analysis we have multiplied the base wage rate of $34.52 by 1.4 to 
+account for the cost of employee benefits such as paid leave, insurance, retirement, etc.17   
+The “fully burdened” wage rate of the average HR manager is thus estimated at $48.33 
+per hour ($34.52 * 1.4). 
+ 
+Table 4 provides the expected number of hours that an HR manager will need to 
+complete the online registration and the percentage of companies that will be expected to 
+complete this process. 
+ 
+
+Table 4:  Initial Registration 
+
+Fully 
+Loaded 
+Labor 
+Rate  
+
+ $      48.33  
+
+% of Companies 
+
+Expected to 
+
+Register 
+
+100% 
+
+Hours  
+
+0.17 
+
+Personnel 
+HR Manager 
+
+ 
+
+  Memorandum of Understanding 
+ 
+At the end of registration, the company is required to read and sign a Memorandum of 
+Understanding (MOU) that provides the terms of agreement between the employer, SSA 
+and USCIS. Only an employee who has signatory authority for the employer can sign the 
+                                                 
+15 Registration for the Employer Verification Program can be found at https://www.vis-
+dhs.com/EmployerRegistration. 
+16 Bureau of Labor Statistics, Department of Labor, National Compensation Survey Occupational 
+Earnings in the United States, June 2006; report dated September 2007 
+http://www.bls.gov/ncs/ocs/sp/ncbl0961.pdf    
+17 The 1.4 multiplier used here to adjust base compensation levels to account for private industry 
+compensation costs was taken from the BLS publication “Employer Costs for Employee Compensation – 
+March 2007.” 
+
+ 
+
+28 
+
+MOU. Prior to January 2007 employers were required to sign and fax in the last two 
+pages of the MOU, however, recently the signing of the MOU has become available in 
+an electronic format similar to software agreements that provide a button which must be 
+checked stating that the user agrees to the terms and conditions of the contract.   
+ 
+It is expected that each company will have an HR manager review the MOU and that 
+many companies will also have a lawyer and/or a general manager review the MOU.  
+Based on DHS experience with companies currently enrolled in E-Verify, we estimate 
+that about 25% of the companies will have legal counsel review the MOU and that this 
+will take approximately one hour.  It is also expected that 40% of companies will have a 
+general manager review the MOU and we estimate the general manager review will take 
+a thirty minutes.  The process of reading and signing is not expected to take more than 
+thirty minutes for an HR manager. 
+ 
+Using the Bureau of Labor Statistics (BLS) labor estimates we determined that the 
+average hourly labor rate for a general manager is $43.52 and the average hourly labor 
+rate for legal counsel is $54.35.18  In order to account for other benefits such as 
+insurance, vacation leave, etc. we again used a multiplier of 1.4, which equals a fully 
+loaded labor rate of $60.93 ($43.52 * 1.4) for a general manger and $76.09 ($54.35 * 
+1.4) for legal counsel.19   
+ 
+Table 5 provides the amount of time that company employees are expected to spend 
+reviewing and approving the MOU.  
+  
+
+           Table 5: Read and Sign Memorandum of Understanding 
+
+Personnel 
+
+Legal Counsel 
+
+General 
+Manager 
+
+HR Manager 
+
+ 
+ 
+
+Fully 
+Loaded 
+Labor 
+Rate 
+
+ $      76.09  
+
+ $      60.93  
+ $      48.33  
+
+% of Personnel 
+
+Expected to 
+Read MOU 
+
+25% 
+
+40% 
+100% 
+
+Hours 
+
+1 
+
+0.5 
+0.5 
+
+                                                 
+18 Bureau of Labor Statistics, Department of Labor, National Compensation Survey Occupational 
+Earnings in the United States, June 2006, http://www.bls.gov/ncs/ocs/sp/ncbl0961.pdf  report dated 
+September 2007 
+19 The 1.4 multiplier used here to adjust base compensation levels to account for private industry 
+compensation costs was taken from the BLS publication “Employer Costs for Employee Compensation – 
+March 2007.” 
+
+ 
+
+29 
+
+Implementation 
+  Designated Personnel Training 
+Each employee responsible for entering new employees into E-Verify must take an 
+online tutorial. The employer has the option to designate an employee as one of the 
+following: a Corporate Administrator, a Program Administrator or a General User.20  
+ 
+A Corporate Administrator is someone who has management oversight authority of the 
+employer's hiring sites that participate in the program but generally does not perform 
+employment eligibility verification queries. The Corporate Administrator’s role enables 
+oversight of all the company sites participating in the E-Verify. Once registered, this 
+individual will be able to register company sites, add and delete users at company sites, 
+and view reports generated by company sites.  For the purpose of this analysis we 
+estimate that anybody designated as a Corporate Administrator is a relatively senior 
+company official and is the equivalent of a general manager.   
+ 
+A Program Administrator is responsible for creating user accounts at his or her site for 
+Corporate Administrators and General Users.  They have the capability to view reports, 
+perform queries, update profile information, and unlock user accounts. For the purpose 
+of this analysis we estimate that anybody designated as a Program Administrator is the 
+equivalent of an HR manager. 
+ 
+A General User performs verification queries, views reports, and has the capability to 
+update their personal user profile. For the purpose of this analysis we estimate that a 
+General User is the equivalent of an HR specialist.21 
+ 
+Training time will vary depending upon the type of user a person is designated as.  The 
+Corporate Administrator’s and General User’s tutorial are both expected to take 
+approximately 1.5 hours, while the Program Administrator’s tutorial is expected to take 
+approximately 2.5 hours.22  We have assumed that there will be .5 recurring training 
+hours for the Program Administrators and the General Users as it is expected that there 
+will be some periodic changes and updates to the E-Verify system.   
+ 
+As there is expected to be turnover, these training costs are both an initial and a recurring 
+cost. Table 6 below represents the current number and type of HR personnel that we 
+expect a company will allocate to use the E-Verify program along with training costs.   
+   
+
+                                                 
+20 USCIS E-Verify User’s Manual:  http://www.ssa.gov/employer/BP-DABP-
+%20User%20Manual_040104.pdf 
+21 Using the Bureau of Labor Statistics (BLS) labor estimates we determined that the average hourly labor 
+rate for an HR specialist is $26.48.  Multiplying by 1.4 to account for other benefits, gives us the fully 
+loaded labor rate of $37.07. 
+22 Hourly training estimates were provided by USCIS E-Verify program staff. 
+
+ 
+
+30 
+
+ 
+
+       Table 6: Estimated Number of HR Personnel and Training Costs 
+
+Personnel 
+
+Corporate 
+
+Administrators 
+
+Ratio of 
+Users Per 
+Employer* 
+
+Annual 
+Number 
+of New 
+Hires 
+
+Fully Loaded 
+Hourly Wage 
+
+Rate 
+
+Initial 
+Training 
+Hours 
+
+Required 
+
+Recurring 
+Training 
+Hours 
+
+Required 
+
+           0.17  
+
+          0.07  
+
+ $                 60.93  
+
+1.5 
+
+0 
+
+Program 
+
+      1.50  
+         0.48  
+
+          0.61  
+           0.20  
+
+Administrators 
+General Users 
+
+0.5 
+0.5 
+* Information contained in the “Ratio of Users per Employer” column is based on information of the 
+companies enrolled in the E-Verify program as of February 2008. 
+  
+ 
+
+ $                 48.33  
+ $                 37.07  
+
+2.5 
+1.5 
+
+  Computer and Internet Costs 
+A computer and internet access are required to use the E-Verify system.  While we 
+believe that employers will already have a computer and an internet connection since 
+they are federal contractors, there may be a very small number of companies that do not 
+have a computer or internet connection at their hiring site.  Many companies have hiring 
+sites or multiple hiring sites that are not co-located with the company headquarters or the 
+location where the employees perform work for the government.  Consequently, for the 
+purpose of this analysis, we have assumed that 2% of the E-Verify registrants will need 
+to purchase both a computer and internet access for their hiring site.   
+ 
+We also assume that if a company is required to purchase a computer they would only 
+buy a basic computer that would allow them to access the internet and that the computer 
+would cost $400.  As such, the computer cost incurred for the initial year would be $1.3 
+million (168,624 contractors * .02 * $400 = $1.3 million).   
+ 
+In addition, it is expected that in 4 years a company will need to purchase a replacement 
+computer. Those companies that start contracting with the government in year 1 and 
+continue to contract with the government would need to replace their computers in years 
+4 and 8.   
+ 
+Each firm requiring a computer would need internet access as well.  Based on our 
+research the cost of internet access varies between $7 and $40 per month depending on 
+the provider and type of service used.  For the purpose of this analysis we assume that 
+the cost of internet access that companies would select would fall within the midrange of 
+those prices and estimate the cost to be $20 per month or $240 per year.  For the initial 
+year of the program, the cost for internet access would be $1.0 million (168,624 * .02 * 
+$240 = $0.8 million). 
+ 
+Table 7 reflects the annual cost for computers and internet access.  We request 
+comments indicating the extent that covered federal contractors or subcontractors may 
+
+ 
+
+31 
+
+need to purchase a computer and/or internet connection for their hiring site.  If we do not 
+receive comments indicating that covered federal contractors or subcontractors would 
+need to purchase a computer and/or internet connection, we may eliminate this category 
+of costs in the final rule. 
+  
+
+      Table 7: Cost of New & Replacement Computers and Internet Access 
+
+ 
+
+ 
+ Total Annual Startup and E-Verify User Training Costs 
+ 
+The total annual startup and user training costs for the 10 year period of analysis for E-
+Verify are $439.8 million.  By far the biggest driver of the startup costs is training, 
+$374.7 million, with Employer Enrollment (Registration & MOU), $40.3 million, as the 
+second biggest driver.   
+ 
+             Table 8: Total Annual Contractor Startup and E-Verify User Training Costs  
+
+ 
+
+ 
+
+32 
+
+Employee Verification23 
+  Submission of Information 
+ 
+After hiring a new employee the employer completes the Employment Eligibility 
+Verification form (Form I-9) which is required for all new hires regardless of E-Verify 
+participation.  Then employers participating in the E-Verify program must submit an 
+electronic query through the E-Verify website that includes information from sections 1 
+and 2 of the Form I-9, including the employee's name, date of birth, Social Security 
+number (SSN) and citizenship status.  For non-citizen employees, an Alien or 
+nonimmigrant Admission number is also required.  For both citizens and non-citizens, 
+the types of documents provided on the Form I-9 to establish work authorization and 
+proof of identity must be submitted and in most cases, the identifying number on the 
+document and any document expiration dates. .  
+ 
+Approximately 35% of the non-citizens whose information is entered into E-Verify 
+undergo an additional processing step using the Photo Screening Tool.  The photo 
+screening tool enables employers to determine whether certain documents produced to 
+complete Form I-9 are fraudulent, to more accurately verify an employee’s identity, and 
+to help prevent identity theft.  The Photo Screening Tool step of E-Verify currently 
+applies to non-citizens who choose to provide a DHS document with a photograph for 
+completion of the Form I-9. Accepted documents with photographs include Form I-551 
+Permanent Resident Card (PRC or “Green Card”) and Form I-766 Employment 
+Authorization Document (EAD). If the employee does not provide one of these 
+documents, the Photo Screening Step will not apply.  
+ 
+When the photo screening tool is triggered, the employer must determine whether the 
+photo on the employee’s documentation and the photo displayed in E-Verify reasonably 
+appear identical and select “yes,” “no,” or “cannot determine.”  
+ 
+For new hires, employers must initiate the query before the end of three business days 
+after the new hire’s actual start date.  Existing employees that have been assigned to a 
+federal contract, but whose information the employer has not previously submitted 
+through the E-Verify system, must be verified within 30 days of the employer’s 
+enrollment in E-Verify or contract award, or within three days of the employees’ 
+assignment to the federal contract.  A response to the initial query is sent within seconds 
+of submitting the query. The E-Verify program validates the information against Social 
+Security Databases and then, if the employee has indicated that he or she is not a U.S. 
+citizen the information is sent to USCIS where the employee’s information is validated 
+by the Department of Homeland Security’s Databases.  If the employee’s information is 
+returned as authorized, the E-Verify process is complete. 
+ 
+
+                                                 
+23 Government Costs for an employee verification will be discussed in the Government Cost section later 
+in the analysis. 
+
+ 
+
+33 
+
+DHS estimates that it takes approximately 5 minutes to enter this information into the 
+computer and submit the query.24  For those employers who have to go through the 
+photo screening step we estimate that it will take an additional 5 minutes to run the 
+query and photocopy the document.  
+ 
+  SSA Tentative Nonconfirmation 
+If SSA is unable to verify information presented by the worker, the employer will 
+receive a “SSA tentative nonconfirmation” notice.  This does not necessarily mean that 
+the employee is not authorized to work.  When this happens the HR personnel would 
+first double-check that the information that was entered into the system is correct.  If the 
+data is not correct then the HR personnel would correct the information and resubmit the 
+query.  If, however, the data entered is correct then the HR personnel would print out a 
+written notice, called a “Notice to Employee of Tentative Nonconfirmation.”  Based on 
+current E-Verify estimates it should take no longer than 5 minutes to verify the data and 
+either resubmit the data if it was originally incorrect, or if correct to print out a copy of 
+the tentative nonconfirmation notice.  
+ 
+Of the employees vetted through E-Verify, We estimate that 5.1%25 will receive a 
+tentative nonconfirmation notice from SSA.  The employer is required to provide the 
+employee a written notice of the tentative nonconfirmation and to explain the 
+employee’s option to contest or not contest the finding.  The employee must check a box 
+on the notice stating that he/she contests or does not contest the tentative 
+nonconfirmation, and both the worker and the employer must sign the notice.  It is 
+estimated that this will take approximately 10 minutes for both the employer and the 
+employee to read and sign the form.  We request comments on this 10 minute estimate.   
+
+  Employee Contests SSA Findings  
+Based on DHS’s experience with the E-Verify program, we estimate that of the total 
+number of employees vetted through E-Verify, 1.6%26 will receive a tentative 
+nonconfirmation and choose to contest it.  When this is the case the employer prints a 
+second notice, called a “Referral Letter.” This letter provides an explanation as to why 
+SSA was unable to verify the employee’s information. The main reasons for an 
+employee receiving a nonconfirmation are due to either the date of birth, name or both 
+not agreeing with the SSA number, an invalid SSN, or because SSA was unable to 
+confirm U.S. Citizenship.   
+ 
+The letter also provides a phone number for the employee to call if they have questions 
+or need to determine the nearest SSA office.  In order to contest an SSA tentative 
+nonconfirmation the employee must go in person to an SSA office within in 8 Federal 
+
+                                                 
+24 All time estimates to complete a E-Verify verification are based on information provided by USCIS E-
+Verify program staff. 
+25 Percentages are derived from the number of queries and case resolutions for the current E-Verify 
+program from Jan. through Jun. of 2007. 
+26 Percentages are derived from the number of queries and case resolutions for the current E-Verify 
+program from Jan. through Jun. of 2007. 
+
+ 
+
+34 
+
+work days and provide SSA with paperwork that verifies their age, identity and 
+citizenship or alien status. 27   
+ 
+We estimate that the process of printing and reviewing the referral letter will take 
+approximately 10 minutes.  
+ 
+
+  Resolution of the SSA Nonconfirmation 
+The 1.6% of employees who receive a tentative nonconfirmation and choose to resolve 
+the SSA nonconfirmation must travel to an SSA office to resolve the tentative 
+nonconfirmation.  Westat determined in their September 2007 report that the amount of 
+time employees spent resolving their cases ranged between 2 hours and a full day.28  Due 
+to the wide range of time that employees reported having spent correcting their 
+information at SSA we assume for the purpose of this analysis that the time required for 
+an employee to visit a local social security office would be a full day or 8 hours.  This 
+includes the total time that the employee must take to resolve the SSA issue.   
+ 
+In addition to the time that an employee must take to go to the SSA office and resolve 
+their issue there is also an expense incurred to travel to the SSA office. For the purpose 
+of this analysis we used the Privately Owned Vehicle Reimbursement Rate 
+ of $0.485/mile to determine the cost of travel to and from the SSA office.29  
+
+We do not have the data which will provide us with a precise estimate of the number of 
+miles that the average employee must travel when visiting the SSA.  However, 
+considering that SSA has over 1,30030 field offices nationwide we believe that using a 
+round-trip mileage estimate of 60 miles is a reasonable estimate. Some individuals living 
+in rural areas may need to travel further distances; however, these instances are likely to 
+be offset by the number of instances in urban areas where the distance traveled to and 
+from the local SSA office is far less than 60 miles. 
+ 
+The mileage cost for the trip to and from the SSA is approximately $29 ($0.485/mile * 
+60 miles).  The opportunity cost of time for the employee’s is approximately $359 (8 
+hours * $44.90 wage rate).31 
+  
+Based on the experience to date with E-verify, we estimate that SSA queries with a final 
+nonconfirmation outcome represent 4.7% of all transactions.  If the employee chooses 
+not to contest the findings, or does not show up at SSA this is considered the equivalent 
+
+ 
+
+                                                 
+27 When visiting the SSA office, the employee must bring proof of age, identity, and citizenship or alien 
+status.  The employee must bring the original documents. 
+28 See, Chapter 10, p. 170 Westat Report, January 29, 2002: 
+http://www.uscis.gov/files/article/5%5b1%5d.f%20C_X.pdf , Section IV.D p. 101 
+29 Privately Owned Vehicle Reimbursement Rates, February 1, 2007,   
+http://www.gsa.gov/Portal/gsa/ep/contentView.do?contentId=9646&contentType=GSA_BASIC 
+ 30 http://www.ssa.gov/otherssasites/  
+31 $44.90 is the fully loaded wage rate for the average covered contractor. It is calculated by ($66,705/ 
+2080 hours/year)*1.4  = $44.90 
+
+ 
+
+35 
+
+of a final nonconfirmation. Similarly, if an employee is unable to resolve their issue with 
+SSA it will result in a final nonconfirmation.   
+ 
+At the end of the 10 federal government work days or sooner if the employee has 
+resolved the issue, SSA will update E-Verify and the employer is automatically notified 
+through the system.   At this point the employee either receives a confirmation of work 
+authorization or a final nonconfirmation.  Only with a final nonconfirmation may the 
+employee be terminated from the company based on their employment eligibility status. 
+ 
+Table 9 presents the percentage of employees and the expected hourly burden per 
+employee for both the employer and the employee.  While 100% of the queries initially 
+go through SSA, once SSA has determined that the employee is not a U.S. citizen their 
+case is passed on to USCIS for authorization.  The percentages derived in Table 9 are 
+based on the overall population of queries not just the ones handled by SSA.32   
+ 
+                 Table 9:  E-Verify Hours Required to Verify Each New Hire through SSA 
+
+Activity 
+
+Personnel 
+
+Employer Enters 
+I-9 Form Data 
+
+into Query 
+
+HR 
+
+Specialist 
+
+Hours Per 
+Verification 
+
+Cost Per 
+
+Verification 
+
+% of 
+Overall 
+
+Population 
+
+0.08 
+
+ $           2.97  
+
+100.0% 
+
+Employer Verifies 
+Accuracy of Data 
+
+& Prints SSA 
+
+Tentative 
+
+Nonconfirmation 
+
+Notice 
+
+Employer Informs 
+Employee of SSA 
+
+Tentative 
+
+Nonconfirmation 
+
+Employee States 
+Intent to Contest 
+
+Employee Visits 
+
+SSA Office 
+
+HR 
+
+Specialist 
+
+HR 
+
+Specialist 
+
+Employee 
+
+HR 
+
+Specialist 
+
+0.08 
+
+ $           2.97  
+
+5.11% 
+
+0.17 
+
+ $           6.30  
+
+5.11% 
+
+0.17 
+
+ $           7.63  
+
+5.11% 
+
+0.17 
+
+ $           6.30  
+
+1.59% 
+
+Employee 
+
+8.00 
+
+ $       359.20  
+
+0.65% 
+
+Employer Closes 
+
+Case 
+
+HR 
+
+Specialist 
+
+0.02 
+
+ $           0.74  
+
+5.11% 
+
+ 
+Submission of Information to DHS  
+ 
+                                                 
+32 Percentages are derived from the number of queries and case resolutions for the current Basic Pilot 
+program from Jan. through Jun. of 2007. 
+
+ 
+
+36 
+
+  Photo Screening Tool Process 
+ 
+The Photo Screening Tool step of E-Verify currently applies to non-citizens who choose 
+to provide a DHS document with a photograph for completion of the Form I-9. If the 
+employee does not provide a photo document the E-Verify query process will be exactly 
+the same as before.  Currently, approximately 35% of the non-citizens (which reflects 
+3.8% of the overall queries) that are entered into E-Verify under go this additional 
+processing step.      
+ 
+When the photo screening tool is triggered, the employer must determine whether the 
+photo on the employee’s documentation and the photo displayed in E-Verify reasonably 
+appear identical and select “yes,” “no,” or “cannot determine.” The employer must also 
+photocopy the document and keep it on file.  For the purposes of this analysis we assume 
+that the process of photocopying and verifying the employee’s document in E-Verify 
+will take approximately 5 minutes.   
+ 
+For those businesses where the hiring site is not located in the same office as the 
+personnel processing center is located, the photocopy of the employee’s document will 
+need to be sent to the personnel office and kept on file.  Since we do not know which 
+businesses will be required to mail the photocopy to personnel, for the purpose of this 
+analysis, we have assumed that every office that is required to use the photo screening 
+tool will need to mail a photocopy of the employee’s document to their personnel office.  
+We estimate the cost for the photocopy to be $1 per employee and the cost of postage to 
+be .50 cents per employee.  
+ 
+
+  DHS Initial Verification 
+ 
+If the SSA database information matches the employee information and the employee is 
+identified as a non-citizen33 on the Form I-9, the Form I-9 information is forwarded from 
+SSA to USCIS to determine whether the employee is work-authorized.  DHS has three 
+stages where an employee can be authorized in their verification process.  In the first 
+stage USCIS has been able to automatically match and verify that the employee is work 
+authorized in approximately 83.1% of the cases they receive (which reflects 9.1% of the 
+overall queries).  We assume this rate is applicable to future use of E-verify.  When a 
+match and authorization results, a notification is immediately sent to the employer and 
+no further action is needed. If DHS is not automatically able to authorize the employee 
+then it is sent to the second stage for verification. 
+ 
+  DHS Second Stage Verification 
+In the second stage verification, we estimate that of the other approximately 16.9% of 
+the cases that were sent to USCIS but were unable to be verified (1.8% of the overall 
+queries), an immigration status verifier (ISV) manually checks USCIS records and a 
+                                                 
+33 Naturalized citizens will need to visit an SSA office in order to clear up any discrepancies in their 
+paperwork. 
+
+ 
+
+37 
+
+“DHS verification in progress” notice is sent to the employer.  During this stage 10.6% 
+of the total number of queries sent to USCIS (1.1% of the overall number of queries) 
+have been approved, and we assume this rate will be consistent in the future.   
+ 
+For those cases that the ISV is able to approve, the employer is electronically notified of 
+the worker authorization and no further action is required for the employee to begin 
+working.  Those cases where the ISV is unable to authorize the employee’s eligibility to 
+work are sent on to the third stage of verification. 
+ 
+  DHS Third Stage Verification 
+In the third stage the remaining 6.3% of the estimated cases sent to USCIS (0.7% of the 
+overall number of queries) where the ISV is unable to verify the worker’s employment 
+authorization, the employer will receive a “DHS tentative Nonconfirmation” notice from 
+USCIS.   
+ 
+Upon receiving the notice of tentative nonconfirmation the employer would first double-
+check that the information that was entered into the system is correct.  If the data is not 
+correct then the employer would correct the information and resubmit the query.  If, 
+however, the data entered is correct then the employer would print out a written notice, 
+called a “Notice to Employee of Tentative Nonconfirmation.”  Based on current E-
+Verify estimates it should take no longer than 5 minutes to verify the data and either 
+resubmit the data if it was originally incorrect or if correct to print out a copy of the 
+tentative nonconfirmation.  
+ 
+The employer is required to provide the employee with a written notice of the tentative 
+nonconfirmation and to explain the employee’s option to contest or not contest the 
+finding.  The employee must check a box on the notice stating that he or she 
+contests/does not contest the tentative nonconfirmation, and both the worker and the 
+employer must sign the notice.  There are a variety of reasons that an employee can 
+receive a notice of tentative nonconfirmation from DHS such as, name changes, changes 
+in immigration status that are not reflected in USCIS databases, or an invalid Alien or 
+Nonimmigrant Admission Number.  It is estimated that this will take approximately 10 
+minutes for both the employer and the employee to read and sign the form. 
+ 
+  Employee Contests DHS Findings  
+Of the estimated 6.3% of employees vetted through the USCIS database (which reflects 
+0.7% of overall number of queries) that receive a DHS tentative nonconfirmation letter 
+we estimate approximately 3.9% would choose to contest (0.4% of the total number of 
+queries).  If the employee chooses to contest the HR person prints a second notice, called 
+a “Referral Letter.” This letter provides an explanation as to why DHS was unable to 
+verify the employee’s information and a phone number in order to contact DHS to 
+resolve the issue.   
+ 
+
+ 
+
+38 
+
+The employee must call DHS via the 1-800 number provided on their referral letter 
+within 8 Federal government work days. The process of printing and reviewing the 
+referral letter is expected to take approximately 10 minutes.  
+ 
+
+Resolution of the DHS Nonconfirmation 
+Only 1.3% of the employees that are referred to USCIS for verification have resolved 
+their issue in the third stage of the process (0.2% of the overall number of queries).  DHS 
+estimates that it will take approximately two hours for an employee to call or fax USCIS 
+to determine the problem and resolve the issue.  These two hours include the time that it 
+will take for an employee to gather the appropriate paperwork,34 speak with USCIS and 
+if necessary fax them supporting documents.  DHS assumes that the employer will 
+provide the employee with the use of a telephone and fax machine in order to resolve the 
+issue.  Once the issue is resolved USCIS will electronically send the results to the 
+employer and the employee is authorized to work.   
+  DHS Final Nonconfirmation 
+The estimated remaining 5% (6.3% less the 1.3% that were authorized) of employees 
+referred to USCIS (this reflects 0.5% of the overall queries) to resolve their issue either 
+do not contact USCIS or in a very small number of cases are found to be employment 
+unauthorized.  When this is the case, USCIS considers this the equivalent of a final 
+nonconfirmation and the employer will be notified of the “DHS no show,” or the “DHS 
+Employment Unauthorized.”  Only with a final nonconfirmation may the employee be 
+terminated from the company.  It is estimated that this procedure will take approximately 
+1 minute.   
+ 
+Table 10 presents the hourly burden per employee verification for both the employer and 
+the employee.  The percentages derived in Table 10 are based on the overall population 
+of queries not just the ones handled by DHS.35  For example, 0.7% of the overall number 
+of queries will receive a tentative nonconfirmation notice from DHS.    
+
+                                                 
+34 This includes but is not limited to papers that verify the workers name, date of birth, and authorization 
+status such as their Alien or Nonimmigrant Admission card, passport, and photo id. 
+35 Percentages are derived from the number of queries and case resolutions for the current Basic Pilot 
+program from Jan. through Jun. of 2007. 
+
+ 
+
+39 
+
+ 
+
+              Table 10:  E-Verify Hours Required to Verify Each New Hire 
+
+Activity 
+
+Personnel 
+
+Employer Enters I-9 
+Form Data into Query  HR Specialist 
+Employer Photocopies  
+and Verifies Photo ID 
+
+HR Specialist 
+
+Hours Per 
+Employee 
+
+Cost Per 
+
+Verification 
+
+% of Overall 
+Population 
+
+0.08 
+
+ $              2.97  
+
+100.0% 
+
+0.08 
+
+ $              2.97  
+
+3.80% 
+
+Employer Verifies 
+Accuracy of Data & 
+Prints DHS Tentative 
+
+Nonconfirmation 
+
+Notice 
+
+Employer Informs 
+
+Employee of the DHS 
+
+Nonconfirmation 
+
+Employee Contests 
+
+Employee Calls DHS 
+
+Employer Closes Case 
+
+HR Specialist 
+
+HR Specialist 
+
+0.08 
+
+ $              2.97  
+
+0.17 
+
+ $              6.30  
+
+Employee 
+
+0.17 
+
+ $              7.63  
+
+HR Specialist 
+
+0.17 
+
+ $              6.30  
+
+Employee 
+
+2.00 
+
+ $            89.80  
+
+0.69% 
+
+0.69% 
+
+0.69% 
+
+0.42% 
+
+0.14% 
+
+HR Specialist 
+
+0.69% 
+
+0.02 
+
+ $              0.74  
+
+ 
+Chart 2 represents the final status of total percentage of employees verified through the 
+E-Verify program.  In total, slightly less than 95% of the employees are authorized to 
+work.  The remaining 5% of the employees were either unable to resolve their case with 
+SSA and/or USCIS or did not attempt to resolve the issue. 
+
+Chart 2: Final Case Resolution by Percentage (January 2007 – June 2007) 
+
+ 
+
+ 
+
+ 
+
+40 
+
+ 
+
+  Cost of Verifying Employees through E-VERIFY    
+  
+Table 11 details both the employer’s cost of verifying their current employees and new 
+hires as well as the cost to the employees that have to resolve their cases with SSA or 
+USCIS.  The total cost to the employers over the 10 year period is $184.1 million while 
+the total cost for the employees is $5.2 million.  The combined total cost over the 10 year 
+period is $189.3 million.     
+ 
+
+Table 11:  Cost to Verify Each New Hire Through E-Verify 
+
+ 
+
+ 
+
+41 
+
+Employee Replacement (Turnover) Costs 
+ 
+Termination and replacement costs for unauthorized workers are not included in this 
+analysis as a cost of complying with the associated E-Verify rulemaking.  Turnover 
+associated with employers’ replacement of illegal workers is a cost that follows from the 
+INA’s prohibition against hiring or continuing to employ aliens whom the employer 
+knows are not authorized to work in the United States.  INA section 274A(a)(1), (a)(2).  
+Any employment of aliens whom the employer knows are not authorized to work in the 
+United States is a violation of the law. As the INA expressly prohibits employers from 
+hiring or continuing to employ aliens whom the employers know are not authorized to 
+work in the United States, the costs to an employer that result from a workers 
+unauthorized status are attributable to the INA rather than to the E-Verify rulemaking.  
+However, to the extent the E-verify rulemaking could result in the termination of a 
+worker authorized to work in the United States, such termination and replacement costs 
+could be considered costs resulting from the E-Verify rule. 
+ 
+Turnover costs include the direct costs of terminating an employee, such as the 
+administrative functions related to the termination, costs of finding an appropriate 
+replacement (advertising, interviewing applicants, background checks, etc.), and 
+additional overtime by other employees to cover for the loss of the terminated 
+employees’ services.  In addition to these direct costs, employers incur indirect costs 
+such as lost productivity due to the job vacancy and the learning curve necessary for a 
+new employee to learn the job.36   
+ 
+We expect the termination of authorized workers due to the E-Verify rule to happen only 
+under very unusual circumstances.  The authorized worker has an economic incentive to 
+ensure his/her name, date of birth, and SSN properly match SSA’s records; both to 
+preserve his/her job, and to ensure that he or she receives full credit for the contributions 
+made into Social Security in order to maximize the amount of Social Security benefits he 
+or she will receive in retirement.  In addition, since the accompanying E-Verify rule 
+applies to such a large number of federal contractors, the authorized employee who 
+chooses not to resolve a tentative non confirmation would in effect be opting out of 
+employment in the federal contracting sector. Nevertheless, there may be some 
+circumstances in which an authorized employee could be terminated due to a final non 
+confirmation.  For example, an authorized worker could simply refuse to visit his/her 
+local Social Security office to correct the circumstances causing his/her name and SSN 
+not to match SSA’s records.   
+ 
+In order to estimate the cost to the employer of terminating authorized workers, we need 
+to know both the rate at which authorized workers would be terminated and the per 
+capita termination and replacement costs incurred by the employer.  Unfortunately, we 
+do not have empirical data on which to base an authorized worker termination rate.  Due 
+                                                 
+36 There are several internet sites that provide a “cost of turnover” worksheet listing the most common 
+types of turnover costs.  Examples of these worksheets are found at 
+http://www.uwex.edu/ces/cced/economies/turn.cfm and at http://www.dol.gov/cfbci/turnover.htm. 
+ 
+
+ 
+
+42 
+
+to the previously discussed economic incentives for the employee to correct the 
+circumstances causing the tentative non-confirmation, we believe the rate would be very 
+low.  For the purpose of this analysis, we will assume a termination rate of 2 percent for 
+authorized workers.  This 2 percent termination rate represents workers who are: (1) 
+authorized to work in the United States, and (2) receive a tentative non confirmation, and 
+(3) choose not to take the necessary steps required to correct the tentative non 
+confirmation.   
+ 
+This cost analysis uses a SSA tentative non confirmation rate of rate of 5.1% and a DHS 
+tentative non confirmation rate of .7% for a total tentative non confirmation rate 5.8%.  
+We also use a SSA tentative non confirmation resolution rate (the employee resolves the 
+issue) of .4% and a DHS tentative non confirmation resolution rate of .1%, for a total 
+resolution rate of .5%.  If we subtract the .5% resolution rate from the 5.8% tentative non 
+confirmation rate, we have a rate of 5.3% of the cases where the tentative non 
+confirmation is not resolved and the employee is terminated. 
+ 
+Multiplying the 5.3% non confirmation rate by our rough estimate of 2% of authorized 
+workers who choose not to resolve the non confirmation yields a rate of .106%.  This 
+.106% represents our estimate of the overall percentage of employees that are vetted 
+through E-Verify, are authorized to work, but for whatever reason, ignore the economic 
+incentive to correct a non confirmation and are consequently terminated. 
+ 
+As we previously stated, we don’t have the empirical data on which to base an 
+authorized worker termination rate, but we believe this 2-percent estimate to be a 
+reasonable estimate for the purpose of preparing a cost estimate for the E-Verify rule.  
+Also, the DHS tentative non confirmation rate of .7% used in this cost analysis is based 
+on employees whose employers are presently enrolled in the E-Verify program and is 
+likely to be a higher rate than the rate of final non confirmations received by employees 
+of contractors enrolled due to the accompanying E-Verify rule as many of the employees 
+working on federal contracts are required to be U.S. citizens.  Also, as we previously 
+stated, since the accompanying E-Verify rule applies to such a large number of federal 
+contractors, the authorized employee who chooses not to resolve a tentative non 
+confirmation would in effect be opting out of employment in the federal contracting 
+sector. Such differences between the current E-Verify population and the population of 
+companies that would be required to be newly enrolled due to the rule may mean a lower 
+rate of employees that receive a tentative non-confirmation and ultimately a final non-
+confirmation. 
+ 
+Concerning the costs of employee turnover, there are several studies that provide 
+estimates of the costs to the employer on which we can base a rough estimate: 
+ 
+
+•  A study conducted by the Cornell Hotel & Restaurant Administration Quarterly 
+and published in year 2000 estimated turnover costs in Miami hotels for several 
+occupations.  The cost of turnover was estimated to be $1,333 for room service 
+wait staff, $2,077 for a line cook, $3,383 for a gift-shop clerk, $5,965 for a front-
+office associate, and $7,658 for an administrative assistant (sales and catering). 
+The authors also estimated the cost of replacing a front office associate in a New 
+
+ 
+
+43 
+
+York City hotel.  A front office associate in New York City was estimated to cost 
+an average of approximately $12,250 to replace.37 38 This study was a 
+comprehensive analysis of both the direct and indirect costs of turnover and 
+included such indirect costs as lost productivity.  The authors noted that “the 
+direct, easily measurable hard costs associated with turnover account for less 
+than half of total costs” and “although over half of turnover’s costs are indirect 
+and difficult to measure, they still exist and are felt by the organization.”   
+
+•  A study conducted by the University of Massachusetts Political Economy 
+Research Institute in the year 2000 found that employers located in Santa 
+Monica, California estimated their costs to replace an existing non-managerial 
+worker with a new worker to be $2,090.39  Workers were predominately from 
+hotels, restaurants, and retail establishments.  Replacement costs estimated by 
+employers included separation, search, and training costs, but did not include lost 
+productivity.  
+
+•  A study conducted in 2004 suggests that “a minimum direct cost of turnover per 
+
+worker of at least $2,500 is supported by the existing empirical literature on 
+frontline turnover costs in long-term care as well as low-wage service 
+employment generally.”40  The author also stated “the indirect costs of turnover 
+may be substantial and tend to be overlooked because they are less visible and 
+harder to measure.” 
+
+ 
+
+ 
+
+ 
+
+•  A study conducted by the Coca-Cola Research Council in the year 2000 found 
+that the turnover costs of replacing a supermarket cashier range from $2,286 to 
+$4,313, and the costs of replacing “other hourly personnel” (i.e., baggers and 
+stockers) range from $3,372 to $4,291.41 42 This study included both direct costs 
+and opportunity costs. 
+
+ 
+The authors of the studies we reviewed noted the uncertainty in measuring indirect costs, 
+which may be a large portion of the overall turnover costs. Given this uncertainty, for the 
+purpose of this economic analysis, we will use an estimate of $5,000 to calculate the 
+turnover costs of authorized employees terminated due to the E-Verify rule. A $5,000 
+estimate is well within the range of turnover costs cited by the literature we reviewed, 
+and we believe it is a reasonable number for purposes of our analysis.  However, there 
+
+                                                 
+37 Hinkin, Timothy R. and J. Bruce Tracey (June 2000) “The Cost of Turnover: Putting a Price on the 
+Learning Curve.” Cornell Hotel & Restaurant Administration Quarterly Vol. 41, No. 3, pp. 14-21. 
+38 Using the CPI Inflation Calculator from the Bureau of Labor Statistics, the factor needed to convert year 
+2000 dollars to year 2007 dollars is 1.22.  For example, the cost to replace a gift-shop clerk of $3,383 
+found in the study in year 2000 is equivalent to a cost of $4,127 in 2007 dollars.  
+39 Pollin Robert and Mark Brenner (2000) “Economic Analysis of the Santa Monica Living Wage 
+Proposal.” Amherst, MA: Political Economy Research Institute, University of Massachusetts. 
+40 Seavey, Dorie (October 2004) “The Cost of Frontline Turnover in Long-term Care.” Better Jobs Better 
+Care Practice & Policy, Institute for the Future of Aging Services. 
+41 Frank, Blake (January 2000) “New Ideas for Retaining Store-Level Employees” Coca-Cola Retailing 
+Research Council. 
+42 Recall that the factor needed to convert year 2000 dollars to year 2007 dollars is 1.22.  Therefore, using 
+year 2007 dollars, the turnover cost for replacing a supermarket cashier ranges from $2,789 to $5,262. 
+
+ 
+
+44 
+
+are two additional factors that should be noted when considering this $5,000 estimate.  
+We have previously assumed that the average federal contractor earns a higher salary 
+than the overall national average salary.  We considered making an upward adjustment 
+to the $5,000 turnover cost estimate, as it reasonable to assume that higher earning 
+personnel would represent a higher turnover cost. However, much of the turnover costs 
+estimated by the literature are based on the costs an employer incurs by spending many 
+months providing on the job training for new personnel.  We do not believe that those 
+training costs would be fully incurred by covered contractors or subcontractors for 
+certain employees.  As discussed below, some employees will chose to leave the 
+contractor’s employment before the training has been completed and consequently, the 
+employer would incur less than the full $5,000 in turnover costs. 
+ 
+Under the accompanying E-Verify rulemaking, all new hires of a covered contractor or 
+subcontractor are required to be vetted through the E-Verify system.43 When an 
+employee is informed of a tentative non-confirmation, that employee is given eight 
+federal government work days to contact the appropriate federal agency to contest the 
+tentative non-confirmation. To the extent that a newly hired authorized employee 
+receives a tentative non-confirmation and decides not to contest it, that employee is not 
+spending months of time on the job being trained and the employer would not be 
+incurring the cost of fully training a new hire  Accordingly, the upward pressure on the 
+$5,000 per person turnover cost estimate due to the relatively higher salaries of federal 
+contractors would be offset to a certain extent by the new hires that receive a tentative 
+non-confirmation but leave their employer before the on the job training was fully 
+completed.  We do not know the full extent that these two offsetting pressures on the 
+$5,000 turnover cost estimate counteract each other, but as the effects are offsetting, we 
+have decided not to change the $5,000 estimate and use it in our analysis for a proxy of 
+the turnover cost of an authorized employee terminated due to the E-Verify rule. 
+ 
+As discussed previously, we do not consider the cost of complying with preexisting 
+immigration statutes to be a direct cost of this rulemaking, although complying with 
+preexisting immigration statutes will likely impose a cost on covered contractors.  
+Employers that have to replace a large number of unauthorized workers may find the 
+employee replacement (turnover) costs incurred by replacing employees that are not 
+authorized to work in the United States to be fairly significant. 
+ 
+See Table 12 below for the cost calculations.    
+
+                                                 
+43 Recall that the population of employees the contractor and subcontractor is required to vet through the 
+E-Verify system.  The contractor is required to vet:  (1) All new hires of a covered contractor or 
+subcontractor, whether working under a federal contract or not; and (2) For existing employees, all 
+assigned employees (i.e.; those performing work under a covered contract). 
+ 
+
+ 
+
+45 
+
+     Table 12:  Authorized Employee Replacement (Turnover) Costs 
+
+ 
+
+ 
+  Employer & Employee Cost of Using the E-Verify System 
+ 
+Table 13 details both the employer’s cost of verifying their current employees and new 
+hires as well as the cost to the employees that have to resolve their cases with SSA or 
+USCIS.  The total cost to the employers over the 10 year period is $768.5 million while 
+the total cost for the employees is $5.2 million.  The combined total cost over the 10 year 
+period is $773.6 million.     
+ 
+
+         Table 13:  Total Non-Government Cost of the E-Verify -FAR Rule 
+
+ 
+
+ 
+
+ 
+
+46 
+
+ 
+ Government Costs 
+ 
+Government operating costs can be grouped into three main areas, the cost for each 
+query run, the cost for DHS to resolve a tentative nonconfirmation, and the cost for SSA 
+to resolve a tentative nonconfirmation.   
+ 
+For each query that an employer runs for an employee verification it costs DHS .26 
+cents. This is the cost to run the employees information through the databases and to 
+verify that the employee is legally able to work in the U.S. 
+ 
+For a DHS tentative nonconfirmation it is estimated that it costs DHS $6.80 to research 
+and either authorize or determine that the employee is not authorized to work in the U.S.  
+This includes the time and cost for an ISV as well as other operating costs. 
+ 
+Lastly, for an SSA tentative nonconfirmation the cost for SSA to resolve the case is 
+$25.00.  This is based on an agreement between SSA and DHS. 
+ 
+In total the 10 year cost to DHS is approximately $11.8 million with an average annual 
+cost of $1.2 million.   
+ 
+
+               Table 14:  Government Costs for E-Verify 
+
+ 
+Overall Costs 
+ 
+Table 15 reflects the total 10 year undiscounted cost of E-Verify for the employers, 
+employees and DHS.  Over the 10 year period the total cost for the E-Verify program is 
+$785.4 million with the biggest driver being the startup costs and ongoing training costs.   
+
+ 
+
+ 
+
+47 
+
+Table 15:  Undiscounted 10 Year Cost of E-Verify 
+
+ 
+Tables 16 and 17 are the 10 year costs of E-Verify discounted at 7% and 3% 
+respectively.   
+ 
+ 
+
+Table 16:  Discounted 10 Year Cost of E-Verify (7% Discount) 
+
+ 
+
+ 
+
+ 
+
+48 
+
+ 
+
+ 
+
+Table 17:  Discounted 10 Year Cost of E-Verify (3% Discount) 
+
+ 
+
+ 
+
+Table 18 reflects the total 10 year cost of the E-Verify for the employers, employees and 
+DHS at both the 7% and 3% discount rates.  At a 7% discount rate the initial year cost of 
+the program is $107.0 million and the total cost is $550.3 million over the 10 year 
+period. At a 3% discount rate the initial year cost of the program is $111.2 million and 
+the total cost of the E-Verify program over the 10 year period is $668.9 million.   
+
+ 
+
+   Table 18:  Total 10 Year Cost for E-Verify with a 7% and 3% Discount Rate 
+
+(both Federal Government and Non-Government Costs) 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+49 
+
+4. Benefits Statement 
+ 
+Because illegal aliens are at risk of being apprehended in immigration enforcement 
+actions, contractors who hire illegal aliens will necessarily have a more unstable 
+workforce than contractors who do not hire unauthorized workers.  Given the 
+vulnerabilities in the paper I-9 system, many employers that do not knowingly employ 
+illegal aliens nevertheless have unauthorized workers, undetected, on their workforce.   
+ 
+This rule will promote economy and efficiency in Government procurement.  Stability 
+and dependability are important elements of economy and efficiency.  A contractor 
+whose work force is unstable will likely be less able to produce goods and services 
+economically and efficiently than a contractor whose work force is more stable.  
+Because of the Executive Branch’s obligation to enforce the immigration laws, including 
+the detection and removal of illegal aliens identified through vigorous worksite 
+enforcement, contractors that employ illegal aliens cannot rely on the continuing 
+availability and service of those illegal workers, and such contractors inevitably will 
+have a less stable and less dependable work force than contractors that do not employ 
+such persons.  Where a contractor assigns illegal aliens to work on federal contracts, the 
+enforcement of Federal immigration laws imposes a direct risk of disruption, delay, and 
+increased expense in Federal contracting.  Therefore, we consider such contractors to be 
+less dependable procurement sources, even if they do not knowingly hire or knowingly 
+continue to employ unauthorized workers.   
+ 
+Contractors that use E-Verify to confirm the employment eligibility of their workforce 
+are much less likely to face immigration enforcement actions, and generally should be 
+more efficient and dependable procurement sources than contractors that do not use that 
+system to verify the work eligibility of their workforce.  In addition, rigorous 
+employment verification through E-Verify will help contractors to confirm the identity 
+of the persons working on federal contracts, enhancing national security at less expense 
+to the government than it would cost for contractors to undergo more rigorous 
+background investigations.  This is likely to be particularly beneficial where contractors 
+operate at sensitive national infrastructure sites.   
+
+5. Analysis of Alternative 
+ 
+For this analysis we considered the alternative of only requiring newly hired employees 
+of the contractor to be vetted through E-Verify.  That is, any employee that is currently 
+working for a covered contractor would not be required to be vetted through E-Verify.  
+
+ 
+
+It is important to note that the total number of covered contractors and subcontractors 
+that would be required to enroll in E-Verify would not be reduced by this alternative 
+(compared to the proposed rule).  Accordingly, the startup costs incurred by covered 
+contractors and subcontractors would not be reduced by this alternative. We do not 
+expect that training costs would be reduced under this “new hires only” alternative, 
+although some small reduction is a possibility.  Over the 10 year period of analysis, the 
+total number of employees that are expected to be vetted by E-Verify under this 
+
+ 
+
+50 
+
+alternative is approximately 25% less than the number required to be vetted by the 
+proposed rule.  In the initial year the rule is expected to be effective (2009), there are 
+50% fewer employees vetted under the “new hires only alternative” and an increased 
+chance that employer may spend less on training for that initial year.  Nevertheless, the 
+data we have shows that employers are not currently training very many employees to 
+run queries the E-Verify system. 44 Given the relatively small number of individuals that 
+are anticipated to receive the E-Verify training at each employer, the extent of reductions 
+in training costs strictly from a reduction in the number of queries submitted is unclear.  
+All employers enrolled in E-Verify will need at least one trained person to run queries, 
+and we anticipate many employers will prefer to have one trained person and a “back-
+up” person available.  We request comments on the extent to which the “new hires only” 
+alternative would result in reduced training costs. 
+ 
+Assuming startup costs would be unchanged, this alternative would result in a cost 
+reduction of approximately $21.2 million (7% NPV) in the initial year and 
+approximately $62.4 million (7% NPV) over the 10 year period due to fewer employees 
+being vetted through E-verify.  
+
+Table 19 shows the reduction in the number of employees that would need to be vetted 
+through E-Verify if the proposed rule applied to new hires.45  In the initial year, there is a 
+reduction of 2.1 million employees vetted since 100% of the existing employees 
+assigned to work directly on a covered contract no longer would need to be vetted.   
+ 
+
+Table 19:  Reduction in the Number of Employees if Only Newly Hired Employees 
+
+are Vetted Through E-Verify  
+
+ 
+
+ 
+
+ 
+
+Table 20 shows the reduction in cost of the alternative of only vetting new hires. 
+Alternative 1 is estimated to cost $487.9 million over 10 years and a 7% NPV, a $62.4 
+million reduction when compared to the proposed rule’s cost of $ 550.3 million at a 7% 
+NPV.   
+                                                 
+44 Recall that Table 6 shows the estimated number of human resources personnel per employer that will 
+need training.  The average number of personnel per employer that will need training (based on Feb. 2008 
+data) is approximately 2.2. 
+45 We continued to assume the turnover rate is 40.7 percent annually. 
+
+ 
+
+51 
+
+ 
+Table 20:  Reduction in Cost if Only Newly Hired Employees are Vetted Through E-
+
+Verify (7% & 3% NPV) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Comparing Covering Only New Hires to Covering New Hires & All Assigned 
+Employees 
+ 
+
+We have tentatively concluded that covering new hires and all assigned 
+
+employees (i.e. those performing work under a covered contract) justifies the cost to 
+employers and the government.  Requiring employment eligibility confirmation of all 
+workers assigned to a new Government contract is most consistent with the Federal 
+government’s own obligation to use E-Verify when hiring Federal employees, and will 
+most effectively ensure that the Federal government does not indirectly exploit an illegal 
+labor force.  Because of vulnerabilities in the paper-based I-9 system for confirming the 
+work authorization of persons employed in the United States, many employers, including 
+Federal contractors, may have unwittingly hired unauthorized workers that remain on 
+their workforce.  If such persons are assigned to work on federal contracts, both the 
+contractor and the contracting Federal agency incur the risk that those persons might be 
+detected and apprehended through immigration enforcement actions, or that such 
+persons might abandon their post out of fear of being detected and removed from the 
+United States.  In either case, the Federal contract to which such persons are assigned 
+will be directly affected, likely disrupting work on the contract and imposing costs on 
+both the contractor and the Federal contracting agency that would not arise if the 
+contract workforce consisted only of legal workers. 
+
+ 
+Under ordinary turnover rates, however, the use of E-Verify for all new hires will 
+
+eventually reduce the likelihood that federal contracts will be staffed by persons 
+unauthorized to work in the United States.  But such a turnover-based approach will take 
+many years, and a system aimed only at new hires leaves open the possibility that 
+unauthorized workers hired by entities not engaged in Federal contract work could be 
+transferred or detailed to a corporate affiliate to work on a Federal contract.  The 
+councils concluded that the fastest and most effective way to minimize the risk that 
+
+ 
+
+52 
+
+Federal contracts might rely on labor provided by unauthorized workers was to require 
+that all persons assigned to work on a Federal contract to have their employment 
+eligibility confirmed through E-Verify. 
+
+ 
+
+53 
+
+6. Small Entity Information 
+ 
+In order to further inform our analysis of the economic impact of this rule on small 
+entities, we considered the cost impact of the rule on 4 sizes of entities. We estimated the 
+compliance cost of the proposed rule on hypothetical contractors with 10, 50, 100, and 
+500 employees.  Below, we have presented detailed results of the cost impact of this rule 
+on the contractors with 10 and 50 employees and summary results of the compliance 
+cost of rule on contractors with 100 and 500 employees.   
+Ten Employee Contractor 
+ 
+We estimate the average cost of this rule to a contractor with 10 employees to be $419 in 
+the initial year (See Table 21).  The initial year cost is the year with the highest 
+compliance cost as the contractor is incurring the start-up costs of enrolling in E-Verify 
+in addition to incurring the costs of vetting new employees through the E-Verify system. 
+These start-up costs include initial registration, completing the Memorandum of 
+Understanding (MOU), training of the personnel designated to run E-Verify queries, and 
+a 2% probability that the firm would need to purchase a computer and internet service 
+for the hiring site.  
+ 
+
+   Table 21:  Undiscounted 10 Year Cost for a 10 Employee Firm 
+
+ 
+
+           *Please note that totals may not sum due to rounding. 
+ 
+In order to estimate the cost of this rule on an entity with 10 employees, we are applying 
+the same type of compliance cost structure as previously described in this cost analysis.   
+Table 22 shows the calculation of the Start-up and E-Verify User Training Costs for the 
+initial year, which are estimated to be $234. For this small contractor, we assume that 
+only one manager (at a fully loaded hourly cost of $48.33) would be involved with the 
+start-up process instead of two managers, as a 10 employee contractor would be 
+expected to have fewer management layers than a larger firm.  However, we did 
+continue to assume that 25% of contractors would use an attorney to assist with the 
+MOU review as some contractors may choose to seek legal assistance. 
+ 
+ 
+
+ 
+
+54 
+
+ 
+ 
+
+   Table22: Total Annual Contractor Startup and E-Verify User Training Costs for a 
+
+10 Employee Firm 
+
+*Please note that totals may not sum due to rounding. 
+
+ 
+The Employer’s Employee Verification costs are shown in Table 23, which are 
+estimated to be $111. To account for employee turnover, we continue to use the BLS 
+turnover rate for all industries and regions of 40.7%.  As we assume a 40.7% turnover 
+rate, we calculate the costs of 14 employees (10 employees and 4 replacements) being 
+vetted through E-Verify in the initial year.  Also, we assume that the manager involved 
+with the start-up process would be the same person responsible for hiring actions and 
+would be responsible for verifying all of the employees through the E-Verify system. 
+
+  
+
+   
+
+Table 23:  Verification Costs for New Hires for a 10 Employee  
+
+      
+ 
+
+ 
+
+In addition, we carry forth our estimate of the cost of authorized employee turnover that 
+is due to this rule. We multiply our estimate of the rate of authorized employee turnover 
+of .106% * $5,000 in estimated per employee turnover costs to get an average cost of 
+$5.30 per employee.  This yields an average cost of $74.20 in the first year (14 
+employees vetted * $5.30) for authorized employee turnover cost due to E-Verify. 
+
+ 
+
+55 
+
+ 
+ Table 24:  Authorized Employee Replacement (Turnover) Costs for a 10 Employee 
+
+Firm 
+
+ 
+
+    *Please note that totals may not sum due to rounding. 
+
+ 
+In order to better understand the significance of an initial year cost impact of $419 on a 
+contractor with 10 employees, we need to have some estimate of the amount of revenue 
+a contractor with 10 employees receives.  To determine the average revenue for a firm 
+with 10 employees we utilized SBA’s website which includes 2002 data for 
+employment, number of firms, and receipts for different employment size classes.46  
+ 
+Using the SBA data, estimates of the total receipts by employment size class were 
+divided by estimates of the total number of firms by employment size class. Using this 
+data we then extrapolated to determine the revenue for a 10 employee firm. Since the 
+SBA data is presented in 2002 dollars we used the Consumer Price Index (CPI) to 
+account for inflation.47   
+ 
+Based on this interpolation the average annual revenue of a 10 person contractor is 
+approximately $1.4 million dollars.  Certainly, there will be contractors with higher and 
+lower annual review, but using data from SBA does give us some understanding of the 
+cost impact at an average level. The $419 initial year compliance cost represents 
+approximately .03% of the $1.4 million in annual revenue.  This level of cost burden 
+does not appear to represent a significant economic impact on a contractor with 10 
+employees.  
+ 
+ 
+
+                                                 
+46 www.sba.gov/advo/research/data_uspdf.xls  excel tab “\us02n_mi.”  For the purpose of this analysis it 
+is assumed that the average revenues per firm across all firms in the U.S. economy can represent the 
+average revenues per firm for E-Verify employers.  
+47 For more information regarding the estimation of revenues per firm, please refer to Appendix A. 
+
+ 
+
+56 
+
+Fifty Employee Contractor 
+ 
+We estimate the average cost of this rule to a contractor with 50 employees to be $1,168 
+in the initial year (See Table 25).  The initial year cost is the year with the highest 
+compliance cost as the contractor is incurring the set costs of enrolling in E-Verify, in 
+addition to incurring the cost of vetting new employees through the E-Verify system. 
+These start-up costs include initial registration, completing the Memorandum of 
+Understanding (MOU), training of the personnel designated to run E-Verify queries, and 
+a 2% probability that the firm would need to purchase a computer and internet service 
+for the hiring site.  
+ 
+
+  Table 25:  Undiscounted 10 Year Cost for a 50 Employee Firm 
+
+ 
+
+       *Please note that totals may not sum due to rounding. 
+
+ 
+In order to estimate the cost of this rule on an entity with 50 employees, we are applying 
+the same type of compliance cost structure as previously described in this analysis.   
+Table 26 shows the calculation of the Start-up and User Training Costs for the initial 
+year, which are estimated to be $325. For this contractor, we assumed 2 levels of 
+managers, an HR manager and a general manager, would be involved with the start-up 
+process (at fully loaded hourly rates of $48.33 and $60.93). 
+ 
+Assuming that 2 levels of managers would be involved with the start-up process is the 
+same assumption as utilized earlier in this analysis when estimating the cost of this 
+rulemaking.  We continued to assume that 25% of contractors would use an attorney to 
+assist with the MOU review as some contractors may choose to seek legal assistance and 
+that 40% of the general managers would review the MOU.   
+ 
+In addition, we also assume that there will be one HR specialist that will be required to 
+under go training.  
+
+ 
+
+57 
+
+  
+
+   Table 26: Total Annual Contractor Startup and E-Verify User Training 
+
+Costs for a 50 Employee Firm 
+
+Fiscal 
+Year 
+
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+Total 
+
+Employer 
+Enrollment 
+(Registration 
+
+& MOU) 
+
+Training for 
+
+E-Verify 
+
+Users 
+
+ Computer and 
+Internet Costs 
+
+Total Start Up & 
+User Training 
+
+Cost 
+
+$                64   $               248   $                    13  
+                        5  
+                        5  
+                        5  
+                      13  
+                        5  
+                        5  
+                        5  
+                      13  
+                        5  
+
+ $                    325  
+                       102  
+                       102  
+                       102  
+                       110  
+                       102  
+                       102  
+                       102  
+                       110  
+                       102  
+$                64   $            1,122   $                    72   $                  1,258  
+
+                          
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+
+                   97  
+                   97  
+                   97  
+                   97  
+                   97  
+                   97  
+                   97  
+                   97  
+                   97  
+
+ *Please note that totals may not sum due to rounding. 
+
+ 
+The Employer’s Employee Verification costs are shown in Table 27, which are 
+estimated to be $473. We assumed that this company would use a human resources 
+specialist to execute the E-Verify queries.  Utilizing a human resources specialist for this 
+task is the same assumption as we assumed in the body of the analysis for estimating the 
+cost of the rulemaking. To account for employee turnover, we continue to use the BLS 
+turnover rate for all industries and regions of 40.7%.  As we assume a 40.7% turnover 
+rate, we calculate the costs of 70 employees (50 employees * 1.407 = 70 employees) 
+being vetted through E-Verify in the initial year.  
+  
+
+     Table 27:  Verification Costs for New Hires for a 50 Employee Firm 
+
+ 
+In addition, we carry forth our estimate of the cost of authorized Employee turnover that 
+is due to this rule. We multiply the rate of authorized employee turnover of .106% * 
+$5,000 the estimated per employee turnover costs to get an average cost of $5.30 per 
+employee.  This yields an average cost of $371 in the first year (70 employees vetted * 
+$5.30) for authorized employee turnover cost due to E-Verify. 
+
+ 
+
+ 
+
+58 
+
+  Table 28:  Authorized Employee Replacement (Turnover) Costs for a 50 
+
+Employee Firm 
+
+ 
+
+ 
+
+*Please note that totals may not sum due to rounding. 
+
+ 
+In order to better understand the economic significance of an initial year cost impact of 
+$1,168 on a contractor with 50 employees, we need to have some estimate of the amount 
+of revenue a contractor with 50 employees earns.  Using our interpolation based on SBA 
+data, we estimate the average annual revenue of a 50 person contractor to be 
+approximately $5.6 million dollars. 48   Certainly, there will be contractors with higher 
+and lower annual revenue, but using data from SBA does give us some understanding of 
+the cost impact at an average level. The $1,168 initial year compliance cost represents 
+approximately .021% of the $5.6 million in annual revenue.  This level of cost burden 
+does not appear to represent a significant economic impact on the contractor with 50 
+employees.  
+One Hundred Employee Contractor 
+ 
+We estimate the average cost of this rule to a contractor with 100 employees to be 
+$2,102 in the initial year (See Table 29).  The initial year cost is the year with the highest 
+compliance cost as the contractor is incurring the set costs of enrolling in E-Verify, in 
+addition to incurring the cost of vetting new employees through the E-Verify system. 
+These start-up costs include initial registration, completing the Memorandum of 
+Understanding (MOU), training of the personnel designated to run E-Verify queries, and 
+a 2% probability that the firm would need to purchase a computer and internet service 
+for the hiring site.  
+ 
+In order to estimate the cost of this rule on an entity with 100 employees, we are 
+applying the same type of compliance cost structure as previously described in this 
+analysis.  We assumed 2 levels of managers, an HR manager and a general manager, 
+would be involved with the start-up process (at fully loaded hourly rates of $48.33 and 
+                                                 
+48 For more information regarding the estimation of revenues per firm, please refer to Appendix A. 
+
+ 
+
+59 
+
+$60.93).  We continued to assume that 25% of contractors would use an attorney to 
+assist with the MOU review as some contractors may choose to seek legal assistance and 
+that 40% of the general managers would review the MOU.   
+ 
+In addition, we also assume that there will be two HR specialists that will be required to 
+under go training.  
+ 
+
+  Table 29:  Undiscounted 10 Year Cost for a 100 Employee Firm 
+
+ 
+
+ 
+In order to better understand the economic significance of an initial year cost impact of 
+$2,102 on a contractor with 100 employees, we need to have some estimate of the 
+amount of revenue a contractor with 100 employees earns.  Using our interpolation 
+based on SBA data, we estimate the average annual revenue of a 100 person contractor 
+to be approximately $11.4 million dollars. 49   Certainly, there will be contractors with 
+higher and lower annual revenue, but using data from SBA does give us some 
+understanding of the cost impact at an average level. The $2,102 initial year compliance 
+cost represents approximately .018% of the $11.4 million in annual revenue.  This level 
+of cost burden does not appear to represent a significant economic impact on the 
+contractor with 100 employees.  
+ 
+Five Hundred Employee Contractor 
+ 
+We estimate the average cost of this rule to a contractor with 500 employees to be 
+$8,964 in the initial year (See Table 30).  The initial year cost is the year with the highest 
+compliance cost as the contractor is incurring the set costs of enrolling in E-Verify, in 
+addition to incurring the cost of vetting new employees through the E-Verify system. 
+These start-up costs include initial registration, completing the Memorandum of 
+Understanding (MOU), training of the personnel designated to run E-Verify queries, and 
+
+                                                 
+49 For more information regarding the estimation of revenues per firm, please refer to Appendix A. 
+
+ 
+
+60 
+
+a 2% probability that the firm would need to purchase a computer and internet service 
+for the hiring site.  
+ 
+In order to estimate the cost of this rule on an entity with 500 employees, we are 
+applying the same type of compliance cost structure as previously described in this 
+analysis.  We assumed 2 levels of managers, an HR manager and a general manager, 
+would be involved with the start-up process (at fully loaded hourly rates of $48.33 and 
+$60.93).  We continued to assume that 25% of contractors would use an attorney to 
+assist with the MOU review as some contractors may choose to seek legal assistance and 
+that 40% of the general managers would review the MOU.   
+ 
+In addition, we also assume that there will be three HR specialists that will be required to 
+under go training.  
+ 
+
+  Table 30:  Undiscounted 10 Year Cost for a 500 Employee Firm 
+
+ 
+
+ 
+In order to better understand the economic significance of an initial year cost impact of 
+$8,964 on a contractor with 500 employees, we need to have some estimate of the 
+amount of revenue a contractor with 500 employees earns.  Using our interpolation 
+based on SBA data, we estimate the average annual revenue of a 500 person contractor 
+to be approximately $108.1 million dollars. 50   Certainly, there will be contractors with 
+higher and lower annual revenue, but using data from SBA does give us some 
+understanding of the cost impact at an average level. The $8,964 initial year compliance 
+cost represents approximately .008% of the $108.1 million in annual revenue.  This level 
+of cost burden does not appear to represent a significant economic impact on the 
+contractor with 500 employees.  
+ 
+
+                                                 
+50 For more information regarding the estimation of revenues per firm, please refer to Appendix A. 
+
+ 
+
+61 
+
+Summary of Impact 
+In Table 31 below, we present a summary of the initial year compliance cost of the 
+proposed rule and compare that cost to our estimate of the annual revenue of the 
+hypothetical firms.  We note that the compliance cost in the initial year, which we 
+believe is the year with the highest cost, is well below 1% of annual revenue for all 4 of 
+the contractor sizes analyzed. To the extent that some small entities incur direct costs 
+that are higher than the average estimated costs, however, those employers may 
+reasonably be expected to face a more significant economic impact. 
+ 
+In addition, the requirement for entities (both large and small) to enroll in E-Verify only 
+applies to contractors and subcontractors who choose to perform certain work for the 
+federal government.  If an entity does believe that participating in E-Verify would 
+impose a significant economic impact on their operation, the entity would make a 
+business decision whether the revenue generated by doing business with the federal 
+government provided the financial return required to justify the cost of such participation 
+in E-Verify.  Presumably, entities which do not receive the desired return on revenue to 
+justify the expense of participating in E-Verify would then choose not to be a federal 
+contractor or subcontractor. 
+
+Table 31:  Initial Year Compliance Cost Compared to Annual Revenue 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+62 
+
+Appendix A:  Estimation of Revenues per Firm 
+ 
+This appendix describes the procedures used to determine the average revenue for a firm 
+given the number of employees.  Table 32 contains data regarding firm size and revenue 
+from the Small Business Administration that was used to determine average revenue for 
+a given firm size.51  Since the employee sizes of the firms are in ranges, an average for 
+the range was taken.  For example, the average the 5 – 9 employee rage was obtained by 
+adding 5 – 9 and then dividing by 2.  These averages can be seen in the last row labeled 
+Employment per firm.   
+ 
+The receipts per firm were derived by dividing the receipts by the number for firms.  For 
+example in the 5 – 9 range the receipts, 888,342,543,000 was divided by 1,010,804 to 
+get an average receipts per firm of 878,847.   
+ 
+ 
+ 
+
+ 
+  
+ 
+Firms 
+Receipts($000) 
+ 
+
+Calculated 
+
+Receipts per Firm 
+
+Table 32:  2002 Data on Firm Size and Receipts 
+
+1-4 
+
+5-9 
+
+ 
+
+ 
+
+ 
+
+2002 
+
+10-19 
+
+20-99 
+
+100-499 
+
+ 
+
+ 
+
+ 
+
+ 
+
+500+ 
+
+2,695,606 
+
+1,010,804 
+937,533,365  888,342,543 
+ 
+
+ 
+
+613,880 
+1,085,595,864 
+ 
+
+508,249 
+2,884,696,648 
+ 
+
+82,334 
+
+16,845 
+2,547,423,855  13,503,796,863 
+ 
+
+ 
+
+347,801 
+
+878,847 
+
+1,768,417 
+
+5,675,755 
+
+30,940,120 
+
+801,650,155 
+
+Calculated 
+
+Employment per 
+
+Firm 
+
+2.5 
+
+7.0 
+
+14.5 
+
+59.5 
+
+299.5 
+
+2,750.0 
+
+ 
+ 
+Using the data in Table 33 we then derived the average revenue for a 10, 50, 100 and 
+500 employee contractor using a linear interpolation. 
+ 
+
+                                                 
+51 www.sba.gov/advo/research/data_uspdf.xls  excel tab “\us02n_mi.”  For the purpose of this analysis it 
+is assumed that the average revenues per firm across all firms in the U.S. economy can represent the 
+average revenues per firm for E-Verify employers.  
+ 
+
+ 
+
+63 
+
+ 
+
+      Table 33:  Linear Interpolation of SBA Firm Data 
+
+ 
+
+ 
+Since the SBA data is from 2002, we adjusted the expected revenue by 1.15 to account 
+for inflation and to put the average into 2007 dollars.52  For example, the expected 
+revenue of a firm making 1,234,675 in 2002 would be equivalent to a firm making 
+1,419,877 in 2007 (1,234,675 * 1.15 = 1,419,877).    
+   
+
+                                                 
+52 Based on CPI data obtained from BLS at the following website: http://www.bls.gov/bls/inflation.htm.   
+
+ 
+
+64 
+
+Appendix B: Analysis of Uncertainty 
+ 
+We have conducted a sensitivity analysis in order to determine how changes in 2 key 
+variables impact the overall cost of this rule.  First, we vary the number of employees 
+that are vetted through E-Verify (holding all else constant) and determine how the 
+overall cost of the rule would change and secondly, we then vary the number of covered 
+contractors and subcontractors (holding all else constant) that have to be enrolled into 
+E-Verify and determine how the overall cost of the rule would be impacted, and finally, 
+we vary both the number of employees and the number of contractors simultaneously in 
+order to get an overall sense of how uncertainty in these 2 key variables impacts the 
+overall cost. 
+Number of Employees Vetted Sensitivity Analysis 
+ 
+As discussed earlier in the Affected Population section of this analysis, the estimate of 
+the number of employees vetted through E-Verify due to the accompanying rule was 
+established by determining the amount of federal contracting dollars to be within the 
+scope of the rulemaking and then by a series of assumptions estimating the amount of 
+those contract dollars that will be used for the categories of direct labor, overhead, 
+materials, and general and administrative (G&A) expenses.  We recognize these 
+assumptions are rough estimates and in order to understand the impact of variation in the 
+number of employees vetted through E-Verify on the cost, we have performed a Monte 
+Carlo analysis assuming up to a 50% increase or decrease in the number of employees 
+vetted in each of the 10 years of the period of analysis.  Specifically, we have assumed a 
+triangular distribution with the 50th percentile being the point estimate of the number of 
+employees previously estimated and shown in Table 3.  For year 2009, the 50th 
+percentile is 3,831,992 million employees vetted, while the upper range of the triangular 
+distribution is estimated to be 5,747,988 million employees and the lower range is 
+estimated to be 1,915,996 employees vetted in year 2009. For example, see Table 34 
+below for the year 2009 population of employees vetted used in the sensitivity analysis. 
+ 
+
+ 
+
+65 
+
+Table 34: Triangle Distribution of the Number of Employees Verified in 2009 
+
+ 
+
+Triangular distribution with parameters: 
+  Minimum 
+  Likeliest 
+  Maximum 
+
+ 
+ 
+ 
+
+ 1,915,996  
+ 3,831,992  
+ 5,747,988  
+
+ 
+
+Initial Year Employees Only Sensitivity Analysis 
+ 
+In the initial year, varying the number of employees vetted by up to 50% yields a range 
+of first year cost from $95,640,616 at the 5th percentile level to $133,374,106 at the 95th 
+percentile level.  Recall, that the point estimate of the expected cost the initial year of the 
+rule (year 2009) using the 50th percentile is $114,501,212.  Increasing the number of 
+employees vetted by 50% results in a less than a 50% increase in costs because 
+contractors have to incur a certain amount of fixed costs to enroll into the E-Verify 
+program that are not dependent upon the number of employees vetted.  Please see Table 
+35 for the summary statistics. 
+ 
+
+ 
+
+66 
+
+Table 35: Monte Carlo Simulation Results for Variance in the Number of Employees 
+
+Vetted Through E-Verify in 2009 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $95,640,616  to $133,374,106  
+Entire range is from $90,350,891  to $138,642,587  
+Base case is $114,501,212  
+After 100,000 trials, the std. error of the mean is 
+$31,370  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Summary: 
+ 
+ 
+ 
+ 
+
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+ 
+  Minimum 
+ 
+  Maximum 
+  Range Width 
+ 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+Forecast values 
+100,000 
+ $114,475,649  
+ $114,475,155  
+--- 
+ $9,919,910  
+ $98,404,624,098,085  
+0.0028 
+2.40 
+0.0867 
+ $90,350,891  
+ $138,642,587  
+ $48,291,696  
+ $31,370  
+
+ 
+3% NPV Annualized Employees Only Sensitivity Analysis 
+ 
+The annualized cost (3% NPV) of varying the number of employees vetted by up to 50% 
+yields a range of cost from $73,972,218 at the 5th percentile level to $82,841,400 at the 
+
+ 
+
+67 
+
+95th percentile level.  Recall, that the point estimate of the expected cost the rule using 
+the 50th percentile is $78,412,736.53    
+ 
+
+Table 36: Annualized Monte Carlo Simulation Results for Variance in the Number 
+
+of Employees Vetted through E-Verify (3% NPV) 2009-2018 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Certainty level is 95.000% 
+Certainty range is from $73,972,218  to 
+$82,841,400  
+Entire range is from $68,924,917  to $87,371,511  
+Base case is $78,412,736  
+After 100,000 trials, the std. error of the mean is 
+$7,183  
+
+ 
+
+ 
+
+ 
+
+Statistics: 
+ 
+  Mean 
+  Median 
+  Mode 
+
+ 
+
+Trials 
+ 
+ 
+ 
+
+ 
+100,000 
+ $78,402,114  
+ $78,397,905  
+
+ 
+
+ 
+
+Forecast 
+values 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ $2,271,360  
+
+--- 
+ 
+ $5,159,074,526,776  
+0.0038 
+
+Standard 
+ 
+Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+Coeff. of 
+Variability 
+ 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. 
+                                                 
+53 We include both an annualized and a 10 year NPV estimate in this Appendix.  Both the annualized and 
+the 10 year estimates are based on the same Monte Carlo simulation. 
+
+2.90 
+ 
+ $68,924,917  
+ $87,371,511  
+ $18,446,594  
+
+ 
+ 
+
+0.0290 
+
+ 
+ 
+ $7,183  
+
+ 
+
+68 
+
+Error 
+ 
+
+ 
+
+ 
+
+3% NPV Ten Year Employees Only Sensitivity Analysis 
+ 
+For the 10 year (3% NPV) sensitivity analysis of varying the number of employees 
+vetted by up to 50% yields a range of cost from $630,998,026 at the 5th percentile level 
+to $706,653,946 at the 95th percentile level.  Recall, that the point estimate of the 
+expected cost the rule using the 50th percentile is $668,876,539.  
+ 
+
+Table 37: 10 Year Monte Carlo Simulation Results for Variance in the Number of 
+
+Employees Vetted through E-Verify (3% NPV) 2009-2018 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $630,998,026  to $706,653,946  
+ 
+Entire range is from $587,943,525  to $745,296,710  
+Base case is $668,876,539  
+ 
+After 100,000 trials, the std. error of the mean is $61,270  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $668,785,934  
+ $668,750,031  
+--- 
+ $19,375,158  
+ $375,396,758,385,315  
+0.0038 
+2.90 
+0.0290 
+ $587,943,525  
+ $745,296,710  
+ $157,353,185  
+ $61,270  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+69 
+
+ 
+ 
+
+7% NPV Annualized Employees Only Sensitivity Analysis 
+ 
+The annualized cost (7% NPV) of varying the number of employees vetted by up to 50% 
+yields a range of cost from $73,831,999 at the 5th percentile level to $82,864,121 at the 
+95th percentile level.  Recall, that the point estimate of the expected cost the rule using 
+the 50th percentile is $78,351,184.  
+ 
+
+Table 38: Annualized Monte Carlo Simulation Results for Variance in the Number 
+
+of Employees Vetted through E-Verify (7% NPV) 2009-2018 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $73,831,999  to $82,864,121  
+Entire range is from $68,740,713  to $87,361,182  
+Base case is $78,351,184  
+After 100,000 trials, the std. error of the mean is $7,325  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $78,340,223  
+ $78,342,731  
+--- 
+ $2,316,229  
+ $5,364,918,571,445  
+0.0046 
+2.88 
+0.0296 
+ $68,740,713  
+ $87,361,182  
+ $18,620,469  
+ $7,325  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+70 
+
+ 
+7% NPV Ten Year Employees Only Sensitivity Analysis 
+ 
+For the 10 year (7% NPV) sensitivity analysis of varying the number of employees 
+vetted by up to 50% yields a range of cost from $518,565,064 at the 5th percentile level 
+to $582,002,908 at the 95th percentile level.  Recall, that the point estimate of the 
+expected cost the rule using the 50th percentile is $550,305,932.  
+ 
+
+Table 39: 10 Year Monte Carlo Simulation Results for Variance in the Number of 
+
+Employees Vetted through E-Verify (7% NPV) 2009-2018 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $518,565,064  to $582,002,908  
+ 
+Entire range is from $482,806,004  to $613,588,388  
+Base case is $550,305,932  
+ 
+After 100,000 trials, the std. error of the mean is $51,445  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $550,228,946  
+ $550,246,560  
+--- 
+ $16,268,226  
+ $264,655,176,029,885  
+0.0046 
+2.88 
+0.0296 
+ $482,806,004  
+ $613,588,388  
+ $130,782,384  
+ $51,445  
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+71 
+
+ 
+Number of Contractors and Subcontractors Sensitivity Analysis 
+ 
+As discussed earlier in the Affected Population section of this analysis, the estimate of 
+the number of contractors required to enroll in E-Verify was based on information from 
+the Federal Procurement Data System (FPDS).  However, the FPDS was not able to 
+estimate the number of subcontractors and an educated guess was made to estimate the 
+number of subcontractors, which was estimated to be 20% of the number of unique 
+prime contractors.   
+ 
+We have performed a Monte Carlo analysis assuming up to a 25% increase or decrease 
+in the total number of contractors and subcontractors required to enroll into E-Verify due 
+to the rule in each of the 10 years of the period of analysis.  Specifically, we have 
+assumed a triangular distribution with the 50th percentile being the point estimate of the 
+number of covered contractors and subcontractors previously estimated and shown in 
+Table 1.  For year 2009, the 50th percentile is 168,624 covered contractors and 
+subcontractors, while the high range of the triangular distribution is estimated to be 
+210,780 and the low range is estimated to be 126,468 covered contractors and 
+subcontractors required to enroll in year 2009. For example, see Table 40 below for the 
+year 2009 population of contractors and subcontractors required to enroll used in the 
+sensitivity analysis. 
+ 
+
+Table 40: Triangle Distribution of the Number of Contractors & Subcontractors 
+
+Verified in 2009 
+
+Triangular distribution with parameters: 
+  Minimum 
+  Likeliest 
+  Maximum 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 126,468  
+ 168,624  
+ 210,780  
+
+ 
+
+72 
+
+ 
+ 
+ 
+
+ 
+
+ 
+Initial Year Contractors and Subcontractors Sensitivity Analysis 
+ 
+In the initial year, varying the number of covered contractors and subcontractors by up to 
+25% yields a range of first year cost from $101,639,975 at the 5th percentile level to 
+$127,262,933 at the 95th percentile level.  Recall, that the point estimate of the expected 
+cost the initial year of the rule (year 2009) using the 50th percentile is $114,501,212   
+ 
+
+Table 41: Monte Carlo Simulation Results for Variance in the Number of 
+
+Contractors & Subcontractors Vetted Through E-Verify in 2009 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $101,639,975  to $127,262,933  
+ 
+Entire range is from $98,124,265  to $130,930,206  
+Base case is $114,501,212  
+ 
+After 100,000 trials, the std. error of the mean is $21,300  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $114,491,237  
+ $114,521,969  
+--- 
+ $6,735,801  
+ $45,371,018,015,810  
+-0.0107 
+2.40 
+0.0588 
+ $98,124,265  
+ $130,930,206  
+ $32,805,941  
+ $21,300  
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+73 
+
+3% NPV Annualized Contractors and Subcontractors Sensitivity 
+Analysis 
+ 
+The annualized cost (3% NPV) of varying the number of covered contractors and 
+subcontractors vetted by up to 25% yields a range of cost of $76,122,251 at the 5th 
+percentile level to $80,681,224 at the 95th percentile level.  Recall, that the point estimate 
+of the expected cost the rule using the 50th percentile is $78,412,736.   
+ 
+
+Table 42: Annualized Monte Carlo Simulation Results for Variance in the Number 
+
+of Contractors & Subcontractors Vetted through E-Verify (3% NPV) 2009-2018 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Summary: 
+ 
+
+ 
+ 
+ 
+
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $76,122,251  to 
+$80,681,224  
+Entire range is from $73,842,481  to $83,733,828  
+Base case is $78,412,736  
+After 100,000 trials, the std. error of the mean is 
+$3,692  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $78,410,320  
+ $78,413,058  
+--- 
+ $1,167,582  
+ $1,363,247,753,849  
+-0.0050 
+2.87 
+0.0149 
+ $73,842,481  
+ $83,733,828  
+ $9,891,347  
+ $3,692  
+
+ 
+
+74 
+
+ 
+ 
+
+3% NPV Ten Year Contractors and Subcontractors Sensitivity 
+Analysis 
+ 
+For the 10 year (3% NPV) sensitivity analysis of varying the number of contractors and 
+subcontractors vetted by up to 25% yields a range of cost from $649,338,241 at the 5th 
+percentile level to $688,227,207 at the 95th percentile level.  Recall, that the point 
+estimate of the expected cost the rule using the 50th percentile is $668,876,539.  
+ 
+
+Table 43: 10 Year Monte Carlo Simulation Results for Variance in the Number of 
+
+Contractors & Subcontractors Vetted through E-Verify (3% NPV) 2009-2018 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Certainty level is 95.000% 
+ 
+Certainty range is from $649,338,241  to $688,227,207  
+ 
+Entire range is from $629,891,339  to $714,266,536  
+Base case is $668,876,539  
+ 
+After 100,000 trials, the std. error of the mean is $31,495  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Forecast values 
+100,000 
+ $668,855,938  
+ $668,879,293  
+--- 
+ $9,959,711  
+ $99,195,850,925,337  
+-0.0050 
+2.87 
+0.0149 
+ $629,891,339  
+ $714,266,536  
+ $84,375,196  
+ $31,495  
+
+ 
+
+75 
+
+ 
+ 
+
+7% NPV Annualized Contractors and Subcontractors Sensitivity 
+Analysis 
+ 
+The annualized cost (7% NPV) of varying the number of covered contractors and 
+subcontractors vetted by up to 25% yields a range of cost of $75,940,649 at the 5th 
+percentile level to $80,751,987 at the 95th percentile level.  Recall, that the point estimate 
+of the expected cost the rule using the 50th percentile is $78,351,184.   
+ 
+
+Table 44: Annualized Monte Carlo Simulation Results for Variance in the Number 
+of Contractors and Subcontractors Vetted through E-Verify (7% NPV) 2009-2018 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $75,940,649  to $80,751,987  
+Entire range is from $73,678,727  to $83,792,723  
+Base case is $78,351,184  
+After 100,000 trials, the std. error of the mean is $3,909  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Forecast values 
+100,000 
+ $78,349,135  
+ $78,350,578  
+--- 
+ $1,236,002  
+ $1,527,699,949,191  
+-0.0039 
+2.82 
+0.0158 
+ $73,678,727  
+ $83,792,723  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+76 
+
+  Range Width 
+  Mean Std. Error 
+
+ 
+
+ 
+
+ $10,113,996  
+ $3,909  
+
+ 
+ 
+
+7% NPV Ten Year Contractors and Subcontractors Sensitivity 
+Analysis 
+ 
+For the 10 year (7% NPV) sensitivity analysis of varying the number of contractors and 
+subcontractors vetted by up to 25% yields a range of cost from $533,375,338 at the 5th 
+percentile level to $567,168,166 at the 95th percentile level.  Recall, that the point 
+estimate of the expected cost the rule using the 50th percentile is $550,305,932.  
+ 
+
+Table 45: 10 Year Monte Carlo Simulation Results for Variance in the Number of 
+
+Contractors & Subcontractors Vetted through E-Verify (7% NPV) 2009-2018 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Certainty level is 95.000% 
+ 
+Certainty range is from $533,375,338  to $567,168,166  
+Entire range is from $517,488,544  to $588,525,023  
+ 
+Base case is $550,305,932  
+ 
+After 100,000 trials, the std. error of the mean is $27,452  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Forecast values 
+100,000 
+ $550,291,541  
+ $550,301,674  
+--- 
+ $8,681,158  
+ $75,362,504,311,987  
+-0.0039 
+2.82 
+0.0158 
+ $517,488,544  
+ $588,525,023  
+
+ 
+
+77 
+
+  Range Width 
+  Mean Std. Error 
+
+ 
+
+ $71,036,478  
+ $27,452  
+
+ 
+ 
+Overall Sensitivity Analysis 
+ 
+In the below tables, we show both the initial year cost and the 10-year cost of the rule 
+assuming a simultaneous variance in both the number of employees vetted by E-Verify 
+(up to a 50% increase or decrease) and the number of covered contractors and 
+subcontractors (up to a 25% increase or decrease) required to enroll. 
+Initial Year Overall Sensitivity Analysis 
+ 
+In the initial year, the cost of the rule has a range of $91,286,170 to $137,662,971 at the 
+5th and 95th percentile levels, respectively.  
+ 
+Table 46: Monte Carlo Simulation Results for Variance in the Number of Employees 
+Vetted Through E-Verify and the Number of Contractors & Subcontractors Enrolled 
+
+in E-Verify in 2009 
+
+Summary: 
+ 
+
+ 
+ 
+ 
+
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $91,286,170  to 
+$137,662,971  
+Entire range is from $77,314,506  to $153,368,113  
+Base case is $114,501,212  
+After 100,000 trials, the std. error of the mean is 
+$37,925  
+ 
+ 
+ 
+ 
+ 
+
+Forecast values 
+100,000 
+ $114,511,432  
+ $114,527,895  
+--- 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+78 
+
+ 
+ 
+ 
+
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ $11,992,864  
+ $143,828,783,600,113  
+-0.0081 
+2.67 
+0.1047 
+ $77,314,506  
+ $153,368,113  
+ $76,053,606  
+ $37,925  
+
+3% NPV Annualized Overall Sensitivity Analysis 
+ 
+The annualized cost (3% NPV) ranges from $73,385,048 to $83,422,758 at the 5th and 
+95th percentile levels, respectively. 
+ 
+
+Table 47: Annualized Monte Carlo Simulation Results for Variance in the Number 
+of Employees Vetted Through E-Verify & the Number of Firms Enrolled over the 
+
+Ten Year Period (3% NPV) 2009-2018 
+
+ 
+ 
+
+ 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+
+ 
+ 
+ 
+Certainty level is 95.000% 
+ 
+Certainty range is from $73,385,048  to $83,422,758  
+ 
+Entire range is from $67,686,237  to $88,510,805  
+Base case is $78,412,736  
+ 
+After 100,000 trials, the std. error of the mean is $8,088  
+ 
+ 
+ 
+ 
+ 
+
+Forecast values 
+100,000 
+ $78,403,408  
+ $78,404,311  
+--- 
+ $2,557,758  
+ $6,542,128,171,904  
+-0.0078 
+
+ 
+ 
+
+ 
+
+ 
+
+79 
+
+ 
+
+  Kurtosis 
+  Coeff. of Variability 
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+2.95 
+0.0326 
+ $67,686,237  
+ $88,510,805  
+ $20,824,568  
+ $8,088  
+
+3% NPV Ten Year Overall Sensitivity Analysis 
+ 
+The ten year cost (3% NPV) ranges from $625,989,348 to $711,613,044 at the 5th and 
+95th percentile levels, respectively. 
+ 
+
+Table 48: 10 Year Monte Carlo Simulation Results for Variance in the Number of 
+Employees Vetted Through E-Verify & the Number of Firms Enrolled in E-Verify 
+
+(3% NPV) 2009-2018 
+
+Summary: 
+ 
+
+ 
+ 
+ 
+
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $625,989,348  to 
+$711,613,044  
+Entire range is from $577,377,332  to $755,015,119  
+Base case is $668,876,539  
+After 100,000 trials, the std. error of the mean is 
+$68,995  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $668,796,977  
+ $668,804,674  
+--- 
+ $21,818,198  
+ $476,033,772,322,454  
+-0.0078 
+2.95 
+0.0326 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+80 
+
+ 
+
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ $577,377,332  
+ $755,015,119  
+ $177,637,787  
+ $68,995  
+
+ 
+
+ 
+
+7% NPV Annualized Overall Sensitivity Analysis 
+ 
+The annualized cost (7% NPV) ranges from $73,175,062 to $83,504,483 at the 5th and 
+95th percentile levels, respectively. 
+ 
+
+Table 49: Annualized Monte Carlo Simulation Results for Variance in the Number 
+of Employees Vetted Through E-Verify & the Number of Firms Enrolled over the 
+
+Ten Year Period (7% NPV) 2009-2018 
+
+ 
+ 
+
+ 
+ 
+ 
+Certainty level is 95.000% 
+ 
+Certainty range is from $73,175,062  to $83,504,483  
+ 
+Entire range is from $67,674,191  to $88,896,395  
+ 
+Base case is $78,351,184  
+After 100,000 trials, the std. error of the mean is $8,318  
+ 
+ 
+ 
+ 
+ 
+
+Summary: 
+ 
+ 
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+
+ 
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $78,341,923  
+ $78,344,637  
+--- 
+ $2,630,448  
+ $6,919,256,522,574  
+-0.0077 
+2.94 
+0.0336 
+
+ 
+
+ 
+
+81 
+
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ 
+
+ $67,674,191  
+ $88,896,395  
+ $21,222,203  
+ $8,318  
+
+7% NPV Ten Year Overall Sensitivity Analysis 
+ 
+The ten year cost (7% NPV) ranges from $513,951,018 to $586,500,545 at the 5th and 
+95th percentile levels, respectively. 
+ 
+
+Table 50: 10 Year Monte Carlo Simulation Results for Variance in the Number of 
+Employees Vetted Through E-Verify & the Number of Firms Enrolled in E-Verify 
+
+(7% NPV) 2009-2018 
+
+ 
+
+ 
+
+Summary: 
+ 
+
+ 
+
+ 
+ 
+ 
+Statistics: 
+  Trials 
+  Mean 
+  Median 
+  Mode 
+  Standard Deviation 
+  Variance 
+  Skewness 
+  Kurtosis 
+  Coeff. of Variability 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+Certainty level is 95.000% 
+Certainty range is from $513,951,018  to 
+$586,500,545  
+Entire range is from $475,315,202  to 
+ 
+$624,371,077  
+ 
+Base case is $550,305,932  
+After 100,000 trials, the std. error of the mean is $58,424  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Forecast values 
+100,000 
+ $550,240,885  
+ $550,259,944  
+--- 
+ $18,475,166  
+ $341,331,751,561,803  
+-0.0077 
+2.94 
+0.0336 
+
+ 
+
+82 
+
+  Minimum 
+  Maximum 
+  Range Width 
+  Mean Std. Error 
+
+ 
+ 
+ 
+
+ $475,315,202  
+ $624,371,077  
+ $149,055,875  
+ $58,424  
+
+ 
+
+ 
+
+83 
+
+

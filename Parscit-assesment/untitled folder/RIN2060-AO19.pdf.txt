@@ -1,0 +1,756 @@
+ 
+
+ 
+
+Cover Sheet for Transmitting Documents under E.O. 12866 
+
+ 
+ 
+Information about the Regulatory Action Related to This Document 
+ 
+ 
+Title of the Regulatory Action:  Draft NO2 NAAQS Regulatory Impact Analysis (RIA) 
+ 
+Regulatory Identifier Number (RIN):  2060-AO19 
+ 
+Stage of Action:  Proposal 
+ 
+ 
+ 
+Information about This Document 
+ 
+ 
+Document Creation Date:  05-27-09 
+ 
+ 
+Document Type: 
+ 
+(  )    Draft preamble and regulatory text (i.e., this is the regulatory action) 
+(  )    Draft Technical Support Document 
+(x)    Draft Regulatory Impact Analysis 
+(  )    Draft Information Collection Request 
+(  )    Other:  _________________________________________________ 
+ 
+ 
+ 
+
+ 
+
+Executive Summary 
+
+ES.1  Overview
+
+This Regulatory Impact Analysis (RIA) provides illustrative estimates of the incremental 
+
+costs and monetized human health benefits of attaining a lower-bound revised short-term 
+Nitrogen Dioxide (NO2) National Ambient Air Quality Standard (NAAQS) within the current 
+community-wide monitoring network of 409 monitors.  Because this analysis only considers 
+counties with an NO2 monitors, the possibility exists that there may be many more potential 
+nonattainment areas than have been analyzed in this RIA.  
+ 
+
+The proposal would set a new short-term NO2 standard based on the 3-year average of 
+the 99th percentile of 1-hour daily maximum concentrations, establishing a new standard within 
+the range of 80 to 100 ppb. The proposal also requests comment on standard levels ranging 
+from a low of 65 ppb to a high of 125 ppb. As a lower bound, we chose an alternative primary 
+standard of 50 parts per billion (ppb).  This more stringent NAAQS alternative affects the largest 
+number of geographic areas that may be affected by a new NO2 standard. Our analysis of this 
+hypothetical scenario is meant to approximate the most comprehensive set of control 
+strategies that areas across the country might employ to attain. (We chose 50 ppb as an 
+analytic lower bound before decisions were made about either the proposed range, or the 
+range for requesting public comment.)  
+
+ 
+This RIA chiefly serves two purposes. First, it provides the public with an estimate of the 
+expected costs and benefits of attaining a new NO2 NAAQS. Second, it fulfills the requirements 
+of Executive Order 12866 and the guidelines of OMB Circular A-4. 1  These documents present 
+guidelines for EPA to assess the benefits and costs of the selected regulatory option, as well as 
+one less stringent and one more stringent option. As stated above, we chose 50 ppb as an 
+analytic lower bound.  Our original intent had been to also analyze a target NAAQS level of 100 
+ppb as a mid-range target identified in the Risk and Exposure Assessment (REA) as an 
+epidemiological level of concern.  We had also intended to analyze an upper bound of 200 ppb.  
+As it turned out, as shown in chapter 3, our projections indicated no counties in the analysis 
+year of 2020 that would have ambient 1-hour peak levels as high as the 80 to 100 ppb proposal 
+range, assuming a baseline of no additional control beyond the controls expected from rules 
+
+                                                           
+1 U.S. Office of Management and Budget. Circular A-4, September 17, 2003. Available at 
+http://www.whitehouse.gov/omb/circulars/a004/a-4.pdf. 
+
+ES-2 
+
+that are already in place (including the current PM2.5 and ozone NAAQS).1 Therefore the bulk of 
+our analysis in this RIA focuses on the lower bound target NAAQS level of 50 ppb.  
+
+ 
+This analysis does not estimate the projected attainment status of areas of the country 
+other than those counties currently served by one of the 409 monitors in the current network.  
+Chapter 2 explains that the current network is focused on community-wide ambient levels of 
+NO2, and not near-roadway levels, which may be significantly higher, and the proposal also 
+contains requirements for an NO2 monitoring network that will include monitors near major 
+roadways.  We recognize that once a network of near-roadway monitors is put in place, more 
+areas could find themselves exceeding the new hourly NO2 NAAQS.  However for this RIA 
+analysis, we lack sufficient data to predict which counties might exceed the new NAAQS after 
+implementation of a near-roadway monitoring network.  Therefore we lack a credible analytic 
+path to estimating costs and benefits for such a future scenario. 
+
+ 
+In setting primary ambient air quality standards, EPA’s responsibility under the law is to 
+
+establish standards that protect public health, regardless of the costs of implementing a new 
+standard.  The Clean Air Act requires EPA, for each criteria pollutant, to set a standard that 
+protects public health with “an adequate margin of safety.” As interpreted by the Agency and 
+the courts, the Act requires EPA to create standards based on health considerations only.  
+
+The prohibition against the consideration of cost in the setting of the primary air quality 
+
+standard, however, does not mean that costs or other economic considerations are 
+unimportant or should be ignored. The Agency believes that consideration of costs and benefits 
+is essential to making efficient, cost effective decisions for implementation of these standards. 
+The impacts of cost and efficiency are considered by states during this process, as they decide 
+what timelines, strategies, and policies are most appropriate. This RIA is intended to inform the 
+public about the potential costs and benefits associated with a hypothetical scenario that may 
+result when a new NO2 standard is implemented, but is not relevant to establishing the 
+standards themselves.   
+
+ 
+ES.2  Summary of Analytic Approach  
+
+                                                           
+1 For this RIA, we chose an analysis year of 2020.  Although the actual attainment year is likely to be 2017, time 
+and resource limitations dictated use of pre-existing model runs, which all focused on 2020.  In addition, we do not 
+have emission inventory projections for 2017; such projections are done for 5-year intervals. 
+
+ 
+
+ES-3 
+
+Our assessment of the lower bound NO2 target NAAQS includes several key elements, 
+
+including specification of baseline NO2 emissions and concentrations; development of 
+illustrative control strategies to attain the standard in 2020; and analyses of the control costs 
+and health benefits of reaching the 50 ppb lower bound alternative.  Additional information on 
+the methods employed by the Agency for this RIA is presented below. 
+ 
+Overview of Baseline Emissions Forecast and Baseline NO2 Concentrations 
+ 
+
+The baseline emissions and concentrations for this RIA are based on NOx emissions data 
+from the 2002 National Emissions Inventory (NEI), and baseline NO2 concentration values from 
+2005-2007 across the community-wide monitoring network.  We used results from the 
+community multi-scale air quality model (CMAQ) simulations from the ozone NAAQS RIA to 
+calculate the expected reduction in ambient NO2 concentrations between the 2002 base year 
+and 2020.  More specifically, design values (i.e. air quality concentrations at each monitor) were 
+calculated for 2020 using monitored air quality concentrations from 2002 and modeled air 
+quality projections for 2020, countywide emissions inventory data for 2002 and 2005-7, and 
+emissions inventory projections for 2020.  These data were used to create ratios between 
+emissions and air quality, and those ratios (relative response factors, or RRFs) were used to 
+estimate air quality monitor design values for 2020.  The 2020 baseline air quality estimates 
+revealed that ten monitors in six counties were projected to exceed a 50 ppb lower bound 
+target NAAQS in 2020. 
+ 
+Development of Illustrative Control Strategies 
+   
+
+For the lower bound of 50 ppb, we analyzed the impact that additional emissions 
+
+controls applied to numerous sectors would have on predicted ambient NO2 concentrations, 
+incremental to the baseline set of controls. Thus the modeled analysis for a revised standard 
+focuses specifically on incremental improvements beyond the current standards, and uses 
+control options that might be available to states for application by 2020. The hypothetical 
+modeled control strategy presented in this RIA is one illustrative option for achieving emissions 
+reductions to move towards a national attainment of a tighter standard. It is not a 
+recommendation for how a tighter NO2 standard should be implemented, and states will make 
+all final decisions regarding implementation strategies once a final NAAQS has been set.  
+
+Generally, we expect that the nation will be able to attain a tighter NO2 NAAQS without 
+the addition of new controls beyond those already being planned for the attainment of existing 
+PM2.5 and ozone standards by the year 2020.   As States develop their plans for attaining these 
+existing standards, they are likely to consider adding controls to reduce NOx, as NOx is a 
+
+ES-4 
+
+precursor to both PM2.5 and ozone.  These controls will also directly help areas meet a tighter 
+NO2 standard.   
+
+ 
+The 2020 baseline air quality estimates revealed that 10 monitors in 6 counties had 
+
+projected design values exceeding 50 ppb.  We then developed a hypothetical control strategy 
+that could be adopted to bring the current highest emitting monitor in each of those six 
+counties into attainment with a primary standard of 50 ppb by 2020.  Controls for five 
+emissions sectors were included in the control analysis:  non-electricity generating unit point 
+sources (nonEGU), non-point area sources (area), onroad mobile sources (onroad), and 
+nonroad mobile sources (nonroad) and electricity generating unit point sources (EGU). Finally, 
+we note that because it was not possible, in this analysis, to bring all areas into attainment with 
+the alternative standard of 50 ppb in all areas using only identified controls.  For two monitor 
+areas we estimated the cost of unspecified emission reductions.  In chapter 4 we discuss these 
+areas in more detail. 
+
+ 
+
+Analysis of Benefits 
+ 
+
+Our analysis of the benefits associated with the 50 ppb target includes benefits related 
+
+to reducing NO2 concentrations, and the ancillary benefits of reducing concentrations of 
+particulate matter (PM).  For the primary benefits analysis, we use the Environmental Benefits 
+Mapping and Analysis Program (BenMAP) to estimate the health benefits occurring as a result 
+of implementing alternative NO2 NAAQS levels.  Although BenMAP has been used extensively in 
+previous RIAs to estimate the health benefits of reducing exposure to PM2.5 and ozone, this is 
+the first RIA to use BenMAP to estimate the health benefits of reducing exposure to NO2.   
+
+ 
+The primary input to the benefits assessment is the estimated changes in ambient air 
+
+quality expected to result from a simulated control strategy or attainment of a particular 
+standard.  CMAQ projects both design values at NO2 monitors and air quality concentrations at 
+12km grid cells.  To estimate the benefits of fully attaining the standards in all areas, EPA 
+employed the “monitor rollback” approach to approximate the air quality change resulting from 
+just attaining alternative NO2 NAAQS at each design value monitor.  This approach relies on 
+data from the existing NO2 monitoring network and the VNA interpolation method (inverse 
+distance squared) to adjust the CMAQ-modeled NO2 concentrations such that each areas area 
+just attains the 50 ppb standard alternative.   
+
+ 
+We then selected health endpoints to be consistent with the conclusions of the 
+
+Integrated Science Assessment (ISA) for NO2 .  In this analysis, we only estimated the benefits 
+for those endpoints with sufficient evidence to support a quantified concentration-response 
+
+ES-5 
+
+relationship using the information presented in the NO2 ISA, which contains an extensive 
+literature review for several health endpoints related to NO2 exposure.  Based on our review of 
+this information, we quantified three short-term morbidity endpoints that the NO2 ISA 
+identified as “sufficient to infer a likely causal relationship”: asthma exacerbation, respiratory-
+related emergency department visits, and respiratory-related hospitalizations.  After identifying 
+the health endpoints to quantify in this analysis, we then selected concentration-response 
+functions and valuation functions based on criteria detailed in chapter 5.  The valuation 
+functions, ambient concentrations, and population data in the monitor areas are combined in 
+BenMAP to provide the benefits estimates for this analysis. 
+
+ 
+In addition, because NOx is also a precursor to PM2.5, reducing NOx emissions in the 
+projected non-attainment areas will also reduce PM2.5 formation, human exposure, and the 
+incidence of PM2.5-related health effects.  In this analysis, we estimated the co-benefits of 
+reducing PM2.5 exposure for the alternative standards.  Due to analytical limitations, it was not 
+possible to provide a comprehensive estimate of PM2.5-related benefits.  Instead, we used the 
+“benefit-per-ton” method to estimate these benefits.  The PM2.5 benefit-per-ton estimates 
+provide the total monetized human health benefits (the sum of premature mortality and 
+premature morbidity) of reducing one ton of PM2.5 from a specified source.  EPA has used a 
+similar technique in previous RIAs, including the recent Ozone NAAQS RIA (U.S. EPA, 2008a) and 
+Portland Cement NESHAP RIA (U.S. EPA, 2009).   
+ 
+Analysis of Costs 
+ 
+
+Consistent with our development of the illustrative control strategies described above, 
+our analysis of the costs associated with the 50 ppb lower bound alternative NAAQS focuses on 
+NOx emission controls for nonEGU , area, EGU, and  mobile sources.   
+
+NonEGU and area source controls largely include measures from the AirControlNET 
+
+control technology database.  For these sources, we estimated costs based on the cost 
+equations included in AirControlNET.  The identified controls strategy for nonEGU Point and 
+Area sources incorporated annualized engineering cost per ton caps. These caps were defined 
+as the upper cost per ton for controls of nonEGU point and area sources. The caps used were 
+originally developed for the Ozone NAAQS analysis, where NOx controls were also applied.  The 
+number of applied control measures was much larger for that analysis, and therefore provides a 
+more robust estimate of what a potential cap on NOx costs would look like.   
+
+ES-6 
+
+The EGU analysis included in this RIA utilizes the latest version of the integrated 
+
+planning model (IPM) v3.0 as part of the updated modeling platform.1  IPM v3.0 includes input 
+and model assumption updates in modeling the power sector and incorporates Federal and 
+State rules and regulations adopted before September 2006 and various new source review 
+(NSR) settlements. The NOx control technology options used in IPM v3.0 include Selective 
+Catalytic Reduction (SCR) and Selective Non-Catalytic Reduction (SNCR) systems. It is important 
+to note that beyond these emission control options, IPM offers other compliance options for 
+meeting emission limits. These include fuel switching, re-powering, and adjustments in the 
+dispatching of electric generating units.  
+
+For onroad and nonroad mobile sources, costs, in terms of dollars per ton emissions 
+reduced, were applied to emission reductions calculated for the onroad and nonroad mobile 
+sectors that were generated using the National Mobile Inventory Model (NMIM). NMIM is an 
+EPA model for estimating air emissions from highway vehicles and nonroad mobile equipment. 
+NMIM uses current versions of EPA’s model for onroad mobile sources, MOBILE6, and nonroad 
+mobile sources, NONROAD, to calculate emission inventories.2
+ 
+
+Finally, as indicated in the above discussion on illustrative control strategies, 
+
+implementation of the NOx control measures identified from AirControlNET and other sources 
+does not result in attainment with the selected NAAQS in several areas.  In these areas, 
+additional unspecified emission reductions might be necessary to reach a 50 ppb target.  In 
+order to bring these monitor areas into attainment, we calculated controls costs using a fixed 
+cost per ton approach similar to that used in the ozone RIA analysis.   
+ 
+ES.3  Results of Analysis
+ 
+Air Quality 
+ 
+Table ES.1. shows the projected ambient NO2 concentrations for 2020 after application of 
+identified controls.  It also shows the additional tons of emission reduction needed from 
+unidentified controls. 
+
+                                                           
+1 http://www.epa.gov/airmarkets/progsregs/epa-ipm/past-modeling.html. 
+
+2 More information regarding the National Mobile Inventory Model (NMIM) can be found at http://www.epa.gov/otaq/nmim.htm
+
+ES-7 
+
+ 
+Table ES.1. Identified Controls Emission Reductions and Ambient Concentrations in 2020. 
+State  County 
+
+Design Values Post Application 
+of Identified Controls (99th 
+percentile 1-hr daily max ppb) 
+
+NOx Emission Reductions 
+Needed Beyond Identified 
+Controls (tons/year) 
+
+NOx Emission 
+Reductions in 2020     
+(tons/year) 
+-- 
+8,400 
+5,300 
+4,400 
+2,600 
+47 
+
+Los Angeles 
+Adams 
+East Baton Rouge 
+El Paso 
+Salt Lake 
+Charles City 
+
+CA 
+CO 
+LA 
+TX 
+UT 
+VA 
+ 
+Benefit and Cost Estimates 
+ 
+
+52.5 
+48.0 
+50.2 
+59.6 
+50.3 
+47.9 
+
+18,000 
+ 
+ 
+5,600 
+ 
+ 
+
+Tables ES.2 and ES.3 presents total national primary estimates of costs and benefits for a 
+
+3% discount rate and a 7% discount rate. 
+
+Table ES.2:  Summary of Total Costs for Alternative Standard 50 ppb in 2020  
+
+(Millions of 2006$)a, b 
+
+ 
+
+Identified Control Costs 
+
+Monitoring Costs 
+
+Extrapolated Costs 
+
+Total Costs 
+
+ 
+ 
+ 
+
+Fixed Cost ($10,000/ton) 
+Fixed Cost ($15,000/ton) 
+Fixed Cost ($20,000/ton) 
+Fixed Cost ($10,000/ton) 
+Fixed Cost ($15,000/ton) 
+Fixed Cost ($20,000/ton) 
+
+3% Discount Ratec
+
+7% Discount Rate 
+
+$36 
+$7.1 
+$240 
+$350 
+$470 
+$270 
+$390 
+$510 
+
+$44 
+$7.1 
+$240 
+$350 
+$470 
+$280 
+$400 
+$510 
+
+a All estimates rounded to two significant figures. As such, totals will not sum down columns. 
+b All estimates provided reflect the engineering cost of the identified control strategy analysis, incremental to a 
+2020 baseline of compliance with the current PM2.5 and Ozone standards. 
+c Total annualized costs were calculated using a 3% discount rate for controls which had a capital component and 
+where equipment life values were available. For the identified control strategy, data for calculating annualized 
+costs at a 3% discount was available for point sources. Therefore, the total annualized identified control cost value 
+presented in this referenced cell is an aggregation of engineering costs at 3% and 7% discount rate. 
+ 
+
+The total benefits estimates include NO2-related benefits as well as PM2.5 co-benefits.  
+The two estimates use the unadjusted effect estimates (no-threshold) from two epidemiology 
+studies examining the relationship between PM2.5 and premature mortality using large 
+population cohorts: the American Cancer Society cohort (Pope et al., 2002) and the Harvard Six 
+Cities cohort (Laden et al., 2006).   
+
+ 
+
+ES-8 
+
+Table ES.3.  Summary of Total Benefits in 2020 (Millions of 2006$) 
+
+  
+
+NO2 
+PM2.5
+
+Pope et al 
+Laden et al 
+
+TOTAL with Pope 
+TOTAL with Laden  
+
+3% Full 
+
+Attainment 
+
+7% Full 
+
+Attainment 
+
+3% Partial 
+Attainment 
+
+7% Partial 
+Attainment 
+
+$6.2 
+
+ 
+
+$230 
+$570 
+$240 
+$580 
+
+$6.2 
+
+ 
+
+$210 
+$520 
+$220 
+$520 
+
+$5.9 
+
+ 
+
+$130 
+$310 
+$130 
+$310 
+
+$5.9 
+
+ 
+
+$120 
+$280 
+$120 
+$280 
+
+*All estimates are for the analysis year (2020) and are rounded to two significant figures.  These benefits estimates 
+do not include several important benefits categories, including NO2-related premature mortality, ecosystem 
+effects from nitrogen deposition, ozone-related health effects, or improvements in visibility. 
+
+ 
+
+The net benefits were calculated by subtracting the total cost estimate from the two 
+
+estimates of total benefits.  Table ES.4 shows net benefits of the selected NAAQS and 
+alternative standards.   
+
+ 
+
+Table ES.4 Summary of Net Benefits for Alternative Standard 50 ppb in 2020  
+
+ 
+
+Total RIA Costs + Monitoring Costs 
+
+Total Benefits a
+
+Total 
+
+(Millions of 2006$) 
+
+3% Discount Rate 
+
+$390 + $7.1 
+$240 - $580 
+$(160) - $180 
+
+7% Discount Rate 
+
+$400 + $7.1 
+$220 - $520 
+$(190) - $110 
+
+a These benefits estimates do not include several important benefits categories, including NO2-related premature 
+mortality, ecosystem effects from nitrogen deposition, ozone-related health effects, or improvements in visibility. 
+ 
+ES.4.  Caveats and Limitations 
+ 
+Air Quality Data, Modeling and Emissions 
+ 
+
+•  Current PM2.5 and Ozone Controls in Baseline:  Our 2020 analysis year baseline assumes 
+that States will put in place the necessary control strategies to attain the current PM2.5 
+and ozone standards.   Some of the control strategies employed as part of the ozone 
+RIA, in particular, were of necessity highly uncertain. As States develop their plans for 
+attaining these standards, their NOx control strategies may differ significantly from our 
+analysis. 
+
+ 
+
+•  Use of Existing CMAQ Model Runs:  This analysis represents a screening level analysis.  
+We did not conduct new regional scale modeling specifically targets to NO2; instead we 
+
+ES-9 
+
+ 
+
+ 
+
+relied upon impact ratios developed from model runs used in the analysis underlying 
+the ozone NAAQS. 
+   
+
+•  Analysis Year of 2020:  Data limitations necessitated the choice of an analysis year of 
+
+2020, as opposed to the presumptive implementation year of 2017.  Emission inventory 
+projections are available for 5-year increments; i.e. we have inventories for 2015 and 
+2020, but not 2017.  In addition, the CMAQ model runs upon which we relied were also 
+based on an analysis year of 2020. 
+
+•  Unknown controls:  We have limited information on available controls for some of the 
+
+monitor areas included in this analysis.  For example, a full set of identified controls 
+were applied to Los Angeles County in the Ozone NAAQS RIA; because this analysis is 
+incremental, this left no additional identified control measures to be applied, 
+particularly because we do not have emission reduction estimates for the Port of Long 
+Beach in our analysis.   
+
+•  Limited monitoring network: For the current monitoring community-wide monitoring 
+network, the universe of monitors exceeding the target NAAQS levels is very small.   
+Once a network of near-roadway monitors is put in place, there could be more potential 
+nonattainment areas than have been analyzed in this RIA. 
+   
+
+•  Actual State Implementation Plans May Differ from our Simulation:  In order to reach 
+attainment with each selected NAAQS, each state will develop its own implementation 
+plan implementing a combination of emissions controls that may differ from those 
+simulated in this analysis.  This analysis therefore represents an approximation of the 
+emissions reductions that would be required to reach attainment and should not be 
+treated as a precise estimate.   
+
+ 
+•  Uncertainty associated with unspecified emission reductions: As indicated above, some 
+areas are expected to rely on unspecified emission reductions to reach attainment with 
+the standards.  The cost of implementing these measures, though estimated here based 
+on the costs for identified controls, is uncertain. 
+
+ 
+Costs 
+ 
+
+•  We do not have sufficient information for all of our known control measures to calculate 
+cost estimates that vary with an interest rate. We are able to calculate annualized costs 
+at an interest rate other than 7% (e.g., 3% interest rate) where there is sufficient 
+
+ES-10 
+
+information—available capital cost data, and equipment life—to annualize the costs for 
+individual control measures. For the vast majority of nonEGU point source control 
+measures, we do have sufficient capital cost and equipment life data for individual 
+control measures to prepare annualized capital costs using the standard capital recovery 
+factor. Hence, we are able to provide annualized cost estimates at different interest 
+rates for the point source control measures. 
+
+ 
+
+•  There are some unquantified costs that are not adequately captured in this illustrative 
+
+analysis. These costs include the costs of federal and State administration of control 
+programs, which we believe are less than the alternative of States developing 
+approvable SIPs, securing EPA approval of those SIPs, and Federal/State enforcement. 
+Additionally, control measure costs referred to as “no cost” may require limited 
+government agency resources for administration and oversight of the program not 
+included in this analysis; those costs are generally outweighed by the saving to the 
+industrial, commercial, or private sector. The Agency also did not consider transactional 
+costs and/or effects on labor supply in the illustrative analysis.  
+
+ 
+Benefits 
+ 
+
+  
+
+•  Benefits are most uncertain for the Los Angeles and El Paso areas because a large 
+
+proportion of the PM2.5-related benefits are based on emission reductions 
+attributable to unidentified emission controls.  It is possible that new technologies 
+might not meet the specifications, development timelines, or cost estimates 
+provided in this analysis, thereby increasing the uncertainty in when and if such 
+benefits would be truly achieved. 
+
+ 
+•  The gradient of ambient NO2 concentrations is difficult to estimate due to the 
+
+sparsity of the monitoring network.  The 12km CMAQ grid, which is the air quality 
+modeling resolution, may be too coarse to accurately estimate the potential near-
+field health benefits of reducing NO2 emissions.  These uncertainties may under- or 
+over-estimate benefits.  
+
+•  The interpolation techniques used to estimate the full attainment benefits of the 
+
+alternative standards contributed some uncertainty to the analysis.  The great 
+majority of benefits estimated for the 50 ppb standard alternative were derived 
+through interpolation.  As noted previously in chapter 5, these benefits are likely to 
+be more uncertain than if we had modeled the air quality scenario for both NO2 and 
+PM2.5.  In general, the VNA interpolation approach will under-estimate benefits 
+
+ 
+
+ES-11 
+
+because it does not account for the broader spatial distribution of air quality 
+changes that may occur due to the implementation of a regional emission control 
+program. 
+
+ 
+•  There are many uncertainties associated with the health impact functions used in 
+this modeling effort.  These include: within study variability; across study variation; 
+the application of concentration-response (C-R) functions nationwide; extrapolation 
+of impact functions across population; and various uncertainties in the C-R function, 
+including causality and thresholds.  These uncertainties may under- or over-estimate 
+benefits.  
+
+•  Co-pollutants present in the ambient air may have contributed to the health effects 
+
+attributed to NO2 in single pollutant models.  Risks attributed to NO2 might be 
+overestimated where concentration-response functions are based on single 
+pollutant models.  If co-pollutants are highly correlated with NO2, their inclusion in 
+an NO2 health effects model can lead to misleading conclusions in identifying a 
+specific causal pollutant.  Because this collinearity exists, many of the studies 
+reported statistically insignificant effect estimates for both NO2 and the co-
+pollutants.  Where available, we have selected multipollutant effect estimates to 
+control for the potential confounding effects of co-pollutants; these include NYDOH 
+(2006), Schwartz et al. (1994) and O’Conner et al. (2007).  The remaining studies 
+include single pollutant models.   
+
+•  This analysis is for the year 2020, and projecting key variables introduces 
+
+uncertainty.  Inherent in any analysis of future regulatory programs are uncertainties 
+in projecting atmospheric conditions and source level emissions, as well as 
+population, health baselines, incomes, technology, and other factors.   
+
+•  This analysis omits certain unquantified effects due to lack of data, time and 
+
+resources.  These unquantified endpoints include other health effects, ecosystem 
+effects, and visibility.  EPA will continue to evaluate new methods and models and 
+select those most appropriate for estimating the benefits of reductions in air 
+pollution.  Enhanced collaboration between air quality modelers, epidemiologists, 
+toxicologists, ecologists, and economists should result in a more tightly integrated 
+analytical framework for measuring benefits of air pollution policies. 
+
+ 
+
+ 
+
+ 
+
+  
+
+ES-12 
+
+   
+
+   
+
+  
+
+  
+
+•  PM2.5 co-benefits represent a substantial proportion of total monetized benefits 
+(97% to 99% of total benefits for the 50 ppb standard), and these estimates are 
+subject to a number of assumptions and uncertainties. 
+
+•  PM2.5 co-benefits were derived through benefit per-ton estimates, which do not 
+
+reflect local variability in population density, meteorology, exposure, baseline health 
+incidence rates, or other local factors that might lead to an over-estimate or under-
+estimate of the actual benefits of controlling directly emitted fine particulates. 
+
+•  We assume that all fine particles, regardless of their chemical composition, are 
+equally potent in causing premature mortality.  This is an important assumption, 
+because PM2.5 produced via transported precursors emitted from EGUs may differ 
+significantly from direct PM2.5 released from diesel engines and other industrial 
+sources, but no clear scientific grounds exist for supporting differential effects 
+estimates by particle type. 
+
+•  We assume that the health impact function for fine particles is linear within the 
+
+range of ambient concentrations under consideration.  Thus, the estimates include 
+health benefits from reducing fine particles in areas with varied concentrations of 
+PM2.5, including both regions that are in attainment with fine particle standard and 
+those that do not meet the standard down to the lowest modeled concentrations. 
+
+•  To characterize the uncertainty in the relationship between PM2.5 and premature 
+
+mortality (which typically accounts for 85% to 95% of total monetized benefits), we 
+include a set of twelve estimates based on results of the expert elicitation study in 
+addition to our core estimates.  Even these multiple characterizations omit the 
+uncertainty in air quality estimates, baseline incidence rates, populations exposed 
+and transferability of the effect estimate to diverse locations.  As a result, the 
+reported confidence intervals and range of estimates give an incomplete picture 
+about the overall uncertainty in the PM2.5 estimates.  This information should be 
+interpreted within the context of the larger uncertainty surrounding the entire 
+analysis. 
+
+ 
+
+ES-13 
+
+

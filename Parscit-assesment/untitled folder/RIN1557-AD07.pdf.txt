@@ -1,0 +1,2291 @@
+ 
+ 
+
+REGULATORY IMPACT ANALYSIS 
+
+ 
+
+For 
+
+ 
+
+Risk-Based Capital Guidelines; Capital Adequacy Guidelines; 
+Capital Maintenance: Standardized Risk-Based Capital Rules 
+
+(Basel II: Standardized Option) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2008 
+
+ 
+
+Office of the Comptroller of the Currency 
+
+International and Economic Affairs 
+
+ 
+
+1
+
+ 
+
+REGULATORY IMPACT ANALYSIS 
+
+Executive Order 12866 requires federal agencies to prepare a regulatory impact analysis 
+for agency actions that are found to be “significant regulatory actions”.  Significant regulatory 
+actions include, among other things, rulemakings that “have an annual effect on the economy of 
+$100 million or more or adversely affect in a material way the economy, a sector of the 
+economy, productivity, competition, jobs, the environment, public health or safety, or State, 
+local, or tribal governments or communities.”1  Regulatory actions that satisfy one or more of 
+these criteria are referred to as “economically significant regulatory actions.”   
+
+Based on the OCC’s estimate of the number of national banks likely to adopt this 
+
+proposal and the proposal’s total cost of approximately $74 million, the proposed rule would not 
+have an annual effect on the economy of $100 million or more.  In light of certain unique 
+features of the proposal, the OCC has nevertheless prepared this regulatory impact analysis.  
+Specifically, this proposal affords most national banks the option to apply this approach, which 
+results in additional uncertainty in estimating the total costs. 
+
+In conducting the regulatory analysis for an economically significant regulatory action, 
+
+Executive Order 12866 requires each federal agency to provide to the Administrator of the 
+Office of Management and Budget’s Office of Information and Regulatory Affairs (OIRA): 
+
+•  The text of the draft regulatory action, together with a reasonably detailed description of 
+
+the need for the regulatory action and an explanation of how the regulatory action will 
+meet that need; 
+
+•  An assessment of the potential costs and benefits of the regulatory action, including an 
+explanation of the manner in which the regulatory action is consistent with a statutory 
+mandate and, to the extent permitted by law, promotes the President's priorities and 
+avoids undue interference with State, local, and tribal governments in the exercise of their 
+governmental functions; 
+
+•  An assessment, including the underlying analysis, of benefits anticipated from the 
+
+regulatory action (such as, but not limited to, the promotion of the efficient functioning of 
+the economy and private markets, the enhancement of health and safety, the protection of 
+the natural environment, and the elimination or reduction of discrimination or bias) 
+together with, to the extent feasible, a quantification of those benefits; 
+
+•  An assessment, including the underlying analysis, of costs anticipated from the regulatory 
+action (such as, but not limited to, the direct cost both to the government in administering 
+the regulation and to businesses and others in complying with the regulation, and any 
+adverse effects on the efficient functioning of the economy, private markets (including 
+productivity, employment, and competitiveness), health, safety, and the natural 
+environment), together with, to the extent feasible, a quantification of those costs; and 
+
+                                                 
+1  Executive Order 12866 (September 30, 1993), 58 FR 51735 (October 4, 1993), as amended by Executive Order 
+13258, 67 FR 9385 (February 28, 2002) and by Executive Order 13422, 72 FR 2763 (January 23, 2007).  For the 
+complete text of the definition of "significant regulatory action," see E.O. 12866 at § 3(f).  A "regulatory action" is 
+"any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to 
+lead to the promulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed 
+rulemaking, and notices of proposed rulemaking."  E.O. 12866 at § 3(e). 
+ 
+
+ 
+
+2
+
+•  An assessment, including the underlying analysis, of costs and benefits of potentially 
+
+effective and reasonably feasible alternatives to the planned regulation, identified by the 
+agencies or the public (including improving the current regulation and reasonably viable 
+nonregulatory actions), and an explanation why the planned regulatory action is 
+preferable to the identified potential alternatives. 
+
+ 
+
+We submit this regulatory impact analysis to meet the requirements of Executive Order 
+
+12866.  In doing so, we believe that this regulatory impact analysis also meets the regulatory 
+assessment requirements of the Unfunded Mandates Reform Act of 1995 (UMRA).  The 
+regulatory analysis for Executive Order 12866 captures most of the analytical requirements of 
+the UMRA.  The UMRA asks for additional estimates of any disproportionate budgetary effects 
+of the federal mandate upon any particular regions of the nation or particular State, local, or 
+tribal governments, urban or rural or other types of communities, or particular segments of the 
+private sector.  The OCC does not expect the revised capital adequacy guidelines to have any 
+disproportionate budgetary effect on any particular regions of the nation or particular State, local, 
+or tribal governments, urban or rural or other types of communities, or particular segments of the 
+private sector.  The UMRA also requires the OCC to include estimates of the effect the 
+rulemaking action may have on the national economy, if the OCC determines that such estimates 
+are reasonably feasible and that such effect is relevant and material.  We discuss the effect of the 
+rule on the financial sector and the national economy in this regulatory analysis.    
+
+   
+
+ 
+
+3
+
+EXECUTIVE SUMMARY 
+
+ 
+THE NEED FOR THE REGULATORY ACTION 
+
+I. 
+
+Federal banking law directs federal banking agencies including the Office of the 
+
+Comptroller of the Currency (OCC) to require banking organizations to hold adequate capital.  
+The law authorizes federal banking agencies to set minimum capital levels to ensure that banking 
+organizations maintain adequate capital.  The law also gives federal banking agencies broad 
+discretion with respect to capital regulation by authorizing them to also use any other methods 
+that they deem appropriate to ensure capital adequacy.   
+
+Capital regulation seeks to address market failures that stem from several sources.  
+
+Asymmetric information about the risk in a bank’s portfolio creates a market failure by hindering 
+the ability of creditors and outside monitors to discern a bank’s actual risk and capital adequacy.  
+Moral hazard creates market failure in which the bank’s creditors fail to restrain the bank from 
+taking excessive risks because deposit insurance either fully or partially protects them from 
+losses.  Public policy addresses these market failures because individual banks fail to adequately 
+consider the positive externality or public benefit that adequate capital brings to financial 
+markets and the economy as a whole. 
+
+Capital regulations cannot be static.  Innovation in and transformation of financial 
+
+markets require periodic reassessments of what may count as capital and what amount of capital 
+is adequate.  Continuing changes in financial markets create both a need and an opportunity to 
+refine capital standards in banking.  The proposed revisions to U.S. risk-based capital rules, 
+“Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance: 
+Standardized Risk-Based Capital Rules” (Standardized Option), which we address in this impact 
+analysis, provide a new option for determining risk-based capital for banking organizations not 
+required to operate under “Risk-Based Capital Standards: Advanced Capital Adequacy 
+Framework (Advanced Approaches).  The Standardized Option and the Advanced Approaches 
+reflect the implementation in the United States of the Basel Committee on Banking 
+Supervision’s “International Convergence of Capital Measurement and Capital Standards: A 
+Revised Framework” (New Accord).   
+
+ 
+II. 
+
+REGULATORY BACKGROUND 
+
+The proposed capital regulation examined in this analysis would apply to commercial 
+banks and savings associations (collectively, banks).  Three banking agencies, the OCC, the 
+Board of Governors of the Federal Reserve System (Board), and the Federal Deposit Insurance 
+Corporation (FDIC) regulate commercial banks, while the Office of Thrift Supervision (OTS) 
+regulates all federally chartered and many state-chartered savings associations.  Throughout this 
+document, the four are jointly referred to as the federal banking agencies. 
+
+The New Accord comprises three mutually reinforcing “pillars” as summarized below. 
+
+ 
+
+4
+
+1.  Minimum capital requirements (Pillar 1) 
+The first pillar establishes a method for calculating minimum regulatory capital.  It sets 
+
+new requirements for assessing credit risk and operational risk while generally retaining the 
+approach to market risk as developed in the 1996 amendments to the 1988 Accord.   
+
+ 
+The New Accord offers banks a choice of three methodologies for calculating the capital 
+charge for credit risk.  The first approach, called the Standardized Approach, essentially refines 
+the risk-weighting framework of the 1988 Accord.  The other two approaches are variations on 
+an internal ratings-based (IRB) approach that leverages banks’ internal credit-rating systems: a 
+“foundation” methodology whereby banks estimate the probability of borrower or obligor 
+default, and an “advanced” approach whereby organizations also supply other inputs needed for 
+the capital calculation.  In addition, the new framework uses more risk-sensitive methods for 
+dealing with collateral, guarantees, credit derivatives, securitizations, and receivables.   
+
+ 
+The New Accord also introduces an explicit capital requirement for operational risk.2  
+
+The New Accord offers banks a choice of three methodologies for calculating their capital 
+charge for operational risk.  The first method, called the Basic Indicator Approach, requires 
+banks to hold capital for operational risk equal to 15 percent of annual gross income (averaged 
+over the most recent three years).  The second option, called the Standardized Approach, uses a 
+formula that divides a bank’s activities into eight business lines, calculates the capital charge for 
+each business line as a fixed percentage of gross income (12 percent, 15 percent, or 18 percent 
+depending on the nature of the business, again averaged over the most recent three years), and 
+then sums across business lines.  The third option, called the Advanced Measurement 
+Approaches (AMA), uses an institution’s internal operational risk measurement system to 
+determine the capital requirement.      
+
+ 
+2.  Supervisory review process (Pillar 2) 
+The second pillar calls upon banking organizations to have an internal capital assessment 
+
+process and banking supervisors to evaluate each bank’s overall risk profile as well as its risk 
+management and internal control processes.  This pillar establishes an expectation that banks 
+hold capital beyond the minimums computed under Pillar 1, including additional capital for any 
+risks that are not adequately captured under Pillar 1.  It encourages organizations to develop 
+better risk management techniques for monitoring and managing their risks.  Pillar 2 also charges 
+supervisors with the responsibility to ensure that organizations using advanced Pillar 1 
+techniques, such as the Advanced IRB approach to credit risk and the AMA for operational risk, 
+comply with the minimum standards and disclosure requirements of those methods, and take 
+action promptly if capital is not adequate.    
+
+ 
+3.  Market discipline (Pillar 3) 
+The third pillar of the New Accord sets minimum disclosure requirements for banking 
+
+organizations. The disclosures, covering the composition and structure of the bank’s capital, the 
+nature of its risk exposures, its risk management and internal control processes, and its capital 
+                                                 
+2  Operational risk is the risk of loss resulting from inadequate or failed processes, people, and systems or from 
+external events.  It includes legal risk, but excludes strategic risk and reputation risk.   
+
+ 
+
+5
+
+3.  Use the risk weight of the appropriate sovereign to assign risk weights for 
+
+and securitization exposures.   
+
+exposures to banks.   
+
+4.  Use loan-to-value ratios to risk-weight residential mortgages. 
+5. 
+6. 
+
+Lower the risk weights for some retail exposures` and small loans to businesses. 
+Expand the range of credit risk mitigation techniques that are recognized for risk-
+based capital purposes, including expanding the range of recognized collateral and 
+eligible guarantors.    
+Increase the credit conversion factor for certain commitments with an original 
+maturity of one year or less that are not unconditionally cancelable.   
+Revise the risk weights for securitization exposures and assess a capital charge for 
+early amortizations in securitizations of revolving exposures.   
+Remove the 50 percent limit on the risk weight for certain derivative transactions. 
+
+9. 
+10.  Revise the risk-based capital treatment for unsettled and failed trades for securities, 
+
+7. 
+
+8. 
+
+11.  Expand the range of methodologies available to banking organizations for 
+
+foreign exchange, and commodities. 
+
+measuring counterparty credit risk.   
+
+adequacy, are intended to improve transparency and strengthen market discipline.  By 
+establishing a common set of disclosure requirements, Pillar 3 seeks to provide a consistent and 
+understandable disclosure framework that market participants can use to assess key pieces of 
+information on the risks and capital adequacy of a bank. 
+
+ 
+
+B.  U.S. implementation 
+
+The proposed Standardized Option rule seeks to improve the risk sensitivity of existing 
+risk-based capital rules.  The Standardized Option would be voluntary and available to banking 
+organizations not subject to the Advanced Approaches rule.  Any institution that is not an 
+Advanced Approaches bank would be able to remain under the existing risk-based capital rules 
+or elect to adopt the Standardized Option.  The Standardized Option would: 
+
+ 
+1. 
+2.  Use external credit ratings to risk weight sovereign, public sector entity, corporate, 
+
+Include a capital requirement for operational risk.   
+
+ 
+ 
+
+The Agencies would continue to reserve the authority to require banking organizations to 
+
+hold additional capital where appropriate. 
+
+ 
+
+III. 
+
+COST-BENEFIT ANALYSIS OF THE PROPOSED RULE 
+ 
+A cost-benefit analysis considers the costs and benefits of a proposal as they relate to 
+society as a whole.  The social benefits of a proposal are benefits that accrue directly to those 
+subject to a proposal plus benefits that might accrue indirectly to the rest of society.  Similarly, 
+the overall social costs of a proposal are costs incurred directly by those subject to the rule and 
+costs incurred indirectly by others.  In the case of the Standardized Option, direct costs and 
+benefits are those that apply to the banking organizations that are subject to the proposal.  
+
+ 
+
+6
+
+Indirect costs and benefits then stem from banks and other financial institutions that are not 
+subject to the proposal, bank customers, and, through the safety and soundness externality, 
+society as a whole. 
+
+The broad social and economic benefit that derives from a safe and sound banking system 
+
+supported by vigorous and comprehensive supervision, including ensuring adequate capital, 
+clearly dwarfs any direct benefits that might accrue to institutions adopting the Standardized 
+Option.  Similarly, the social and economic cost of any reduction in the safety and soundness of 
+the banking system would dramatically overshadow any cost borne by banking organizations 
+subject to the rule.  The banking agencies are confident that the enhanced risk sensitivity of the 
+proposed rule could allow banking organizations to more effectively achieve objectives that are 
+consistent with a safe and sound banking system.   
+
+Beyond this societal benefit from maintaining a safe and sound banking system, we do 
+not anticipate additional benefits outside of those accruing directly to the banking organizations 
+that elect to adopt the Standardized Option.  Because many factors besides regulatory capital 
+requirements affect pricing and lending decisions, we do not expect the adoption or non-adoption 
+of the Standardized Option to affect pricing or lending.  Hence, we do not anticipate any costs or 
+benefits affecting the customers or competitors of institutions adopting the Standardized Option.  
+For these reasons, the cost and benefit analysis of the Standardized Option is primarily an 
+analysis of the costs and benefits directly attributable to institutions that might elect to adopt its 
+capital rules.   
+
+ 
+
+A.  Organizations Affected by the Proposed Rule3 
+
+ 
+As of December 31, 2007, twelve banking organizations meet the criteria that would 
+require them to adopt the U.S. implementation of the New Accord’s advanced approaches.  
+Removing those 12 mandatory Advanced Approaches institutions from the 7,415 FDIC-insured 
+banking organizations active in December 2007 leaves 7,403 organizations that would be eligible 
+to adopt the Standardized Option.  Seven of the twelve mandatory Advanced Approaches 
+institutions are national banks.  Out of 1,421 banking organizations with national banks, 1,414 
+national banking organizations would thus be eligible to adopt the Standardized Option. 
+
+ 
+ 
+
+B.  Benefits of the Proposed Rule 
+
+The proposed rule aims to enhance safety and soundness by improving the risk sensitivity 
+
+of regulatory capital requirements.  The proposed rule: 
+
+1. 
+2. 
+3. 
+
+Enhances the risk sensitivity of capital charges.   
+Facilitates more efficient use of required bank capital.   
+Recognizes new developments in financial markets. 
+
+                                                 
+3 Unless otherwise noted, the population of banks and thrifts used in this analysis consists of all FDIC-insured 
+institutions.  Banking organizations are aggregated to the top holding company level. 
+
+ 
+
+7
+
+4.  Mitigates potential distortions in minimum regulatory capital requirements between 
+
+5. 
+
+6. 
+7. 
+8. 
+
+Advanced Approaches banking organizations and other banking organizations. 
+Better aligns capital and operational risk and encourages banking organizations to 
+mitigate operational risk. 
+Enhances supervisory feedback. 
+Promotes market discipline through enhanced disclosure. 
+Preserves the benefits of international consistency and coordination achieved with 
+the 1988 Basel Accord.   
+
+9.  Offers long-term flexibility to banking organizations by providing the ability to opt 
+
+in to the Standardized Approach.  
+
+ 
+
+C.  Costs of the Proposed Rule 
+
+As with any rule, the costs of the proposal include expenditures by banks and thrifts 
+
+necessary to comply with the new regulation and costs to the federal banking agencies of 
+implementing the new rules.  Because of a lack of cost estimates from banking organizations, the 
+OCC found it necessary to use a scope-of-work comparison with the Advanced Approaches in 
+order to arrive at a cost estimate for the Standardized Option.  Based on this rough assessment, 
+we estimate that implementation costs for the Standardized Option could range from $200,000 at 
+smaller institutions to $5 million at larger institutions.     
+
+ 
+1.  Costs to Banking Organizations 
+ 
+Explicit costs of implementing the proposed rule at banking organizations fall into two 
+
+categories: setup costs and ongoing costs.  Setup costs are typically one-time expenses associated 
+with introducing the new programs and procedures necessary to achieve initial compliance with 
+the proposed rule.  Setup costs may also involve expenses related to tracking and retrieving data 
+needed to implement the proposed rule.  Ongoing costs are also likely to reflect data costs 
+associated with retrieving and preserving data.   
+
+ 
+The total cost of the Standardized Option depends entirely on the number and size of 
+
+institutions that elect to adopt the voluntary rule.  Obviously, if the number of institutions 
+adopting the Standardized Option is zero, then the cost to banks will be zero.  Based on comment 
+letters and discussions with bank supervision staff, we sought to identify national banks that 
+would be most likely to adopt the Standardized Option.  Because one of the principal changes in 
+the Standardized Option affects the risk weighting for residential mortgages, we selected national 
+banks with significant mortgage holdings as the more likely adopters of the new rule.  In 
+particular, our list of more likely adopters includes national banks where 1-4 family first-lien 
+mortgages comprise over 30 percent of all assets if the institution has less than $1 billion in 
+assets and where the mortgage to asset ratio is over 20 percent at larger institutions.  We also 
+include the few national banks that do not meet the well-capitalized threshold for their risk based 
+capital-to-assets ratio as of December 31, 2007.  Using those criteria, we identified 113 national 
+banks, which if they adopted the Standardized Option would result in a total cost to national 
+banks of approximately $74 million.  Over time, the Standardized Option may become more 
+appealing to a larger number of banks.  The total cost of the proposed rule would consequently 
+increase to the extent that more institutions opt into the Standardized Option over time.  At 
+present, it is unclear how many national banks will ultimately elect to adopt the Standardized 
+
+ 
+
+8
+
+Option.  The Standardized Option’s provision for an explicit charge for operational risk is 
+another important factor that national banks will undoubtedly consider in assessing whether to 
+adopt the Standardized Option.  Although we are unable to estimate how many of our estimated 
+adopters might be dissuaded from the Standardized Option because of an operational risk capital 
+charge, we do believe that the explicit charge for operational risk could significantly reduce the 
+number of likely adopters.4      
+
+ 
+2.  Government Administrative Costs 
+Like the banking organizations subject to new requirements, the costs to government 
+
+agencies of implementing the proposed rule also involve both startup and ongoing costs.  Startup 
+costs include expenses related to the development of the regulatory proposals, costs of 
+establishing new programs and procedures, and costs of initial training of bank examiners in the 
+new programs and procedures.  Ongoing costs include maintenance expenses for any additional 
+examiners and analysts needed to regularly apply the new supervisory processes.  In the case of 
+the Standardized Option, because modest changes to Call Reports will capture most of the rule 
+changes, these ongoing costs are likely to be minor. 
+
+ 
+OCC expenditures fall into three broad categories: training, guidance, and supervision.  
+
+Training includes expenses for workshops and other training courses and seminars for 
+examiners.  Guidance expenses reflect expenditures on the development of Standardized Option 
+guidance.  Supervision expenses reflect organization-specific supervisory activities.  We estimate 
+that OCC expenses for the Standardized Option will be approximately $4.3 million through 
+2008.  We also expect expenditures of $1 million per year between 2009 and 2011.  Applying a 
+five percent discount rate to future expenditures, past expenses ($4.3 million) plus the present 
+value of future expenditures ($2.7 million) equals total OCC expenditures of $7 million on the 
+Standardized Option.   
+
+ 
+3.  Total Cost Estimate of Proposed Rule  
+ 
+The OCC’s estimate of the total cost of the proposed rule includes expenditures by 
+
+banking organizations and the OCC from the present through 2011.  Based on our estimate that 
+approximately 113 national banks will adopt the Standardized Option at a cost to each institution 
+of between $200,000 and $5 million depending on the size of the institution, we estimate that 
+national banks will spend approximately $74 million on the Standardized Option.  Combining 
+expenditures provides an estimate of $81 million for the total cost of the proposed rule for the 
+OCC and national banks.     
+
+ 
+ 
+
+IV.  ANALYSIS OF BASELINE AND ALTERNATIVES 
+
+ 
+In order to place the costs and benefits of the proposed rule in context, Executive Order 
+
+12866 requires a comparison between the proposed rule, a baseline of what the world would look 
+                                                 
+4 If the Advanced Measurement Approaches (AMA) option for operational risk is available as part of the 
+Standardized Option, we believe that its considerable startup requirements and accompanying costs would dissuade 
+almost all institutions with less than $10 billion from pursuing the AMA operational risk option. 
+
+ 
+
+9
+
+like without the proposed rule, and a reasonable alternative to the proposed rule.  In this 
+regulatory impact analysis, we analyze one baseline and one alternative to the proposed rule.  
+The baseline considers the possibility that the proposed Standardized Option rule is not adopted 
+and current capital standards continue to apply.   
+
+ 
+The baseline scenario appears in this analysis in order to estimate the effects of adopting 
+
+the proposed rule relative to a hypothetical regulatory regime that might exist without the 
+Standardized Option.  Because the baseline scenario considers costs and benefits as if the 
+proposed rule never existed, we set the costs and benefits of the baseline scenario to zero.  
+Obviously, banking organizations face compliance costs and reap the benefits of a well-
+capitalized banking system even under the baseline.  However, because we cannot quantify these 
+costs and benefits, we normalize the baseline costs and benefits to zero and estimate the costs 
+and benefits of the proposed rule and alternative as deviations from this zero baseline.  
+
+  
+1.  Baseline Scenario: Current capital standards based on the 1988 Basel Accord 
+
+continue to apply. 
+
+Description of Baseline Scenario   
+
+ 
+
+Under the Baseline Scenario, current capital rules would continue to apply to all banking 
+
+organizations in the United States that are not subject to the U.S. implementation of the 
+Advanced Approaches.  Under this scenario, the United States would not adopt the proposed 
+Standardized Option but the implementation of the Advanced Approaches final rule would 
+continue.     
+
+ 
+Change in Benefits: Baseline Scenario  
+ 
+Staying with current capital rules instead of adopting the Standardized Option proposal 
+
+would eliminate the nine benefits of the proposed rule listed above.  Under the baseline, banking 
+organizations not subject to the Advanced Approaches would not be given the option of 
+voluntarily selecting the Standardized Option.  Institutions that would have adopted the 
+Standardized Option would not be able to take advantage of the enhanced risk sensitivity of its 
+capital charges and the more efficient use of bank capital that implies.   
+
+Without the Standardized Option, an institution would have to choose between the 
+
+Advanced Approaches and the status quo.  The baseline without the Standardized Option would 
+leave a level playing field for all the non-core banks.  However, the absence of an opportunity to 
+mitigate potential distortions in minimum required capital would likely diminish this benefit in 
+the eyes of an institution concerned about potential distortions created by the implementation of 
+the Advanced Approaches.   
+
+Changes in Costs: Baseline Scenario  
+
+Continuing to use current capital rules eliminates the benefits and the costs of adopting 
+the proposed rule.  As discussed above, under the proposed rule we estimate that organizations 
+would spend up to $74 million on implementation-related expenditures.  Retaining current 
+
+ 
+
+10
+
+capital rules would eliminate any costs associated with the proposed rule, even though banking 
+organizations would only incur those costs if they elected to do so.   
+ 
+
+2.  Alternative: Require all U.S. banking organizations not subject to the Advanced 
+
+Approaches rule to adopt the Standardized Option. 
+
+ 
+Description of Alternative  
+
+The only change between the proposed rule and the alternative is that adoption of the 
+
+proposed rule would be mandatory under the alternative rather than voluntary.  Under this 
+alternative, the provisions of the proposed rule would remain intact and apply to all national 
+banks that are not subject to the Advanced Approaches rule, i.e., mandatory Advanced 
+Approaches institutions and those institutions that elect to adopt the Advanced Approaches 
+framework.     
+ 
+
+Change in Benefits: Alternative  
+
+Because there are no changes to the elements of the proposed rule under the alternative, 
+the list of benefits remains the same.  Among these benefits, only one benefit is lost by making 
+the proposed rule mandatory: the benefit derived from the fact that the proposed rule is 
+voluntary.  As for the benefits relating to the enhanced risk sensitivity of capital charges, because 
+adoption of the Standardized Option is mandatory under the alternative, more banks will be 
+subject to the Standardized Option provisions and the aggregate level of benefits will be higher.  
+Because we estimate that 113 national banks would adopt the Standardized Option voluntarily, 
+the difference in the aggregate benefit level could be considerable.     
+
+ 
+Changes in Costs: Alternative  
+
+Clearly the most significant drawback to the alternative is the dramatically increased cost 
+
+of applying a new set of capital rules to almost all U.S. banking organizations.  Under the 
+alternative, direct costs would increase for every U.S. banking organization that would have 
+elected to continue to use current capital rules under the proposed rule.  The cost estimate for the 
+alternative is the total cost estimate for a 100 percent adoption rate of the Standardized Option.  
+With 1,414 national banking organizations eligible for the Standardized Option, we estimate that 
+the cost to national banking organizations of the alternative is approximately $740 million.  The 
+actual cost may be somewhat less depending on the number of national banks that elect to adopt 
+the Advanced Approaches rule, but it is much greater than our cost estimate of $74 million for 
+the proposed rule.    
+ 
+
+3.  Overall Comparison of Proposed Rule with Baseline and Alternative 
+
+The New Accord and its U.S. implementation seek to incorporate risk measurement and 
+
+risk management advances into capital requirements.  Risk-sensitive capital requirements are 
+integral to ensuring an adequate capital cushion to absorb financial losses at financial 
+institutions.  In implementing the Standardized Option in the United States, the agencies’ intent 
+
+ 
+
+11
+
+is to enhance risk sensitivity while maintaining a regulatory capital regime that is as rigorous as 
+the current system.  Total capital requirements under the Standardized Option, including capital 
+for operational risk, will better allocate capital in the system.  This will occur regardless of 
+whether the minimum required capital at a particular institution is greater or less than it would be 
+under current capital rules.   
+
+The objective of the proposed rule is to enhance the risk sensitivity of capital charges for 
+
+institutions not subject to the Advanced Approaches rule.  The proposal also seeks to mitigate 
+any potential distortions in minimum regulatory capital requirements that the implementation of 
+the Advanced Approaches rule might create between large and small banking organizations.  
+Like the Advanced Approaches rule, the anticipated benefits of the Standardized Option proposal 
+are difficult to quantify in dollar terms.  Nevertheless, the OCC believes that the proposed rule 
+provides benefits associated with enhanced risk sensitivity and preserves the safety and 
+soundness of the banking industry and the security of the Federal Deposit Insurance system.  To 
+offset the costs of the proposed rule, its voluntary nature offers regulatory flexibility that will 
+allow institutions to adopt the Standardized Option on a bank-by-bank basis when an 
+institution’s anticipated benefits exceed the anticipated costs of adopting this regulation.   
+
+The banking agencies are confident that the proposed rule could serve to strengthen 
+
+institutions electing to adopt the Standardized Option while the safety and soundness of 
+institutions electing to forgo the Standardized Option and the Advanced Approaches rule will not 
+diminish.  On the basis of our analysis, we believe that the benefits of the proposed rule are 
+sufficient to offset the costs of implementing the proposed rule.  However, with safety and 
+soundness secure under either capital rule, we believe it is best to make the proposed rule 
+voluntary in order to let each national bank decide whether it is in that institution’s best interest 
+to adopt the Standardized Option.  This will help to ensure that the costs associated with 
+implementation of the Standardized Option do not rise precipitously and outweigh the benefits.  
+Because adoption is voluntary, the proposed rule offers an improvement over the baseline 
+scenario and the alternative.  The proposed rule offers an important degree of flexibility 
+unavailable with either the baseline or the alternative.  The baseline does not give banking 
+organizations a way into the Standardized Option and the alternative does not offer them a way 
+out.  The alternative for mandatory adoption would compel most banking organizations to follow 
+a new set of capital rules and require them to undertake the time and expense of adjusting to 
+these new rules.  The proposed rule offers a better balance between costs and benefits than either 
+the baseline or the alternative.  Overall, the OCC believes that the benefits of the proposed rule 
+justify its potential costs.               
+
+ 
+
+ 
+    
+
+End of Executive Summary 
+
+ 
+
+12
+
+REGULATORY IMPACT ANALYSIS 
+
+I.  THE NEED FOR THE REGULATORY ACTION 
+A.  Statutory Authority for Capital Regulation 
+
+Federal banking law5 directs federal banking agencies including the Office of the 
+
+Comptroller of the Currency (OCC) to require banking organizations to hold adequate capital.  
+The law authorizes federal banking agencies to set minimum capital levels to ensure that banking 
+organizations maintain adequate capital.  The law also gives federal banking agencies broad 
+discretion with respect to capital regulation by authorizing them to also use any other methods 
+that they deem appropriate to ensure capital adequacy.  Congress has directed the federal 
+banking agencies to apply consistent accounting standards in determining regulatory capital.  
+Specifically, 12 USC 1831n(b), which is titled "Uniform accounting of capital standards", states 
+that "each appropriate federal banking agency shall maintain uniform accounting standards to be 
+used for determining compliance with statutory or regulatory requirements of depository 
+institutions."   Further, 12 USC 1831n(c) mandates that the agencies report annually to Congress 
+on any capital differences with explanations of the reasons for any discrepancies.  
+
+As the primary supervisor of national banks, the OCC oversees the capital adequacy of 
+
+national banks and federal branches of foreign banking organizations.  If banks under the OCC’s 
+supervision fail to maintain adequate capital, federal law authorizes the OCC to take enforcement 
+action up to and including placing the bank in receivership, conservatorship, or requiring its sale, 
+merger, or liquidation. 
+
+B.  Capital Regulation Seeks to Address Market Failures 
+
+Capital regulation seeks to address market failures that stem from the unique structure 
+and role of banks in the financial system.  These market failures tend to create incentives for 
+managers of banking organizations to hold less capital than is optimal from a broader societal 
+perspective.  Managers, in responding rationally to those distorted incentives, may try to hold 
+capital that may not adequately account for the institution’s exposure to risk.  This in turn can 
+
+                                                 
+5 In relevant part, 12 U.S.C. Section 3907 provides:  
+
+(a)(1) Each appropriate Federal banking agency shall cause banking institutions to achieve and maintain 
+adequate capital by establishing minimum levels of capital for such banking institutions and by using such 
+other methods as the appropriate Federal banking agency deems appropriate. 
+
+(2) Each appropriate Federal banking agency shall have the authority to establish such minimum level of 
+capital for a banking institution as the appropriate Federal banking agency, in its discretion, deems to be 
+necessary or appropriate in light of the particular circumstances of the banking institution. 
+(b)(1) Failure of a banking institution to maintain capital at or above its minimum level as established 
+pursuant to subsection (a) of this section may be deemed by the appropriate Federal banking agency, in its 
+discretion, to constitute an unsafe and unsound practice within the meaning of section 1818 of this title. 
+*** 
+
+13
+
+***** 
+
+ 
+
+ 
+
+lead banking organizations to hold a level of capital that differs from a socially optimal level.6  
+The market failures creating these perverse incentives stem from several sources.   
+
+ 
+Banking faces a market failure attributable to asymmetric information.  This arises 
+
+because of the difference between the information a banking organization has about the risk of 
+its asset portfolio and the information available to outside monitors of the institution, such as 
+depositors and creditors.  If outside monitors and inside managers shared the same information 
+about the true amount of risk an institution had assumed, then through financial markets the 
+outsider would be able to compel the organization to hold capital at a level commensurate with 
+its level of risk.  This information asymmetry operates to some extent in virtually all firms.  
+However, it is particularly a problem in banking because of the opaque nature of most lending 
+relationships; although borrowers are willing to share information about their finances with their 
+lenders to gain financing, they typically will not share such private information with others.  
+Furthermore, even if borrowers were willing to share this information with outsiders, the cost to 
+outsiders of gathering and evaluating this information for each of an institution’s borrowers 
+would be prohibitive.  Because outside monitors lack complete information about the risk of the 
+banking organization’s portfolio, they may not induce the organization to hold adequate amounts 
+of capital.  If outside monitors underestimate the amount of risk, they will expect too little capital 
+from the institution.  If they overestimate the risk, they will demand excessive amounts of 
+capital.   
+ 
+Moral hazard problems related to deposit insurance could exacerbate the market failure 
+created by asymmetric information.  In banking, moral hazard refers to the incentive financial 
+institutions have to accept greater risks in pursuit of higher returns when they do not bear the full 
+cost of losses associated with risky ventures.  Because the Federal Deposit Insurance Corporation 
+(FDIC) insures deposits, the FDIC, rather than depositors, bears some of the cost of taking those 
+risks.  Thus, even if banking markets were not subject to asymmetric information problems, 
+depositors would expend less effort to monitor capital levels and to constrain risk-taking than 
+they would in the absence of deposit insurance.  Deposit insurance may also reduce bankers’ 
+concerns about jeopardizing depositors’ funds, if they recognize that insurance protects the 
+depositor.  Troubled institutions may be particularly willing to take greater risks in an effort to 
+recover by pursuing opportunities along the risk-return frontier that promise higher returns but at 
+much greater risk.  Moral hazard problems such as these likely contributed to the savings and 
+loan crisis in the 1980s.7   
+
+ 
+These individual market failures might be of less concern if not for the presence of 
+
+externalities in banking.  The failure of an individual banking organization can have external 
+                                                 
+6  Several factors will determine a banking organization’s ultimate level of capital.  In determining capital levels, 
+banking institutions must begin with the regulatory minimum.  Because of Prompt Corrective Action, falling below 
+the regulatory minimum has serious consequences.  Beyond the regulatory minimum, institution management will 
+typically add capital to provide an appropriate buffer to the regulatory minimum.  A banking organization will also 
+seek a capital level that is consistent with achieving the institution’s target credit rating from credit rating agencies.  
+For further discussion of the drivers of capital levels, see Chris Matten, Managing Bank Capital, Second Edition, 
+New York: John Wiley & Sons, 2000, p. 26.   
+7 For one discussion of moral hazard and the savings and loan crisis, see Elijah Brewer III and Thomas H. 
+Mondschean, “Ex ante Risk and Ex Post Collapse of S&Ls in the 1980s”, Economic Perspectives, Federal Reserve 
+Bank of Chicago, July/August 1992, pp. 2 – 12.   
+
+ 
+
+14
+
+effects on depositors, borrowers, and the local economy.  Weakness at one institution may affect 
+how the market perceives the health of other banking organizations and lead to pressures on 
+those institutions.  Furthermore, a loss in confidence in the banking system can impose 
+considerable costs on the macroeconomy.  Adequate capital, therefore, conveys important 
+benefits that extend beyond an individual banking organization and affects the ability of the 
+banking system as a whole to absorb unexpected losses.  Whereas each institution’s capital 
+protects it from losses, the ability of each individual institution to absorb losses strengthens the 
+collective ability of the banking system to absorb losses like combining individual wires to form 
+a stronger cable.  A banking organization does not receive compensation for its contribution to 
+the overall strength of the banking system.  Because banking organizations do not receive 
+compensation for the external benefit of their capital, they are likely to hold less than a socially 
+optimal level of capital in the absence of capital requirements.   
+
+ 
+To sum up, asymmetric information about the risk in a bank’s portfolio creates a market 
+failure by hindering the ability of creditors and outside monitors to discern a bank’s actual risk 
+and capital adequacy.  Moral hazard creates market failure in which a bank’s creditors fail to 
+restrain the bank from taking excessive risks because deposit insurance either fully or partially 
+protects them from losses.  These market failures engender concerns that public policy seeks to 
+address because of externalities inherent in the banking system.  Individual banks’ decisions 
+regarding their own capital levels fail to adequately consider the positive externality that 
+adequate capital brings to the banking system.  Ensuring adequate capital through regulation 
+seeks to address these market failures and produce the positive externality that adequate capital 
+brings to financial markets and the economy as a whole. 
+
+ 
+ Capital regulations that address the market failures described above cannot be static.  
+Innovation in and transformation of financial markets require periodic reassessments of what 
+may count as capital and what amount of capital is adequate.  For example, after financial market 
+turbulence in the 1980s, the implementation of new capital standards based on the 1988 Basel 
+Accord introduced significant changes to the definition of what constitutes both capital and 
+capital adequacy and strove to standardize capital requirements across international boundaries.    
+Continuing changes in financial markets create an opportunity to refine capital standards in 
+banking.  The proposed revisions to U.S. risk-based capital rules, “Risk-Based Capital 
+Guidelines; Capital Adequacy Guidelines; Capital Maintenance: Standardized Risk-Based 
+Capital Rules” (Standardized Option), which we address in this impact analysis, provide a new 
+option for determining risk-based capital for banking organizations that would not be required to 
+operate under “Risk-Based Capital Standards: Advanced Capital Adequacy Framework 
+(Advanced Approaches).  The Standardized Option and the Advanced Approaches rule reflect 
+the implementation in the United States of the Basel Committee on Banking Supervision’s 
+“International Convergence of Capital Measurement and Capital Standards: A Revised 
+Framework” (New Accord).   
+
+ 
+
+ 
+
+ 
+
+15
+
+II. 
+
+REGULATORY BACKGROUND 
+
+A.  The regulated community   
+
+The capital regulation examined in this analysis applies to commercial banks and savings 
+associations (collectively, banks).  Three banking agencies, the OCC, the Board of Governors of 
+the Federal Reserve System (Board), and the Federal Deposit Insurance Corporation (FDIC) 
+regulate commercial banks, while the Office of Thrift Supervision (OTS) regulates all federally 
+chartered and many state-chartered savings associations.  The OCC is the primary supervisor of 
+national banks.  The Board supervises state-chartered banks that are members of the Federal 
+Reserve System, and the FDIC supervises state-chartered banks that are not members of the 
+Federal Reserve System.  Throughout this document, the four regulators are jointly referred to as 
+the federal banking agencies.8   
+
+ 
+
+B.  Capital adequacy regulation before 1988 
+
+The assessment of capital adequacy has been a cornerstone of bank and thrift regulation 
+
+since the earliest days of the national banking system. In 1864, the National Banking Act set 
+capital requirements for each national bank based on the population of its service area. Around 
+the start of the 20th Century, supervisors began focusing on capital-to-deposit ratios. In 
+succeeding years, as the demand for loans outstripped the supply of deposits and banking 
+organizations turned to other sources of funding, capital-to-assets ratios gradually supplanted 
+capital-to-deposits ratios as the preferred measure of capital adequacy. By the 1950s, supervisors 
+had begun to study ways of adjusting assets for risk in order to compute capital-to-risk-weighted-
+assets ratios, but these early efforts did not gain wide acceptance.   
+
+ 
+Throughout this period, supervisors employed a subjective, case-by-case approach to 
+assessing capital adequacy.  Regulators felt that reducing capital adequacy to a formula would 
+preclude the supervisory judgments needed to evaluate the many factors influencing an 
+institution's ability to sustain losses.  This view changed in the 1970s and early 1980s when a 
+decline in average capital ratios and a series of high-profile bank and thrift failures convinced 
+supervisors of the need to set a regulatory floor on capital.   
+
+ 
+In 1981, the federal banking agencies introduced the first explicit minimum capital ratio: 
+a “leverage ratio” of primary capital (consisting mainly of equity and loan loss reserves) to total 
+assets.  Initially there were some differences in the thresholds set by the different agencies, but 
+by 1985 they had agreed on a uniform minimum leverage ratio of 5.5 percent for all banking 
+organizations.  The banking agencies considered it “unsafe and unsound” for institutions to 
+operate with leverage ratios below 3 percent and subjected such institutions to enforcement 
+action.  Legislation strengthened the link between capital ratios and supervisory intervention in 
+the aftermath of the thrift crisis of the late 1980s.   
+
+ 
+During the 1980s, regulators in the United States and other industrialized countries 
+
+became concerned that simple capital-to-assets ratios required too much capital for safe assets 
+such as Treasury securities and not enough for riskier assets.  Another concern was that the rules 
+did not require any capital for banking organizations’ rapidly growing portfolios of off-balance-
+                                                 
+8  The term bank will refer to any commercial bank or thrift regulated by one of the federal banking agencies. 
+
+ 
+
+16
+
+sheet exposures. These concerns led to the development of the risk-based capital framework that 
+the Basel Committee on Banking Supervision9 adopted in 1988 and implemented at the end of 
+1992 (the 1988 Accord).  This 1988 Accord serves as the basis for current U.S. capital 
+regulations.  The 1988 Accord required that internationally active banking organizations adopt 
+the new capital rules, but some countries, including the United States, chose to apply the 1988 
+Basel framework to all banks and thrifts. 
+
+ 
+
+C.  The 1988 Accord and the New Accord 
+
+Drafters of the 1988 Accord designed capital rules to create a level playing field for 
+
+institutions in different countries and to strengthen the soundness and stability of the 
+international banking system.  The 1988 Accord sought to level the playing field in international 
+banking by enhancing international consistency and to strengthen the international banking 
+system by more closely aligning required capital with risk.  The 1988 Accord consists of three 
+basic elements: a target minimum capital ratio of 8 percent; a definition of the capital 
+instruments to comprise the numerator of the capital-to-risk-weighted-assets ratio; and a system 
+of risk weights for calculating the denominator of the ratio.   
+
+ 
+As implemented in the United States, the risk-weighting criteria of the 1988 Accord 
+
+divide credit exposures into four basic categories and assign a fixed risk weight to each category.  
+The four categories and their respective risk weights are (1) cash and sovereign exposures with a 
+risk weight of 0 percent, (2) interbank and certain other relatively low-risk exposures with a risk 
+weight of 20 percent, (3) residential mortgages with a risk weight of 50 percent, and (4) all other 
+exposures (including unsecured corporate exposures), which carry a 100 percent risk weight.  A 
+risk weight of 100 percent means that the calculation of risk-weighted assets includes the 
+exposure at its full value, which translates to a capital requirement equal to 8 percent of the 
+amount of the exposure.  Off-balance-sheet exposures convert into “credit-equivalent amounts” 
+by applying specified “credit conversion factors” to their notional amounts and then risk-
+weighting them in the same way as on-balance-sheet exposures.   
+
+ 
+The 1988 Accord also specifies what instruments may count toward the capital 
+
+requirement.  The Accord requires that equity capital (common and non-cumulative preferred 
+shares) and disclosed reserves cover at least half of the target ratio.  Qualifying hybrid capital 
+instruments, subordinated debt, and general, undisclosed, and revaluation reserves may cover the 
+remainder subject to various limitations.   
+
+ 
+The acknowledged central focus of the original 1988 Accord was credit risk.  Minimum 
+
+required capital did not depend directly on the other types of risk that banks and thrifts must 
+manage, such as interest-rate risk, liquidity risk, or operational risk, although the level of 
+required capital provided de facto coverage for such risks.  Amendments to the Accord in 1996 
+added explicit capital charges for interest-rate related instruments and equities in the trading 
+book; as well as charges for foreign exchange risk and commodity risk throughout the institution.     
+                                                 
+9 The Basel Committee on Banking Supervision includes representatives from the central banks and other authorities 
+with bank supervisory responsibilities in the G-10 countries.  Current member countries are Belgium, Canada, 
+France, Germany, Italy, Japan, Luxembourg, the Netherlands, Spain, Sweden, Switzerland, the United Kingdom, 
+and the United States.   
+ 
+
+ 
+
+17
+
+ 
+The 1988 Accord had several beneficial effects.  At a time when supervisors viewed 
+
+capital ratios as too low, it had a positive effect on capital levels: during the 1988-1992 transition 
+period, the capital ratios of nearly all internationally active banking organizations increased 
+substantially.  The 1988 Accord also fostered greater competitive equity among internationally 
+active banking organizations and introduced an era of improved information sharing and 
+coordination among national supervisors.  It also reduced incentives for institutions to avoid 
+liquid, low-risk assets such as Treasury securities, which had capital requirements far in excess 
+of their actual credit risk under the preceding regime of uniform leverage requirements.  Perhaps 
+most importantly, it created a mechanism by which bank capital requirements could reflect, at 
+least to some extent, differences in risk across institutions and over time. 
+
+ 
+With the passage of time, however, it became clear that the 1988 Accord was not 
+
+providing a sufficiently accurate measure of capital adequacy.  It introduced only a small degree 
+of risk-sensitivity into risk weightings, ignoring an important dimension of risk: the difference 
+between more and less creditworthy counterparties within a given asset class.  It did not provide 
+adequate recognition of risk mitigation techniques, probably discouraging institutions from using 
+such techniques and so detracting from the safety and soundness of the banking system.  The 
+rigidity of the risk-weighting framework tended to encourage transactions whose sole benefit 
+was regulatory capital relief.  Finally, the 1988 Accord could not anticipate financial innovations 
+such as securitization, which shifts most of the notional amount of a credit exposure off the 
+balance sheet while retaining most of the credit risk.  In all of these areas, internal systems for 
+measuring risk at many banking organizations have outstripped the 1988 Accord.   
+
+ 
+Research and experience suggest that risk-based capital rules based on the 1988 Accord 
+may not always adequately reflect differences in credit risk among bank assets, especially with 
+respect to large internationally active financial institutions.  In some cases the current rules 
+require too much capital in relation to risk.  In other cases, the rules require too little capital.  
+This situation gives rise to a number of potential effects, including misaligned private risk-taking 
+incentives.   
+
+ 
+The New Accord aims to maintain and extend the benefits of the 1988 Accord while 
+
+addressing these signs of age.  It comprises three mutually reinforcing “pillars.”10  The first pillar 
+of The New Accord establishes a method for calculating minimum regulatory capital.  It sets new 
+requirements for assessing credit risk and operational risk while retaining the approach to market 
+risk as developed in the 1996 amendments to the 1988 Accord.  It includes an extensive set of 
+qualitative requirements designed to help ensure that the internal measurement and control 
+systems used to determine capital adequacy for credit risk and operational risk are sound.  
+
+ 
+The New Accord offers banks a choice of three methodologies for calculating the capital 
+charge for credit risk.  The first approach, called the Standardized Approach, essentially refines 
+the risk-weighting framework of the 1988 Accord.  The other two approaches are variations on 
+an internal ratings-based (IRB) approach that leverages banks’ internal credit-rating systems: a 
+“foundation” methodology whereby banks estimate the probability of borrower or obligor 
+                                                 
+10  The reference document for the New Accord is “International Convergence of Capital Measurement and Capital 
+Standards: A Revised Framework,” Basel Committee on Banking Supervision, June 2004. 
+
+ 
+
+18
+
+default, and an “advanced” approach whereby organizations also supply other inputs needed for 
+the capital calculation.  In addition, the new framework uses more risk-sensitive methods for 
+dealing with collateral, guarantees, credit derivatives, securitizations, and receivables.   
+
+ 
+The New Accord also introduces an explicit capital requirement for operational risk.11  
+
+The New Accord offers banks a choice of three methodologies for calculating their capital 
+charge for operational risk.  The first method, called the Basic Indicator Approach, requires 
+banks to hold capital for operational risk equal to 15 percent of annual gross income (averaged 
+over the most recent three years).  The second option, called the Standardized Approach, uses a 
+formula that divides a bank’s activities into eight business lines, calculates the capital charge for 
+each business line as a fixed percentage of gross income (12 percent, 15 percent, or 18 percent 
+depending on the nature of the business, again averaged over the most recent three years), and 
+then sums across business lines.  The third option, called the Advanced Measurement 
+Approaches (AMA), uses an institution’s internal operational risk measurement system to 
+determine the capital requirement.  
+
+ 
+The second pillar calls upon banking organizations to have an internal capital assessment 
+process and for banking supervisors to evaluate each bank’s overall risk profile as well as its risk 
+management and internal control processes.  This pillar establishes an expectation that 
+organizations hold capital beyond the minimums computed under Pillar 1, including additional 
+capital for any risks that are not adequately captured under Pillar 1.  It also encourages 
+organizations to develop better risk management techniques for monitoring and managing their 
+risks.     
+ 
+The third pillar sets minimum disclosure requirements for banking organizations. The 
+disclosures, covering the composition and structure of the institution’s capital, the nature of its 
+risk exposures, its risk management and internal control processes, and its capital adequacy, are 
+intended to improve transparency and strengthen market discipline.  By establishing a common 
+set of disclosure requirements, Pillar 3 seeks to provide a consistent and understandable 
+disclosure framework that market participants can use to assess key pieces of information on the 
+risks and capital adequacy of a bank. 
+
+ 
+
+D.  The Standardized Option 
+
+As the rulemaking process moved forward for the Advanced Approaches rule, the 
+banking agencies determined that applying greater risk sensitivity to some general banking 
+organizations could also be beneficial.  In particular, the agencies considered the possibility of 
+enhancing the risk sensitivity of capital calculations for residential mortgages, an important 
+component of the asset portfolios of many smaller financial institutions.  The banking agencies 
+then developed the Standardized Option proposal to improve the risk sensitivity of existing risk-
+based capital rules as they would apply to institutions that do not adopt the Advanced 
+Approaches.  The proposed revisions are summarized below.   
+
+                                                 
+11  Operational risk is the risk of loss resulting from inadequate or failed processes, people, and systems or from 
+external events.  It includes legal risk, but excludes strategic risk and reputation risk.   
+
+ 
+
+19
+
+1.  Scope 
+Adoption of the Standardized Option would be optional under the proposed rule.  This 
+
+ 
+rule would be available to any banking organization that is not subject to the Advanced 
+Approaches rule.  Any bank that is not a mandatory Advanced Approaches bank would be able 
+to remain under existing risk-based capital rules or voluntarily adopt the Standardized Option.  
+However, a bank that opts in would have to adopt the Standardized Option in its entirety.  
+Although the proposed rule does not preclude an institution from dropping out of the 
+Standardized Option after adoption, such a decision would first require notification of the 
+institution’s banking supervisor.  While banks would have this flexibility, a banking 
+organization’s primary federal supervisor could require the institution to use either existing 
+capital rules or the Standardized Option if the supervisor deems that a particular capital rule is 
+appropriate in light of the banking organization’s asset size, level of complexity, risk profile, or 
+scope of operations.  
+
+2.    Proposed Revisions 
+The proposed Standardized Option would: 
+ 
+Include a capital requirement for operational risk.  Currently there is no explicit capital 
+
+charge for operational risk.  Although capital under the 1988 Accord implicitly covered non-
+credit-related risks such as operational risk, its risk weights did not explicitly reflect this aspect 
+of a bank’s risk profile.  Under the proposed rule, banks will use the Basic Indicator Approach, 
+which requires banks to hold capital for operational risk equal to 15 percent of annual gross 
+income (averaged over the most recent three years).12  
+
+ 
+Use external credit ratings to risk weight sovereign, public sector entity, corporate, and 
+
+securitization exposures, and use the risk weight of the appropriate sovereign to assign risk 
+weights for exposures to banks and eligible securities firms.  Existing risk-based capital rules 
+permit the use of external credit ratings issued by a nationally recognized statistical rating 
+organization (NRSRO) to assign risk weights to recourse obligations, direct credit substitutes, 
+residual interests (other than a credit-enhancing interest-only strip), and asset- and mortgage-
+backed securities.  The proposal would expand the use of external credit ratings to determine risk 
+weights for certain exposures that are externally rated by an NRSRO.   
+
+ 
+Expand the range of credit risk mitigation techniques that are recognized for risk-based 
+
+capital purposes, including expanding the range of recognized collateral and eligible 
+guarantors.  The existing risk-based capital rules recognize limited types of collateral.13  The 
+proposal would revise the list of recognized collateral to include a broader array of externally 
+rated, liquid, and readily marketable financial instruments.  It would also expand the list of 
+                                                 
+12  The proposed rule asks for comments as to whether banks should be able to use the Advanced Measurement 
+Approaches (AMA) for operational risk, which uses a bank’s internal operational risk measurement system to 
+determine the capital requirement.  
+  
+13 Cash on deposit; securities issued or guaranteed by central governments of the Organisation for Economic Co-
+operation and Development (OECD) countries; securities issued or guaranteed by the U.S. government or its 
+agencies; U.S. government-sponsored entity securities; and securities issued by certain multilateral lending 
+institutions or regional development banks. 
+
+ 
+
+20
+
+eligible guarantors14 by recognizing entities that have long-term senior debt (without credit 
+enhancement) rated at least investment grade by an NRSRO or, in the case of a sovereign, an 
+issuer rating that is at least investment grade.     
+
+ 
+Use loan-to-value ratios to risk weight residential mortgages.  The existing capital rules 
+apply a 50 percent risk weight to performing, prudently underwritten single-family mortgages.  If 
+a single-family mortgage does not meet this standard, it is risk weighted at 100 percent.  The 
+proposal would assign risk weights for traditional and non-traditional single-family mortgages 
+based on the loan-to-value (LTV) after consideration of private mortgage insurance (PMI).  The 
+proposal would also include an additional charge on the commitment portion of a mortgage with 
+a negative amortization feature.       
+
+ 
+Increase the credit conversion factor for certain commitments with an original maturity 
+
+of one year or less that are not unconditionally cancelable.  Currently, banking organizations 
+extending commitments with an original maturity of one year or less or unconditionally 
+cancellable commitments are not required to maintain risk-based capital against the credit risk 
+inherent in these exposures.  The proposal would assign a 20 percent credit conversion factor 
+(CCF) for all short-term commitments that are not unconditionally cancellable.15  This would not 
+apply to commitments to originate one-to-four-family residential mortgage loans that are 
+provided in the ordinary course of business.  
+
+ 
+Revise the risk weights for securitization exposures and assess a capital charge for early 
+amortizations in securitizations of revolving exposures.  The existing capital rules do not assess 
+risk-based capital for risks associated with early amortization of securitizations of revolving 
+credits, such as credit card receivables.  The proposal would apply an approach based on excess 
+spread to all revolving securitizations with early amortization features. 
+
+ 
+Remove the 50 percent limit on the risk weight for certain derivative transactions.  The 
+existing risk-based capital rules permit banks to apply a maximum 50 percent risk weight to the 
+credit equivalent amount of certain derivative contracts.  The proposal would remove the 50 
+percent risk weight limit for those derivative contracts. 
+
+ 
+The proposed rule would also revise the risk-based capital treatment for unsettled and 
+
+failed trades for securities, foreign exchange, and commodities, and expand the range of 
+methodologies available to banking organizations for measuring counterparty credit risk.   
+
+ 
+As with any proposal relating to regulatory capital, the federal banking agencies would 
+
+continue to reserve the authority to require banking organizations to hold additional capital 
+where the agencies deem appropriate. 
+ 
+                                                 
+14 Presently, the recognition of third party guarantees is limited to guarantees provided by central governments of 
+OECD countries, U.S. government and government-sponsored entities, public-sector entities in OECD countries, 
+multilateral lending institutions and regional development banks, depository institutions and qualifying securities 
+firms in OECD countries, depository institutions in non-OECD countries (short-term claims), and central 
+governments of non-OECD countries (local currency exposures only). 
+15 Commitments that are unconditionally cancellable would retain a zero percent CCF. 
+
+ 
+
+21
+
+III.  COST-BENEFIT ANALYSIS OF THE PROPOSED RULE 
+
+In order to place the costs and benefits of the proposed rule in context, Executive Order 
+
+12866 requires a comparison between the proposed rule, a baseline of what the world would look 
+like without the proposed rule, and a reasonable alternative to the proposed rule.  The baseline 
+considers the possibility that the proposed Standardized Option is not adopted and current capital 
+standards continue to apply.   
+
+ 
+A cost-benefit analysis considers the costs and benefits of a proposal as they relate to 
+society as a whole.  The social benefits of a proposal are benefits that accrue directly to those 
+subject to a proposal plus benefits that might accrue indirectly to the rest of society.  Similarly, 
+the overall social costs of a proposal are costs incurred directly by those subject to the rule and 
+costs incurred indirectly by others.  In the case of the Standardized Option, direct costs and 
+benefits are those that apply to the banking organizations that are subject to the proposal.  
+Indirect costs and benefits then stem from banks and other financial institutions that are not 
+subject to the proposal, bank customers, and, through the safety and soundness externality, 
+society as a whole. 
+
+The broad social and economic benefit that derives from a safe and sound banking system 
+
+supported by vigorous and comprehensive banking supervision, including ensuring adequate 
+capital, clearly dwarfs any direct benefits that might accrue to institutions adopting the 
+Standardized Option.  Similarly, the social and economic cost of any reduction in the safety and 
+soundness of the banking system would dramatically overshadow any cost borne by banking 
+organizations subject to the rule.  The banking agencies are confident that the enhanced risk 
+sensitivity of the proposed rule could allow banking organizations to more effectively achieve 
+objectives that are consistent with a safe and sound banking system.  Ensuring the safety and 
+soundness of the banking system is the primary objective of the OCC and a safe and sound 
+banking system in turn safeguards federal deposit insurance funds.    
+
+Capital regulation is but one component of the regulatory supervision that buttresses our 
+
+banking industry.  This fact is made most apparent by the CAMELS rating system used by 
+supervisory agencies to monitor conditions at banking organizations.16  The acronym CAMELS 
+refers to the six components of an institution’s condition that examiners use to assess an 
+institution.  These six components are Capital adequacy, Asset quality, Management, Earnings, 
+Liquidity, and Sensitivity to risk.  Examiners assign an institution a CAMELS rating at the end 
+of an exam and disclose these ratings to senior bank management and appropriate supervisory 
+personnel.  Thus, while assessing capital adequacy is an important component of supervision, it 
+is but one facet of a broader supervisory process designed to protect the safety and soundness of 
+the banking system.   
+
+Comprehensive supervision, as exemplified by the CAMELS assessment, will help 
+
+address the potential problems with capital gamesmanship that might emerge with any change to 
+regulatory capital rules.  For instance, supervision will help to deal with institutions that might be 
+tempted to switch in and out of the Standardized Option when it best suits them -- so called 
+cherry picking.  The OCC retains the authority for broad supervisory oversight regarding 
+                                                 
+16  For a description of CAMELS ratings, see Jose A. Lopez, “Using CAMELS Ratings to Monitor Bank 
+Conditions,” Federal Reserve Bank of San Francisco, Economic Letter, #99-19, June 11, 1999. 
+
+ 
+
+22
+
+minimum capital levels and other aspects of bank management.  A broad range of formal and 
+informal enforcement tools are available to support the OCC’s supervisory oversight.  
+Supervision, coupled with enforcement authority serves to address a broad range of potential 
+problems that arise in banking organizations, not just those related to ensuring capital 
+adequacy.17 
+
+Beyond the societal benefit from maintaining a safe and sound banking system, we do not 
+anticipate additional benefits outside of those accruing directly to the banking organizations that 
+elect to adopt the Standardized Option.  Because many factors besides regulatory capital 
+requirements affect pricing and lending decisions, we do not expect the adoption or non-adoption 
+of the Standardized Option to affect pricing or lending.  Hence, we do not anticipate any costs or 
+benefits affecting the customers or competitors of institutions adopting the Standardized Option.  
+For these reasons, the cost and benefit analysis of the Standardized Option is primarily an 
+analysis of the costs and benefits directly attributable to institutions that might elect to adopt the 
+Standardized Option capital rules.   
+
+As was true with the regulatory impact analysis of the Advanced Approaches 
+
+implementation, cost and benefit analysis of changes in minimum capital requirements entail 
+considerable measurement problems.  On the cost side, it can be difficult to attribute particular 
+expenditures because institutions would likely incur some of these costs as part of their ongoing 
+efforts to improve risk measurement and management systems.  On the benefits side, 
+measurement problems are even greater because the benefits of the Standardized Option are 
+more qualitative than quantitative.  Measurement problems exist even with an apparently 
+measurable effect such as lower minimum capital because lower minimum requirements do not 
+necessarily mean lower capital.  Healthy banking organizations generally hold capital well above 
+regulatory minimums for a variety of reasons and the effect of reducing the regulatory minimum 
+is uncertain and likely to vary across regulated institutions.       
+
+A.  Organizations Affected by the Proposed Rule18 
+
+After the U.S. implementation of the Advanced Approaches, the proposed 
+
+implementation of the Standardized Option in the United States would create a trifurcated system 
+of capital requirements.  A relatively small group of mandatory and opt-in Advanced Approaches 
+organizations would be subject to capital requirements based on The New Accord’s Advanced 
+IRB approach and AMA.  A second group of indeterminate size would opt to adopt the 
+Standardized Option, and the remainder would use current capital rules.    
+
+ 
+As of December 31, 2007, 12 banking organizations meet the criteria that would require 
+them to adopt the U.S. implementation of the New Accord’s advanced approaches.  Removing 
+
+                                                 
+17 Informal enforcement tools include: supervisory letters and directives, special examinations, notices of deficiency 
+and requests for safety and soundness compliance plans.  Formal enforcement tools include formal written 
+agreements (including supervisory agreements), temporary cease and desist orders, permanent cease and desist 
+orders, temporary suspensions, removal and prohibition orders, civil money penalties, prompt corrective action 
+directives, and a variety of other agency actions and court orders. 
+ 
+18 Unless otherwise noted, the population of banks and thrifts used in this analysis consists of all FDIC-insured 
+institutions.  Banking organizations are aggregated to the top holding company level. 
+
+ 
+
+23
+
+those 12 institutions from the 7,415 FDIC-insured banking organizations active in December 
+2007 leaves 7,403 organizations that would be eligible to adopt the Standardized Option.  Seven 
+of the twelve mandatory Advanced Approaches institutions are national banks.  Out of 1,421 
+banking organizations with national banks, 1,414 national banking organizations would thus be 
+eligible to adopt the Standardized Option. 
+
+ 
+As discussed further below, the number of institutions that will ultimately elect to adopt 
+
+the Standardized Option is one of the major uncertainties regarding this proposed rule.  All 
+banking organizations other than those required to adopt the Advanced Approaches rule are 
+eligible to adopt the Standardized Option.  Because adopting the Standardized Option is 
+voluntary, the number of feasible adopters ranges from zero to 7,415 among all FDIC-insured 
+banking organizations and from zero to 1,414 among national banks.  Table 1 shows the size 
+distribution and share of total assets for national banks.  
+
+ 
+
+ 
+Table 1.  Size Distribution of National Banks, Aggregated to Top Holding Company, as of 
+December 31, 2007  
+
+Asset Size 
+
+# of Banking 
+Organizations
+
+Less than $100 million 
+
+Between $100 million and $1 
+billion 
+
+Between $1 billion and $10 billion  
+
+Greater than $10 billion; 
+Not Mandatory Advanced 
+Approaches 
+
+Mandatory Advanced Approaches 
+Organizations 
+
+Total  
+
+ 
+
+Total Assets 
+($ millions) 
+
+$27,970 
+
+$228,046 
+
+$316,419 
+
+$1,385,735 
+
+Share of Total 
+National Bank 
+
+Assets 
+0.4% 
+
+2.9% 
+
+4.1% 
+
+17.8% 
+
+495
+
+779
+
+113
+
+27
+
+7
+
+$5,824,217 
+
+74.8% 
+
+1,421
+
+  $7,782,387 
+
+    100% 
+
+ 
+
+ 
+
+B.  Benefits of the Proposed Rule 
+
+The proposed rule aims to enhance safety and soundness by improving the risk sensitivity 
+of regulatory capital requirements.  The proposed rule:   
+ 
+1.  Enhances the risk sensitivity of capital charges   
+ 
+
+24
+
+Among its objectives, the proposed rule aims to improve the risk sensitivity of regulatory 
+
+capital requirements.  For example, under current capital rules, residential mortgages generally 
+carry a 50 percent risk weight.  However, risk among mortgages tends to increase as the loan-to-
+value (LTV) ratio increases.  Table 2 shows the proposed rule’s risk weights for 1-4 family first 
+lien mortgages.  As shown in table 2, risk weights for residential mortgages would increase as 
+the LTV ratio increases.  Thus, the minimum capital requirement would rise and fall with risk 
+using the Standardized Option capital calculations.  Under current rules, the 50 percent risk 
+weight applies regardless of the mortgage’s LTV ratio.  The remainder of this section enumerates 
+and discusses this and other benefits of the proposed rule. 
+
+Table 2. Proposed Risk Weights for Qualifying First Lien Residential Mortgages 
+
+Loan-to-Value Ratio 
+60% or less 
+Greater than 60% and less than or equal to 80% 
+Greater than 80% and less than or equal to 85% 
+Greater than 85% and less than or equal to 90% 
+Greater than 90% and less than or equal to 95% 
+Greater than 95%  
+   
+
+Risk Weight 
+20% 
+35% 
+50% 
+75% 
+100% 
+150% 
+
+The proposed rule would offer a greater number of risk weights and would tie those risk 
+weights to external credit ratings.  In the case of residential mortgages, the proposed rule would 
+use loan-to-value ratios to assign risk weight categories.  By increasing the number of risk 
+weights and incorporating external credit ratings and loan-to-value ratios into the process of 
+assigning risk weights, the proposed rule enhances the risk sensitivity of capital charges relative 
+to current capital rules.  Although the proposed rule would continue to use the simplistic risk-
+bucket approach of current capital rules, including asset-specific information such as loan-to-
+value ratios or external credit ratings does serve to make the risk bucket assignment more 
+sensitive to idiosyncratic risk characteristics of various assets.    
+
+ 
+2.  Provides for more efficient use of required bank capital 
+Increased risk sensitivity will allow banking organizations to achieve prudent objectives 
+
+more efficiently.  If the proposed rule can better align capital with risk, then a given level of 
+capital will be able to support a higher level of banking activity while maintaining the same 
+degree of confidence regarding bank safety and soundness.  Alternatively, the better alignment of 
+capital and risk could lead to a higher effective level of solvency at the same levels of overall 
+banking activity.  Social welfare is enhanced by either the stronger condition of the banking 
+system or the increased economic activity the additional banking services facilitate.  Depending 
+on how many institutions elect to adopt the Standardized Option, the benefit in terms of capital 
+efficiency from more closely aligning regulatory capital charges with risk could be significant, in 
+view of the volume of assets at eligible U.S. banking organizations. 
+
+ 
+   
+
+ 
+
+ 
+
+25
+
+3.  Recognizes new developments in financial markets  
+The proposed rule recognizes new developments in financial markets by incorporating 
+external credit ratings into the process for assigning risk weight categories.  To a certain extent, 
+expanding the range of recognized collateral and using loan-to-value ratios also reflects the 
+proposed rule’s efforts to use financial market information to determine capital requirements.  By 
+incorporating this more dynamic information into the capital calculation, the proposed rule 
+represents an improvement over the purely static risk-weight approach of current capital rules.   
+
+ 
+4.  Mitigates potential distortions in minimum regulatory capital requirements between  
+
+Advanced Approaches banking organizations and other banking organizations   
+
+One of the principal concerns regarding the implementation of the Advanced Approaches 
+
+rule relates to the potential distortions in minimum regulatory capital requirements that might 
+occur as a result of the bifurcated capital rules.  This general concern also focused more 
+specifically on potential distortions that might occur in the residential mortgage market because 
+of the expectation that institutions subject to Advanced Approaches rule would generally 
+experience a reduction in their minimum capital requirements for mortgages.  By effectively 
+increasing the number of risk weights for residential mortgages from one to eight (see table 2 
+above), the Standardized Option serves to mitigate potential distortions between Advanced 
+Approaches institutions and other banking organizations.  According to the New Accord, the 
+range of potential risk weights is likely to be wider under the Advanced Approaches, from less 
+than 5 percent for mortgages with low default probabilities and low loss given default ratios to 
+over 250 percent for mortgages with high default probabilities and high loss given default 
+ratios.19  This compares to the 20 percent to 150 percent range for mortgages in the Standardized 
+Option.  The ultimate impact on minimum regulatory capital depends entirely on the composition 
+of the mortgage portfolio.  If an institution adopts the Standardized Option, then its overall 
+capital charge for residential mortgages will fall somewhere between 20 percent and 150 percent, 
+depending on the distribution of its mortgage portfolio across the eight LTV-dependent risk 
+weight categories.  
+
+  
+5.  Better aligns capital and operational risk and encourages banking organizations to 
+
+mitigate operational risk   
+
+Under the proposed rule, banking organizations adopting the Standardized Option would 
+use the Basic Indicator Approach (15 percent of a three year average of Gross Income).20  Just as 
+the Standardized Option approach to credit risk replaces the four-bucket approach of the 1988 
+Accord, introducing an explicit capital calculation for operational risk eliminates the implicit and 
+imprecise “buffer” that covers operational risk (along with other risks) under current capital 
+rules.  To the extent that operational risk and gross income are correlated, organizations with 
+relatively more operational risk will have to hold more capital to cover that risk, in contrast to the 
+current undifferentiated approach to operational risk. 
+
+ 
+
+                                                 
+19 See Annex 3, Illustrative IRB Risk Weights, page 197 in “International Convergence of Capital Measurement and 
+Capital Standards: A Revised Framework,” Basel Committee on Banking Supervision, June 2004.   
+20 As mentioned earlier, the proposed rule asks for comments as to whether banks adopting the Standardized Option 
+should be able to use the AMA for operational risk.   
+
+ 
+
+26
+
+Introducing an explicit capital requirement for operational risk improves how well capital 
+
+reflects risk at organizations where operational risk dominates other risks.  Organizations with 
+significant operational risk but little credit risk exposure have very little capital required under 
+the current system.  An explicit measure of operational risk should generate minimum capital 
+requirements at these organizations that are more appropriate to the actual risk.   
+
+ 
+6.  Enhances supervisory feedback    
+Although U.S. banking organizations have long been subject to close supervision, aspects 
+
+of all three pillars of the proposed rule aim to enhance supervisory feedback from federal 
+banking agencies to managers of banks and thrifts.  Ongoing supervision of the methods 
+organizations use to calculate capital adequacy should provide constructive feedback in keeping 
+with the supervisory review objectives of Pillar 2.  Oversight of the reports required as part of the 
+new disclosure requirements of Pillar 3 will give the banking agencies another opportunity to 
+provide useful feedback to bank and thrift management on their risk measurement and risk 
+management techniques.  Overall, the proposed rule provides a consistent framework across 
+institutions to gather additional data and insights into risk management that will enhance the 
+dialog between supervisors and bank management.  This enhanced feedback could further 
+strengthen the safety and soundness of the banking system.   
+
+ 
+7.  Promotes market discipline through enhanced disclosure    
+The rule seeks to aid market discipline through the regulatory framework by requiring 
+
+specific disclosures relating to risk measurement and risk management.  Disclosure of this 
+material will certainly enhance the transparency of mandatory and opt-in organizations to the 
+public, banking supervisors, and financial markets, thereby reducing informational asymmetries.  
+Increased disclosure enables financial markets to more accurately impose discipline by 
+increasing the transparency of banking organizations.  In addition to facilitating market 
+discipline, such information could play an important role in containing ripple effects when 
+shocks to one organization or one market threaten to spill over.  If spillovers are more likely to 
+occur when there is a dearth of information in the market regarding exposures and susceptibility, 
+supplying this information will limit spillover and lessen the likelihood of systemic problems.  
+Overall, market discipline could complement regulatory supervision in bolstering safety and 
+soundness. 
+
+ 
+As the rule indicates, disclosures made in public financial reports will fulfill the 
+
+applicable disclosure requirement.  To the extent organizations already disclose this information, 
+these disclosure requirements will not add to the reporting burden.  To the extent that 
+organizations do not currently make these disclosures, the requirements will add to the costs of 
+implementation, which we discuss later in the analysis.   
+
+ 
+8.  Preserves the benefits of international consistency and coordination achieved with the 
+
+1988 Basel Accord 
+
+Several important objectives will be achieved through the implementation of The New 
+
+Accord.  One such goal is the preservation of international consistency and coordination.  An 
+important objective of the 1988 Accord was competitive consistency of capital requirements for 
+
+ 
+
+27
+
+banking organizations competing in global markets.  The Standardized Option and advanced 
+approaches of The New Accord continue to pursue this objective.  Because achieving this 
+objective depends on the consistency of implementation in the United States and abroad, the 
+Basel Committee has established an Accord Implementation Group to promote consistency in the 
+implementation of The New Accord.  Consistent implementation of The New Accord will also 
+help to avoid any cross-border flows of capital that might occur because of regulatory differences 
+across countries.   
+
+ 
+Achieving international capital consistency also strengthens the global banking system 
+
+because of banking externalities.  As mentioned earlier in this analysis, capital protects 
+individual institutions from losses and strengthens the ability of the entire U.S. banking system to 
+absorb losses.  This externality extends to the global banking system as well.  Capital at each 
+institution provides a loss buffer that strengthens the bank, that bank’s domestic banking 
+industry, and the international banking system.  International consistency and coordination also 
+strengthen the global banking system by facilitating communication and cooperation among the 
+world’s banking supervisors.  Without a consistent set of capital rules across international 
+borders, banking organizations that must adhere to stricter capital regulation could be at a 
+competitive disadvantage relative to institutions facing weaker capital rules.  
+
+ 
+9.  Offers long-term flexibility to banking organizations by providing the ability to opt in 
+
+to the Standardized Approach. 
+
+In an effort to avoid undue regulatory burden, the proposed rule is voluntary.  If a 
+
+banking organization takes no action in response to this rule, it will continue to operate under 
+current capital rules.  The voluntary nature of the proposed rule allows banking organizations the 
+opportunity to weigh the various costs and benefits of adopting the new system.  There is no opt-
+in deadline, so institutions that initially choose to continue with current capital rules, may switch 
+to the Standardized Option at a later date if their cost/benefit tradeoff changes in the future.  The 
+proposed rule does not preclude institutions that initially elect to adopt the Standardized Option 
+from undoing that decision.  However, they must first notify their primary federal regulator, and 
+a banking organization’s primary federal supervisor could require the institution to use either 
+existing capital rules or the Standardized Option if the supervisor deems that a particular capital 
+rule is appropriate.   
+
+ 
+   
+
+C.  Costs of the Proposed Rule  
+
+One of the principles guiding the development of the proposed rule was to avoid undue 
+regulatory burden.  Towards this goal of limiting regulatory burden, the proposed rule allows 
+banking organizations to choose to adopt the revisions in the rule or do nothing and continue to 
+use current risk-based capital rules.  Even for those institutions that elect to adopt the 
+Standardized Option, the principal rule change is the relatively simple expansion of the number 
+of risk weights.  The proposed rule would also make use of data that are either currently 
+available to the institution, e.g., loan-to-value ratios, or readily available information, e.g., 
+external credit ratings.  The Standardized Option does not involve any of the complex modeling 
+of credit risk associated with the Advanced Approaches rule.  Organizations adopting the 
+Standardized Option would be able to do so simply by completing new items related to the 
+
+ 
+
+28
+
+Standardized Option provisions on the quarterly report of financial condition that the banking 
+organization currently submits to its primary federal regulator.  Because these rule changes are 
+relatively simple and use readily available data, the cost of adopting the Standardized Option 
+with the Basic Indicator Approach is likely to be fairly moderate, as we discuss in the following 
+section on costs.21  
+
+  
+Estimating the costs of the proposed rule presents a number of challenges.  As with any 
+
+rule, the costs of the proposal include expenditures by banks and thrifts necessary to comply with 
+the new regulation and costs to the federal banking agencies of implementing the new rules.  
+Whereas the fourth quantitative impact study (QIS-4) provided specific cost estimates from 
+banking organizations regarding their estimate of the cost of implementing the Advanced 
+Approaches, no such information exists for the Standardized Option.  Although an earlier 
+Advanced Notice of Proposed Rulemaking requested estimates of implementation costs, only 
+one of 73 comment letters included a cost estimate.  Further complicating matters, the cost 
+estimate in the one comment letter refers to a broader data gathering effort than anticipated by 
+the banking agencies and consequently provides a cost estimate for establishing a data mart.22  
+Because of this lack of cost estimates from banking organizations, the OCC found it necessary to 
+use a scope of work comparison with the Advanced Approaches in order to arrive at a cost 
+estimate for the Standardized Option.  Based on this rough assessment, we estimate that 
+implementation costs for the Standardized Option could range from $200,000 at smaller 
+institutions to $5 million at larger institutions.     
+
+ 
+1.  Costs to Banking Organizations 
+ 
+Explicit costs of implementing the proposed rule at banking organizations fall into two 
+
+categories: setup costs and ongoing costs.  Setup costs are typically one-time expenses associated 
+with introducing the new programs and procedures necessary to achieve initial compliance with 
+the proposed rule.  Setup costs may also involve expenses related to tracking and retrieving data 
+needed to implement the proposed rule.  Ongoing costs are also likely to reflect data costs 
+associated with retrieving and preserving data.        
+
+ 
+The most significant question regarding the costs to banking organizations of the 
+
+proposed rule relates to the number of institutions that may elect to adopt it.  Because adherence 
+to the proposal is entirely voluntary, it is feasible that zero banking organizations may elect to 
+adopt the Standardized Option, which would result in zero costs to banking organizations.  
+Similarly, it is feasible that all institutions other than those required to adopt the Advanced 
+Approaches may elect to adopt the Standardized Option.  Table 3 provides a look at the possible 
+aggregated costs for the adoption scenario for national banks that we use in this analysis.     
+
+ 
+
+                                                 
+21 Costs related to new rules typically fall into three categories: new technology, process reengineering, and training.  
+We do not expect adoption of the Standardized Option to involve new technology costs. 
+22 TD Banknorth, Comment Letter on ANPR for Risk-Based Capital Guidelines: Domestic Capital Modifications, 
+January 18, 2006.   The letter states that the initial cost of establishing a data mart “could easily exceed $5 million”.   
+
+ 
+
+29
+
+Table 3.  Cost Estimates for the Standardized Option Adoption by Size, Eligible National Banks, 
+Aggregated to Top Holding Company, December 31, 2007  
+
+# of Banking 
+Organizations 
+
+Estimated 
+Number of 
+More Likely 
+
+Adopters 
+
+Estimated Cost of 
+
+Adoption per 
+Institution 
+
+Aggregate Cost Estimate
+
+($ in millions) 
+
+495 
+
+779 
+
+113 
+
+27 
+
+41
+
+53
+
+14
+
+5
+
+1,414 
+
+113
+
+$200,000
+
+$500,000
+
+$1 million
+
+$5 million
+
+$8.2 
+
+$26.5 
+
+$14 
+
+$25 
+
+$73.7 
+
+Asset Size 
+
+Less than $100 
+million 
+
+$100 million -  
+$1 billion 
+
+$1 billion   - 
+$10 billion  
+
+Greater than 
+$10 billion 
+
+Total  
+ 
+ 
+
+ 
+As table 3 suggests, the total cost to national banks of adopting the Standardized Option 
+depends entirely on the number of institutions that elect to adopt the voluntary rule and the size 
+of those institutions.  Obviously, if the number of institutions adopting the Standardized Option 
+is zero, then the cost will be zero.  At the opposite extreme, if all 1,414 eligible national banking 
+organizations choose to adopt the Standardized Option capital rules, the estimated cost of the 
+rule is $737 million.  Based on comment letters and discussions with bank supervision staff, we 
+sought to identify national banks that might be more likely to adopt the Standardized Option.  
+Because one of the principal changes in the Standardized Option affects the risk weighting for 
+residential mortgages, we selected national banks with significant mortgage holdings as the more 
+likely adopters of the new rule.23  We identified 113 national banking organizations that might be 
+more likely to adopt the Standardized Option.  We estimate that the total cost of the rule for 
+those national banks will be approximately $74 million.24   
+
+ 
+
+                                                 
+23 These banks include national banks with significant mortgage holdings (1-4 family first-lien mortgages comprise 
+greater than 30 percent of the portfolio of institutions with less than $1 billion in assets or 20 percent of the portfolio 
+of institutions with at least $1 billion in assets) as well as national banks that did not meet the well-capitalized 
+threshold for their risk-based capital ratio as of December 31, 2007.   
+24 This cost estimate assumes that each institution incurs these costs in one year, 2009.  Spreading the costs equally 
+over two years and applying a five percent discount rate would yield a present value total cost to national banks of 
+approximately $69 million.  We use a five percent discount rate as an approximation to the yield on a ten-year 
+Treasury Bond.  Using a discount rate of three percent or seven percent would yield a present value cost of $71 
+million or $67 million, respectively. 
+
+ 
+
+30
+
+We discuss further below, in the uncertainty section, the factors that might influence an 
+institution regarding its decision to adopt the Standardized Option.  Over time, the Standardized 
+Option may become more appealing to a larger number of banks.  The total cost of the proposed 
+rule would consequently increase to the extent that more institutions opt into the Standardized 
+Option over time.  At present, it is unclear how many national banks will ultimately elect to 
+adopt the Standardized Option.     
+ 
+
+Implicit Costs  
+ 
+In addition to explicit setup and recurring costs, banking organizations may also face 
+
+implicit costs arising from the time and inconvenience of having to adapt to new capital 
+regulations.  At a minimum this involves the increased time and attention required of senior bank 
+and thrift management to introduce new programs and procedures and the need to closely 
+monitor the new activities when the proposed rules first take effect.  Such heightened oversight 
+will necessarily have to continue until the new programs settle into place.  Because of the 
+relatively simple nature of the changes in the proposed rule, the OCC does not anticipate 
+significant time and inconvenience costs.  It is likely that an institution that expects the adoption 
+of the Standardized Option to involve significant time and inconvenience costs will choose to 
+remain subject to current capital rules.   
+
+ 
+ 
+2.  Government Administrative Costs 
+Like the banking organizations subject to new requirements, the costs to government 
+
+agencies of implementing the proposed rule also involve both startup and ongoing costs.  Startup 
+costs include expenses related to the development of the regulatory proposals, costs of 
+establishing new programs and procedures, and costs of initial training of bank examiners in the 
+new programs and procedures.  Ongoing costs include maintenance expenses for the likely 
+additional examiners and analysts needed to regularly apply potentially more complex 
+supervisory processes.  In the case of the Standardized Option, because modest changes to 
+regulatory reporting requirements will capture most of the rule changes, these ongoing costs are 
+likely to be minor. 
+
+ 
+OCC expenditures fall into three broad categories: training, guidance, and supervision.  
+
+Training includes expenses for workshops and other training courses and seminars for 
+examiners.  Guidance expenses reflect expenditures on the development of the Standardized 
+Option guidance.  Supervision expenses reflect organization-specific supervisory activities.   
+ 
+
+Although we have not collected OCC expenditure information specific to the 
+Standardized Option, we estimate that the Standardized Option expenditures will be 
+approximately one third of OCC expenditures on the U.S. implementation of the Advanced 
+Approaches.  While ultimate OCC expenditures on the Standardized Option depend to a certain 
+extent on the number of institutions that elect to adopt it, guidance and training expenditures will 
+be relatively independent of the adoption rate.  Through fiscal year 2006, the OCC spent $10 
+million on Advanced Approaches guidance, training, and supervision expenses.  We estimate 
+that OCC expenses for the Standardized Option will be approximately $4.3 million through 
+2008.  We also expect expenditures of $1 million per year between 2009 and 2011.  Applying a 
+
+ 
+
+31
+
+five percent discount rate to future expenditures, past expenses ($4.3 million) plus the present 
+value of future expenditures ($2.7 million) equals total OCC expenditures of approximately $7 
+million on the Standardized Option.25   
+
+ 
+Total Cost Estimate of Proposed Rule  
+ 
+Because we do not expect the adoption or non-adoption of the Standardized Option to 
+
+carry any social costs outside of the direct costs to banking organizations, the OCC’s estimate of 
+the total cost of the proposed rule includes expenditures by banking organizations and the OCC 
+from the present through 2011.  Based on our estimate that 113 national banks will adopt the 
+Standardized Option at a cost to each institution of between $200,000 and $5 million depending 
+on the size of the institution, we estimate that national banks will spend approximately $74 
+million on the Standardized Option.  Combining expenditures by banking organizations and the 
+OCC provides an estimate of $81 million for the total cost of the proposed rule.26     
+
+ 
+The Uncertainty of Costs and Benefits  
+
+As with any proposed rule change, there is bound to be some uncertainty regarding the 
+actual extent of costs and benefits engendered by the new regulation.  In addition to uncertainty 
+surrounding costs and benefits that might arise from unanticipated effects of the regulation, there 
+will also be varying degrees of uncertainty regarding fully anticipated costs and benefits.  For 
+instance, some costs are certain to occur, but the ultimate cost for each institution remains 
+uncertain.   
+
+ 
+One area of particular uncertainty is the number of institutions that will choose to adopt 
+the proposed rule.  As pointed out in the discussion of costs above, the total cost of the proposed 
+rule depends entirely on the number of institutions that adopt the Standardized Option and the 
+size of those institutions.  While we expect that 113 national banks or fewer will adopt the 
+proposed rule, the actual number could fall anywhere between zero and 1,414 institutions.  
+Corresponding costs could thus fall anywhere between zero and $737 million.  Because adoption 
+of the rule is voluntary, each institution will weigh the benefits of adopting the rule against its 
+costs.  It is fairly certain, however, that regulated financial institutions will not incur expenses in 
+order to voluntarily adopt a rule that would increase their minimum required capital levels.  This 
+understandable behavior combined with the fact that to achieve increased risk sensitivity, the 
+Standardized Option would reduce risk weights for securities with high investment grade ratings 
+and mortgages with low LTV ratios, suggests that institutions with portfolios more heavily 
+weighted toward these types of assets would be more likely to adopt the Standardized Option 
+than an institution with an asset portfolio that contains a significant proportion of below 
+investment grade securities or mortgages with high LTV ratios.   
+ 
+
+Uncertainty also relates to the overall extent of changes in minimum capital 
+
+requirements.  For instance, because of changing risk weights, one might expect that institutions 
+that elect to adopt the Standardized Option may be inclined to adjust their exposure in favor of 
+                                                 
+25  Using a discount rate of three percent or seven percent would yield the same result after rounding. 
+26 Spreading costs to banking organizations over two years and using three percent, five percent, and seven percent 
+discount rates would yield total cost estimates of $71 million, $69 million, or $67 million, respectively.   
+
+ 
+
+32
+
+lower risk weight assets.  However, experience suggests that may not be the case.  Current 
+capital rules have different risk weights that would allow institutions to adjust their portfolio 
+toward lower risk weight assets.  Rather than clustering in any particular risk-weight category, 
+banking organizations tend to hold a diversified portfolio of assets, suggesting that factors other 
+than regulatory capital risk weights tend to dominate the asset allocation decision.  Nevertheless, 
+as with the implementation of the Advanced Approaches, the federal banking agencies intend to 
+monitor the risk-based capital levels of those banking organizations that choose to voluntarily 
+adopt the Standardized Option.  Any significant decline in the aggregate minimum required risk-
+based capital for these banking organizations may warrant modifications to the proposed rule’s 
+risk-based capital requirements.   
+
+ 
+Another area of uncertainty with any regulatory change is the possibility that it might 
+create a competitive advantage for some organizations relative to others.  One of the principal 
+motivations for developing the Standardized Option proposal, however, was to help mitigate any 
+potential competitive effects of the U.S. implementation of the New Accord’s advanced 
+approaches.  Although the OCC’s regulatory impact analysis of the Advanced Approaches 
+concludes that recent economic literature does not reveal any persuasive evidence of sizeable 
+competitive effects, the Standardized Option serves to mitigate any potential distortions in 
+minimum regulatory capital requirements between Advanced Approaches banks and other 
+institutions.  Even so, the U.S. banking agencies recognize the need to closely monitor the 
+competitive landscape subsequent to any regulatory change.  In particular, the banking agencies 
+intend to monitor and encourage research on competition in banking on an ongoing basis in order 
+to fully assess the proposed rule’s competitive implications.  To the extent that undesirable 
+competitive inequities emerge, the agencies have the power to respond to them through many 
+channels, including but not limited to suitable changes to capital adequacy regulations. 
+
+ 
+ 
+
+IV.  ANALYSIS OF BASELINE AND ALTERNATIVES 
+
+ 
+In order to place the costs and benefits of the proposed rule in context, Executive Order 
+
+12866 requires a comparison between the proposed rule, a baseline of what the world would look 
+like without the proposed rule, and a reasonable alternative to the proposed rule.  The baseline 
+considers the possibility that the proposed Standardized Option is not adopted and current capital 
+standards continue to apply.   
+
+ 
+The baseline scenario appears in this analysis in order to estimate the effects of adopting 
+
+the proposed rule relative to a hypothetical regulatory regime that might exist without the 
+Standardized Option.  Because the baseline scenario considers costs and benefits as if the 
+proposed rule never existed, we set the costs and benefits of the baseline scenario to zero.  
+Obviously, banking organizations face compliance costs and reap the benefits of a well-
+capitalized banking system even under the baseline.  However, because we cannot quantify these 
+costs and benefits, we normalize the baseline costs and benefits to zero and estimate the costs 
+and benefits of the proposed rule and alternative as deviations from this zero baseline.  
+
+  
+
+ 
+
+33
+
+1.  Baseline Scenario: Current capital standards based on the 1988 Basel Accord 
+
+continue to apply. 
+
+Description of Baseline Scenario   
+
+ 
+
+Under the Baseline Scenario, current capital rules would continue to apply to all banks in 
+
+the United States that are not required to adopt the Advanced Approaches rule.  The United 
+States would not adopt the proposed Standardized Option, but implementation of the Advanced 
+Approaches rule would continue.  Because the U.S. implementation of the Advanced 
+Approaches allows institutions to opt in, there is some uncertainty in this baseline scenario 
+regarding the number of U.S. banking organizations that would not be subject to the Advanced 
+Approaches.   
+
+ 
+Change in Benefits: Baseline Scenario  
+ 
+Staying with current capital rules instead of adopting the Standardized Option would 
+
+eliminate all of the benefits of the proposed rule described earlier.  Table 4 lists the benefits of 
+the proposed rule and indicates whether the baseline scenario would capture these benefits.  
+Under the baseline, banking organizations not subject to the Advanced Approaches would not be 
+able to voluntarily elect Standardized Option capital rules.  Institutions that would have adopted 
+the proposed rule would not be able to take advantage of the enhanced risk sensitivity of the 
+Standardized Option capital charges and the more efficient use of bank capital which that 
+implies.     
+
+ 
+
+Table 4.  Benefit Comparison of Proposed Rule with Baseline Scenario 
+
+Benefit 
+
+Proposed Rule 
+
+1. Enhances risk sensitivity of capital charges 
+2. More efficient use of required capital 
+3. Recognizes new developments in financial markets 
+4. Mitigates potential distortions in minimum regulatory 
+capital requirements 
+5. Better aligns capital and operational risk and 
+encourages banks to mitigate operational risk 
+6. Enhances supervisory feedback 
+7. Enhanced disclosure promotes market discipline 
+8. Preserves the benefits of international consistency and 
+coordination achieved with the 1988 Basel Accord 
+9. Ability to opt in offers long-term flexibility to banking 
+organizations 
+
+Yes 
+Yes 
+Yes 
+Yes 
+
+Yes 
+Yes 
+Yes 
+Yes 
+
+Yes 
+
+Baseline: 
+No 
+Standardized 
+Option 
+No 
+No 
+No 
+No 
+
+No 
+No 
+No 
+No 
+
+No 
+
+ 
+Without the Standardized Option, an institution would have to choose between the 
+
+Advanced Approaches and the status quo.  The baseline without the Standardized Option would 
+leave a level playing field for all the non-Advanced Approaches banks.  However, the absence of 
+
+ 
+
+34
+
+an opportunity to mitigate potential distortions in minimum required capital would likely 
+diminish this benefit in the eyes of an institution concerned about potential distortions created by 
+the Advanced Approaches.   
+
+Changes in Costs: Baseline Scenario  
+
+Continuing to use current capital rules would eliminate the costs of adopting the proposed 
+
+rule as well as the benefits.  As discussed above, under the proposed rule we estimate that 
+organizations would spend up to $74 million on implementation-related expenditures if 113 
+national banks elect to adopt the Standardized Option.  Retaining current capital rules would 
+eliminate any costs associated with adopting the proposed rule, even though banking 
+organizations would only incur those costs if they choose to do so.  Also, because the proposal 
+would rely on data that is readily available, and imposes relatively modest changes in data 
+reporting and information-maintenance requirements, those avoided costs are relatively modest.   
+
+Even if the proposed rule were dropped, the original concerns that led to the proposal 
+would remain and likely could require some sort of policy response.  In that case, costs could 
+change depending on the eventual regulatory response. 
+ 
+
+2.  Alternative: Require all U.S. banking organizations not subject to the Advanced 
+
+Approaches to adopt the Standardized Option. 
+
+ 
+Description of Alternative  
+
+The only change under the alternative is that adoption of the proposed rule would be 
+mandatory rather than voluntary.  Under this alternative, the provisions of the proposed rule 
+would remain intact and apply to all national banks that are not subject to Advanced Approaches 
+capital rules.  Institutions subject to the Advanced Approaches would include mandatory 
+Advanced Approaches institutions and those institutions that elect to adopt the Advanced 
+Approaches rule.     
+ 
+
+Change in Benefits: Alternative  
+
+Because there are no changes to the elements of the proposed rule under the alternative, 
+the list of benefits remains the same.  Among these benefits, only one benefit is lost by making 
+the proposed rule mandatory: the benefit derived from the fact that the proposed rule is voluntary 
+and allows institutions to opt in when it is advantageous for the institution to do so.  As for the 
+benefits relating to the enhanced risk sensitivity of capital charges, because adoption of the 
+Standardized Option is mandatory under the alternative more banks will be subject to the 
+Standardized Option provisions and the aggregate level of benefits will be higher.  Because we 
+estimate that 113 national banks would adopt the Standardized Option voluntarily, this difference 
+in the aggregate benefit level would be considerable.  Table 5 summarizes the benefit 
+comparison between the proposed rule and the alternative.   
+
+ 
+
+ 
+
+35
+
+Table 5.  Benefit Comparison of Proposed Rule with Alternative 
+
+Benefit 
+
+Proposed Rule 
+
+1. Enhances risk sensitivity of capital charges 
+2. More efficient use of required capital 
+3. Recognizes new developments in financial 
+markets 
+4. Mitigates potential distortions in minimum 
+regulatory capital requirements 
+5. Better aligns capital and operational risk and 
+encourages banks to mitigate operational risk 
+6. Enhances supervisory feedback 
+7. Enhanced disclosure promotes market discipline 
+8. Preserves the benefits of international 
+consistency and coordination achieved with the 
+1988 Basel Accord 
+9. Ability to opt in offers long-term flexibility to 
+banking organizations  
+ 
+
+ 
+Changes in Costs: Alternative  
+
+Yes 
+Yes 
+Yes 
+
+Yes 
+
+Yes 
+Yes 
+Yes 
+
+Yes 
+
+Yes 
+
+Alternative:  
+Mandatory 
+
+Standardized Option 
+
+Greater 
+Greater 
+
+Yes 
+
+Yes 
+
+Greater 
+Greater 
+Greater 
+
+Yes 
+
+No  
+
+Clearly the most significant drawback to the alternative is the dramatically increased cost 
+
+of applying a new set of capital rules to all U.S. banking organizations.  Under the alternative, 
+direct costs would increase for every U.S. banking organization that would have elected to 
+continue to use current capital rules under the proposed rule.  Referring back to table 3, the cost 
+estimate for the alternative is the total cost estimate for a 100 percent adoption rate of the 
+Standardized Option.  With 1,414 national banking organizations eligible for the Standardized 
+Option, the cost of the alternative to banking organizations is approximately $737 million.  This 
+number may be somewhat less depending on the number of national banks that elect to adopt 
+Advanced Approaches capital rules, but it is much greater than our cost estimate of $74 million 
+for the proposed rule.  
+
+Because of enhanced risk sensitivity, aggregate social benefits would increase by making 
+
+the Standardized Option mandatory.  However, private costs would increase considerably.  For 
+some riskier institutions, the benefits of increased risk sensitivity of capital charges would likely 
+outweigh the private cost of the Standardized Option implementation.  However, for the vast 
+majority of well capitalized institutions with relatively balanced portfolios, the private cost of 
+implementing the Standardized Option most likely exceeds the marginal social benefit of 
+adopting its more risk sensitive approach to determining regulatory capital.        
+ 
+
+ 
+
+36
+
+3.  Overall Comparison of Proposed Rule with Baseline and Alternative 
+
+The New Accord and its U.S. implementation seek to incorporate risk measurement and 
+
+risk management advances into capital requirements.  Risk-sensitive capital requirements are 
+integral to ensuring an adequate capital cushion to absorb financial losses at financial 
+institutions.  In implementing the Standardized Option in the United States, the agencies’ intent 
+is to enhance risk sensitivity while maintaining a regulatory capital regime that is as rigorous as 
+the current system.  Total capital requirements under the Standardized Option will better allocate 
+capital in the system.  This will occur regardless of whether the minimum required capital at a 
+particular institution is greater or less than it would be under current capital rules.   
+
+The objective of the proposed rule is to enhance the risk sensitivity of capital charges for 
+institutions not subject to the Advanced Approaches capital regulations.  The proposal also seeks 
+to mitigate any potential distortions in minimum regulatory capital requirements that the U.S. 
+implementation of the Advanced Approaches rule might create between large and small banking 
+organizations.  Like the Advanced Approaches rule, the anticipated benefits of the Standardized 
+Option proposal are difficult to quantify in dollar terms.  Nevertheless, the OCC believes that the 
+proposed rule provides significant benefits without harming the safety and soundness of the 
+banking industry or the security of the Federal Deposit Insurance system.  To offset the costs of 
+the proposed rule, its voluntary nature offers regulatory flexibility that will allow institutions to 
+adopt the Standardized Option on a bank-by-bank basis when an institution’s anticipated benefits 
+exceed the anticipated costs of adopting this regulation.   
+
+The banking agencies are confident that the proposed rule will enhance the risk 
+sensitivity of institutions electing to adopt the Standardized Option while the safety and 
+soundness of institutions electing to forgo the Standardized Option and Advanced Approaches 
+rule will not diminish.  On the basis of our analysis, we believe that the benefits of the proposed 
+rule are sufficient to offset the costs of implementing the proposal.    However, we believe it is 
+best to make the proposed rule voluntary in order to let each national bank decide whether it is in 
+that institution’s best interest to adopt the Standardized Option.  This will help to ensure that the 
+costs associated with implementation of the Standardized Option do not rise precipitously and 
+outweigh the benefits.  Because adoption is voluntary, the proposed rule offers an improvement 
+over the baseline scenario and the alternative.  The proposed rule also offers an important degree 
+of flexibility unavailable with either the baseline or the alternative.  The baseline does not give 
+banking organizations a way into the more risk sensitive Standardized Option and the alternative 
+does not offer them a way out.  The alternative would compel most banking organizations to 
+follow a new set of capital rules and require them to undertake the time and expense of adjusting 
+to these new rules.  The proposed rule offers a better balance between costs and benefits than 
+either the baseline or the alternative.  Overall, the OCC believes that the benefits of the proposed 
+rule justify its potential costs.           
+
+ 
+ 
+
+ 
+
+37
+
+

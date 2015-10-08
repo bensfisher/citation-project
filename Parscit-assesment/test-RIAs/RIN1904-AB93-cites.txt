@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Building Technologies Program, Mailstop EE–2J, 1000 Independence Avenue,</title>
+<date></date>
+<location>SW., Washington, DC</location>
+<marker>S, </marker>
+<rawString>U.S. Department of Energy, Building Technologies Program, Mailstop EE–2J, 1000 Independence Avenue, SW., Washington, DC 20585–0121. Please submit one signed original paper copy.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Hand</author>
+</authors>
+<title>Delivery/Courier: Ms. Brenda Edwards,</title>
+<booktitle>U.S. Department of Energy, Building Technologies Program, Room 1J–018, 1000 Independence Avenue, SW.,</booktitle>
+<pages>20585--0121</pages>
+<location>Washington, DC</location>
+<marker>Hand, </marker>
+<rawString>4. Hand Delivery/Courier: Ms. Brenda Edwards, U.S. Department of Energy, Building Technologies Program, Room 1J–018, 1000 Independence Avenue, SW., Washington, DC 20585–0121.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Stephen Witkowski</author>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Efficiency and Renewable Energy,</title>
+<booktitle>Building Technologies Program, EE–2J, 1000 Independence Avenue, SW., Washington, DC 20585–0121. Telephone: (202) 586–7463. E-mail: Stephen.Witkowski@ee.doe.gov.</booktitle>
+<marker>Witkowski, S, </marker>
+<rawString>Stephen Witkowski, U.S. Department of Energy, Energy Efficiency and Renewable Energy, Building Technologies Program, EE–2J, 1000 Independence Avenue, SW., Washington, DC 20585–0121. Telephone: (202) 586–7463. E-mail: Stephen.Witkowski@ee.doe.gov.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Francine Pinto</author>
+<author>or Ms Betsy Kohl</author>
+<author>U S</author>
+</authors>
+<title>Department of Energy,</title>
+<journal>Office of General Counsel,</journal>
+<volume>71</volume>
+<pages>1000</pages>
+<location>Independence Avenue, SW., Washington, DC</location>
+<marker>Pinto, Kohl, S, </marker>
+<rawString>Ms. Francine Pinto, Esq. or Ms. Betsy Kohl, Esq., U.S. Department of Energy, Office of General Counsel, GC–71/72, 1000 Independence Avenue, SW., Washington, DC 20585–0121.</rawString>
+</citation>
+<citation valid="false">
+<date>2006</date>
+<tech>Telephone: (202) 586–5000. E-mail: N.Y. Acad. Sci. 911</tech>
+<marker>2006</marker>
+<rawString>Telephone: (202) 586–5000. E-mail: N.Y. Acad. Sci. 911 (2006).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Ted Gayer</author>
+<author>Robert Hahn</author>
+</authors>
+<title>Designing Environmental Policy: Lessons from the Regulation of Mercury Emissions,’’ Regulatory Analysis 05–01, 57795</title>
+<date>2009</date>
+<journal>Federal Register /</journal>
+<volume>74</volume>
+<marker>Gayer, Hahn, 2009</marker>
+<rawString>41 Ted Gayer and Robert Hahn, ‘‘Designing Environmental Policy: Lessons from the Regulation of Mercury Emissions,’’ Regulatory Analysis 05–01, 57795 Federal Register / Vol. 74, No. 215 / Monday, November 9, 2009 / Proposed Rules 42 Rufo, M. and F. Coito, California’s Secret Energy Surplus: The Potential for Energy Efficiency (prepared for The Energy Foundation and The Hewlett Foundation by Xenergy, Inc.) (2002).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Itron</author>
+<author>KEMA</author>
+</authors>
+<title>Statewide Residential Retrofit Single-Family Energy Efficiency Rebate Evaluation (prepared for the California Public Utilities Commission, Pacific Gas And Electric Company, San Diego Gas and Electric Company,</title>
+<date>2004</date>
+<journal>Gas Company, CPUC–ID#</journal>
+<volume>1115</volume>
+<location>Southern California Edison, Southern California</location>
+<marker>Itron, KEMA, 2004</marker>
+<rawString>43 Itron and KEMA, 2004/2005 Statewide Residential Retrofit Single-Family Energy Efficiency Rebate Evaluation (prepared for the California Public Utilities Commission, Pacific Gas And Electric Company, San Diego Gas and Electric Company, Southern California Edison, Southern California Gas Company, CPUC–ID# 1115–04) (2007).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>KEMA</author>
+</authors>
+<title>Consumer Product Market Progress Evaluation Report 3 (prepared for Northwest Energy Efficiency Alliance,</title>
+<date>2007</date>
+<journal>Report</journal>
+<volume>07</volume>
+<pages>45</pages>
+<marker>KEMA, 2007</marker>
+<rawString>44 KEMA, Consumer Product Market Progress Evaluation Report 3 (prepared for Northwest Energy Efficiency Alliance, Report #07–174) (2007). 45 Rufo, M., and F. Coito, op. cit.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Because DOE</author>
+</authors>
+<title>was not able to identify consumer 57796 Federal Register /</title>
+<date>2009</date>
+<journal>Proposed Rules</journal>
+<volume>74</volume>
+<marker>DOE, 2009</marker>
+<rawString>46 Because DOE was not able to identify consumer 57796 Federal Register / Vol. 74, No. 215 / Monday, November 9, 2009 / Proposed Rules 47 K. Train, Customer Decision Study: Analysis of Residential Customer Equipment Purchase Decisions (prepared for Southern California Edison by Cambridge Systematics, Pacific Consulting Services, The Technology Applications Group, and California Survey Research Services) (1994).</rawString>
+</citation>
+<citation valid="true">
+<title>Forecasting Group. Analysis of Tax Credits for Efficient Equipment</title>
+<date>1997</date>
+<pages>op. cit.</pages>
+<institution>48 Lawrence Berkeley National Laboratory, EndUse</institution>
+<marker>1997</marker>
+<rawString>48 Lawrence Berkeley National Laboratory, EndUse Forecasting Group. Analysis of Tax Credits for Efficient Equipment (1997). Available at http:// enduse.lbl.gov/Projects/TaxCredits.html. (Last accessed April 24, 2008.) 49 Data were not available on the market impacts of the CCW program. 50 Sanchez et al., op. cit.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M Sanchez</author>
+<author>A Fanara</author>
+</authors>
+<title>New Product Development: The Pipeline for Future ENERGY STAR Growth,’’</title>
+<date>2000</date>
+<booktitle>Proceedings of the 2000 ACEEE Summer Study on Energy Efficiency in Buildings</booktitle>
+<tech>Report, Final.</tech>
+<volume>6</volume>
+<pages>343--354</pages>
+<marker>Sanchez, Fanara, 2000</marker>
+<rawString>51 Sanchez, M. and A. Fanara, ‘‘New Product Development: The Pipeline for Future ENERGY STAR Growth,’’ Proceedings of the 2000 ACEEE Summer Study on Energy Efficiency in Buildings (2000) Vol 6, pp 343–354. savings, 13 billion gallons of national water savings, and an NPV of $0.03 and Market Study of the Connecticut Appliance Retirement Program: Overall Report, Final.</rawString>
+</citation>
+<citation valid="true">
+<title>Submitted to Northeast Utilities—Connecticut Light and Power and the United Illuminating Company by</title>
+<date>2005</date>
+<journal>Nexus Market Research, Inc. and RLW Analytics, Inc.</journal>
+<marker>2005</marker>
+<rawString>(Submitted to Northeast Utilities—Connecticut Light and Power and the United Illuminating Company by Nexus Market Research, Inc. and RLW Analytics, Inc.) (2005).</rawString>
+</citation>
+<citation valid="false">
+<journal>Assessment of High-Performance, Family-Sized Commercial Clothes Washers (DOE/EE–</journal>
+<pages>0218--2000</pages>
+<institution>53 Pacific Northwest National Laboratory,</institution>
+<marker></marker>
+<rawString>53 Pacific Northwest National Laboratory, Assessment of High-Performance, Family-Sized Commercial Clothes Washers (DOE/EE– 0218)(2000).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>DOE</author>
+</authors>
+<title>modeled this policy by applying a 4-percent increase in the replacement 57799 Federal Register /</title>
+<date>2009</date>
+<journal>UMRA</journal>
+<volume>74</volume>
+<marker>DOE, 2009</marker>
+<rawString>DOE modeled this policy by applying a 4-percent increase in the replacement 57799 Federal Register / Vol. 74, No. 215 / Monday, November 9, 2009 / Proposed Rules governments. On March 18, 1997, DOE published a statement of policy on its process for intergovernmental consultation under UMRA (62 FR 12820) (also available at http:// www.gc.doe.gov). Although today’s supplemental notice does not contain a Federal intergovernmental mandate, it may impose expenditures of $100 million or more on the private sector, although DOE believes such expenditures are likely to be less than $50 million.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Id</author>
+</authors>
+<title>of UMRA authorizes an agency to respond to the content requirements of UMRA in any other statement or analysis that accompanies the supplemental notice. 2 U.S.C. 1532(c). The content requirements of section 202(b) of UMRA relevant to a private sector mandate substantially overlap the economic analysis requirements that apply under section 325(o) of EPCA and Executive Order 12866. The Supplementary Information section of this supplemental notice and the ‘‘Regulatory Impact Analysis’’ Act,</title>
+<date>1999</date>
+<journal>Section</journal>
+<volume>202</volume>
+<marker>Id, 1999</marker>
+<rawString>Section 202 of UMRA authorizes an agency to respond to the content requirements of UMRA in any other statement or analysis that accompanies the supplemental notice. 2 U.S.C. 1532(c). The content requirements of section 202(b) of UMRA relevant to a private sector mandate substantially overlap the economic analysis requirements that apply under section 325(o) of EPCA and Executive Order 12866. The Supplementary Information section of this supplemental notice and the ‘‘Regulatory Impact Analysis’’ Act, 1999 DOE determined that, for this rulemaking, it need not prepare a Family Policymaking Assessment under section 654 of the Treasury and General Government Appropriations Act, 1999 (Pub. L. 105–277). Id. DOE received no comments concerning section 654 in response to the October 2008 NOPR, and, therefore, takes no further action in today’s supplemental notice with respect to this provision.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>I</author>
+</authors>
+<title>Review Under Executive Order 12630 DOE determined, under Executive Order 12630, ‘‘Governmental Actions and Interference with Constitutionally Protected Property Rights,’’</title>
+<date>1988</date>
+<journal>Constitution.</journal>
+<tech>53 FR 8859</tech>
+<volume>73</volume>
+<pages>62131</pages>
+<marker>I, 1988</marker>
+<rawString>I. Review Under Executive Order 12630 DOE determined, under Executive Order 12630, ‘‘Governmental Actions and Interference with Constitutionally Protected Property Rights,’’ 53 FR 8859 (March 18, 1988), that the October 2008 NOPR would not result in any takings which might require compensation under the Fifth Amendment to the U.S. Constitution. 73 FR 62034, 62131 (Oct.</rawString>
+</citation>
+<citation valid="false">
+<title>DOE received no comments concerning Executive Order 12630 in K. Review Under Executive Order 13211 Executive Order 13211, ‘‘Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,’’ 66 FR</title>
+<date>2008</date>
+<booktitle>NOPR, DOE determined Department of Energy, Resource Room of the Building Technologies Program, 950 L’Enfant Plaza, SW., Suite 600,</booktitle>
+<pages>28355</pages>
+<location>Washington, DC,</location>
+<marker>2008</marker>
+<rawString>17, 2008). DOE received no comments concerning Executive Order 12630 in K. Review Under Executive Order 13211 Executive Order 13211, ‘‘Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use,’’ 66 FR 28355 (May 22, 2001) requires Federal agencies to prepare and submit to the OIRA a Statement of Energy Effects for any significant energy action. For the October 2008 NOPR, DOE determined Department of Energy, Resource Room of the Building Technologies Program, 950 L’Enfant Plaza, SW., Suite 600, Washington, DC, 20024, (202) 586–2945, between 9 a.m. and 4 p.m., Monday through Friday, except Federal holidays. Any person may buy a copy of the transcript from the transcribing reporter. D. Submission of Comments top-loading CCWs; (3) Technological feasibility of the proposed max-tech CCW, including washing and rinsing performance measures for CCWs and population data for water heating CCWs; (4) The determination of short- and long-run price elasticities of demand and cross price elasticities for toploading vs. front-loading CCWs and used vs. front-loading CCWs; (5) The determination of manufacturer impacts, including the effects of manufacturer tax credits and competitive concerns; (6) The determination of environmental impacts; and (7) The newly proposed energy conservation standards. VIII. Approval of the Office of the Secretary The Secretary of Energy has approved publication of this proposed rule. List of Subjects in 10 CFR Part 430 Administrative practice and procedure, Energy conservation, Household appliances.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Issued in Washington</author>
+<author>on October DC</author>
+</authors>
+<title>Cathy Zoi, Assistant Secretary, Energy Efficiency and Renewable Energy. 1. The authority citation for part 431 continues to read as follows: Authority:</title>
+<date>2009</date>
+<volume>42</volume>
+<note>manufactured on or after</note>
+<marker>Washington, DC, 2009</marker>
+<rawString>Issued in Washington, DC, on October 27, 2009. Cathy Zoi, Assistant Secretary, Energy Efficiency and Renewable Energy. 1. The authority citation for part 431 continues to read as follows: Authority: 42 U.S.C. 6291–6317. 2. Section 431.156 of subpart I is revised to read as follows: § 431.156 Energy and water conservation standards and effective dates. Each CCW manufactured on or after</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

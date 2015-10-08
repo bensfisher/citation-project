@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Douglas O Staiger</author>
+</authors>
+<title>What Does Certification Tell Us About Teacher Effectiveness? Evidence from New York City,’’ NBER Working Paper No.</title>
+<date>2006</date>
+<journal>and Academic Achievement,’’ Econometrica,</journal>
+<booktitle>The Impact of Electronic Access to This Document: You can view this document, as well as all other documents of this Department published in the Federal Register, in text or Adobe Portable Document Format (PDF) on the Internet at the</booktitle>
+<volume>73</volume>
+<issue>2</issue>
+<pages>417--458</pages>
+<editor>12155; Rivkin, Steven G., Eric A. Hanushek, and John F. Kain (2005), ‘‘Teachers, Schools,</editor>
+<marker>Staiger, 2006</marker>
+<rawString>Douglas O. Staiger (2006), ‘‘What Does Certification Tell Us About Teacher Effectiveness? Evidence from New York City,’’ NBER Working Paper No. 12155; Rivkin, Steven G., Eric A. Hanushek, and John F. Kain (2005), ‘‘Teachers, Schools, and Academic Achievement,’’ Econometrica, 73(2), 417–458; Rockoff, Jonah. E. (2004), ‘‘The Impact of Electronic Access to This Document: You can view this document, as well as all other documents of this Department published in the Federal Register, in text or Adobe Portable Document Format (PDF) on the Internet at the following site: http://www.ed.gov/news/ fedregister.</rawString>
+</citation>
+<citation valid="false">
+<title>To use PDF you must have Adobe Acrobat Reader, which is available free at this site. If you have questions about using PDF, call the U.S. Government Printing Office (GPO), toll free, at 1–888–293–6498; or in the Washington, DC, area at (202) 512–1530. Note: The official version of this document is the document published in the Federal Register. Free Internet access to the official edition of the Federal Register and the Code of Federal Regulations is available on GPO Access at: http://www.gpoaccess.gov/nara/ index.html.</title>
+<marker></marker>
+<rawString>To use PDF you must have Adobe Acrobat Reader, which is available free at this site. If you have questions about using PDF, call the U.S. Government Printing Office (GPO), toll free, at 1–888–293–6498; or in the Washington, DC, area at (202) 512–1530. Note: The official version of this document is the document published in the Federal Register. Free Internet access to the official edition of the Federal Register and the Code of Federal Regulations is available on GPO Access at: http://www.gpoaccess.gov/nara/ index.html.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Dated</author>
+</authors>
+<title>Arne Duncan, Secretary of Education. [FR Doc. E9–24387 Filed 10–8–09; 8:45 am] Notice of Intent To Prepare an Environmental Impact Statement for a Proposed Federal Loan Guarantee To Support Construction and Start-up of the Taylorville Energy Center in Taylorville, IL AGENCY: Department of Energy, Loan Guarantee Program. ACTION: Notice of intent to prepare an environmental impact statement and conduct a public scoping meeting.</title>
+<date>2009</date>
+<marker>Dated, 2009</marker>
+<rawString>Dated: October 6, 2009. Arne Duncan, Secretary of Education. [FR Doc. E9–24387 Filed 10–8–09; 8:45 am] Notice of Intent To Prepare an Environmental Impact Statement for a Proposed Federal Loan Guarantee To Support Construction and Start-up of the Taylorville Energy Center in Taylorville, IL AGENCY: Department of Energy, Loan Guarantee Program. ACTION: Notice of intent to prepare an environmental impact statement and conduct a public scoping meeting.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>SUMMARY The U S</author>
+</authors>
+<title>Department of Energy (DOE) announces its intent to prepare an environmental impact statement (EIS) pursuant to the National Environmental Policy Act of 1969, as amended (NEPA), the Council on Environmental Quality (CEQ) NEPA regulations, and the DOE NEPA implementing procedures to assess the potential environmental impacts for its proposed action of issuing a Federal loan guarantee to Christian County Generation, L.L.C. (CCG) (DOE/EIS– 0430). CCG submitted an application to DOE under the Federal loan guarantee program pursuant to the Energy Policy Act of</title>
+<date>2005</date>
+<institution>L.L.C. of Louisville, Kentucky.</institution>
+<note>CCG proposes to develop the</note>
+<marker>S, 2005</marker>
+<rawString>SUMMARY: The U.S. Department of Energy (DOE) announces its intent to prepare an environmental impact statement (EIS) pursuant to the National Environmental Policy Act of 1969, as amended (NEPA), the Council on Environmental Quality (CEQ) NEPA regulations, and the DOE NEPA implementing procedures to assess the potential environmental impacts for its proposed action of issuing a Federal loan guarantee to Christian County Generation, L.L.C. (CCG) (DOE/EIS– 0430). CCG submitted an application to DOE under the Federal loan guarantee program pursuant to the Energy Policy Act of 2005 (EPAct 2005) to support construction and start-up of the Taylorville Energy Center in Taylorville, Illinois (‘‘the Facility’’).1 CCG is a limited liability company that is currently owned by Tenaska Taylorville, LLC, an affiliate of Tenaska, Inc., an Omaha, Nebraska-based power development company, and by MDL Holding Company, L.L.C. of Louisville, Kentucky. CCG proposes to develop the</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<authors>
+<author>Assessment Quality</author>
+<author>Standards Division</author>
+</authors>
+<date>1999</date>
+<pages>48105--420</pages>
+<location>Ann Arbor, MI</location>
+<note>Available at http://www.epa.gov/tier2/frm/ria/r99023.pdf.</note>
+<marker>Quality, Division, 1999</marker>
+<rawString>Quality, Assessment and Standards Division, Ann Arbor, MI 48105, EPA420‐R‐99‐023, December 1999. Available at http://www.epa.gov/tier2/frm/ria/r99023.pdf.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Regulatory Impact Analysis: Heavy‐Duty Engine and Vehicle Standards and Highway Diesel Fuel Sulfur Control Requirements, U.S. Environmental Protection Agency, Office of Transportation and Air Quality, Assessment and Standards Division,</title>
+<date>2000</date>
+<booktitle>Control of Emissions from Nonroad Diesel Engines, U.S. Environmental Protection Agency, Office of Transportation and Air Quality, Assessment and Standards Division,</booktitle>
+<pages>48105--420</pages>
+<location>Ann Arbor, MI</location>
+<note>Available at http://www.epa.gov/nonroaddiesel/ 2004fr/420r04007.pdf.</note>
+<marker>Agency, 2000</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2000. Regulatory Impact Analysis: Heavy‐Duty Engine and Vehicle Standards and Highway Diesel Fuel Sulfur Control Requirements, U.S. Environmental Protection Agency, Office of Transportation and Air Quality, Assessment and Standards Division, Ann Arbor, MI 48105, EPA420‐R‐00‐026, December 2000. Available at http://www.epa.gov/otaq/highway‐diesel/regs/exec‐sum.pdf U.S. Environmental Protection Agency (EPA). 2004. Final Regulatory Analysis: Control of Emissions from Nonroad Diesel Engines, U.S. Environmental Protection Agency, Office of Transportation and Air Quality, Assessment and Standards Division, Ann Arbor, MI 48105, EPA420‐R‐04‐007, May 2004. Available at http://www.epa.gov/nonroaddiesel/ 2004fr/420r04007.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA). 2005a. Clean Air Interstate Rule Emissions Inventory Technical Support Document, U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards,</title>
+<date>2005</date>
+<note>Available at http://www.epa.gov/cair/pdfs/finaltech01.pdf.</note>
+<marker>S, 2005</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2005a. Clean Air Interstate Rule Emissions Inventory Technical Support Document, U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards, March 2005. Available at http://www.epa.gov/cair/pdfs/finaltech01.pdf.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Emissions Inventory and Emissions Processing for the Clean Air Mercury Rule (CAMR), U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards,</title>
+<date>2005</date>
+<booktitle>Technology (BART) Determinations Under the Regional Haze Regulations, U.S. Environmental Protection Agency, Office of Air and Radiation,</booktitle>
+<marker>Agency, 2005</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2005b. Emissions Inventory and Emissions Processing for the Clean Air Mercury Rule (CAMR), U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards, March 2005. Available at http://www.epa.gov/ttn/atw/utility/emiss_inv_oar‐2002‐0056‐6129.pdf U.S. Environmental Protection Agency (EPA). 2005c. Regulatory Impact Analysis for the Final Clean Air Visibility Rule or the Guidelines for Best Available Retrofit Technology (BART) Determinations Under the Regional Haze Regulations, U.S. Environmental Protection Agency, Office of Air and Radiation, June 2005. EPA‐452‐R‐05‐004. Available at http://www.epa.gov/visibility/pdfs/bart_ria_2005_6_15.pdf U.S. Environmental Protection Agency (EPA). 2007a. Regulatory Announcement: EPA Proposal for More Stringent Emissions Standards for Locomotives and Marine Compression‐Ignition Engines. EPA420‐F‐07‐015.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA). 2007b, Proposed Emission Standards for New Nonroad Spark‐Ignition Engines, Equipment, and Vessels.</title>
+<date></date>
+<marker>S, </marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2007b, Proposed Emission Standards for New Nonroad Spark‐Ignition Engines, Equipment, and Vessels. EPA420‐F‐07‐032.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA). 2008a. Air Quality Modeling Platform for the Ozone National Ambient Air Quality Standard Final Rule Regulatory Impact Analysis. North Carolina.</title>
+<tech>EPA‐454/R‐08‐003.</tech>
+<marker>S, </marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2008a. Air Quality Modeling Platform for the Ozone National Ambient Air Quality Standard Final Rule Regulatory Impact Analysis. North Carolina. EPA‐454/R‐08‐003.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA). 2008b. Final Ozone NAAQS Regulatory Impact Analysis. U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards,</title>
+<date>2005</date>
+<pages>452--08</pages>
+<marker>S, 2005</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2008b. Final Ozone NAAQS Regulatory Impact Analysis. U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards, March 2005. EPA‐452/R‐08‐003.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2009</date>
+<journal>Archives of Environmental Health</journal>
+<volume>49</volume>
+<issue>1</issue>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2009. Control of Emissions from New Marine Compression‐ignition Engines at or above 30 Liters per Cylinder; Proposed Rule. 40 CFR Parts 80,85, 86, et al. Chippewa Indians. Archives of Environmental Health 49(1):53–58.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M Pitchford</author>
+<author>W Malm</author>
+</authors>
+<title>Development and applications of a standard visual index.</title>
+<date>1993</date>
+<marker>Pitchford, Malm, 1993</marker>
+<rawString>Pitchford, M. and W. Malm. 1993. Development and applications of a standard visual index.</rawString>
+</citation>
+<citation valid="false">
+<pages>28--5</pages>
+<institution>Atmospheric Environment</institution>
+<marker></marker>
+<rawString>Atmospheric Environment 28(5):1049-1054.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C A Pope</author>
+<author>R T Burnett</author>
+<author>M J Thun</author>
+<author>E E Calle</author>
+<author>D Krewski</author>
+<author>K Ito</author>
+<author>G D Thurston</author>
+</authors>
+<date>2002</date>
+<contexts>
+<context position="22472" citStr="Pope et al (2002)" startWordPosition="3504" endWordPosition="3507">$6,500 $34,000 to $94,000 50 ppb 57 7% $12 $37,000 to $90,000 $6,800 $30,000 to $83,000 3% $4.6 $22,000 to $53,000 $2,900 $19,000 to $50,000 75 ppb 24 7% $4.6 $20,000 to $48,000 $3,000 $17,000 to $45,000 3% $1.9 $16,000 to $38,000 $1,800c $14,000 to $36,000 100 ppb 14 7% $1.9 $14,000 to $35,000 $1,800c $12,000 to $33,000 3% $0.6 $6,400 to $16,000 $380 $6,000 to $16,000 Fu ll a tt ai nm en t 150 ppb 6 7% $0.6 $5,800 to $14,000 $410 $5,400 to $14,000 a Estimates have been rounded to two significant figures and therefore summation may not match table estimates. Benefits are shown as a range from Pope et al (2002) to Laden et al. (2006). Estimates reflect full attainment with the alternate standards, including emission reductions from known and unidentified controls. Monetized benefits do not include unquantified benefits, such as other health effects, reduced sulfur deposition, or improvements in visibility. b The approach used to simulate air quality changes for SO2 did not provide the data needed to distinguish partial attainment benefits from full attainment benefits from reduced SO2 exposure. Therefore, a potion of the SO2 benefits are attributable to the known controls and a portion of the SO2 be</context>
+</contexts>
+<marker>Pope, Burnett, Thun, Calle, Krewski, Ito, Thurston, 2002</marker>
+<rawString>Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D. Krewski, K. Ito, and G.D. Thurston. 2002.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>“Lung Cancer</author>
+</authors>
+<title>Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.”</title>
+<journal>Journal of the American Medical Association</journal>
+<pages>287--1132</pages>
+<marker>Cancer, </marker>
+<rawString>“Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.” Journal of the American Medical Association 287:1132-1141.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Henry A Roman</author>
+<author>Katherine D Walker</author>
+<author>Tyra L Walsh</author>
+<author>Lisa Conner</author>
+<author>Harvey M Richmond</author>
+<author>Bryan J Hubbell</author>
+<author>Patrick L Kinney</author>
+</authors>
+<date>2008</date>
+<booktitle>Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci. Technol.,</booktitle>
+<pages>42--7</pages>
+<marker>Roman, Walker, Walsh, Conner, Richmond, Hubbell, Kinney, 2008</marker>
+<rawString>Roman, Henry A., Katherine D. Walker, Tyra L. Walsh, Lisa Conner, Harvey M. Richmond, Bryan J. Hubbell, and Patrick L. Kinney. 2008. Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci. Technol., 42(7):2268-2274.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>R D Rowe</author>
+<author>L G Chestnut</author>
+</authors>
+<title>Oxidants and Asthmatics in Los Angeles: A Benefits Analysis -- Executive Summary. Prepared for U.S. Environmental Protection Agency, Office of Policy Analysis. Prepared by Energy and Resource Consultants,</title>
+<date>1986</date>
+<pages>230--09</pages>
+<location>Inc. Washington, DC.</location>
+<marker>Rowe, Chestnut, 1986</marker>
+<rawString>Rowe, R. D. and L. G. Chestnut. 1986. Oxidants and Asthmatics in Los Angeles: A Benefits Analysis -- Executive Summary. Prepared for U.S. Environmental Protection Agency, Office of Policy Analysis. Prepared by Energy and Resource Consultants, Inc. Washington, DC. EPA-230-09-86-018. March.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M W Russell</author>
+<author>D M Huse</author>
+<author>S Drowns</author>
+<author>E C Hamel</author>
+<author>S C Hartz</author>
+</authors>
+<date>1998</date>
+<journal>Direct Medical Costs of Coronary Artery Disease in the United States.” American Journal of Cardiology</journal>
+<pages>81--9</pages>
+<marker>Russell, Huse, Drowns, Hamel, Hartz, 1998</marker>
+<rawString>Russell, M.W., D.M. Huse, S. Drowns, E.C. Hamel, and S.C. Hartz. 1998. “Direct Medical Costs of Coronary Artery Disease in the United States.” American Journal of Cardiology 81(9):1110-1115.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J S Schildcrout</author>
+<author>L Sheppard</author>
+<author>T Lumley</author>
+<author>J C Slaughter</author>
+<author>J Q Koenig</author>
+<author>G G Shapiro</author>
+</authors>
+<title>Ambient air pollution and asthma exacerbations in children: an eight-city analysis.</title>
+<date>2006</date>
+<journal>Am J Epidemiol.</journal>
+<volume>164</volume>
+<issue>6</issue>
+<pages>505--17</pages>
+<marker>Schildcrout, Sheppard, Lumley, Slaughter, Koenig, Shapiro, 2006</marker>
+<rawString>Schildcrout, J. S., L. Sheppard, T. Lumley, J. C. Slaughter, J. Q. Koenig and G. G. Shapiro. 2006. Ambient air pollution and asthma exacerbations in children: an eight-city analysis. Am J Epidemiol. Vol. 164 (6): 505-17.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Guidelines for Preparing Economic Analyses.</title>
+<date>2000</date>
+<tech>EPA 240-R-00-003.</tech>
+<institution>National Center for Environmental Economics, Office of Policy Economics</institution>
+<marker>Agency, 2000</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA). 2000. Guidelines for Preparing Economic Analyses. EPA 240-R-00-003. National Center for Environmental Economics, Office of Policy Economics and Innovation. Washington, DC. September. Available on the Internet at &lt;http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/Guidelines.html/$file/cover.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Letter to Recipients of Third Draft EPA PM Criteria Document. National Center for Environmental Assessment,</title>
+<date>2002</date>
+<location>Research Triangle Park, NC.</location>
+<note>Available on the Internet at</note>
+<marker>Agency, 2002</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA). 2002. Letter to Recipients of Third Draft EPA PM Criteria Document. National Center for Environmental Assessment, Research Triangle Park, NC. June 5, 2002. Available on the Internet at &lt;http://oaspub.epa.gov/eims/eimscomm.getfile?p_download_id=42380&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Air Quality Criteria for Particulate Matter. Volume I</title>
+<date>2004</date>
+<booktitle>EPA600/P-99/002aF and Volume II EPA600/P-99/002bF. Retrieved on</booktitle>
+<marker>Agency, 2004</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA). 2004. Air Quality Criteria for Particulate Matter. Volume I EPA600/P-99/002aF and Volume II EPA600/P-99/002bF. Retrieved on March 19, 2009 from Docket EPA-HQ-OAR-2003-0190 at http://www.regulations.gov/.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Regulatory Impact Analysis for the Final Clean Air Interstate Rule.</title>
+<date>2005</date>
+<booktitle>Office of Air and Radiation. March. Available on the Internet at &lt; http://www.epa.gov/cair/pdfs/finaltech08.pdf&gt;.</booktitle>
+<marker>Agency, 2005</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA). 2005. Regulatory Impact Analysis for the Final Clean Air Interstate Rule. Office of Air and Radiation. March. Available on the Internet at &lt; http://www.epa.gov/cair/pdfs/finaltech08.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Regulatory Impact Analysis,</title>
+<date>2006</date>
+<booktitle>Office of Air Quality Planning and Standards, Research Triangle Park, NC. October. Available on the Internet at</booktitle>
+<marker>Agency, 2006</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA). 2006a. Regulatory Impact Analysis, 2006 National Ambient Air Quality Standards for Particulate Matter, Chapter 5. Office of Air Quality Planning and Standards, Research Triangle Park, NC. October. Available on the Internet at &lt;http://www.epa.gov/ttn/ecas/regdata/RIAs/Chapter%205--Benefits.pdf&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Willingness to Pay for Environmental</title>
+<date>2006</date>
+<booktitle>National Survey of Fishing, Hunting, and Wildlife-Associated Recreation. FHW/06-NAT. U.S. Department of the Interior, U.S. Fish and Wildlife Service,</booktitle>
+<institution>U.S. Department of Commerce, U.S. Census Bureau,</institution>
+<location>Washington, DC, and</location>
+<marker>Agency, 2006</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA). 2006b. Willingness to Pay for Environmental U.S. Fish and Wildlife Service (FWS) and U.S. Census Bureau. 2007. 2006 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation. FHW/06-NAT. U.S. Department of the Interior, U.S. Fish and Wildlife Service, Washington, DC, and U.S. Department of Commerce, U.S. Census Bureau, Washington, DC.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Forest Service</author>
+</authors>
+<title>Forest Inventory and Analysis National Program: Forest Inventory Data Online. Online database. U.S. Department of Agriculture Forest Service, Forest Inventory and Analysis,</title>
+<date>2006</date>
+<location>Arlington, VA.</location>
+<note>Available on the Internet at</note>
+<marker>Service, 2006</marker>
+<rawString>U.S. Forest Service (USFS). 2006. Forest Inventory and Analysis National Program: Forest Inventory Data Online. Online database. U.S. Department of Agriculture Forest Service, Forest Inventory and Analysis, Arlington, VA. Available on the Internet at &lt;http://fia.fs.fed.us/tools-data&gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Geological Survey</author>
+</authors>
+<title>Investigations and Monitoring of Mercury in Indiana by the U.S. Geological Survey.</title>
+<date>2006</date>
+<institution>U.S. Department of the Interior, U.S. Geological Survey, Indiana Water Science Center,</institution>
+<location>Indianapolis, IN.</location>
+<note>Available athttp://in.water.usgs.gov/mercury.</note>
+<marker>Survey, 2006</marker>
+<rawString>U.S. Geological Survey (USGS). 2006. Investigations and Monitoring of Mercury in Indiana by the U.S. Geological Survey. U.S. Department of the Interior, U.S. Geological Survey, Indiana Water Science Center, Indianapolis, IN. Available athttp://in.water.usgs.gov/mercury.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Van Sickle</author>
+<author>J P Baker</author>
+<author>H A Simonin</author>
+<author>B P Baldigo</author>
+<author>W A Kretser</author>
+<author>W E Sharpe</author>
+</authors>
+<title>Episodic acidification of small streams in the northeastern United States: Fish mortality in field bioassays.</title>
+<date>1996</date>
+<journal>Ecological Applications,</journal>
+<volume>6</volume>
+<pages>408--421</pages>
+<marker>Van Sickle, Baker, Simonin, Baldigo, Kretser, Sharpe, 1996</marker>
+<rawString>Van Sickle, J., Baker, J.P., Simonin, H.A., Baldigo, B.P., Kretser, W.A., Sharpe, W.E. 1996. Episodic acidification of small streams in the northeastern United States: Fish mortality in field bioassays. Ecological Applications, 6, 408-421.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W K Viscusi</author>
+<author>W A Magat</author>
+<author>J Huber</author>
+</authors>
+<title>Pricing Environmental Health Risks: Survey Assessments of Risk-Risk and Risk-Dollar Trade-Offs for Chronic Bronchitis.”</title>
+<date>1991</date>
+<journal>Journal of Environmental Economics and Management</journal>
+<pages>21--32</pages>
+<marker>Viscusi, Magat, Huber, 1991</marker>
+<rawString>Viscusi, W.K., W.A. Magat, and J. Huber. 1991. “Pricing Environmental Health Risks: Survey Assessments of Risk-Risk and Risk-Dollar Trade-Offs for Chronic Bronchitis.” Journal of Environmental Economics and Management 21:32-51.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>V K Viscusi</author>
+<author>J E Aldy</author>
+</authors>
+<title>The Value of a Statistical Life: A Critical Review of Market Estimates throughout the World.”</title>
+<date>2003</date>
+<journal>Journal of Risk and Uncertainty</journal>
+<pages>27--1</pages>
+<marker>Viscusi, Aldy, 2003</marker>
+<rawString>Viscusi, V.K., and J.E. Aldy. 2003. “The Value of a Statistical Life: A Critical Review of Market Estimates throughout the World.” Journal of Risk and Uncertainty 27(1):5-76. 5-73 Wittels, E.H., J.W. Hay, and A.M. Gotto, Jr. 1990. “Medical Costs of Coronary Artery Disease in the United States.” American Journal of Cardiology 65(7):432-440.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Q Yang</author>
+<author>Y Chen</author>
+<author>D Krewski</author>
+<author>R T Burnett</author>
+<author>Y Shi</author>
+<author>K M McGrail</author>
+</authors>
+<title>Effect of short-term exposure to low levels of gaseous pollutants on chronic obstructive pulmonary disease hospitalizations.</title>
+<date>2005</date>
+<journal>Environ Res.</journal>
+<volume>99</volume>
+<issue>1</issue>
+<pages>99--105</pages>
+<marker>Yang, Chen, Krewski, Burnett, Shi, McGrail, 2005</marker>
+<rawString>Yang, Q., Y. Chen, D. Krewski, R. T. Burnett, Y. Shi and K. M. McGrail. 2005. Effect of short-term exposure to low levels of gaseous pollutants on chronic obstructive pulmonary disease hospitalizations. Environ Res. Vol. 99 (1): 99-105.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Q Yang</author>
+<author>Y Chen</author>
+<author>Y Shi</author>
+<author>R T Burnett</author>
+<author>K M McGrail</author>
+<author>D Krewski</author>
+</authors>
+<title>Association between ozone and respiratory admissions among children and the elderly in Vancouver,</title>
+<date>2003</date>
+<journal>Canada. Inhal Toxicol.</journal>
+<volume>15</volume>
+<issue>13</issue>
+<pages>1297--308</pages>
+<marker>Yang, Chen, Shi, Burnett, McGrail, Krewski, 2003</marker>
+<rawString>Yang, Q., Y. Chen, Y. Shi, R. T. Burnett, K. M. McGrail and D. Krewski. 2003. Association between ozone and respiratory admissions among children and the elderly in Vancouver, Canada. Inhal Toxicol. Vol. 15 (13): 1297-308.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>NESCAUM</author>
+</authors>
+<title>Chapter 6: Cost Analysis Approach and Results Commercial, and Institutional</title>
+<date>2008</date>
+<note>Available on the Internet at http://www.nescaum.org/documents/ici‐boilers‐20081118‐final.pdf/.</note>
+<marker>NESCAUM, 2008</marker>
+<rawString>Chapter 6: Cost Analysis Approach and Results Commercial, and Institutional (ICI) Boilers. NESCAUM, November 2008. Available on the Internet at http://www.nescaum.org/documents/ici‐boilers‐20081118‐final.pdf/.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>E H</author>
+</authors>
+<title>Pechan and Associates and Industrial Economics, Direct Cost Estimates for the Clean Air Act Second Section 812 Prospective Analysis: Draft Report, prepared for U.S. EPA, Office of Air and Radiation,</title>
+<date>2007</date>
+<note>Available at http://www.epa.gov/oar/sect812/mar07/direct_cost_draft.pdf.</note>
+<marker>H, 2007</marker>
+<rawString>12 E.H. Pechan and Associates and Industrial Economics, Direct Cost Estimates for the Clean Air Act Second Section 812 Prospective Analysis: Draft Report, prepared for U.S. EPA, Office of Air and Radiation, February 2007. Available at http://www.epa.gov/oar/sect812/mar07/direct_cost_draft.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Etan Gumerman</author>
+<author>Chris Marnay</author>
+</authors>
+<title>Learning and Cost Reductions for Generating Technologies in the National Energy Modeling System (NEMS),</title>
+<date>2004</date>
+<pages>52559</pages>
+<institution>Ernest Orlando Lawrence Berkeley National Laboratory, University of California at Berkeley,</institution>
+<location>Berkeley, CA.</location>
+<marker>Gumerman, Marnay, 2004</marker>
+<rawString>13 Gumerman, Etan and Marnay, Chris. Learning and Cost Reductions for Generating Technologies in the National Energy Modeling System (NEMS), Ernest Orlando Lawrence Berkeley National Laboratory, University of California at Berkeley, Berkeley, CA. January 2004, LBNL‐52559.</rawString>
+</citation>
+<citation valid="true">
+<title>Proposed Approach for Expanding the Treatment of Learning Curve Impacts for the Second Section 812 Prospective Analysis: Memorandum, prepared for U.S. EPA, Office of Air and Radiation,</title>
+<date>2007</date>
+<institution>14 Industrial Economics, Inc.</institution>
+<contexts>
+<context position="29641" citStr="(2007)" startWordPosition="4572" endWordPosition="4572">e highly correlated with SO2, their inclusion in an SO2 health effects model can lead to misleading conclusions in identifying a specific causal pollutant. Because this collinearity exists, many of the studies reported statistically insignificant effect estimates for both SO2 and the co‐pollutants; this is due in part to the loss of statistical power as these models control for co‐pollutants. Where available, we have selected multipollutant effect estimates to control for the potential confounding effects of co‐pollutants; these include NYDOH (2006), Schwartz et al. (1994) and O’Conner et al. (2007). The remaining studies include single pollutant models. 5. This analysis is for the year 2020, and projecting key variables introduces uncertainty. Inherent in any analysis of future regulatory programs are uncertainties in projecting atmospheric conditions and source level emissions, as well as population, health baselines, incomes, technology, and other factors. 6. This analysis omits certain unquantified effects due to lack of data, time and resources. These unquantified endpoints include other health effects, ecosystem effects, and visibility. EPA will continue to evaluate new methods and</context>
+</contexts>
+<marker>2007</marker>
+<rawString>14 Industrial Economics, Inc. Proposed Approach for Expanding the Treatment of Learning Curve Impacts for the Second Section 812 Prospective Analysis: Memorandum, prepared for U.S. EPA, Office of Air and Radiation, August 13, 2007.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W Harrington</author>
+<author>R D Morgenstern</author>
+<author>P Nelson</author>
+</authors>
+<date>2000</date>
+<journal>On the Accuracy of Regulatory Cost Estimates.” Journal of Policy Analysis and Management</journal>
+<volume>19</volume>
+<issue>2</issue>
+<marker>Harrington, Morgenstern, Nelson, 2000</marker>
+<rawString>15 Harrington, W., R.D. Morgenstern, and P. Nelson. 2000. “On the Accuracy of Regulatory Cost Estimates.” Journal of Policy Analysis and Management 19(2):297‐322.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Curtis Carlson</author>
+<author>Dallas R Burtraw</author>
+<author>Cropper Maureen</author>
+<author>Karen L Palmer</author>
+</authors>
+<title>Sulfur Dioxide Control by Electric Utilities: What Are the Gains from Trade?”</title>
+<date>2000</date>
+<journal>Journal of Political Economy</journal>
+<pages>108--6</pages>
+<marker>Carlson, Burtraw, Maureen, Palmer, 2000</marker>
+<rawString>16 Carlson, Curtis, Dallas R. Burtraw, Maureen, Cropper, and Karen L. Palmer. 2000. “Sulfur Dioxide Control by Electric Utilities: What Are the Gains from Trade?” Journal of Political Economy 108(#6):1292‐1326.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Denny Ellerman</author>
+</authors>
+<title>Ex Post Evaluation of Tradable Permits: The U.S.</title>
+<date>2003</date>
+<booktitle>SO2 Cap‐and‐Trade Program. Massachusetts Institute of Technology Center for Energy and Environmental Policy Research.</booktitle>
+<marker>Ellerman, 2003</marker>
+<rawString>Ellerman, Denny. January 2003. Ex Post Evaluation of Tradable Permits: The U.S. SO2 Cap‐and‐Trade Program. Massachusetts Institute of Technology Center for Energy and Environmental Policy Research.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Jeffrey Holmstead</author>
+</authors>
+<title>Testimony of Jeffrey Holmstead, Assistant Administrator, Office of Air</title>
+<date>2002</date>
+<booktitle>Environmental Protection Agency, Before the Subcommittee on Energy and air Quality of the committee on Energy and Commerce, U.S. House of Representatives,</booktitle>
+<pages>10</pages>
+<marker>Holmstead, 2002</marker>
+<rawString>19 Holmstead, Jeffrey, 2002. “Testimony of Jeffrey Holmstead, Assistant Administrator, Office of Air and Radiation, U.S. Environmental Protection Agency, Before the Subcommittee on Energy and air Quality of the committee on Energy and Commerce, U.S. House of Representatives, May 1, 2002, p. 10.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J K Hammit</author>
+</authors>
+<title>Are the costs of proposed environmental regulations overestimated?</title>
+<date>2000</date>
+<journal>Evidence from the CFC phaseout.” Environmental and Resource Economics,</journal>
+<volume>16</volume>
+<pages>281--302</pages>
+<marker>Hammit, 2000</marker>
+<rawString>20 Hammit, J.K. (2000). “Are the costs of proposed environmental regulations overestimated? Evidence from the CFC phaseout.” Environmental and Resource Economics, 16(#3): 281‐302.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>ICF Consulting</author>
+</authors>
+<title>The Clean Air Act Amendment: Spurring Innovation and Growth While Cleaning the Air.</title>
+<date>2005</date>
+<location>Washington, DC.</location>
+<note>Available at http://www.icfi.com/Markets/Environment/doc_files/caaa‐success.pdf.</note>
+<marker>Consulting, 2005</marker>
+<rawString>21 ICF Consulting. October 2005. The Clean Air Act Amendment: Spurring Innovation and Growth While Cleaning the Air. Washington, DC. Available at http://www.icfi.com/Markets/Environment/doc_files/caaa‐success.pdf.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Sonia Yeh</author>
+<author>Edward Rubin</author>
+</authors>
+<title>Incorporating Technological Learning in the Coal Utility Environmental Cost (CUECost) Model: Estimating the Future Cost Trends of SO2, NOx, and Mercury Control Technologies.” Prepared for ARCADIS Geraghty and Miller, Research Triangle Park, NC 27711. Available at http://steps.ucdavis.edu/People/slyeh/syeh‐ resources/Drft%20Fnl%20Rpt%20Lrng%20for%20CUECost_v3.pdf.</title>
+<date>2007</date>
+<marker>Yeh, Rubin, 2007</marker>
+<rawString>22 Yeh, Sonia and Rubin, Edward. February 2007. “Incorporating Technological Learning in the Coal Utility Environmental Cost (CUECost) Model: Estimating the Future Cost Trends of SO2, NOx, and Mercury Control Technologies.” Prepared for ARCADIS Geraghty and Miller, Research Triangle Park, NC 27711. Available at http://steps.ucdavis.edu/People/slyeh/syeh‐ resources/Drft%20Fnl%20Rpt%20Lrng%20for%20CUECost_v3.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>e Source U S</author>
+</authors>
+<title>Census Bureau</title>
+<date>2007</date>
+<marker>S, 2007</marker>
+<rawString>e Source: U.S. Census Bureau 2007 Economic Census. Industry‐level data on revenues can be found at http://factfinder.census.gov/servlet/IBQTable?_bm=y&amp;‐fds_name=EC0700A1&amp;‐_skip=0&amp;‐ds_name=EC0700A1&amp;‐ _lang=en.</rawString>
+</citation>
+<citation valid="false">
+<title>f No data on budget or revenues for this NAICS code is included</title>
+<booktitle>in the 2007 Economic Census. Chapter 7: Estimates of Costs and Benefits</booktitle>
+<marker></marker>
+<rawString>f No data on budget or revenues for this NAICS code is included in the 2007 Economic Census. Chapter 7: Estimates of Costs and Benefits</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

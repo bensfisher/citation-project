@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>U S Edwards</author>
+</authors>
+<title>Available at: http://www.lrc.rpi.edu/ Inputs</title>
+<date>2005</date>
+<journal>Proposed Rules TABLE V.3—APPROACH AND DATA USED TO DERIVE THE INPUTS TO THE NATIONAL ENERGY SAVINGS AND NET PRESENT</journal>
+<booktitle>DC 20024. Telephone: (202) 586–2945. Please submit one Product Information Program,</booktitle>
+<tech>Technologies Program, 950 L’Enfant</tech>
+<volume>7</volume>
+<institution>Department of Energy, Building</institution>
+<note>Last accessed on</note>
+<marker>Edwards, 2005</marker>
+<rawString>Edwards, U.S. Department of Energy, Building Technologies Program, 950 L’Enfant Plaza, SW., Suite 600, Washington, DC 20024. Telephone: (202) 586–2945. Please submit one Product Information Program, Vol. 7 Issue 5 (March 2005). Available at: http://www.lrc.rpi.edu/ Inputs 2008 ANOPR description Changes for the proposed rule Shipments ............................ Annual shipments from shipments model ....................... See Table V.4 and Table V.5. VerDate Nov&lt;24&amp;gt;2008 19:12 Apr 10, 2009 Jkt 217001 PO 00000 Frm 00040 Fmt 4701 Sfmt 4702 E:\FR\FM\13APP2.SGM 13APP2 16959 Federal Register / Vol. 74, No. 69 / Monday, April 13, 2009 / Proposed Rules TABLE V.3—APPROACH AND DATA USED TO DERIVE THE INPUTS TO THE NATIONAL ENERGY SAVINGS AND NET PRESENT macroeconomic factors. Therefore, DOE is no longer using a linear extrapolation VerDate Nov&lt;24&amp;gt;2008 19:12 Apr 10, 2009 Jkt 217001 PO 00000 Frm 00042 Fmt 4701 Sfmt 4702 E:\FR\FM\13APP2.SGM 13APP2 16961 Federal Register / Vol. 74, No. 69 / Monday, April 13, 2009 / Proposed Rules 49 RLW Analytics, Inc., ‘‘California Statewide Residential Lighting and Appliance Efficiency Saturation Survey’’ (August 2005) (Last accessed on Sept. 29, 2008). Available at: http:// www.calresest.com/docs/2005CLASSREPORT.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Manufacturing and Construction Division, ‘‘New Privately Owned Housing Unit Starts’’</title>
+<date>2008</date>
+<note>Last accessed on Sept.</note>
+<marker>Bureau, 2008</marker>
+<rawString>50 U.S. Census Bureau, Manufacturing and Construction Division, ‘‘New Privately Owned Housing Unit Starts’’ (2008) (Last accessed on Sept.</rawString>
+</citation>
+<citation valid="true">
+<title>Available at: http://www.census.gov/ Solid State Lighting Multi-Year Program Plan.51 Lastly, using markup based on currently-available LED lamps, DOE was market until after</title>
+<date>2008</date>
+<marker>2008</marker>
+<rawString>29, 2008). Available at: http://www.census.gov/ Solid State Lighting Multi-Year Program Plan.51 Lastly, using markup based on currently-available LED lamps, DOE was market until after 2012.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Office of Energy Efficiency and Renewable Energy, ‘‘Energy Conservation Program for Commercial and Industrial Equipment: High-Intensity Discharge Lamps Analysis of Potential Energy Savings’’</title>
+<date>2004</date>
+<journal>Joint Comment, No.</journal>
+<booktitle>T5 penetration, 8-foot SP slimline to 4-foot MBP conversions). iii. Eight-Foot Single Pin Slimline T12 (Public Meeting Transcript, No.</booktitle>
+<volume>21</volume>
+<pages>254--255</pages>
+<note>in TSD chapter 10.</note>
+<marker>S, 2004</marker>
+<rawString>54 U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, ‘‘Energy Conservation Program for Commercial and Industrial Equipment: High-Intensity Discharge Lamps Analysis of Potential Energy Savings’’ (Dec. 2004). Available at: http://www1.eere.energy.gov/ buildings/appliance_standards/commercial/pdfs/ hid_energy_savings_report.pdf. align with NEMA’s suggestions, because they incorporate several other phenomena in addition to the migration to T12 electronic systems (e.g., growth rate, emerging technologies, T5 penetration, 8-foot SP slimline to 4-foot MBP conversions). iii. Eight-Foot Single Pin Slimline T12 (Public Meeting Transcript, No. 21 at pp. 254–255; Joint Comment, No. 23 at p. 7) Based on its consideration of the above comments, DOE revised its estimated conversion rates for 8-foot single pin slimline systems in this NOPR. In line with the Joint Comment and NEMA’s recommendations, DOE lowered its conversion rates to 4-foot MBP systems. In addition, consistent with NEMA’s suggestion, DOE has included a conversion to electronic 8-foot T12 SP slimline systems. DOE now assumes 80 percent of the 8-foot T12 single pin lamps would be replaced by two 4-foot MBP T8 systems, with the remaining 20 percent split evenly between 8-foot T8 and electronic 8-foot T12 SP slimline systems. iv. Four-Foot T5 Lamps scenarios and introducing new standards-case scenarios. These scenarios are discussed in detail below and in TSD chapter 10.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>a ShiftRoll-Up</author>
+</authors>
+<title>Scenarios In the</title>
+<date>2008</date>
+<booktitle>In the standards-case NIA for GSFL and commercial IRL, DOE first</booktitle>
+<volume>73</volume>
+<pages>13671</pages>
+<marker>ShiftRoll-Up, 2008</marker>
+<rawString>a. Shift/Roll-Up Scenarios In the March 2008 ANOPR, DOE modeled lower-bound and upper-bound energy conservation scenarios for the GSFL standards-case NIA to characterize the range of energy savings that may result from standards. 73 FR 13620, 13671 (March 13, 2008). In the standards-case NIA for GSFL and commercial IRL, DOE first modeled a lower-bound energy conservation scenario called the Roll-up scenario. 73 FR 13620, 13671 (March 13, 2008). This scenario assumes that consumers owning lamps or systems that do not meet the new standards will ‘‘roll up’’ to the lowest first-cost option available (preserving lumen output if possible) when purchasing standards-compliant lamps. (March 2008 ANOPR TSD chapter 9) The Roll-up scenario also</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

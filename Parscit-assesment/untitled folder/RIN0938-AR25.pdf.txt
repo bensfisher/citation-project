@@ -1,0 +1,3011 @@
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+ 
+ 
+ 
+Centers for Medicare & Medicaid Services 
+ 
+ 
+
+Patient Protection and Affordable Care Act; 
+
+Establishment of Exchanges and Qualified Health Plans 
+(CMS-9989-P) and Standards Related to Reinsurance, 
+Risk Corridors and Risk Adjustment (CMS-9975-P) 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+Preliminary Regulatory Impact Analysis 
+
+(CMS-9989-P2) 
+
+Center for Consumer Information & Insurance Oversight 
+
+ 
+July 2011 
+
+ 
+
+ 
+ 
+SUMMARY: 
+
+2 
+
+ 
+
+This document announces the impact statement for the proposed rules entitled “Patient 
+
+Protection and Affordable Care Act; Establishment of Exchanges and Qualified Health Plans,” 
+
+and “Patient Protection and Affordable Care Act; Standards Related to Reinsurance, Risk 
+
+Corridors and Risk Adjustment,” which are published in the Federal Register.  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Table of Contents 
+
+ 
+
+3
+
+ 
+
+I. Executive Orders 12866 and 13563                                                                                             4 
+
+
+II. Estimates of the Impact of Exchanges                                                                                        7 
+
+
+III. Benefits 
+
+IV. Costs 
+
+11 
+
+
+15 
+
+
+V. Impacts of the Proposed Rule on Standards Related to Reinsurance, Risk Corridors and Risk 
+
+
+Adjustment                                                                                                                     
+
+VI. Alternatives Considered 
+
+VII. Limitations of Analysis                                                                                                   
+
+VIII. Accounting Statement                                                                                                     
+
+IX. Citations 
+
+ 
+
+ 
+
+30 
+
+
+39 
+
+
+42 
+
+
+44 
+
+
+44 
+
+
+ 
+
+
+
+ 
+ 
+ 
+IMPACT ANALYSIS: 
+
+I. Executive Orders 12866 and 13563 
+ 
+
+4 
+
+We have examined the impacts of these regulations under Executive Order 12866 on 
+
+Regulatory Planning and Review (September 30, 1993) and  Executive Order 13563 on 
+
+Improving Regulation and Regulatory Review (February 2, 2011).   
+
+Executive Orders 12866 and 13563 direct agencies to assess all costs and benefits of 
+
+available regulatory alternatives and, if regulation is necessary, to select regulatory approaches 
+
+that maximize net benefits (including potential economic, environmental, public health and 
+
+safety effects, distributive impacts, and equity).  A regulatory impact analysis (RIA) must be 
+
+prepared for rules with economically significant effects ($100 million or more in any 1 year). 
+
+Section 3(f) of Executive Order 12866 defines a “significant regulatory action” as an action that 
+
+is likely to result in a rule that may:  
+
+(1) Have an annual effect on the economy of $100 million or more in any one 
+
+year or adversely affect in a material way a sector of the economy, productivity, 
+
+competition, jobs, the environment, public health or safety, or State, local or tribal 
+
+government or communities [also referred to as “economically significant”]; 
+
+ 
+(2) Create a serious inconsistency or otherwise interfere with an action taken or 
+
+planned by another agency; 
+
+(3) Materially alter the budgetary impacts of entitlement grants, user fees, or loan 
+
+programs or the rights and obligations of recipients thereof; or  
+
+(4) Raise novel legal or policy issues arising out of legal mandates, the President’s 
+
+priorities, or the principles set forth in [Executive Order 12866]. 
+
+ 
+
+
+
+ 
+ 
+
+5 
+
+OMB has determined that this rule is “economically significant” within the meaning of 
+
+section 3(f)(1) of Executive Order 12866, because it is likely to have an annual effect of $100 
+
+million in any one year.  Accordingly, we have prepared a Regulatory Impact Analysis that 
+
+presents the costs and benefits of these proposed rulemakings. 
+
+This analysis focuses on an initial set of proposed requirements for the establishment of 
+
+Affordable Insurance Exchanges (Exchanges), Qualified Health Plans (QHPs) and the Small 
+
+business Health Options Program (SHOP).  The notices of proposed rulemaking (NPRMs) 
+
+described in this impact analysis implement provisions related to Exchanges, including 
+
+reinsurance, risk adjustment and risk corridors.  The NPRMs set forth proposed standards for 
+
+States that seek to establish an Exchange and for health insurance issuers.  Specifically, the 
+
+NPRMs propose: (1) standards for States with respect to the establishment and operation of an 
+
+ 
+Exchange; (2) standards for health insurance issuers with respect to participation in the 
+
+Exchange, including the minimum certification requirements for qualified health plan (QHP) 
+
+certification; (3) risk-spreading mechanisms for which health plan issuers both within and 
+
+outside of the Exchange must meet requirements; and (4) basic requirements that employers 
+
+ 
+must meet with respect to their voluntary participation in SHOP.  Authority lies primarily in Title 
+
+I of the Patient Protection and Affordable Care Act, sections 1301-1302, 1311, 1313, 1321, 1323, 
+
+1331-1334, 1341-1343, 1401, 1402, and 1411-1413.  HHS has drafted these proposed 
+
+regulations to implement Congressional mandates in the most economically efficient manner 
+
+possible. 
+
+ 
+Need for Regulatory Action 
+
+A central aim of Title I of the Affordable Care Act is to expand access to health insurance 
+
+coverage through the establishment of Exchanges.  The number of uninsured Americans is rising 
+
+ 
+
+ 
+ 
+due to lack affordable insurance, barriers to insurance for people with pre-existing conditions, 
+
+6 
+
+and high prices due to limited competition and market failures.  Millions of people without 
+
+health insurance use health care services for which they do not pay, shifting the uncompensated 
+
+cost of their care to health care providers.  Providers pass much of this cost to insurance 
+
+companies, resulting in higher premiums that make insurance unaffordable to even more people.  
+
+The Affordable Care Act includes a number of policies to address these problems, including the 
+
+ 
+creating of Affordable Insurance Exchanges. 
+
+Starting in 2014, individuals and small businesses will be able to purchase private health 
+
+insurance through State-based competitive marketplaces called Affordable Insurance Exchanges, 
+
+or “Exchanges.”  Exchanges will offer Americans competition, choice, and clout.  Insurance 
+
+companies will compete for business on a level playing field, driving down costs.  Consumers 
+
+will have a choice of health plans to fit their needs.  And Exchanges will give individuals and 
+
+small businesses the same purchasing clout as big businesses.  The Departments of Health and 
+
+Human Services, Labor, and the Treasury (the Departments) are working in close coordination to 
+
+release guidance related to Exchanges in several phases.  The first in this series was a Request 
+
+for Comment relating to Exchanges, published in the Federal Register on August 3, 2010 (75 FR 
+
+45584).  Second, Initial Guidance to States on Exchanges was issued on November 18, 2010.  
+
+Third, a proposed rule for the application, review, and reporting process for waivers for State 
+
+innovation was published in the Federal Register on March 14, 2011 (76 FR 13553).  Fourth, 
+
+two proposed regulations are being published in the Federal Register to implement components 
+
+of the Exchange and health insurance premium stabilization policies in the Affordable Care Act.   
+
+Subjects included in the Affordable Care Act to be addressed in subsequent rulemaking 
+
+include (but are not limited to): standards for individual eligibility for participation in the 
+
+ 
+
+
+
+ 
+ 
+Exchange, advance payments of the premium tax credit, cost-sharing reductions, and related 
+
+7 
+
+health programs and appeals of eligibility determinations; standards with respect to ongoing 
+
+Federal oversight of Exchanges and actions necessary to ensure their financial integrity; and 
+
+standards for Exchanges and QHP issuers related to quality, among others.  
+
+The budget and coverage effects described in this analysis also include provisions that 
+
+will be implemented by other Departments.  For example, section 1401 of the Affordable Care 
+
+ 
+Act contains the provision that pertains to the establishment and administration of the premium 
+
+tax credits that will primarily be implemented by the Department of Treasury.  The Departments 
+
+of Labor and the Treasury have primary jurisdiction over employer responsibility provisions in 
+
+section 1513 of the Affordable Care Act.  This analysis will serve as the base for estimating the 
+
+non-tax and non-Medicaid impacts of these interrelated provisions.   
+
+ 
+II. Estimates of the Impact of Exchanges 
+
+This preliminary impact analysis references the estimates of the CMS Office of the 
+
+Actuary (OACT) (CMS, April 22, 2010), but primarily uses the underlying assumptions and 
+
+analysis completed by the Congressional Budget Office (CBO) and the staff of the Joint 
+
+Committee on Taxation.  Their modeling effort accounts for all of the interactions among the 
+
+ 
+interlocking pieces of the Affordable Care Act including its tax policies, and estimates premium 
+
+effects that are important to assessing the benefits of the NPRM.  A description of CBO’s 
+
+methods used to estimate budget and enrollment impacts is available elsewhere.1  The CBO 
+
+estimates are not significantly different than the comparable components produced by OACT.  
+
+Based on our review, we expect that the requirements in these NPRMs will not substantially alter 
+
+CBO’s estimates of the budget impact of Exchanges or enrollment. The proposed requirements 
+
+                                                 
+ 
+1 CBO. “CBO’s Health Insurance Simulation Model: A Technical Description.” (2007, October). 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+are well within the parameters used in the modeling of the Affordable Care Act and do not 
+
+8 
+
+diverge from assumptions embedded in the model.  Our review and analysis of the proposed 
+
+requirements indicate that the impacts are within the model’s margin of error.   
+
+CBO estimated outlays for the Exchanges and Exchange-related requirements in two 
+
+areas: reinsurance and risk adjustment programs, and estimates of State Planning and 
+
+Establishment Grants for the implementation of State Exchanges.  Below we display the 
+
+estimates for outlays and enrollment by type of health insurance coverage over a five-year period 
+
+(FY 2012 - FY 2016 for outlays and calendar year 2012-2016 for enrollment).  Individuals will 
+
+not begin enrollment in the Exchanges until January 1, 2014.  Hence, while there are no 
+
+Exchange enrollment estimates for 2012 and 2013, other provisions of the law related to the 
+
+preparation for Exchange implementation, such as State grants are estimated.   
+
+ 
+
+Table 1 includes the CBO’s estimates of outlays for reinsurance and risk adjustment, and 
+
+estimates of grants from 2012 to 2016.  It does not include costs related to reduced Federal 
+
+revenues from refundable premium tax credits, which are administered by the Department of the 
+
+Treasury subject to IRS rulemaking, the Medicaid effects, which are subject to future 
+
+rulemaking, or the policies whose offsets led CBO to estimate that the Affordable Care Act 
+
+would reduce the Federal budget deficit by over $200 billion over the next 10 years.  Table 2 
+
+ 
+includes the CBO’s estimates of receipts for reinsurance and risk adjustment. 
+
+ 
+
+
+
+9 
+
+11 
+
+ 
+
+2013 
+
+2015 
+
+---
+
+0.8 
+
+---
+
+0.6 
+
+18 
+
+0.0 
+
+18 
+
+0.2 
+
+2014 
+
+2012 
+
+2016 
+
+ 
+ 
+Table 1. Estimated Outlays for the Affordable Insurance Exchanges FY 2012 - FY2016, in 
+billions of dollars  
+ 
+Year 
+Reinsurance 
+and Risk 
+Adjustment 
+ 
+Program 
+Paymentsa 
+ 
+Grant 
+Authority for 
+Exchange 
+Start up2 
+0.4 
+ 
+a Risk-adjustment payments lag receipts shown in Table 2 by one quarter. 
+ 
+Source: CBO 
+ 
+CBO.2011 Letter to Hon. John Boehner. Feb. 18, 2011 http://www.cbo.gov/ftpdocs/120xx/doc12069/hr2.pdf 
+ 
+ 
+Accessed on 7/6/11 
+ 
+ 
+ 
+CBO. 2011. Letter to Hon. Nancy Pelosi. March 20, 2010. 
+http://www.cbo.gov/ftpdocs/113xx/doc11379/AmendReconProp.pdf. Accessed on 7/1/11 
+ 
+ 
+Table 2. Estimated Receipts for the Affordable Insurance Exchanges FY 2012 - FY2016, in 
+billions of dollars  
+ 
+Year 
+Reinsurance 
+and Risk 
+Adjustment 
+Program 
+ 
+12 
+Receipts a 
+ 
+a Risk-adjustment payments shown in Table 1 lag receipts by one quarter. 
+ 
+ 
+Source: CBO. 2011. Letter to Hon. Nancy Pelosi. March 20, 2010. 
+http://www.cbo.gov/ftpdocs/113xx/doc11379/AmendReconProp.pdf 
+ 
+Because Exchanges do not begin operation until 2014, there are no outlays for reinsurance and 
+
+2016 
+
+2012 
+
+2013 
+
+ 
+
+ 
+
+2014 
+
+2015 
+
+16 
+
+18 
+
+---
+
+---
+
+risk adjustment in 2012 and 2013.  CBO estimates that risk adjustment payments and collections 
+
+are equal in the aggregate, but that risk adjustment payments lag revenues by one quarter.  CBO 
+
+                                                 
+ 
+2 OACT estimates that the initial start-up costs for Exchanges will be $4.4 billion for 2011-2013 (Sisko, A.M., et al., 
+“National Health Spending Projections: The Estimated Impact of Reform through 2019,” Health Affairs, 29, no. 10 
+ 
+(2010): 1933-1941. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+did not score the impact of risk corridors, but assumed collections would equal payments to plans 
+
+10 
+
+in the aggregate. 
+ 
+
+CBO’s estimate of the number of people receiving tax credits through Exchanges under 
+
+the Affordable Care Act is based in part on the assumption that Exchanges would be operational 
+
+by January 2014. Participation rates among potential enrollees are expected to be lower in the 
+
+first few years (beginning in 2014) as employers and individuals adjust to the features of the 
+
+Affordable Care Act and Exchanges become fully operational.  
+
+Table 3 contains the estimates of the number of people enrolled in Exchanges from 2012 
+
+through 2016.  These estimates show that there will be nearly 22 million people enrolled in 
+
+Exchanges by the year 2016, and that there will be 32 million fewer uninsured due to the 
+
+combined impact of all of the provisions of the Affordable Care Act.   
+
+ 
+
+2016 
+
+2015 
+
+---
+
+----
+
+22 
+
+18 
+
+14 
+
+12 
+
+---
+
+---
+
+9 
+
+8 
+
+2014 
+
+2013 
+
+2012 
+
+Table 3. Estimated Number of People Enrolled in Exchanges 2012-2016, in millions by 
+Calendar Year 
+ 
+Year 
+Total Exchange 
+Enrollment3 
+ 
+Exchange 
+Enrollees 
+Receiving Tax 
+Credits 
+Employment-
+Based 
+Coverage 
+Purchased 
+Through 
+ 
+Exchanges 
+Change to 
+Uninsured 
+Coverage^4 
+ 
+                                                 
+ 
+3 OACT estimates that total Exchange enrollment will be 16.9 million in 2014, 18.6 million in 2015, and 24.8 
+
+million in 2016. 
+
+4 OACT estimated that the number of uninsured covered will be 26.2 million in 2014, 29.5 million in 2015, and 32.1
+ 
+ 
+million in 2016. 
+
+
+ 
+
+ 
+
+---
+
+-3 
+
+---
+
+-3 
+
+-21 
+
+-26 
+
+-32 
+
+3 
+
+2 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+11 
+
+ 
+ 
+^ Figure includes total effects of Affordable Care Act on change in number of uninsured individuals. 
+Totals may not add up due to rounding. 
+ 
+Source: 
+
+CBO. 2011. CBO March 2011 Baseline: Health Insurance Exchanges.
+ 
+ 
+http://www.cbo.gov/budget/factsheets/2011b/HealthInsuranceExchanges.pdf. Accessed on 4/29/2011 
+
+ 
+ 
+CBO’s March 2011 Baseline: Health Insurance Exchanges. 
+http://www.cbo.gov/budget/factsheets/2011b/HealthInsuranceExchanges.pdf Accessed on June 30, 2011. 
+ 
+ 
+CBO’s March 2011 baseline: Health Insurance Exchanges. March 18, 2011. 
+ 
+
+III. Benefits 
+ 
+
+This RIA accompanies proposed rules that implement key provisions of the Affordable 
+
+Care Act related to Affordable Insurance Exchanges, including risk adjustment, reinsurance, and 
+
+risk corridors. It is difficult to discuss the benefits of these provisions in isolation.  The 
+
+overarching goal of Exchanges and related policies in the Affordable Care Act is to make 
+
+affordable health insurance available to individuals without access to affordable employer-
+
+sponsored coverage.  Different elements of the Affordable Care Act work together to achieve 
+
+this goal. Affordable Insurance Exchanges, which create competitive marketplaces where 
+
+individuals and small businesses can shop for coverage, reduce the unit price of insurance for the 
+
+average consumer by pooling risk and promoting competition. Risk adjustment, reinsurance, and 
+
+risk corridors as envisioned in the NPRM play a critical role in ensuring the success of the 
+
+Exchanges. Risk corridors encourage health insurance issuers to offer QHPs on Exchanges in the 
+
+first three years of their operation by ensuring that all issuers share the risk associated with initial 
+
+uncertainty in the pricing of QHPs. Reinsurance protects health insurance issuers from the risk of 
+
+high-cost individuals, enabling issuers to offer coverage at a lower premium.  Risk adjustment 
+
+plays an ongoing role in ensuring that Exchanges are not harmed by adverse selection.  
+
+ 
+
+
+
+ 
+ 
+
+12 
+
+There are of course many other provisions of the Affordable Care Act that are integral to 
+
+the goal of expanding coverage, such as the premium tax credits.  Here, we do not attempt to 
+
+isolate the benefits associated with a particular provision of the Affordable Care Act.  Instead, 
+
+we will discuss the evidence on the benefits of having affordable health insurance coverage.  We 
+ 
+
+present quantitative evidence whenever it is available and rely on qualitative discussion when it 
+
+is not. 
+
+ 
+Evidence on the Impact of Health Insurance Coverage 
+
+The best available evidence on how health insurance affects medical care utilization, 
+
+health, and financial security comes from a recent evaluation of an expansion of Oregon’s 
+
+Medicaid program.5  In 2008, Oregon conducted a lottery to expanded access to uninsured adults 
+
+with incomes below 100 percent of the Federal Poverty Level.  Approximately 10,000 low-
+
+income adults were newly enrolled in Medicaid as a result.  Comparing outcomes for those who 
+
+won the lottery with outcomes for those who did not win yields an estimate of the benefits of 
+
+having coverage.  The evaluation concluded that for low-income uninsured adults, coverage has 
+
+the following benefits: 
+
+ 
+  Significantly higher utilization of preventive care (mammograms, cholesterol 
+
+monitoring, etc.), 
+
+ 
+  A significant increase in the probability of having a regular office or clinic for 
+
+primary care, and 
+
+ 
+  Significantly better self-reported health. 
+
+ 
+While there are limitations on the ability to extrapolate from these results to the likely impacts of 
+
+coverage expansions as a result of the Affordable Care Act – in particular, the Oregon 
+                                                 
+ 
+5 Amy Finkelstein, et al, “The Oregon Health Insurance Experiment: Evidence from the First Year,” National 
+Bureau of Economic Research Working Paper No. 17190, July 2011. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+expansions targeted a population that is lower income, on average, than those likely to gain 
+
+13 
+
+coverage through Exchanges – these results provide solid evidence of quantifiable health and 
+
+financial benefits associated with coverage expansions for a population of non-elderly adults. 
+
+The results of the Oregon study are consistent with prior research, which has found that 
+
+health insurance coverage improves health outcomes.  The Institute of Medicine (2002) analyzed 
+
+several population studies and found that people under the age 65 who were uninsured faced a 25 
+
+percent higher risk of mortality than those with private coverage.  This pattern was found when 
+
+comparing deaths of uninsured and insured patients from heart attack, cancer, traumatic injury, 
+
+and HIV infection.6  The Institute of Medicine also concluded that insurance leads to better 
+
+clinical outcomes for diabetes, cardiovascular disease, end-stage renal disease, HIV infection and 
+
+mental illness if they have health insurance, and that uninsured adults were less likely to have 
+
+regular checkups, recommended health screening services and a usual source of care to help 
+
+manage their disease than a person with coverage.   
+
+ 
+Health Insurance Improves Financial Security 
+
+Another important benefit of health insurance is improved financial security.  
+
+Comprehensive health insurance coverage provides a safety net against the potentially high cost 
+
+of medical care, and the presence of health insurance can mitigate financial risk.  The Oregon 
+
+study found people who gained coverage were less likely to have unpaid medical bills referred to 
+
+a collection agency.  Again, this study is consistent with prior research showing the high level of 
+
+financial insecurity associated with lack of insurance coverage.  A recent analysis found that 
+
+more than 30 percent of the uninsured report having zero (or negative) financial assets and uninsured 
+
+families at the 90th percentile of the asset distribution report having total financial assets below 
+
+                                                 
+ 
+6 Institute of Medicine, Care without coverage: too little, too late (National Academies Press, 2002). 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+$13,000 – an amount that can be quickly depleted with a single hospitalization.7  Other research 
+ 
+
+14 
+
+indicates that uninsured individuals who experience illness suffer an average a loss of 30 percent 
+
+to 50 percent of assets relative to households with insured individuals.8 
+  
+
+Decreased Uncompensated Care 
+ 
+
+The improved financial security provided by health insurance also has benefits for 
+
+providers, as insured patients can pay their medical bills.  The Oregon study found that coverage 
+
+significantly reduces the level of unpaid medical bills sent to a collection agency.9  Most of these 
+
+bills are never paid, so this reduction in unpaid bills means that one of the important benefits of 
+
+expanded health insurance coverage, such as the coverage that will be provided through the 
+
+Exchanges, is a reduction in the level of uncompensated care provided.   
+
+Again, the results of the Oregon study are also consistent with other evidence.  For 
+
+example, subsequent to the enactment of health reform in Massachusetts in 2006,10 the 
+
+Massachusetts government realized annual savings of about $250 million from lower payments 
+
+to hospitals for uncompensated care for the uninsured and underinsured.11  Payments and 
+
+utilization of the uncompensated care pool/health safety net trust fund have decreased and the 
+
+rate of non-urgent emergency department visits declined by 2.6 percent among patients with 
+
+premium assistance for coverage and uninsured patients in 2008 compared to 2006.12 
+ 
+
+ 
+Lower Premiums 
+
+ 
+
+                                                 
+ 
+7 ASPE. The Value of Health Insurance: Few of the Uninsured Have Adequate Resources to Pay Potential Hospital 
+
+Bills. (2011). 
+
+8 Cook, K. et al., "Does major illness cause financial catastrophe?," Health Services Research 45, no. 2 (2010). 
+
+9 Finkelstein, Amy et al., "The Oregon Health Insurance Experiment: Evidence from the First Year," National
+ 
+ 
+Bureau of Economic Research Working Paper Series No. 17190(2011). 
+
+10 Chapter 58 of the Acts of 2006 of the Massachusetts General Court. 
+
+ 
+11Massachusetts Division of Health Care Finance and Policy, "2009 Annual Report Health Safety Net."
+
+12 Smulowitz, Peter B. et al., "Emergency Department Utilization After the Implementation of Massachusetts Health
+ 
+ 
+Reform," Annals of Emergency Medicine In Press, Corrected Proof. 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+
+15 
+
+The Exchanges and policies associated with them would also, according to CBO’s letter 
+
+to Evan Bayh from November 30, 2009, reduce premiums for the same benefits compared to 
+
+prior law.  It estimated that, in 2016, people purchasing non-group coverage through the 
+
+Exchanges would pay 7 to 10 percent less due to the healthier risk pool that results from the 
+
+coverage expansion.  An additional 7 to 10 percent in savings would result from gains in 
+
+economies of scale in purchasing insurance and lower administrative costs from elimination of 
+
+underwriting, decreased marketing costs, and the Exchanges’ simpler system for finding and 
+
+enrolling individuals in health insurance plans.13  CBO also estimates that premiums for small 
+
+businesses purchasing through the Exchanges would be up to 2 percent lower than they would be 
+
+without the Affordable Care Act, for comparable reasons.  CBO estimated that the administrative 
+
+costs to health plans (described in greater detail below) would be more than offset by savings 
+
+resulting from lower overhead due to new policies to limit benefit variation, prohibit “riders,” 
+
+and end underwriting.  Premium savings to individuals and small businesses allow for alternative 
+
+uses of income and resources, such as increasing retirement savings for families or investing in 
+
+new jobs for small businesses.  
+
+ 
+IV. Costs 
+
+This section discusses the costs of implementing these proposed rules.  This discussion is 
+
+divided into two parts – costs of requirements on Exchanges (part 155 of the Exchange NPRM) 
+
+and costs of requirements on issuers of QHPs (part 156 of the Exchange NPRM).  The costs and 
+
+ 
+impact for the reinsurance, risk adjustment and risk corridors programs (part 153 of the Premium 
+
+Stabilization NPRM) are addressed in part V of this RIA.   
+
+ 
+Part 155: Requirements on Exchanges 
+                                                 
+ 
+13 Congressional Budget Office, "Letter to the Honorable Evan Bayh: An Analysis of Health Insurance Premiums 
+ 
+ 
+Under the Patient Protection and Affordable Care Act " (Washington2009). 
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+16 
+
+This section discusses the impact of part 155 of the Exchange NPRM, particularly as it 
+
+relates to administrative expenses and health plan certification.  States seeking to operate an 
+
+Exchange will incur administrative expenses as a result of implementing and subsequently 
+
+maintaining Exchanges in accordance with the requirements in this proposed rule.  It is important 
+
+to note that although States have the option to establish and operate an Exchange, there is no 
+
+Federal requirement that each State establish an Exchange.  Any costs of the initial 
+
+implementation of Exchanges will be funded through State Planning and Establishment Grants 
+
+authorized under section 1311(a) of the Affordable Care Act.  Table 1 shows that total grant 
+
+outlays are estimated at $2 billion dollars until grants cease at the end of calendar year 2014.  
+
+After this initial phase of Exchange planning and implementation, the law requires that 
+
+Exchanges be self-sustaining. 
+
+The maintenance of Exchanges beginning in 2015 requires another source of funding.  
+
+Specific funding sources are left to the discretion of the Exchange and can be structured in 
+
+several different ways including, but not limited to, assessments on health insurance issuers or 
+
+other user fees.  The Exchange may charge user fees or assessments to fund their ongoing 
+
+operations and maintain broad discretion in determining how to structure these assessments or 
+
+user fees, either by assessing a fee as a percentage of premiums or on a per capita basis.  For 
+
+example, the Commonwealth Connector in Massachusetts requires issuers to pay a fee that is 
+
+structured as a percent of premium.  The administrative costs of operating an Exchange will 
+
+almost certainly vary by the number of enrollees in the Exchange due to economies of scale, 
+
+variation in the scope of the Exchange’s activities, and variation in average premium in the 
+
+ 
+Exchange’s service area. 
+
+ 
+
+ 
+ 
+
+17 
+
+Subpart B of part 155 of the Exchange proposed rule sets forth general requirements 
+
+related to the establishment of Exchanges prior to and after 2014, including the approval process 
+
+for Exchanges, governance principles for the Exchange, and requirements on regional and 
+
+subsidiary Exchanges.  The Exchange rule proposes that each State choosing to establish an 
+
+Exchange shall submit an Exchange plan and a readiness assessment.  The rule also proposes to 
+
+that States that opt for a non-profit or independent authority Exchange establish a governance 
+
+   
+structure for it. 
+
+Subpart C of part 155 of the Exchange proposed rule primarily sets forth the minimum 
+
+functions that each Exchange must perform.  To operate effectively, in the early phases of 
+
+  
+
+establishment, each Exchange will most likely pursue one or more of these activities: hire 
+
+Exchange personnel, including a chief executive officer or executive director, information 
+
+technology personnel, financial management personnel, policy analysts, and other general 
+
+support staff.  Each Exchange may invest in physical office space to house the Exchange 
+
+operations.  As stated previously, the estimate in Table 1 of grant authority for States setting up 
+
+an Exchange totals nearly $2 billion from 2012-2016, and we assume that the administrative 
+
+ 
+
+costs for start-up and initial implementation of these activities are all subsumed in this estimate 
+
+for State Planning and Establishment Grants. Below, we lay out some estimates of State 
+
+spending for specific components of the Exchange to provide some granularity for the type of 
+
+costs involved. 
+
+Exchange Plan 
+
+In order for an Exchange to be approved, a State will need to submit an Exchange plan 
+
+that provides information on how it will meet all of the requirements for the approval of an 
+
+Exchange.  As discussed in the Collection of Information Requirements, we estimate that it will 
+
+ 
+
+ 
+ 
+take a State approximately 160 hours (approximately one month) for the time and effort needed 
+
+18 
+
+to develop the plan and submit to HHS.  We estimate minimal burden requirements for 
+
+developing the Exchange plan as States will be gathering most of the information needed for the 
+
+plan through the planning and establishment grants provided by HHS. 
+
+States already report to HHS on the activities they are undertaking with Exchange grant 
+
+funds based on eleven core areas of Exchange planning, as presented in the Department’s 
+
+funding opportunity announcement, including: business operations, legislation and governance, 
+
+stakeholder consultation and program integration.  States report on progress in establishment of 
+
+their Exchanges, which will provide a foundation from which States can develop the Exchange 
+
+plan. This streamlined approach will reduce the administrative burden on States related to 
+
+approval of an Exchange. 
+
+Information Technology (IT) Infrastructure 
+
+We have not provided State-specific estimates related to establishment and approval of an 
+
+Exchange due to the impact of State flexibility on Exchange establishment.  This flexibility will 
+
+lead to broad variation among States in the scope of certain activities, primarily in relation to the 
+
+ 
+building and adaptation of IT systems relative to current systems, as well as any evidence from 
+
+State enabling legislation on the specific role the Exchange will play, and the costs that will be 
+
+ 
+
+associated with that role.  However, as an example of IT costs, the Cooperative Agreements to 
+
+Support Innovative Exchange Information Technology Systems (Early Innovator grants) are 
+
+listed in Table 4, below.  The Early Innovator grants were made to a handful of States to develop 
+
+efficient and replicable IT systems that can provide the foundation for other States’ work in this 
+
+area.  These amounts vary from $6 million to $48 million per State.  We believe that the low-end 
+
+ 
+
+cost of $6 million for Maryland may not be representative of an average State as it is based on 
+
+ 
+
+
+
+ 
+ 
+the project proposal Maryland outlined in the Early Innovator application.  Maryland may 
+
+19 
+
+request additional funds from the Exchange Planning and Establishment grants and costs vary by 
+
+State based on reasons including population of the State, the system that will be implemented, 
+
+and the State’s current IT systems. 
+
+These Early Innovator grants are the first IT grants provided to States.  As more States 
+
+develop IT systems to support Exchange functionality, we expect the cost of developing these 
+
+systems to decline, capitalizing on the investments made by these initial grantee States.  As a 
+
+result, States that subsequently invest in an IT infrastructure may have lower costs.  
+
+Administrative costs for IT systems will likely vary depending on current State systems as well 
+
+as the approaches Exchanges take to building and streamlining their eligibility and other systems.   
+
+Table 4. Cooperative Agreements to Support Innovative Exchange Information Technology 
+Systems Award Amounts by Grantee (in millions of dollars) 
+ 
+
+Grantee 
+
+Recommended Award Amount 
+
+University of Massachusetts Medical School (New 
+
+ 
+England consortium) 
+
+Wisconsin Department of Health Services 
+
+Oregon Health Authority 
+
+Kansas Insurance Department 
+
+Maryland Dept of Health and Mental Hygiene 
+
+New York Department of Health 
+
+36 
+
+38 
+
+48 
+
+32 
+
+6 
+
+27 
+
+ 
+
+Subpart C of Part 155 of the Exchange rule also proposes requirements for consumer 
+
+assistance tools to support the Exchange, including an Exchange website, a call center, and an 
+
+electronic calculator.  The Affordable Care Act requires that every Exchange operate a toll-free 
+
+ 
+
+
+
+ 
+ 
+telephone hotline to respond to requests for assistance, maintain an Internet website through 
+
+20 
+
+which enrollees and applicants of QHPs may obtain standardized comparative information on 
+
+QHPs, establish and make available a calculator to determine the actual cost of coverage after the 
+
+application of any advance payments of the premium tax credit and any cost-sharing reduction, 
+
+and provide a quality rating to each QHP.  As such, the Exchange will develop the above-
+
+mentioned tools and integrate them into other systems and resources provided by the Exchange 
+
+to accurately convey and display information to applicants and enrollees about costs and 
+
+coverage in QHPs. 
+
+ 
+
+According to December 2010 research by the Pew Internet and American Life Project, 83 
+
+percent of adult internet users utilize the Internet to find health information and 66 percent buy 
+
+products online.14  Additionally, 67 percent of adult internet users in the US visit a local, state, or 
+
+federal government website.15  There is the potential for great variability across Exchanges in the 
+
+opportunity to create robust web resources, which may replace more labor-intensive 
+
+administrative processes.  For example, Exchanges may elect to create functionality for 
+
+individuals to manage a personalized account, receive notices and other information online, or 
+
+provide the opportunity for web chats that may reduce the need for paper and in-person 
+
+resources.  The initial start-up costs for creating state-of-the-art web resources to educate 
+
+individuals by allowing them to compare plan options and calculate their costs online may be 
+
+significant.  Ultimately, however, such costs could result in lower ongoing costs of the Exchange 
+
+and lower distribution costs of health insurance in general.  While HHS is providing grant 
+
+funding for the implementation of Exchanges and the development of IT systems, States will be 
+
+responsible for the maintenance costs.  In addition to the cost impact of web tools, the Exchange 
+                                                 
+ 
+14 Pew Internet & Life Project, "Trend Data,"  http://www.pewinternet.org/Trend-Data/Online-Activities-Daily.aspx. 
+  
+15 Ibid. 
+
+ 
+
+
+
+ 
+ 
+will incur additional administrative expenses to develop and operate a call center and any 
+
+21 
+
+contracting costs associated with this function. 
+
+Navigators 
+
+ 
+
+Subpart C of part 155 of the Exchange rule also proposes requirements on the Navigator 
+
+program.  Exchanges are required to have Navigator programs, and are given substantial 
+
+flexibility in designing these programs.  Funding for Navigators is provided by grants from 
+ 
+
+Exchange funds separate from the Exchange Planning and Establishment Grants.  We expect 
+
+Navigators to increase access to and enrollment in QHPs.  For instance, Navigators will provide 
+
+an access point to the Exchange for individuals who lack easy access to technology, such as 
+
+computers and telephones.   
+
+Estimating the impact of Navigator programs on enrollment is difficult due to the level of 
+ 
+
+flexibility States have when creating the programs.  Medicare’s existing State Health Insurance 
+
+Assistance Program (“SHIP”) offers a comparable example to the Navigator program.  SHIPs are 
+
+grant-funded, State-based offices that provide education, outreach, and assistance to Medicare 
+
+beneficiaries.  Although the population served by SHIPs is different from the population 
+
+Navigators will serve, SHIP operating data provides a baseline comparison throughout this 
+
+section of analysis.  CMS estimates that SHIPs have reached 4.7 million people through outreach 
+
+events and one-on-one counseling in the 2009 grant year.16  In the same year, SHIPs conducted 
+
+54,656 public information and outreach events.17 
+  
+
+Notifications 
+ 
+
+                                                 
+ 
+16 Office of External Affairs and Beneficiary Services, Unpublished, "FY 2010 SHIP Basic Grant Funding," (Center
+ 
+ 
+for Medicare & Medicaid Services, 2009). 
+
+17 Ibid. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+22 
+
+The Exchange must also provide notifications to applicants, enrollees, and employers 
+
+regarding enrollment and eligibility-related information or actions taken by the Exchange.  These 
+
+notices may communicate eligibility determinations, annual open enrollment periods, rights to 
+
+appeal or other information.  The Exchange must develop procedures to support these required 
+
+notifications and their accompanying processes.  Exchanges may reduce administrative costs 
+
+associated with notices where these interactions can take place in electronic or automated format.  
+
+As discussed in the Collection of Information Requirements, estimates related to notices 
+
+throughout the proposed rule for Exchanges take into account the time and effort needed to 
+
+develop the notice and make it an automated process to be sent out when appropriate.  As such, 
+
+we estimate that it will take approximately 16 hours annually for the time and effort to develop 
+
+and submit a notice when appropriate.  This estimate is slightly higher than the 8 hours estimated 
+
+for notices discussed in the Medicare Part D rule and reflects the additional functions of the 
+
+Exchange program.  Cost estimates for approximately 13 notices from the Exchange are 
+
+approximately $11,000 for each Exchange. 
+
+Finally, notices, applications and forms must be written in plain language and provided in 
+
+a manner that provides meaningful access to limited English proficient individuals and ensures 
+
+effective communication for people with disabilities.  Exchanges may face administrative costs 
+
+when developing their notices, applications and forms to meet this requirement.   
+
+Enrollment Standards 
+
+In subpart E, we propose the Exchange must transmit information to the issuer of the 
+
+QHP selected by an applicant to enable the issuer of the QHP to enroll the applicant.  The 
+
+Exchange NPRM lays out an annual enrollment period during which individuals will make 
+
+insurance selections.  While we anticipate that the Exchange and QHP issuers will need to allow 
+
+ 
+
+ 
+ 
+for a high capacity of systems use during the initial and annual open enrollment periods, these 
+
+23 
+
+systems will also need to be available throughout the year to accommodate special enrollment 
+
+periods. 
+
+Exchange enrollment systems will need to support enrollment and termination of 
+
+coverage functions including data transfer functions.  In turn, this function must be in alignment 
+
+with industry privacy and security standards, including HIPAA.  We anticipate that many private 
+
+and State data systems currently comply with industry privacy standards, and therefore, it will 
+
+not be an extensive burden to comply with this standard.   
+
+Initial start up and coordination of processes including data sharing may require 
+
+significant resources initially as the Exchange initiates outreach, education, and engagement 
+
+strategies.  In addition, to facilitate seamless transitions for enrollees, the Exchange will need to 
+
+coordinate with Pre-Existing Condition Insurance Plan (PCIP) to support the transition of PCIP 
+
+enrollees into the Exchange, ensuring no lapses in coverage.   
+
+Application Process 
+
+Subpart E of part 155 addresses the application process.  The Affordable Care Act 
+
+requires the Exchange to collect specific types of information to determine eligibility.  In 
+
+accordance with the Affordable Care Act, all QHP issuers must use a uniform enrollment form.  
+
+Further, it specifies that HHS must create a form that may be used to apply for applicable State 
+
+insurance affordability programs.  HHS plans to propose a single, streamlined eligibility 
+
+application that applicants must complete to have their eligibility determined for enrollment in a 
+
+QHP.  Exchanges may either adopt the model application or develop their own application with 
+
+HHS approval.  The Exchange must make the application accessible to applicants and enrollees 
+
+ 
+
+
+
+ 
+ 
+both electronically and in paper form.  Exchanges may experience administrative savings to the 
+
+24 
+
+extent that they can encourage the broad use of an electronic or automated application process.   
+
+SHOP 
+ 
+
+Subpart H of part 155 describes general requirements related to the establishment of the 
+
+SHOP, including certification standards and a set of minimum functions.  Generally, SHOP has 
+
+the same functionality as the rest of the Exchange, except as described below.  Therefore, we 
+
+  
+
+estimate the additional administrative cost of building and operating a SHOP to be greatly 
+
+reduced in comparison to building and operating an Exchange.  As shown in Table 3, SHOP is 
+
+projected to enroll nearly three million employees by 2016.  According to the U.S. Census 
+
+Bureau, in 2008 there were 42.1 million employees employed by employers with fewer than 100 
+
+employees in the United States.18  Currently, 67.4 percent of small employers with between 3 
+
+and 100 employees offer employer-sponsored health insurance coverage.19  The establishment of 
+
+SHOP in conjunction with tax incentives for some employers will provide new opportunities for 
+
+ 
+employers to offer affordable health insurance to their employees. 
+
+ 
+
+Enrollment in the small group market will be sensitive to premiums.  Unlike for 
+
+individuals who receive advance payments of the premium tax credit, the employer or employee 
+
+will pay the marginal cost of coverage in the small group market.  The Exchange NPRM 
+
+proposes additional flexibility to each Exchange regarding the design of the SHOP.  Exchanges 
+
+may choose to merge the individual and small group markets.  Based on the relative size and risk 
+
+of the two markets, this decision may significantly impact the price of coverage.  
+
+                                                 
+ 
+18 Bureau, U.S. Census, "Number of Firms, Number of Establishments, Employment, and Annual Payroll by
+ 
+ 
+Enterprise Employment Size for the United States and States, Totals:  2008," (Washington2008). 
+
+19 Claxton, G. et al., Employer Health Benefits, 2010 Annual Survey (Menlo Park: Henry J. Kaiser Family
+ 
+ 
+Foundation, Health Research and Educational Trust, 2010). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+25 
+
+The SHOP will interact with employers as well as the employees who will be enrolling in  
+
+coverage in a QHP.  This dual role requires a website, application, and support suited to the 
+
+needs of employers as well as employees, and billing administration functions appropriate for the 
+
+needs of small employers offering many health plans.  All of these requirements could be built as 
+
+  
+
+extensions of the Exchange, or as entirely separate systems.  
+
+Given that SHOP functionality is so similar to the functionality of the rest of the 
+
+Exchange, including enrollment of qualified employees and certification of QHPs, much of the 
+
+IT and enrollment infrastructure can be reused.  While the criteria for certifying a QHP for the 
+
+SHOP may be slightly different, the certification process is identical.  Therefore, plan 
+
+management processes can be reused for the SHOP.  With the large amount of flexibility 
+
+Exchanges have in implementing these requirements for SHOP, the cost incurred from designing 
+
+and implementing these SHOP functions varies based upon the State’s vision for building its 
+
+SHOP.  Operating both an Exchange and the SHOP under the same administrative entity would 
+
+reduce the cost of running the Exchange.  Alternatively, Exchanges may decide that the needs of 
+
+the small business community are unique and can best be served best through a governance 
+
+structure that is entirely different.   
+
+Certification of QHPs 
+
+Subpart K of part 155 of the Exchange rule proposes standards for the processes for 
+
+certification, recertification, and decertification of QHPs.  To perform these processes, 
+
+Exchanges will undertake various administrative functions.  The Exchange will collect data and 
+
+information from health insurance issuers to facilitate the evaluation of plan benefit packages, 
+
+ 
+
+rates, networks and quality information.  The Exchange may apply additional criteria and may 
+
+negotiate with issuers before certifying QHPs.  On an ongoing basis, Exchanges will collect 
+
+ 
+
+
+
+ 
+ 
+benefit, rate, network information, and other data from QHP issuers to facilitate the use of 
+
+26 
+
+consumer tools such as the calculator and the plan comparison tool.  This information will 
+
+support QHP compliance as well as support the recertification of QHPs.  
+
+Subpart K of part 155 also proposes Exchange standards related to offering the QHPs.  
+
+These standards have the potential to affect the administrative costs of some issuers.  Some QHP 
+
+issuers will be more prepared than others and will incur fewer costs.  For example, if data 
+
+reporting functions required for certification already exist within the QHP issuer, there would be 
+
+ 
+no additional cost to building this functionality. 
+
+An Exchange has considerable flexibility in determining the certification standards it will 
+
+use to determine whether health plans should be certified as QHPs.  The administrative costs for 
+
+this function will vary based on the operating model selected.  For example, if an Exchange 
+
+chooses to accept any qualified plan in the QHP certification process, it may require fewer 
+
+ 
+administrative resources because the Exchange will not be performing competitive evaluations of 
+
+plans.  Alternatively, if an Exchange chooses to engage in selective contracting or other forms of 
+
+active selection, it could incur higher administrative costs.  Some of these costs could be offset if 
+
+ 
+the Exchange contracts with a small number of QHPs, which would reduce the resources that an 
+
+Exchange would devote to managing and communicating with QHPs.  While start-up 
+
+administrative costs for this process are included in the total estimated amount for the Exchange 
+
+Planning and Establishment Grants, ongoing costs, including recertification and other ongoing 
+
+ 
+operating costs, will be funded by revenue generated by the Exchange. 
+
+ 
+Costs of Part 156: Requirements on QHP Issuers 
+
+Part 156 of the Exchange NPRM proposes requirements on QHP issuers for participation 
+
+in an Exchange.  The cost of participating in an Exchange is an investment for QHP issuers, with 
+
+ 
+
+ 
+
+
+
+ 
+ 
+substantial benefits expected to accrue to QHP issuers.  The Exchange will function as an 
+
+27 
+
+important distribution channel for QHPs.  QHP issuers currently fund their own sales and 
+
+marketing efforts.  As a centralized outlet to attract and enroll consumers, the Exchanges will 
+
+supplement and reduce incremental health plan sales and marketing costs.  These savings could 
+
+be passed along to consumers in the form of reduced premiums.  We estimate market reforms of 
+
+the Affordable Care Act as well as administrative efficiencies from economies of scale and risk 
+
+pooling will reduce insurance rates per unit of coverage for individuals and small groups.20 
+  
+
+Other administrative efficiencies that could lead to lower QHP premiums inside the Exchange 
+
+include: streamlining of the eligibility process for the advance payments of the premium tax 
+
+credit, customer service functions performed by the Exchange for QHP related issues, and the 
+
+premium aggregation function of SHOP.  
+
+Accreditation 
+
+Subpart C of part 156 proposes that QHP issuers must be accredited on the basis of local 
+
+performance of its QHPs by an accrediting entity recognized by HHS.  For health plan issuers in 
+
+States that already require accreditation, this process is a standard procedure and will add 
+
+minimal administrative cost.  Depending on a State’s requirements, accreditation may be less 
+
+common among issuers in the commercial market and Medicaid managed care organizations.  
+
+The accreditation requirement may have some cost to health plan issuers that are not already 
+
+accredited, but the accreditation process will build on procedures already performed by the 
+
+health plan issuer.  Health plan issuers without systems and processes set up to deal with 
+
+accreditation will face a greater burden. 
+                                                 
+ 
+20 Congressional Budget Office, "Letter to the Honorable Evan Bayh: An Analysis of Health Insurance Premiums
+ 
+ 
+Under the Patient Protection and Affordable Care Act ". 
+
+ 
+Gabel, J. et al., "Generosity and adjusted premiums in job-based insurance: Hawaii is up, Wyoming is down," 
+
+Health Affairs 25, no. 3 (2006).  
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+28 
+
+Depending on the size of the health plan issuer and the accrediting body, the cost of 
+
+accreditation may vary: with the National Committee for Quality Assurance (NCQA), the cost 
+ 
+
+may range from $40,000 to $100,000 per issuer for a three year accreditation; with URAC, the 
+
+cost is $27,000 for a two-year accreditation.21  It should be noted that these are estimates, as 
+
+accreditation costs for QHP issuers may differ from current pricing by accrediting bodies to date.  
+
+ 
+These costs will be distributed across QHPs and should not have a significant effect on 
+
+premiums.  We expect the increase will diminish over time as the QHP issuer becomes more 
+
+efficient in gaining accreditation.  Annual accreditation requirements will be more costly than 
+
+requiring accreditation less frequently. 
+
+Network Adequacy Standards 
+
+The Exchange NPRM proposes wide discretion for Exchanges in setting network 
+
+adequacy standards for participating health insurance issuers.  An Exchange may determine that 
+
+compliance with relevant State law and licensure requirements is sufficient for a QHP issuer to 
+
+participate in the Exchange.  In such case, the network adequacy standard would have no impact 
+
+on premiums.  Since the Exchange will be able to set additional standards in accordance with 
+
+current provider market characteristics and consumer needs, there could be a minimal impact on 
+
+premiums.  
+
+In any State in which the Exchange sets significantly more extensive network adequacy 
+
+standards than those already enforced as a part of State licensure, participating health insurance 
+
+issuers may need to seek additional provider contracts in order to develop their provider 
+
+ 
+networks in accordance with these standards.  In some markets, issuers may need to contract 
+
+with additional providers at higher reimbursement rates to meet the more extensive network 
+                                                 
+ 
+21 Mays, Glen. "Can Accreditation Work in Public Health? Lessons from Other Service Industries" 2005. 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+adequacy requirements.  This may result in higher rates than would have otherwise resulted 
+
+29 
+
+under less extensive network adequacy requirements.   
+
+In general, the network adequacy standards are aimed at maintaining a basic level of 
+ 
+
+consumer protection, but allow for participating health insurance issuers to compete on these 
+
+factors, with the goal of promoting higher quality of care and lower premiums.  In turn, the 
+
+Exchange NPRM proposes that QHP issuers contract with a sufficient number of essential 
+
+community providers to provide timely access to services for low-income and medically 
+
+underserved individuals.  The proposed definition of essential community providers includes a 
+
+broad range of providers to meet the needs of the low-income and medically underserved 
+
+individuals.  It is anticipated that this requirement will not add significant cost to QHP 
+
+ 
+
+premiums, since it is not required that all of the providers be given a contract.  
+
+ 
+
+As with all types of providers, essential community providers may be less numerous in 
+
+certain areas, particularly rural areas.  In urban and suburban settings in particular, we anticipate 
+
+that the broad range of essential community providers will enable a QHP issuer to integrate a 
+
+sufficient number in its provider network.  In rural areas, participating health insurance issuers 
+
+have fewer options of essential community providers to include in their provider networks, and 
+
+they may need to offer higher rates in order to attract those providers.   
+
+Premium Rating Rules 
+
+Affordable Care Act requirements help stabilize the relative risk of each market.  By 
+
+requiring parity in pricing, issuers cannot create price incentives for healthy individuals to prefer 
+
+one market to another, a behavior that could be destabilizing.  We expect this requirement to 
+
+significantly improve the comparative health of the Exchange’s risk pool, and prevent adverse 
+
+selection that has plagued some small health insurance markets and health insurance purchasing 
+
+ 
+
+ 
+
+
+
+ 
+ 
+cooperatives.  In addition, QHP issuers must pool risk for their plans both inside and outside of 
+
+30 
+
+the Exchange. 
+
+V. Impacts of the Proposed Rule on Standards Related to Reinsurance, Risk Corridors and Risk 
+
+Adjustment 
+ 
+
+The Reinsurance, Risk Corridors and Risk Adjustment (“Premium Stabilization”) NPRM 
+
+proposes rules and guidelines for the two transitional risk-sharing programs, reinsurance and risk 
+
+corridors, as well as for the risk adjustment program that will continue beyond the first three 
+
+years of Exchange operation.  The purpose of these programs is to protect issuers, particularly 
+
+ 
+QHP issuers, from the negative effects of adverse selection and to protect consumers from 
+
+increases in premiums due to uncertainty for issuers.  
+
+In theory, insurers charge premiums for expected costs plus a risk premium, in order to 
+
+build up reserve funds in case medical costs are higher than expected.22  Payments through 
+
+reinsurance, risk adjustment, and risk corridors reduce the increased risk of financial loss that 
+
+health insurance issuers might otherwise expect to incur in 2014 due to market reforms such as 
+
+guaranteed issue and the elimination of medical underwriting.  These payments reduce the risk to 
+
+the issuer and the issuer can pass on a reduced risk premium to enrollees.   
+
+The Affordable Care Act structures reinsurance and risk adjustment as State-run 
+
+programs with Federal guidelines on methodology, while it establishes risk corridors as a 
+
+Federally-run program.  Table 1 shows the estimated Federal cost of reinsurance and risk 
+
+adjustment will be $11 billion in 2014, $18 billion in 2015 and $18 billion in 2016.  These 
+
+outlays are offset by reinsurance and risk adjustment program receipts of $12 billion in 2014, 
+
+ 
+
+$16 billion in 2015 and $18 billion in 2016 (Table 2).  Reinsurance and risk adjustment 
+                                                 
+ 
+22 Swartz, K. and Fund, C., Reinsurance: How States Can Make Health Coverage More Affordable for Employers 
+ 
+and Workers (Commonwealth Fund, 2005). 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+payments lag revenues by one quarter.  In the aggregate, reinsurance and risk adjustment are 
+
+31 
+
+budget neutral, meaning that contributions from some issuers fund disbursements to other 
+
+issuers.  CBO did not separately estimate the program costs of risk corridors, but assumed 
+
+aggregate collections from some issuers would offset payments made to other issuers.  
+
+This section analyzes the administrative costs and premium impacts of these three 
+
+  
+programs to mitigate the negative effects of adverse selection. 
+
+ 
+Reinsurance 
+
+The Affordable Care Act requires the implementation of a three-year temporary 
+
+reinsurance program for the years 2014, 2015 and 2016.  Each State that operates an Exchange 
+
+must establish or enter into a contract with an applicable not-for-profit reinsurance entity to carry 
+
+out this program.  A State that does not operate an Exchange may elect to establish a reinsurance 
+
+program under the Affordable Care Act.  If a State does not operate an Exchange and does not 
+
+elect to operate its own reinsurance program, HHS will establish the reinsurance program to 
+
+perform all the reinsurance functions for that State.   
+
+The Affordable Care Act authorizes an annual reinsurance pool of $10 billion in 2014, $6 
+
+billion in 2015, and $4 billion in 2016.  It also requires annual contributions to the U.S. Treasury 
+
+ 
+of $2 billion, $2 billion, and $1 billion, respectively.  These program costs are funded by 
+
+contributions from issuers, including TPAs for self-insured plans.  Section 1341(b)(3) of the 
+
+Affordable Care Act sets contribution levels for the program on a national basis.  HHS proposes 
+
+to establish a national contribution rate that totals $12 billion in 2014.  Reinsurance entities may 
+
+elect to collect additional contributions if the State decides the amount collected according to the 
+
+contribution rate is not sufficient to fund required reinsurance payments (§153.220(b)(3)) or to 
+
+fund the administrative requirements of the reinsurance entity.  Alternatively, reinsurance entities 
+
+ 
+
+
+
+ 
+ 
+can decrease payments if they did not collect enough funds in contributions to make payments 
+
+32 
+
+for reinsurance claims submitted (§153.240(b)(2)). 
+   
+
+Reinsurance entities bear the majority of administrative costs for reinsurance, although 
+
+the State must ensure that the reinsurance entity is compliant with the program requirements.  A 
+
+State may have more than one reinsurance entity, and two or more States may jointly enter into 
+
+an agreement with the same reinsurance entity to carry out reinsurance in all States.  
+
+Administrative costs will increase if multiple reinsurance entities are established within a State, 
+
+whereas administrative efficiencies can be found if multiple States contract with one reinsurance 
+
+ 
+entity. 
+
+The Premium Stabilization NPRM proposes a percent of premium method by which to 
+
+collect reinsurance contributions, although a per capita approach was also considered.  The 
+
+percent of premium method allows States with higher premium costs to collect more money 
+
+towards reinsurance.  A flat, per capita amount would have a slightly adverse impact on the low-
+
+price catastrophic and child-only plans that will be a form of coverage in 2014.   
+
+ 
+Reinsurance payments will be made to issuers of individual insurance coverage on the 
+
+basis of their high-cost enrollees, excluding grandfathered health plans.  HHS will propose and 
+
+publish an annual payment notice that contains the formula for calculating payments.  Payments 
+
+will be based on a portion of costs incurred above an attachment point, subject to a cap.  The 
+
+proposal to reinsure high costs rather than disease status may reduce insurer incentive to control 
+
+costs because the insurer will face only the partial cost of high cost individuals instead of 
+
+receiving a payment based on medical condition regardless of claims cost.  However, use of a 
+
+reinsurance cap, as well as the requirement for health insurance issuer cost-sharing above the 
+
+attachment point and below the cap, may incentivize health insurance issuers to control costs. 
+
+ 
+
+
+
+ 
+ 
+ Additionally, the approach based on cost is simpler to implement and more familiar to health 
+
+33 
+
+insurance issuers, and thus will likely result in savings in administrative costs as compared to 
+
+condition-based reinsurance.  The program costs of reinsurance are reflected in changes to health 
+
+insurance premiums.  All health insurance issuers contribute to the reinsurance pool, while only 
+
+health insurance issuers with plans in the individual market are eligible to receive payments.  
+
+Thus, the temporary reinsurance program is redistributive from the non-individual market to the 
+
+individual market.  This serves to stabilize premiums in the individual market while having a 
+
+minimal impact on large group issuers.  Reinsurance will attenuate individual market rate 
+
+increases that might otherwise occur because of the immediate enrollment of high risk 
+
+individuals, potentially including, at the State’s discretion, those currently in State high risk 
+
+pools.  In 2014, the cost of contributions to the reinsurance pool will be passed on to enrollees 
+
+through premium increases of about one percent of premiums in the total market; the benefits of 
+
+reinsurance will result in premium decreases in the individual market expected to be between 10 
+
+and 15 percent.23 
+   
+
+Evidence from the Healthy New York (“Healthy NY”) program supports the magnitude 
+
+of these estimates.  In 2001, the State of New York began operating Healthy NY and required all 
+
+HMOs in the State to offer policies for which small businesses and low-income individuals 
+
+would be eligible.  The program contained a “stop-loss” reinsurance provision designed to lower 
+
+premiums for enrollees.  The State would pay the insurer 90 percent of annual medical claims for 
+
+enrollees that were between $30,000 and $100,000.  Premiums for Healthy NY were about 15 
+
+percent to 30 percent less than comparable HMO policies in the small group market.24  This 
+
+                                                 
+ 
+23Actuarial Research Corporation, "Reinsurance attachment point estimates," (Annandale2010). 
+
+ 
+24 Swartz, K. and Keenan, P.S., Healthy New York: Making Insurance More Affordable for Low-Income Workers
+ 
+ 
+(The Commonwealth Fund., 2001).
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+trend has continued.  In 2009, the unadjusted medical loss ratio (MLR) in Healthy NY across 
+
+34 
+
+participating plans was 120 percent in 2009.  After reinsurance payments were made, the 
+
+adjusted MLR dropped to 84 percent.25 
+   
+
+The reinsurance program permits early and prompt payment of reinsurance during the 
+
+benefit year.  This is important to the program’s ability to maintain stable premiums in the 
+
+individual market since risk adjustment and risk corridors are likely to be calculated after the 
+
+benefit year.  Reinsurance may offer timely financial relief to health insurers that experience the 
+
+most adverse selection in the first year of implementation.  As the reinsurance contributions 
+
+required under law decrease in 2015 and 2016, their impact on premiums should decline, 
+
+tracking with the decreased uncertainty in the market.  The individual market will become more 
+
+stable as health plans learn their expected risk under new insurance rules and become better able 
+
+  
+to price to their expected risk. 
+
+ 
+Risk Corridors 
+
+The risk corridor program is a temporary, three-year program that applies to QHPs 
+
+offered in the Exchange or purchased from an issuer or broker.  The Affordable Care Act 
+
+establishes risk corridors as a Federal program; consequently, the Premium Stabilization NPRM 
+
+proposes to operate risk corridors under Federal rules with no State variation.  The risk corridor 
+
+ 
+program will protect against rate setting uncertainty in the Exchange by limiting the extent of 
+
+ 
+issuer losses (and gains). 
+
+QHP issuers must annually submit to HHS data on premiums collected and allowable 
+
+costs, and make available to HHS any data to support auditing.  This data will be collected in 
+
+standard formats specified by HHS and HHS will seek to leverage existing data reporting as 
+                                                 
+ 
+25 Burns & Associates, Inc. Independent Report on the Healthy NY Program for Calendar Year 2010. (Phoenix, 
+2010). 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+much as possible.  Risk corridors act as an after-the-fact adjustment to premiums based on the 
+
+35 
+
+health insurance issuer’s experience.  They are designed to protect QHP issuers in the individual 
+
+and small group market against inaccurate rate setting.  Due to uncertainty about the population 
+
+during the first years of Exchange operation, plans may not be able to predict accurately their 
+
+risk, and their premiums may reflect costs that are ultimately much lower or much higher than 
+
+predicted, as reflected in overall profitability.  For these plans, risk corridors are designed to shift 
+
+cost from plans that overestimate their risk to plans that underestimate their risk.  The threshold 
+
+for risk corridor payments and charges is reached when a QHP issuer’s allowable costs reach 
+
+plus or minus three percent of the target amount.  An issuer of a QHP plan whose gains are 
+
+greater than three percent of the issuer’s projections must remit charges to HHS, while HHS 
+
+must make payments to an issuer of a QHP plan that experiences losses greater than three 
+
+percent of the issuer’s projections.   
+
+ 
+Risk Adjustment 
+
+Risk adjustment is a permanent program, administered by States that operate a HHS-
+
+approved Exchange, with risk adjustment criteria and methods established by HHS, with States 
+
+having the option of proposing alternative methodologies.  Risk adjustment is applied to health 
+
+plans offered in the individual and small group markets, both inside and outside of the Exchange, 
+
+except for grandfathered plans.  A State that does not operate an Exchange cannot operate risk 
+
+adjustment, although a State operating an Exchange can elect not to run risk adjustment.  For 
+
+States that do not operate an Exchange, or do not elect to operate risk adjustment, HHS will 
+
+administer the risk adjustment functions.  The Exchange may operate risk adjustment, although a 
+
+State may also elect to have an entity other than the Exchange perform the risk adjustment 
+
+functions, provided that the selected entity meets the requirements to operate risk adjustment.  
+
+ 
+
+
+
+ 
+ 
+Similar to the approach for reinsurance, multiple States may contract with a single entity to 
+
+36 
+
+administer risk adjustment, provided that risk is pooled at the State level.  Having a single entity 
+
+administer risk adjustment in multiple States may provide administrative efficiencies.  
+
+HHS will specify a Federally-certified risk adjustment model.  States may use this model 
+
+or develop and propose alternate risk adjustment models that meet Federal standards.  Once HHS 
+
+approves an alternate risk adjustment model, it will be considered a Federally-certified model 
+
+that any State may elect to use.  States that elect to develop their own risk adjustment methods 
+
+will have increased administrative costs.  Developing a risk adjustment model requires complex 
+
+data analysis, including population simulation, predictive modeling, and model calibration.  
+
+States that elect to use Federal methods would likely reduce administrative costs.  
+
+States have the flexibility to merge the individual and small group markets into one risk 
+
+pool or keep them separate for the purposes of risk adjustment.  Risk adjustment must be 
+
+conducted separately in unmerged markets.  Developing the technology infrastructure required 
+
+for data submission will likely require an administrative investment.  The risk adjustment process 
+
+will require significant amounts of demographic and diagnostic data to run through a risk 
+
+assessment model in order to determine individual risk scores that form the basis for plan and 
+
+State averages.  The Premium Stabilization NPRM proposes that data to run risk adjustment be 
+
+collected at the State level.  States may vary the amount and type of data collected, provided that 
+
+States meet specified data collection standards.  Any State with an all-payer claims database may 
+
+request an exception from the data collection minimum standards.  
+
+Administrative costs will vary across States and health insurance issuers depending on 
+
+the sophistication of technical infrastructure and prior experience with data collection and risk 
+
+adjustment.  States and issuers that already have systems in place for data collection and 
+
+ 
+
+
+
+ 
+ 
+reporting will have reduced administrative costs.  For example, issuers that already report 
+
+37 
+
+encounter data for Medicare Advantage (MA) or Medicaid Managed Care may see minimal 
+
+additional administrative burden for risk adjustment.  MA organizations will be required to 
+
+submit encounter data beginning in 2012.26  All 40 States with capitated Medicaid Managed Care 
+
+Organizations collect encounter data from managed care organizations.27  Some States risk-
+
+adjust in their Medicaid Managed Care programs.  Also, States that have all-payer claims 
+ 
+
+databases have existing infrastructure to support risk adjustment.  As of 2010, 13 States had 
+
+operational all-payer claims databases.28  Reported annual State funding to establish an all-payer 
+
+claims database system ranges from $350,000 to $2 million.29  States with all-payer or multi-
+
+payer claims databases may need to modify their systems to meet the requirements of risk 
+
+adjustment, however, these modification costs will be less than establishment costs.  States and 
+
+issuers that do not have existing technical capabilities will have larger administrative costs 
+
+related to developing necessary infrastructure.   
+
+Issuer characteristics, such as size and payment methodology, will also impact 
+
+ 
+administrative costs.  In general, national issuers will be better prepared for the requirements of 
+
+risk adjustment than local issuers.  Additionally, administrative costs may be greater for issuers 
+
+where providers are paid by capitation and where they do not receive claims or encounter data as 
+
+ 
+
+they will have to modify their systems to account for the information required for risk 
+
+adjustment. 
+
+                                                 
+ 
+26 Center for Medicare & Medicaid Services, "Announcement of Calendar Year (CY) 2012 Medicare Advantage 
+
+Capitation Rates and Medicare Advantage and Part D Payment Policies and Final Call Letter," (Baltimore2011). 
+
+27 Office of the Inspector General. Medicaid Managed Care Encounter Data: Collection and Use. (2009).
+ 
+ 
+28 Miller, Patrick B, et al. All-Payer Claims Databases. (Robert Woods Johnson Foundation. , 2010). 
+
+29 Council, APCD, "Cost and Funding Considerations for a Statewide All-Payer Claims Database (APCD). ," 
+
+(2011). 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+38 
+
+We propose that States audit a sample of data from all issuers that submit data for risk 
+
+adjustment each year.  We further propose that States may extrapolate results from the sample to 
+
+adjust the average actuarial risk for the plan.  This approach is consistent with the approach now 
+
+used in Medicare.  
+
+Risk adjustment transfers dollars from health plans with the lowest risk to health plans 
+ 
+
+with the highest risk.  From 2014 through 2016, it is estimated that $22 billion will be transferred 
+
+between issuers.30  Risk adjustment protects against overall adverse selection by allowing 
+
+insurers to set premiums according to the average actuarial risk in the individual and small group 
+
+market without respect to the type of risk selection the insurer would otherwise expect to 
+
+experience with a specific product offering in the market.  This should lower the risk premium 
+ 
+
+and allow issuers to price their products conservatively, closer to the average actuarial risk in the 
+
+market.  In addition, it mitigates the incentive for health plans to avoid unhealthy members.   
+
+The risk adjustment program also serves to level the playing field inside and outside of 
+
+the Exchange as payments and charges are applied to all individual and small group plans.  This 
+
+mitigates the potential for excessive premium growth within the Exchange due to anticipated 
+
+adverse selection. 
+
+ 
+VI. Alternatives Considered 
+
+As section 1321 of the Affordable Care Act describes, States have a great deal of 
+
+flexibility on the operation and enforcement of the Exchange.  Exchange standards aim to: 
+
+promote a level playing field that promotes insurers competing on price and quality, ensure the 
+
+maximum number of eligible people enroll in the Exchange, minimize the number of ineligible 
+
+individuals who are able to enroll, minimize the total cost of establishing Exchange functions, 
+                                                 
+ 
+30 Analysis based on CBO estimates for reinsurance and risk adjustment and the reinsurance contributions specified 
+ 
+in section 1341(b)(3) of the Affordable Care Act. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+and provide Exchanges with the flexibility to cater to the specific needs of their populations.  
+
+39 
+
+Achieving all of these objectives requires fundamental tradeoffs.  Below is a description of key 
+
+areas of State flexibility, alternatives considered, and the effect these decisions have on the 
+
+Federal budget. 
+
+ 
+Areas of State Flexibility for the Operation of Exchange 
+
+States have a number of options on how to operate their Exchanges.  For instance, States 
+
+have flexibility in how they structure the governance of an Exchange.  If a State operates its own 
+
+Exchange, the Exchange can be established as a government agency or a not-for-profit entity per 
+
+section 1311(d) (1) of the Affordable Care Act.  If the Exchange is formed as a government 
+
+entity, States have the option of establishing it as part of an existing agency (such as, the 
+
+Department of Insurance or Medicaid Agency) or creating a new, standalone entity.  
+
+A State also has flexibility in determining how many Exchanges will cover the State’s 
+
+service area.  The State can join with other States to form a regional Exchange or operate a 
+
+number of smaller, geographically distinct subsidiary Exchanges.  In addition to geographical 
+
+choices, the State has to decide whether to create a separate governance structure for SHOP.  The 
+
+Exchange also has choices in determining how much education, marketing, and outreach to 
+
+provide.  Additionally, States have flexibility on certain other areas within Federal benchmarks.  
+
+For example, the Exchange has latitude in the number, type, and standardization of plans it 
+
+certifies and accepts into the Exchange.  States also have flexibility in determining network 
+
+adequacy standards and in the establishment of risk adjustment models and data collection for 
+
+the risk adjustment and reinsurance programs.   
+
+Finally, the Affordable Care Act requires that Exchanges must be self-sustaining by 
+
+2015, but grants States freedom in how that is achieved.  Some examples of funding strategies 
+
+ 
+
+
+
+ 
+ 
+for Exchanges include: assessments on insurers; direct charges of individuals and employers; or 
+
+40 
+
+through a State’s general fund. 
+
+Alternative #1: Uniform Standard for Operations of Exchanges 
+ 
+
+ 
+
+Under this alternative, HHS would require a single standard for State operations of 
+
+Exchanges.  The proposed regulation offers States the choice of whether to establish an 
+
+Exchange, how to structure governance of the Exchange, whether to join with other States to 
+
+form a regional Exchange, and how much education and outreach to engage in, among other 
+
+factors.  This alternative model would restrict State flexibility to some extent, requiring a more 
+
+uniform standard that States must enact in order to achieve certification.  This model could 
+
+reduce Federal oversight costs as there would less variation to monitor across Exchanges.  
+
+Second, it is possible that a uniform model is more cost-efficient or more effective at providing 
+
+coverage than other models States may design.  However, in order for this model to be more 
+
+effective, the uniform standard would need to be effective regardless of individual State 
+
+differences (e.g., market structure, local business needs, demographic differences, etc.).  
+
+Additionally, it assumes that State policy experimentation would not lead to the discovery of 
+
+more effective policies.  However, research has noted that State differences will likely impact 
+
+Exchange needs and functions.31  Furthermore, there is substantial literature that notes that 
+
+certain State Exchange policies will be emulated in other States if they are successful; therefore, 
+
+policies that promote State innovation can be highly effective.32 
+ 
+
+ 
+Alternative #2: Uniform Standard for Certifying Health Insurance Coverage 
+
+                                                 
+ 
+31 Corlette, Sabina and JoAnn Volk. 2011 . Active Purchasing for Health Exchanges: An Analysis of Options:
+ 
+ 
+ 
+Georgetown University: Health Policy Institute. 
+
+32 Volden, Craig. 2006. “States as Policy Laboratories: Emulating Success in the Children’s Health Insurance 
+
+ 
+Program” American Journal of Political Science. P. 294-312.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+
+41 
+
+Under this alternative, there would be a single uniform standard for certifying QHPs. 
+
+QHPs would need to meet a single standard in terms of benefit packages, network adequacy, 
+
+premiums, etc.  HHS would set these standards in advance of the certification process and QHPs 
+
+would either meet those standards and thereby be certified or would fail to meet those standards 
+
+and therefore would not be available to enrollees.  This approach might provide cost savings in 
+
+terms of administrative burden on Exchanges as there would be no need (or ability) to negotiate 
+
+with potential QHPs.  This approach could be problematic, however, as uniform national 
+
+standards might not match local needs.  Exchanges might be more effective if they have the 
+
+opportunity to recruit additional plans if there is a concentrated market,33 or to set higher 
+
+standards in markets where competition is already intense.  Secondly, this approach could reduce 
+
+ 
+
+Exchanges’ and QHP issuers’ ability to innovate.  For example, new approaches such as tiered 
+
+networks might appeal to some Exchanges that wish to experiment with health care quality 
+
+improvement and delivery system reform.  Given the advantages a State flexibility approach 
+
+provides, we selected it over Alternatives #1 and #2. 
+
+ 
+Effects of State Flexibility on the Federal Budget 
+
+ 
+
+The Federal budget should be affected in multiple ways by the flexibility States are 
+
+ 
+afforded in the operation of Exchanges.  Estimates in this analysis predict costs arising from 
+
+cost-sharing reductions, and outlays for risk adjustment and reinsurance programs and grants for 
+
+Exchanges; tax credits and Medicaid costs are separately calculated, as are the offsets that 
+
+resulted in CBO projecting that the Affordable Care Act would reduce the Federal budget deficit.  
+
+State flexibility in the design and implementation of Exchanges, however, could affect both total 
+
+enrollment as well as the administrative and health plan costs as described in those sections.  For 
+                                                 
+ 
+33 Corlette, Sabina and JoAnn Volk. 2011. Active Purchasing for Health Exchanges: An Analysis of Options: 
+ 
+Georgetown University: Health Policy Institute. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+example, selective contracting with only some health plans could bring down all premiums in the 
+
+42 
+
+Exchange through competition, resulting in lower total advanced premium tax credits. 
+
+VII. Limitations of Analysis  
+ 
+
+ 
+
+The previous analyses apply a qualitative analysis to the results of CBO’s 
+
+microsimulation model of the Affordable Care Act.  Although we believe these estimates are 
+
+both fair and realistic, they are based on a predictive economic model and are therefore subject to 
+
+fundamental uncertainty.  Ultimately, the Affordable Care Act requires the creation of 
+
+Exchanges, which are State markets for the purchase of health insurance in the individual and 
+
+small group market through which enrollees may be eligible for a new tax credit program that 
+
+will increase insurance coverage.  With limited previous data and experiences, there is greater 
+
+uncertainty in estimating the impacts of implementing the Affordable Care Act and the 
+
+Exchanges than in estimating implications of modifying a previously existing program.  
+
+ 
+
+Every predictive model has some level of uncertainty.  Economic models are particularly 
+
+subject to uncertainty because they rely on the inherently unpredictable behavior of economic 
+
+actors, individuals deciding what they want to buy.  Many variables that are not measurable 
+
+contribute to these decisions, including future income, changes in health risk, cultural norms, etc.  
+
+Changes in economic conditions (including the distribution of income) or productivity would 
+
+affect the estimates of any predictions on the effects of the Affordable Care Act.  For example, 
+
+external changes to the economy could affect income that, in turn, could affect the estimated 
+
+number of individuals who are eligible for cost-sharing reductions in the Exchanges.  
+
+Additionally, future health care cost trends could differ from projections, which could, in turn, 
+
+ 
+
+affect individual decisions on what to buy. 
+
+ 
+
+
+
+ 
+ 
+ 
+
+43
+
+ 
+
+Beyond changes in economic conditions, there are other sources of uncertainty.  One 
+
+limitation of the current analysis is uncertainty about how the Affordable Care Act will affect 
+
+employer-sponsored insurance.  A RAND micro-simulation estimated that the number of firms 
+
+offering employer sponsored insurance would increase from 3.5 million to 4.8 million in 2016.34   
+
+An Urban Institute study estimates that large employer coverage would increase by 2 percent and 
+
+small and medium business coverage would be relatively unchanged.35  A Lewin Group study 
+
+estimated a net reduction in the number of people with employer sponsored coverage of 2.8 
+
+million.36  Moreover, experience in Massachusetts showed an increase in employer-sponsored 
+
+insurance following the introduction of its affordable insurance Exchange.37  Thus, while CBO 
+
+assumes a slight decrease in employer-sponsored insurance, other analyses suggest that 
+
+employer-sponsored insurance could increase. 
+
+VIII. Accounting Statement  
+
+Primary Estimate  Year Dollar 
+
+Unit Discount 
+Rate
+ 
+
+ 
+Period Covered
+ 
+
+ 
+
+Category  
+Benefits  
+Annualized 
+Monetized 
+($millions/year) 
+
+Not estimated 
+Not estimated 
+
+2011 
+2011 
+
+7%  2012-2016  
+3%  2012-2016  
+
+The Exchanges, combined with other actions being taken to implement the 
+Affordable Care Act, will improve access to health insurance, with numerous 
+positive effects, including earlier treatment and improved morbidity, fewer 
+bankruptcies and decreased use of uncompensated care.   The Exchange will 
+also serve as a distribution channel for insurance reducing administrative 
+costs as a part of premiums and providing comparable information on health 
+plans to allow for a more efficient shopping experience. 
+
+424 
+
+2011 
+
+Qualitative 
+Costs 
+Annualized 
+                                                 
+ 
+34 Eibner, Christine Federico Girosi, Carter  C. Price, Amado Cordova, Peter Hussey, Alice Beckman, and  Elizabeth 
+McGylnn(2010) Establishing  State Health Insurance Exchanges. Rand  Health  
+35 Garret, Bowens and Matthew Buettgens. 2011 “Employer Sponsored Insurance under Health Reform: Reports of  
+Its Demise are Premature” Urban Institute 
+36 Group, The Lewin, "Patient  Protection and Affordable Care Act  (PPACA): Long Term Costs for Gvoernments, 
+Employers, Families and Providers," Staff  Working Paper # 11(2010). 
+37 Long, Sharon  and Karen Stockley (2010)  Health Reform in Massachusetts An  Update As of fall 2009. Urban 
+Institute 
+
+ 
+ 
+7% 2012-2016
+
+ 
+
+ 
+
+44
+
+ 
+
+410
+
+ 
+
+2011
+
+ 
+
+ 
+3% 2012-2016
+ 
+
+ 
+
+These costs include grant outlays to States to establish Exchanges.  
+
+9925 
+9633 
+
+2011 
+2011 
+
+7%  2012-2016  
+3%  2012-2016  
+
+Risk Adjustment transfers funds among individual and small group market 
+health plan issuers.  
+Reinsurance collects funds from all issuers and distributes it to individual 
+market issuers.  
+
+ 
+ 
+Monetized 
+($millions/year) 
+
+Qualitative 
+Transfers  
+Federal Annualized  
+Monetized 
+($millions/year) 
+Qualitative  
+
+ 
+
+IX. Citations 
+ 
+
+Actuarial Research Corporation. "Reinsurance attachment point estimates." Annandale, 2010. 
+ASPE. The Value of Health Insurance: Few of the Uninsured Have Adequate Resources to Pay 
+
+Potential Hospital Bills. (2011). 
+
+Bureau, U.S. Census. "Number of Firms, Number of Establishments, Employment, and Annual 
+Payroll by Enterprise Employment Size for the United States and States, Totals:  2008." 
+Washington, 2008. 
+
+Burns & Associates, Inc. Independent Report on the Healthy NY Program for Calendar Year 
+
+2010. (Phoenix, 2010). 
+
+Center for Medicare & Medicaid Services. "Announcement of Calendar Year (CY) 2012 
+
+Medicare Advantage Capitation Rates and Medicare Advantage and Part D Payment 
+Policies and Final Call Letter." Baltimore, 2011. 
+
+Claxton, G., B. DiJulio, B. Finder, J. Lundy, M. McHugh, A. Osei-Anto, H. Whitmore, J. 
+
+Pickreign, and J. Gabel. Employer Health Benefits, 2010 Annual Survey. Menlo Park: 
+Henry J. Kaiser Family Foundation, Health Research and Educational Trust, 2010. 
+Congressional Budget Office. "Letter to the Honorable Evan Bayh: An Analysis of Health 
+
+Insurance Premiums Under the Patient Protection and Affordable Care Act ". 
+Washington, 2009. 
+
+Cook, K., D. Dranove, and A. Sfekas. "Does major illness cause financial catastrophe?" Health 
+
+Services Research 45, no. 2 (2010): 418-36. 
+
+Council, APCD. "Cost and Funding Considerations for a Statewide All-Payer Claims Database 
+
+(APCD). ."  (2011). 
+
+Finkelstein, Amy, Sarah Taubman, Bill Wright, Mira Bernstein, Jonathan Gruber, Joseph P. 
+
+Newhouse, Heidi Allen, Katherine Baicker, and The Oregon Health Study Group. "The 
+Oregon Health Insurance Experiment: Evidence from the First Year." National Bureau of 
+Economic Research Working Paper Series No. 17190 (2011). 
+
+Gabel, J., R. McDevitt, L. Gandolfo, J. Pickreign, S. Hawkins, and C. Fahlman. "Generosity and 
+
+adjusted premiums in job-based insurance: Hawaii is up, Wyoming is down." Health 
+Affairs 25, no. 3 (2006): 832. 
+
+Group, The Lewin. "Patient Protection and Affordable Care Act (PPACA): Long Term Costs for 
+
+ 
+Gvoernments, Employers, Families and Providers." Staff Working Paper # 11 (2010). 
+
+ 
+
+
+
+ 
+ 
+Haider, A.H., D.C. Chang, D.T. Efron, E.R. Haut, M. Crandall, and E.E. Cornwell III. "Race and 
+
+45 
+
+insurance status as risk factors for trauma mortality." Archives of Surgery 143, no. 10 
+(2008): 945. 
+
+Institute of Medicine. Care without coverage: too little, too late: National Academies Press, 
+
+Levy, H., and D. Meltzer. "The impact of health insurance on health." Annu. Rev. Public Health 
+
+Massachusetts Division of Health Care Finance and Policy. "2009 Annual Report Health Safety 
+
+Miller, Patrick B, et al. All-Payer Claims Databases. (Robert Woods Johnson Foundation. , 
+
+Office of External Affairs and Beneficiary Services, Unpublished. "FY 2010 SHIP Basic Grant 
+
+Funding." Center for Medicare & Medicaid Services, 2009. 
+
+Office of the Inspector General. Medicaid Managed Care Encounter Data: Collection and Use. 
+
+2002. 
+
+29 (2008): 399-409. 
+
+Net." Boston, 2009. 
+
+2010). 
+
+(2009). 
+
+Pew Internet & Life Project. "Trend Data."  http://www.pewinternet.org/Trend-Data/Online-
+
+Activities-Daily.aspx. 
+
+Smulowitz, Peter B., Robert Lipton, J. Frank Wharam, Leon Adelman, Scott G. Weiner, Laura 
+Burke, Christopher W. Baugh, Jeremiah D. Schuur, Shan W. Liu, Meghan E. McGrath, 
+Bella Liu, Assaad Sayeh, Mary C. Burke, J. Hector Pope, and Bruce E. Landon. 
+"Emergency Department Utilization After the Implementation of Massachusetts Health 
+Reform." Annals of Emergency Medicine In Press, Corrected Proof. 
+
+Swartz, K., and C. Fund. Reinsurance: How States Can Make Health Coverage More Affordable 
+
+for Employers and Workers: Commonwealth Fund, 2005. 
+
+Swartz, K., and P.S. Keenan. Healthy New York: Making Insurance More Affordable for Low-
+
+Income Workers: The Commonwealth Fund., 2001. 
+
+Weissman, J.S., and J.A. Bigby. "Massachusetts Health Care Reform—Near-Universal Coverage 
+
+at What Cost?" New England Journal of Medicine 361, no. 21 (2009): 2012-15. 
+ 
+
+ 
+
+ 
+
+
+
+

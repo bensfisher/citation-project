@@ -1,0 +1,1739 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MACROECONOMIC EFFECTS OF RISK RETENTION REQUIREMENTS 
+
+ 
+
+TIMOTHY F. GEITHNER, CHAIRMAN 
+FINANCIAL STABILITY OVERSIGHT COUNCIL 
+Completed pursuant to Section 946 of the Dodd-Frank Wall Street Reform and Consumer Protection Act
+
+January 2011
+
+ 
+
+CONTENTS 
+
+ 
+ 
+I.  EXECUTIVE SUMMARY ................................................................................................................2 
+ 
+II. THE STATUTORY MANDATE ......................................................................................................5 
+ 
+III. SECURITIZATION AND ITS MACROECONOMIC EFFECTS ..........................................................7 
+Development of the Securitization Market ..........................................................................7 
+Securitization’s Role in the Financial Crisis ......................................................................10 
+
+ 
+IV. RISK RETENTION AND THE DODD-FRANK ACT .....................................................................15 
+Regulatory Reforms to Securitization ................................................................................15 
+Risk Retention and its Macroeconomic Effects .................................................................16 
+
+ 
+V. ESTABLISHING A FRAMEWORK FOR RISK RETENTION ...........................................................18 
+Principles............................................................................................................................18 
+Constructing a Robust Risk Retention Framework ...........................................................19 
+
+ 
+VI. ADJUSTING RISK RETENTION REQUIREMENTS .....................................................................27 
+Calibrating Risk Retention Requirements .........................................................................27 
+Considerations Regarding Static and Proactive Adjustment of Risk Retention ................28 
+
+ 
+VII. CONCLUSION ..........................................................................................................................30 
+ 
+APPENDIX .......................................................................................................................................31 
+Appendix A: Other Relevant Sections of the Dodd-Frank Act .........................................31 
+Appendix B: Other Relevant Regulatory Initiatives ..........................................................32 
+
+ 
+
+ 
+
+I.  EXECUTIVE SUMMARY 
+
+Section 9411 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-
+Frank  Act”  or  the  “Act”)2  imposes  credit  risk  retention  (“risk  retention”)  requirements,  under 
+which securitizers, and, in certain circumstances, originators3 of asset-backed securities (“ABS”) 
+must retain not less than 5 percent of the credit risk for any asset unless the asset is a Qualified 
+Residential  Mortgage  or  the  originator  of  the  asset  meets  underwriting  standards  that  the 
+Agencies4 will jointly prescribe.   
+
+Under  Section  946  of  the  Dodd-Frank  Act,  the  Chairman  of  the  Financial  Stability  Oversight 
+Council (the “Council”) is required to conduct a study on the macroeconomic effects of the risk 
+retention requirements under Subtitle D of Title IX of the Dodd-Frank Act, with emphasis placed 
+on potential beneficial effects with respect to stabilizing the real estate market, and issue a report 
+to Congress no later than 180 days after the date of enactment of the Dodd-Frank Act.5    
+
+This study makes the following conclusions:  
+
+  Securitization is an important source of credit formation to the economy, but certain 
+risks  of  securitization  contributed  to  the  financial  crisis  and  macroeconomic 
+instability; 
+
+  Risk  retention,  if  properly  structured,  can  address  some  of  these  inherent  risks  by 
+requiring an originator or securitizer to have ongoing exposure to the credit risk of the 
+underlying assets; and 
+
+  There  are  macroeconomic  implications  of  securitization  and  risk  retention;  to  the 
+extent that risk retention can incent better lending decisions, it may help to mitigate 
+some of the pro-cyclical effects securitization may have on the economy.   
+
+This study also offers several principles and recommendations that should inform the design of a 
+risk retention framework so as to strengthen the securitization process and facilitate economic 
+
+                                                 
+
+1   Section 941 of the Dodd-Frank Act adds a new section 15G to the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which 
+
+is codified at 15 U.S.C. § 78o-11.   
+
+2    Pub. L. No. 111-203, 124 Stat. 1376 (2010).   
+3   Section 941 of the Dodd-Frank Act defines (i) a securitizer as “(A) an issuer of an asset-backed security; or (B) a person who organizes and 
+initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the 
+issuer,” 15 U.S.C. § 78o-11(a)(3), and (ii) an originator as a person who “(A) through the extension of credit or otherwise, creates a financial 
+asset that collateralizes an asset-backed security; and (B) sells that asset directly or indirectly to a securitizer,” 15 U.S.C. § 78o-11(a)(4).  
+
+4   The Federal Deposit Insurance Corporation (“FDIC”), the Office of the Comptroller of the Currency (“OCC”), the Board of Governors of the 
+Federal Reserve System (the “Board”), and the Securities and Exchange Commission (“SEC”), must jointly prescribe rules on risk retention 
+under  Section  941  no  later  than  270  days  following  the  date  of  enactment.    Exchange  Act,  Section  15G(b).    The  statute  also  requires  the 
+Federal  Housing  Finance  Agency  (“FHFA”) and  the  Department  of  Housing  and  Urban Development  (“HUD”),  along  with  the  foregoing 
+Agencies to jointly prescribe rules on risk retention with respect residential mortgages and defining the Qualified Residential Mortgage.  This 
+study refers to the FDIC, the OCC, the Board, the SEC, the FHFA, and HUD collectively as the “Agencies.”   
+
+5   The Chairman of the Council is responsible for the content of this report.  In preparing this report, the Chairman consulted with the Agencies. 
+
+- 2 - 
+
+ 
+
+growth by allowing market participants to price credit risk more accurately and allocate capital 
+more efficiently.   
+
+*   *   *   *   * 
+
+Over  the  past  forty  years,  asset-backed  securitization  has  become  an  increasingly  important 
+source  of  credit  formation  for  the  economy.    Securitization  offers  many  benefits,  including 
+increased  liquidity,  expanded  credit  availability,  and  reduced  cost  of  credit.    Without  proper 
+safeguards, however, securitization can introduce significant risks to financial markets and to the 
+economy.    The  securitization  process  involves  multiple  parties  with  varying  incentives  and 
+information,  thereby  breaking  down  the  traditional  direct  relationship  between  borrower  and 
+lender.  The party setting underwriting standards and making lending decisions (the originator) 
+and the party making structuring decisions (the securitizer) are often exposed to minimal or no 
+credit risk.  By contrast, the party that is most exposed to credit risk (the investor) often has less 
+influence over underwriting standards and may have less information about the borrower.  As a 
+result, originators and securitizers that do not retain risk can, at least in the short run, maximize 
+their  own  returns  by  lowering  loan  underwriting  standards  in  ways  that  investors  may  have 
+difficulty  detecting.    The  originate-to-distribute  model,  as  it  was  conducted,  exacerbated  this 
+weakness by compensating originators and securitizers based on volume, rather than on quality. 
+
+The academic literature provides evidence that mortgage-backed securitization contributed to a 
+decline  in  underwriting  standards  during  the  mid-2000s,  facilitating  an  over-supply  of 
+excessively  risky  mortgages.    There  is  also  evidence  that  the  expansion  of  mortgage  supply 
+through securitization helped accelerate price increases in the housing market to unsustainable 
+levels and, therefore, contributed to the ensuing decline in housing prices and the economy. 
+
+To address the problems in the financial system that contributed to the financial crisis, Congress 
+enacted the Dodd-Frank Act in July 2010.  The Dodd-Frank Act’s reforms to the securitization 
+market  include  greater  transparency  for  investors,  measures  to  mitigate  conflicts  of  interest  at 
+credit ratings agencies, and the credit risk retention requirements in Section 941.  
+
+This  study  discusses  the  potential  design  of  a  risk  retention  framework.    Such  a  framework 
+should  seek  to  meet  the  following  objectives:  (i)  align  incentives  without  changing  the  basic 
+structure  and  objectives  of  securitization  transactions;  (ii)  provide  for  greater  certainty  and 
+confidence among market participants; (iii) promote efficiency of capital allocation; (iv) preserve 
+flexibility as markets and circumstances evolve; and (v) allow a broad range of participants to 
+continue  to  engage  in  lending  activities,  while  doing  so  in  a  safe  and  sound  manner.    A  risk 
+retention framework can be structured in a number of ways to meet these objectives.  The form 
+of risk retention, allocation of risk retention to various participants in the securitization chain, 
+amount of risk retention, allowances for risk management, and exemptions from risk retention 
+are all important variables in the design of any such framework. 
+
+Although  a  risk  retention  framework  can  help  align  incentives  and  improve  underwriting 
+standards,  the  macroeconomic  implications  of  risk  retention  are  complex.    A  risk  retention 
+
+- 3 - 
+
+ 
+
+framework can incent better lending decisions and consequently help strengthen the quality of 
+assets underlying a securitization.  It may also help mitigate some of the pro-cyclical effects that 
+asset-backed  securitization  can  have  on  the  economy.    However,  if  overly  restrictive,  risk 
+retention  could  constrain  the  formation  of  credit,  which  could  adversely  impact  economic 
+growth.    The  challenge  is  to  design  a  risk  retention  framework  that  maximizes  benefits  while 
+minimizing its costs.   
+
+As the recent financial crisis demonstrates, securitization, without appropriate reforms, can cause 
+significant harm to the economy.  Risk retention can help align the interests of the participants in 
+the  securitization  chain,  reduce  the  risks  inherent  in  securitization,  and  promote  the  stable 
+formation of credit and efficient allocation of capital in the United States. 
+
+- 4 - 
+
+ 
+
+ 
+
+II. THE STATUTORY MANDATE 
+
+In addition to the general mandate to study the macroeconomic effects of risk retention, Section 
+946 calls for the study to include an analysis of the macroeconomic effects of risk retention on 
+real  estate  asset  price  bubbles.    The  statute  also  calls  for  consideration  of  the  feasibility  of 
+minimizing  bubbles  by  proactively  adjusting  risk  retention  requirements  and  minimum 
+underwriting  standards;  whether  such  adjustments  should  be  formulaic  or  discretionary;  and, 
+how such adjustments should be coordinated with monetary policy.  Specifically, Section 946 
+requires: 
+
+(1)  an  analysis  of  the  effects  of  risk  retention  on  real  estate  asset  price  bubbles, 
+including a retrospective estimate of what fraction of real estate losses may have 
+been averted had such requirements been in force in recent years; 
+ 
+(2)  an  analysis  of  the  feasibility  of  minimizing  real  estate  price  bubbles  by 
+proactively  adjusting  the  percentage  of  risk  retention  that  must  be  borne  by 
+creditors and securitizers of real estate debt, as a function of regional or national 
+market conditions; 
+ 
+(3)  a  comparable  analysis  for  proactively  adjusting  mortgage  origination 
+requirements; 
+ 
+(4)  an  assessment  of  whether  such  proactive  adjustments  should  be  made  by  an 
+independent regulator, or in a formulaic and transparent manner; 
+ 
+(5) an assessment of whether such adjustments should take place independently or 
+in concert with monetary policy; and 
+ 
+(6) recommendations for implementation and enabling legislation. 
+
+ 
+Several points should be noted about the scope of this study. 
+
+First, the study discusses the pro-cyclicality of credit with respect to asset-backed securitizations 
+and the potential for risk retention requirements to minimize this pro-cyclicality.  The study does 
+not provide a specific quantitative assessment of the fraction of real estate losses that might have 
+been averted, because the risk retention rules under Section 941 have not yet been issued, and 
+thus cannot be retrospectively considered.  Moreover, sufficient data are not available to make 
+such an estimate possible.  Instead, the study provides a broad assessment of the macroeconomic 
+impact of risk retention on real estate bubbles and economic cyclicality.  
+
+- 5 - 
+
+ 
+
+Second,  the  academic  literature  on  risk retention with respect to  asset-backed  securitization  is 
+limited.    Moreover,  available  information  is  insufficiently  robust  to  allow  for  a  quantitative 
+comparable analysis for proactively adjusting mortgage origination requirements, an assessment 
+of  formulaic  adjustments  to  such  requirements, or  a  quantitative  evaluation  as  to  whether  any 
+adjustments should be made independently or in concert with monetary policy.  However, the 
+study reviews benefits and drawbacks to adjusting risk retention regulation over time.  
+
+Third, the study’s evaluation of the macroeconomic implications of risk retention is confined to 
+the existing literature and available data.  Future studies could include more original research and 
+make more specific quantitative assessments with respect to the aforementioned questions.  
+
+The  analysis  presented  in  this  study  should  serve  to  inform  the  rule  writing  process  currently 
+underway by the Agencies.  It may also help to create a risk retention framework that will allow 
+markets to allocate capital efficiently to American businesses, consumers and homeowners in a 
+sustainable fashion, facilitate economic growth and promote financial stability.  
+
+- 6 - 
+
+ 
+
+III. SECURITIZATION AND ITS MACROECONOMIC EFFECTS 
+
+DEVELOPMENT OF THE SECURITIZATION MARKET 
+
+Securitization is the process through which a security is created that gives investors a right to the 
+cash flows generated by (and frequently, a security interest in) a pool of loans or other financial 
+assets.  Typically, securitizations are created with the intent to sell part or all of the securities to 
+third-party investors.   
+
+Since  the  first  securitization  of  residential  mortgages  in  1970,6  the  asset-backed  securitization 
+market  has  become  an  important  mechanism  for  credit  formation.    Prior  to  the  advent  of 
+securitization, funding through the capital markets for many borrowers was more limited.  By 
+providing  access  to  the  capital  markets,  securitization  has  improved  the  availability  and 
+affordability  of  credit  to  a  diverse  group  of  businesses,  consumers,  and  homeowners  in  the 
+United States.  
+
+Much  of  the  initial  securitization  issuance  was  backed  by  residential  mortgages,  which  had 
+guarantees  from  the  Government  National  Mortgage  Association  (“Ginnie  Mae”)  or  the 
+Government Sponsored Enterprises (“GSEs”).7  Early securitizations typically employed a “pass-
+through” structure, whereby principal and interest collected on the assets are “passed through” on 
+a pro rata basis to the security holders.8   
+
+Over time, asset-backed securitization market participants expanded into other asset classes and 
+began  to  create  more  complex  structures.    The  sophistication  of  securitization  structures  has 
+allowed products to be tailored to meet a variety of demands, such as investor risk and duration 
+appetites as well as differences in asset classes.  Tranches of securitizations (e.g., through senior-
+subordinated  structures)  can  be  used  to  create  investments  with  different  cash  flow  or  loss 
+absorption characteristics.   
+
+Starting  in  the  mid-1980s,  these  concepts  were  applied  to  the  securitization  of  non-residential 
+mortgage  assets,  including  commercial  mortgages,  credit  cards,  auto  loans  and  leases,  student 
+loans, business loans, equipment loans and leases, and dealer floorplans.9  
+
+In  addition,  securitizers  also  developed  resecuritizations,  in  which  a  securitizer  uses  the  cash 
+flows  of  previously  securitized  assets  as  the  base  for  a  new  securitization.    Resecuritizations 
+                                                 
+
+6   The Government National Mortgage Association (“GNMA” or “Ginnie Mae”) issued the first mortgage-backed security in 1970. 
+7   For purposes of this study, the term Government Sponsored Enterprises (“GSEs”) refers to Federal National Mortgage Association (“FNMA” 
+
+or “Fannie Mae”) and the Federal Home Loan Mortgage Corporation (“FHLMC” or “Freddie Mac”). 
+
+8   The original securitization market consisted of “agency” securities of pooled residential mortgages, with the payments of interest and principal 
+
+guaranteed by Ginnie Mae, Fannie Mae or Freddie Mac.  
+
+9   Board of Governors of the Federal Reserve System, Report to the Congress on Risk Retention (October 2010). 
+
+- 7 - 
+
+ 
+
+allowed securitizers to finance higher risk assets that might be otherwise difficult to sell, or to 
+benefit from the higher rating attributed to a portion of the structure.10 
+
+As  a  result  of  this  increase  in  demand  and  financial  innovations,  total  securitization  issuance 
+increased  over  time  in  all  asset  classes,  particularly  in  those  backed  by  residential  assets  (see 
+Figure 1).  This chart shows that although commercial asset-backed securitization issuance (such 
+as  autos  and  credit  cards)  increased  from  the  mid-1990’s  through  the  run-up  to  the  financial 
+crisis,  it  did  not  increase  to  the  same  extent  as  residential  mortgage  asset-backed  issuance, 
+particularly for lower credit quality instruments such as subprime and Alt-A residential mortgage 
+securitizations. 
+
+Figure 1: Total Asset-Backed Securitization Issuance by Year11 
+
+$2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+1985
+
+1987
+
+1989
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+Autos
+Credit Cards
+Manufactured Housing
+Other ABS
+
+CDO
+Equipment
+Non‐Agency Residential MBS
+
+CMBS
+Floorplan
+Student Loans
+
+ 
+
+)
+s
+n
+o
+
+i
+l
+l
+i
+
+b
+
+ 
+
+n
+
+i
+ 
+
+$
+(
+ 
+
+e
+c
+n
+a
+u
+s
+s
+I
+
+ 
+
+The asset-backed securitization market became an important source for credit intermediation in 
+part because it offers investors a number of benefits that improved efficiency and contributed to 
+a  lower  cost  of  credit.    Investors  in  asset-backed  securities  can  efficiently  diversify  the  credit 
+risks to which they are exposed because the securitized loan pools are diverse with respect to a 
+number  of  characteristics,  including  by  borrower,  property,  and  geography.    Asset-backed 
+securities thus provide an additional source of credit for businesses, consumers, and homeowners 
+beyond the traditional banking sector.  Further, asset-backed securitization can legally isolate the 
+                                                 
+
+10  Certain structures, commonly referred to as CDOs, or CDO2 (Collateralized Debt Obligations Squared) if a securitizer created a structured 
+
+asset from another CDO, further increased the complexity and elongated the chain between originator and investor. 
+
+11  Source:  Inside  MBS  &  ABS,  “Mortgage  and  Asset  Securitizations  Issuance"  (January  7,  2011),  Copyright  Inside  Mortgage  Finance 
+Publications (for Non-Residential MBS issuance data) and J.P. Morgan Securities LLC (for all other asset class issuance data).  Data does not 
+include GSE mortgage issuance.  The category “Other ABS” includes stranded asset, RV, boat, consumer, EETC, and small business loans. 
+ 
+
+- 8 - 
+
+ 
+
+underlying financial assets from the originator and securitizer.  Legal isolation provides investors 
+with enhanced protections in the event of a bankruptcy of one or more of these parties and also 
+reduces the need to perform due diligence on the credit risk of the originator or securitizer.12  In 
+addition, the structuring of securitized interests (e.g., through senior-subordinated structures) can 
+create investments with particular credit and interest rate risk profiles that can match investors’ 
+risk appetites.   
+
+Securitization also allows financial institutions to manage their credit, funding, and liquidity risk 
+more  actively,  and  to  increase  lending  activity  because  securitization  allows  them  to  sell  the 
+assets and their risks to third parties.  Therefore, their exposure to interest rate and liquidity risks 
+is  reduced  because  securitization  allows  financial  institutions  to  limit  such  risks  by  more 
+appropriately  matching  the  duration  of  their  assets  and  liabilities  (often  referred  to  as  “term 
+funding”).    Moreover,  asset-backed  securitization  allows  non-bank  lenders  to  originate  at 
+competitive  prices  without  deposit  funding,  thereby  reducing  barriers  to  entry  and  increasing 
+lending competition. 
+
+Alongside  the  benefits,  the  securitization  process  has  certain  fundamental  weaknesses.    By 
+separating  the  borrower  and  lender,  securitization  can  create  informational  and  incentive 
+asymmetries.    If  incentives  are  not  well-aligned,  then  information  asymmetries  may  lead  one 
+party to maximize its return at the expense of other parties, particularly borrowers and investors.  
+For instance, academic literature has identified at least seven important types of frictions in the 
+residential  mortgage  securitization  chain,  which  can  cause  agency  and  adverse  selection 
+problems in a securitization transaction.13   
+
+One important informational friction highlighted during the recent financial crisis has aspects of 
+a  “lemons”  problem  that  exists  between  the  issuer  and  investor.14  An  originator  has  more 
+information about the ability of a borrower to repay than an investor, because the originator is 
+the party making the loan.  Because the investor is several steps removed from the borrower, the 
+investor may receive less robust loan performance information.  Additionally, the large number 
+of assets and the disclosures provided to investors may not include sufficient information on the 
+quality of the underlying financial assets for investors to undertake full due diligence on each 
+asset that backs the security.  
+
+                                                 
+
+12  Typically, the U.S. securitization market relies on separate legal entities – or special purpose vehicles (“SPVs”) – which is legally separated 
+from the sponsoring entity.  This provides securitization investors protection in circumstances where the sponsoring or originating entity enters 
+insolvency proceedings. 
+
+13  See A. Ashcraft and T. Schuermann, “Understanding the Securitization of Subprime Mortgage Credit,” Foundations and Trends in Finance, 
+
+vol. 2, no. 3 (2008) for a discussion of information asymmetries in the case of subprime mortgages. 
+
+14  M.  Jensen  and  W.  Meckling,  “Theory  of  the  Firm:  Managerial  Behavior,  Agency  Costs  and  Ownership  Structure,”  Journal  of  Financial 
+Economics,  vol.  3,  no.  4  (1976);  G.  Gorton  and  G.  Pennacchi,  “Banks  and  Loan  Sales:  Marketing  Nonmarketable  Assets,”  Journal  of 
+Monetary Economics, vol. 35, no.3 (1995). 
+
+- 9 - 
+
+ 
+
+SECURITIZATION’S ROLE IN THE FINANCIAL CRISIS 
+
+Although  securitization  provides  many  benefits  to  lenders  and  borrowers,  it  also  played  a 
+significant role in the recent financial crisis.  The financial crisis brought to the surface certain 
+inherent problems in the securitization process, including misaligned incentives of participants 
+and  informational  asymmetries.    These  problems  may  have  exacerbated  the  pro-cyclicality  of 
+lending, resulting in unsustainable increases in asset prices. 
+
+The  issuance  of  asset-backed  securities  expanded  significantly  in  the  lead-up  to  the  financial 
+crisis,  particularly  for  residential  and  commercial  mortgages.    This  growth  accommodated 
+investor demand for highly rated asset-backed securities, which over time became increasingly 
+complex.  Additional demand for the junior tranches of the highly rated residential mortgage-
+backed  securities  (“RMBS”)  and  commercial  mortgage-backed  securities  (“CMBS”)  began  to 
+grow as such tranches were increasingly distributed as components of other structured products 
+such as collateralized debt obligations (“CDOs”).15    
+
+To satisfy the growing investor demand for loans, particularly mortgages, to serve as collateral 
+for  structured  products,  originators  and  securitizers  increasingly  relied  upon  an  originate-to-
+distribute  model  in  which  originators  sold  their  loans  to  securitizers,  who  then  sold  securities 
+backed by these loans to investors.  This model helped facilitate a rapid increase in origination 
+and  securitization  of  subprime  and  Alt-A  loans  beginning  in  the  early  2000s,  as  a  large  and 
+increasing portion of such loans were being securitized and sold to investors, rather than held as 
+whole loans on the balance sheets of originators.  For example, between 2001 and 2006, the ratio 
+of  securitized  issuance  to  origination  increased  from  46  percent  to  81  percent  and  the  market 
+share of subprime and Alt-A originations increased from 11 percent to 40 percent (See Figure 2 
+below).  
+
+                                                 
+
+15  M. Adelson and D. Jacob, “The Sub-prime Problem: Causes and Lessons,” unpublished mimeo (2008) discusses of the role of CDOs in the 
+crisis.  Others argue that “ratings arbitrage” was an important motivation for mortgage securitization in this period.  J. Coval, Jurek. J, and E. 
+Stafford, “The Economics of Structured Finance,” Journal of Economic Perspectives, vol. 23, no.1 (2009) and M. Brennan, Hein, J. and S. 
+Poon, “Tranching and Rating,” unpublished mimeo (2009). 
+
+- 10 - 
+
+ 
+
+Figure 2: Origination and Issuance of Agency and Non-Agency Mortgage Loans16 
+
+($ in billions)
+
+Year
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+
+Subprime / Alt-A
+
+Origination
+$215
+267
+395
+715
+1,005
+1,000
+466
+64
+10
+
+Issuance
+$98
+176
+269
+521
+797
+814
+433
+2
+0
+
+Ratio
+46%
+66%
+68%
+73%
+79%
+81%
+93%
+3%
+0%
+
+Origination
+$445
+571
+650
+515
+570
+480
+347
+97
+92
+
+Prime Jumbo
+
+Issuance
+$142
+172
+238
+233
+281
+219
+178
+7
+0
+
+Ratio
+32%
+30%
+37%
+45%
+49%
+46%
+51%
+7%
+0%
+
+Origination
+$1,265
+1,706
+2,460
+1,210
+1,092
+990
+1,162
+920
+1,185
+
+Conforming
+Issuance
+$915
+1,270
+1,912
+892
+879
+817
+1,062
+900
+1,107
+
+Ratio
+72%
+74%
+78%
+74%
+81%
+83%
+91%
+98%
+93%
+
+ 
+
+ 
+
+In the originate-to-distribute model, originators receive significant compensation upfront without 
+retaining a material ongoing economic interest in the performance of the loan.  This reduces the 
+economic incentive of originators and securitizers to evaluate the credit quality of the underlying 
+loans carefully.  Some research indicates that securitization was associated with lower quality 
+loans in the financial crisis.  For instance, one study found that subprime borrowers with credit 
+scores  just  above  a  threshold  commonly  used  by  securitizers  to  determine  which  loans  to 
+purchase  defaulted  at  significantly  higher  rates  than  those  with  credit  scores  below  the 
+threshold.17  By lowering underwriting standards, securitization may have increased the amount 
+of credit extended, resulting in riskier and unsustainable loans that otherwise may not have been 
+originated. 
+
+As  the  originate-to-distribute  model  became  more  pervasive,  underwriting  criteria  weakened 
+more broadly.  This deterioration was particularly prevalent with respect to the verification of the 
+borrower’s  income,  assets,  and  employment  for  residential  real  estate  loans,  and  in  the 
+measurement of net operating income for commercial real estate loans.  Originators began to use 
+non-traditional loan products (e.g., negative amortization loans, interest-only periods, and teaser 
+rates) that were designed to reduce the initial monthly loan payment.  Additionally, predatory 
+lending became a problem as financial products became too complex or inappropriate for certain 
+borrowers.   
+
+In  theory,  aggressive  underwriting  should  have  been  held  in  check  by  market  discipline.  
+However,  recent  experience  suggests  that  there  was  an  over-dependence  on  credit  ratings  by 
+investors  as  well  as  other  weaknesses  in  risk  management  practices.    There  were  incentive 
+problems with respect to credit rating agencies (“CRAs”) in the issuer-pay model.18  Further, the 
+                                                 
+
+16  Source:  2010  Mortgage  Market  Statistical  Annual  published  by  Inside  Mortgage  Finance  Publications,  Inc.  www.imfpubs.com.  Copyright 
+2010.  Conforming data includes conventional conforming mortgages and Fannie/Freddie MBS excluding pools with average loan age over 3 
+months. 
+
+17  B. Keys, T. Mukherjee, A. Seru, and V. Vig, “Did Securitization Lead to Lax Screening? Evidence from Subprime Loans,” Quarterly Journal 
+
+of Economics, vol. 125, no.1 (2010).  
+
+18  P. Bolton, X. Freixas, and J. Shapiro, “The Credit Ratings Game,” NBER Working Paper No. 14712 (2008); J. Fons, “White Paper on Rating 
+Competition  and  Structured  Finance,”  unpublished  mimeo  (2008);  J.  Fons,  “White  Paper on  Rating  Competition  and  Structured  Finance,” 
+
+- 11 - 
+
+ 
+
+turmoil has raised questions about the effectiveness of CRAs’ assessment of risks in the rating of 
+complex  financial  products.19    Among  the  factors  that  may  have  contributed  to  poor  ratings 
+performance of structured finance products are an underestimation of the severity of a housing 
+market downturn and model risk aggravated by limited historical data.20 
+
+In conjunction with the many other drivers that led to the bubble in home prices, the increased 
+use of securitization may have contributed to home price appreciation by increasing the supply of 
+mortgage  credit.    The  expansion  of  subprime  mortgage  credit  was  closely  correlated  with  an 
+increase in securitization of subprime mortgages, and there is some evidence that the increased 
+supply in subprime mortgage credit was in part responsible for greater home price appreciation.21  
+Further,  subprime  mortgage  products  were  often  structured  under  the  assumption  that  home 
+prices  would  continue  to  rise.    Accordingly,  increases  in  home  prices  may  have  reinforced 
+expectations  for  future  appreciation,  which  may  have  fueled  more  lending.    Increases  in  loan 
+volume, in turn, may have precipitated further increases in home prices.22  
+
+To the extent that securitization contributed to a bubble in home prices, it also contributed to a 
+larger  drop  in  home  prices  once  the  bubble  burst.    The  decline  in  home  values  tightened  the 
+supply  of  credit  because  the  value  of  collateral  declined,  thus  raising  the  cost  of  credit  for 
+borrowers who use housing as collateral.23   
+
+In addition to residential lending, securitization may have also contributed to the contraction in 
+credit seen in other asset classes, including non-real estate asset classes.  As the market became 
+aware  of  the  risks  associated  with  the  subprime  market,  there  were  doubts  about  the  value  of 
+securities  backed  by  subprime  mortgages.    Research  has  indicated  that  many  large  financial 
+institutions were using subprime asset-backed securities to collateralize short-term borrowings.  
+As the value of the collateral was called into question, it became harder for the banks to maintain 
+access  to  their  short-term  liquidity.24    This  in  turn  may  have  caused  the  market  to  doubt  the 
+solvency of these institutions, which resulted in a further contraction in liquidity.   
+
+                                                                                                                                                             
+
+unpublished mimeo (2008); V. Skreta, and L. Veldkamp, “Rating Shopping and Asset Complexity: A Theory of Ratings Inflation,” Journal of 
+Monetary Economics, vol. 56, no.5 (2008).   
+
+19  While  there  is  limited  direct  evidence  on  this  point  in  the  academic  literature,  recent  work  by  Ashcraft,  Vickery,  and  Goldsmith  (2010) 
+documents evidence that credit rating agencies reduced risk-adjusted subordination levels for non-agency RMBS deals during the recent MBS 
+boom. 
+
+20  The Committee on the Global Financial System (“CGFS”), Publication No. 32, “Role of Ratings in Structured Finance: What went wrong and 
+
+what can be done to address the shortcomings?”  
+
+21  A. Mian and A. Sufi, “The Consequences of Mortgage Credit Expansion: Evidence from the U.S. Mortgage Default Crisis,” Quarterly Journal 
+
+of Economics, vol. 124, no. 4 (2009).  
+
+22  R. Shiller, Irrational Exuberance (Princeton, NJ: Princeton University Press, 2000).  
+23  N. Kiyotaki and J. Moore, “Credit Cycles,” Journal of Political Economy, vol. 105, no. 2 (1997); B. Bernanke and M. Gertler, “Agency Costs, 
+
+Net Worth, and Business Fluctuations,” American Economic Review, vol. 79, no. 1 (1989). 
+
+24  G. Gorton and A. Metrick, “Securitized Banking and the Run on Repo,” working paper (2010). 
+
+- 12 - 
+
+ 
+
+These disruptions to individual financial institutions had a material impact on financial markets 
+and  macroeconomic  conditions.    Once  a  financial  institution  fails,  there  can  be  significant 
+spillovers  beyond  the  firm  because  the  failure  can  spark  contagion,  in  part  due  to  declines  in 
+market  liquidity.25    For  example,  some  evidence  suggests  that  financial  institutions  that  relied 
+more heavily on short-term funding (such as borrowings collateralized by subprime asset-backed 
+securities) reduced lending to the corporate sector to a greater extent during the crisis.26  
+
+During the financial crisis, the prices of asset-backed securities, such as those backed by auto 
+loans, credit cards, student loans, loans to businesses, and loans secured by heavy equipment all 
+fell dramatically and simultaneously.27  For example, credit spreads on credit card, student loan, 
+CMBS,  and  auto  asset-backed  securities  widened  during  the  financial  crisis  (see  Figure  3).  
+Further, the private new origination market slowed significantly or – for certain asset classes – 
+stopped altogether.  Credit spreads for some asset classes traded at levels over 300 times higher 
+than their historical average, making new issuance uneconomical and constraining funding for 
+credit in these markets to businesses, consumers and homeowners. 
+
+Figure 3: Illustrative ABS and MBS Spreads 2004 – 201028 
+
+ 
+
+1,500
+
+1,250
+
+1,000
+
+750
+
+500
+
+250
+
+)
+s
+t
+n
+o
+p
+
+i
+
+ 
+s
+i
+s
+a
+b
+(
+ 
+d
+a
+e
+r
+p
+S
+
+0
+2004
+
+ 
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Credit Card ABS (Spread to Swaps)
+FFELP Student Loan ABS (Spread to LIBOR)
+
+Prime Auto Loan ABS (Spread to Swaps)
+CMBS Super Senior (Spread to Swaps)
+
+ 
+
+Asset-backed securities may have been particularly susceptible to sharp price declines, because 
+the complexity of the securitization structure made these assets difficult for market participants 
+to  evaluate  quickly.    Additionally,  perceptions  regarding  misaligned  incentives  in  the 
+securitization  market  caused  market  participants  to  become  increasingly  pessimistic  about  the 
+
+                                                 
+
+25  D. Diamond and R. Rajan, “Liquidity Shortages and Banking Crises,” Journal of Finance, vol. 60, no. 2 (2005). 
+26  V. Ivashina and D. Scharfstein, “Bank Lending During the Financial Crisis of 2008,” Journal of Financial Economics, vol. 97, no. 3 (2010). 
+27  Board of Governors of the Federal Reserve System, Report to the Congress on Risk Retention (October 2010).  
+28  Source: J.P. Morgan Securities LLC. 
+
+ 
+
+- 13 - 
+
+ 
+
+quality of the underlying collateral.  At the outset, market participants did not have clarity about 
+where the risks were greatest and which counterparties were most significantly exposed.  The 
+crisis  was  exacerbated  by  the  fact  that  many  of  the  investors  in  these  instruments  had  not 
+anticipated potential losses and had failed to manage their risk exposure appropriately.   
+
+The  financial  crisis  was  not  the  first  time  that  markets  for  securitized  products  experienced 
+significant  disruptions.    For  example,  significant  losses  in  the  franchise  loan  securitization 
+market from 1996 to 1998 and the manufactured housing loan securitization market from 1994 to 
+1996 demonstrate that complex financial products and unchecked lending practices can lead to 
+unsustainable credit formation.   
+
+As the crisis intensified, losses occurred throughout the securitization chain.  Where originators 
+held loans that had not yet been securitized and securitizers held loans or securities that had not 
+yet  been  sold,  these  entities  took  losses.    However,  the  primary  losses  were  experienced  by 
+investors who held the asset-backed securities.  The investor base in such securities was diverse, 
+including pension funds, insurance companies, mutual funds, domestic and foreign banks, and 
+hedge funds. 
+
+Taken as a whole, these problems illustrate that markets are unable, in certain circumstances, to 
+align the incentives of parties in the securitization chain adequately.  Moreover markets may not 
+fully  internalize  the  risks  securitization  can  pose  to  financial  and  economic  stability.    Such 
+weaknesses demonstrate the need for regulatory reforms.  
+
+- 14 - 
+
+ 
+
+IV. RISK RETENTION AND THE DODD-FRANK ACT  
+
+REGULATORY REFORMS TO SECURITIZATION 
+
+To  prevent  future  crises  and  support  greater  stability  in  financial  markets,  Congress  passed 
+comprehensive financial reform legislation in July 2010.  
+
+The  Dodd-Frank  Act  provides  market  participants  and  regulators  with  tools  to  address  the 
+underlying  problems  of  securitization  witnessed  in  the  recent  financial  crisis.    Many  of  these 
+reforms  rely  on  investors  to  enforce  market  discipline,  but  also  recognize  that  regulatory 
+oversight is necessary.  These reforms include: 
+
+  Risk retention requirements;   
+  Credit rating agency reform and conflicts of interest; 
+ 
+  Consumer protection; and 
+ 
+
+Improved transparency and issuer due diligence; 
+
+Improved monitoring of systemic risks throughout the financial system. 
+
+For further details, see Appendix A. 
+
+In  addition  to  the  Dodd-Frank  Act,  there  are  other  reform  efforts  underway.    These  reforms 
+include  accounting  changes  under  Accounting  Standards  Codification  (“ASC”)  Topic  860, 
+Transfers  and  Servicing  (commonly  called  FAS  166)  and  ASC  Topic  810,  Consolidations 
+(commonly  called  FAS  167),  and  modifications  to  regulatory  capital  requirements  under  the 
+Basel  Accord.    The  accounting  changes  influence  whether  a  securitizer  must  consolidate  a 
+securitization onto its balance sheet, which can affect the decision whether to securitize a pool of 
+loans.    The  Basel  Committee  on  Banking  Supervision  (“BCBS”)  has  put  forward  a  new 
+framework, which seeks to improve the capital and liquidity position of banks.  Included in these 
+provisions are a number of measures that seek to ensure that sufficient capital is held against 
+securitization exposures (see Appendix B).  
+
+The challenges in the asset-backed securitization market are not unique to the United States, and 
+other  countries  are  also  implementing  regulatory  changes  to  address  these  challenges.    For 
+example, the European Parliament has recently adopted a set of reforms known as Article 122a 
+
+- 15 - 
+
+ 
+
+of the Capital Requirements Directive.29  These rules require credit risk retention of 5 percent, 
+which is similar to the baseline set forth in Section 941 of the Dodd-Frank Act. 
+
+RISK RETENTION AND ITS MACROECONOMIC EFFECTS 
+
+Credit risk retention (herein referred to as “risk retention”) refers to the meaningful exposure to 
+the credit risk of a securitization’s underlying assets that cannot be removed, sold, or hedged for 
+a specified period of time.  This definition of risk retention does not include representations and 
+warranties  (i.e.,  the  risk  that  the  loans  were  not  underwritten  pursuant  to  stated  policies  and 
+procedures).  It also does not include interest rate risk, foreign exchange rate risk, or other types 
+of market and macroeconomic risk that a securitizer might retain.  
+
+Risk  retention  requirements  may  reduce  risks  to  financial  stability  arising  from  incentive  and 
+informational  asymmetries  between  the  investor  and  earlier  securitization  chain  participants.  
+They  may  also  improve  loan  quality  because  participants  might  better  internalize  the  costs  of 
+poor  underwriting,  as  they  must  now  hold  a  portion  of  the  underlying  risk.    By  aligning  the 
+incentive  structure  to  reflect  the  incentives  of  traditional  portfolio  lending  more  closely,  risk 
+retention  may  help  ensure  that  securitizers  and  originators  are  making  prudent  loans  that  are 
+priced appropriately, as securitizers of these assets will want to be compensated for the risks they 
+now must hold.  
+
+In principle, traditional bank lending alleviates problems typically associated with asymmetric 
+information,  because  lenders  have  the  proper  incentives  to  screen  and  monitor  borrowers.30  
+However,  these  incentives  depend on  lenders  retaining  the  risk  associated with the loans they 
+make.31    By  removing  the  credit  risk,  securitization  may  reduce  an  originator’s  incentives  to 
+properly underwrite and evaluate borrowers.   
+
+Consistent  with  those  arguments,  academic  literature  suggests  that  securities  that  have  some 
+form  of  risk  retention  may  provide  better  incentives  than  securities  without  risk  retention.    A 
+solution to a “lemons” problem is risk-sensitive compensation, often achieved by requiring the 
+originator  to  have  a  stake  in  the  outcome.    During  the  run-up  to  the  financial  crisis,  many 
+investors  did  not  take  adequate  account  of  these  informational  asymmetries,  and  therefore  a 
+“lemons”  problem  existed.    It  was  only  after  asset  performance  began  deteriorating  that  this 
+problem became apparent. 
+
+                                                 
+
+29  Article 122a of the Capital Requirements Directive consists of two directives: (i) Directive 2006/48/EC of the European Parliament and of the 
+Council  of  14  June  2006  relating  to  the  taking  up  and  pursuit  of  the  business  of  credit  institutions  (recast),  known  as  the  Banking 
+Consolidation Directive (“BCD”); and (ii) Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on the capital 
+adequacy of investment firms and credit institutions (recast), known as the Capital Adequacy Directive. Article 122a is part of the BCD. 
+
+30  D. Diamond, "Financial Intermediation and Delegated Monitoring," Review of Economic Studies, vol. 51 (1984). 
+31  G. Gorton and G. Pennacchi, "Banks and Loan Sales: Marketing Non-Marketable Assets," Journal of Monetary Economics, vol. 35, no. 3 
+
+(1995). 
+
+- 16 - 
+
+ 
+
+The  academic  literature  on  loan  syndications  has  documented  that  retained  share  is  used  to 
+reduce the importance of information asymmetries between lead managers and other syndicate 
+members.32  In particular, it indicates that retained share may have a larger impact on loan price 
+for risky and opaque firms, where these frictions are likely to be important, and the ability to 
+hedge  retained  share  has  an  adverse  impact  on  the  supply  of  credit  to  these  types  of  firms.33  
+There  is  evidence  that  when  the  originator  and  the  securitizer  of  Alt-A  mortgage-backed 
+securities  were  affiliated,  the  resulting  securities  were  less  likely  to  experience  losses.    This 
+resulted, in part, because the originator was less likely to sell poorly underwritten assets to its 
+own affiliate for securitization.34  
+
+To the extent that risk retention helps avoid deterioration in underwriting standards, it may help 
+prevent a recurrence of the sort of credit expansion that led to the home price bubble in the recent 
+financial crisis.  
+
+                                                 
+
+32  A. Sufi, “Information Asymmetry and Financing Arrangements: Evidence from Syndicated Loans,” Journal of Finance, vol. 62, no. 2 (2007).  
+33  In particular, there is evidence that the onset of credit default swap (“CDS”) trading, which permits the lead manager to hedge its exposure 
+without knowledge of other members, has had an adverse impact on the supply of credit to opaque and risky corporate borrowers. See A. 
+Ashcraft and J. Santos, "Has the CDS market lowered the cost of corporate debt?" Journal of Monetary Economics, no.56, no.4 (2009). 
+
+34  C. Demiroglu and C. James, “Works of Friction? Originator-Sponsor Affiliation and Losses on Mortgage-Backed Securities,” University of 
+
+Florida working paper (2009). 
+
+ 
+
+- 17 - 
+
+ 
+
+V. ESTABLISHING A FRAMEWORK FOR RISK RETENTION 
+
+PRINCIPLES 
+
+As  the  Agencies  promulgate  regulations  for  risk  retention  as  required  by  Section  941,  they 
+should seek to develop a framework that will balance the benefits of risk retention against its 
+potential  costs  —  incentivizing  originators  and  securitizers  to  be  conscious  of  the  risk  in  the 
+underlying assets that they are originating or distributing, while not unduly raising the cost of 
+credit.    Any  framework  should  serve  to  mitigate  the  misalignment  of  incentives,  asymmetric 
+information,  and  macroeconomic  risks  associated  with  securitization,  and  simultaneously 
+promote  a  robust  securitization  market  that  can  continue  to  provide  credit  to  businesses, 
+consumers  and  homeowners  in  the  United  States.    Because  such  regulations  will  apply  to  a 
+variety  of  assets  and  securitization  structures,  there  are  multiple  approaches  that  the  Agencies 
+can consider in executing the statutory requirements.  Such a framework should seek to achieve 
+the following: 
+
+  Align incentives.  Asset-backed securitization developed because it provides specific risk 
+transfer  benefits  and  loweres  the  cost  of  credit,  in  addition  to  being  a  source  of  term 
+funding.  By reducing risk and better aligning incentives, risk retention can improve loan 
+quality and underwriting standards, but preserve the benefits of risk and capital transfer. 
+ 
+
+  Provide greater certainty and confidence among market participants.  A risk retention 
+
+framework that provides clear rules can help market participants accurately price risk.  
+ 
+
+  Promote  efficiency  of  capital  allocation.   Risk  retention  can  promote  more  efficient 
+allocation of capital across the economy because it can help prevent excess credit flows at 
+excessively low interest rates that do not accurately reflect the risks of assets. 
+ 
+
+  Preserve flexibility as markets and circumstances evolve.  The framework can take into 
+
+account the changing nature of markets and future innovations. 
+
+ 
+
+  Allow a broad range of participants to continue to engage in lending activities, while 
+doing so in a safe and sound manner.  Implementation that takes into account unique 
+aspects  of  smaller  originators  and  securitizers  can  preserve  a  robust  and  competitive 
+securitization market. 
+ 
+
+While risk retention offers many potential benefits, it is one of many reforms.  It cannot address 
+all  problems  in  the  securitization  chain,  and  will  work  in  conjunction  with  other  reforms.  
+Moreover, risk retention may be more suitable in some circumstances than others, depending on 
+the specific nature of the underlying financial assets. 
+
+- 18 - 
+
+ 
+
+CONSTRUCTING A ROBUST RISK RETENTION FRAMEWORK 
+
+There are a number of factors to consider when evaluating how to implement a risk retention 
+framework.  The spectrum of options includes the following:  
+
+  Form of risk retention.  There are several different forms of risk retention that one could 
+consider in developing a framework.  While there are many variations, the general forms 
+include: a vertical slice (a pro rata piece of every tranche), a horizontal slice (a first loss 
+interest in the securitization structure), or an equivalent exposure of the securitized pool 
+(retaining a random selection of assets from the pool).  
+
+ 
+
+ 
+
+  Allocation of risk retention.  The point along the securitization chain where risk retention 
+is held also affects the outcome of the risk retention requirements.  Section 941 places the 
+primary responsibility for retaining risk on the securitizer, but the originator, and in some 
+cases other participants, could be permitted to hold this exposure.  Whether the exposure 
+is held or shared among different entities can also drive different incentives.  
+
+  Amount of risk retention.  A framework could employ a static amount of risk retention, 
+whereby  the  amount  of  exposure  does  not  vary  across  asset  classes,  asset  quality  or 
+economic  cycle.    Alternatively,  the  framework  could  allow  for  variations.    Thus,  the 
+amount  of  risk  retention  could  be  a  function  of  time  and  /  or  a  function  of  asset 
+characteristics. 
+
+ 
+
+  Hedging,  prevention  of  arbitrage,  and  allowance  for  risk  management.    Specific 
+hedging of the risk retention required by Section 941 is prohibited by the Dodd-Frank 
+Act, and any framework should seek to minimize arbitrage opportunities.  However, it is 
+also  important  for  financial  institutions  to  manage  their  other  risks  for  safety  and 
+soundness  purposes.    Therefore,  the  framework  should  seek  to  prohibit  the  transfer  or 
+hedging of the specific credit risk required to be retained, but allow firms to manage other 
+risks, such as interest rate, foreign exchange, and macroeconomic risks. 
+
+ 
+
+ 
+
+  Exemptions from risk retention.  A risk retention framework could include the ability to 
+exempt higher quality assets meeting rigorous underwriting standards.  In addition to the 
+required exemptions for the QRM and other asset classes, the framework could exempt 
+securitizers  from  holding  the  credit  risk  of  higher  quality  assets  that  meet  additional 
+product, underwriting, and other standards that tend to decrease credit risk.  
+
+ 
+
+The choices that the Agencies make in establishing and implementing a framework must balance 
+macroeconomic risks with the availability and cost of credit, as discussed later in this study.   
+
+- 19 - 
+
+ 
+
+FORM  
+
+In constructing a framework for risk retention requirements, a securitizer could be required to 
+employ  a  particular  form  of  risk  retention  or  allowed  to  choose  from  a  list  of  permitted 
+choices.  The primary choices could include: (i) vertical risk-retention: retention of a pro rata 
+economic  interest  in  the  credit  risk  of  the  securitization;  (ii)  horizontal  risk-retention: 
+retention of a first loss interest in the securitization; and (iii) representative sample: retention 
+of  a  subset  of  assets  that  are  selected  randomly  from  the  original  pool  intended  to  be 
+securitized that has credit risk characteristics similar to those of the securitized assets.   
+
+VERTICAL (PRO RATA) RISK RETENTION 
+
+Vertical risk retention requires the retention of a pro rata economic interest in the credit 
+risk of the securitization, equivalent to retaining a pro rata portion of each tranche.  For 
+example, a five percent risk retention for a three-tranche securitization comprised of a 94 
+percent (or $94) senior tranche, a 5 percent (or $5) subordinate tranche and a 1 percent 
+(or $1) equity tranche would be equal to a total of $5, comprised of retention of $4.70 of 
+the senior tranche (5 percent of $94), $0.25 of the subordinate tranche (5 percent of $5), 
+and $0.05 of the equity tranche (5 percent of $1).  As shown in this example, vertical risk 
+retention allocates the risk of loss through the entire securitization.  
+
+Senior Tranche -
+
+94%
+
+Retained  Senior 
+Tranche 4.70%
+
+  
+
+ 
+
+ 
+
+                        
+
+Subordinate – 5%
+
+Equity – 1%
+
+Retained  Sub 
+Tranche 0.25%
+Retained  Equity 
+Tranche 0.05%
+
+    
+
+HORIZONTAL (FIRST LOSS) RISK RETENTION 
+
+Horizontal risk retention involves the retention of the first loss credit risk.  This typically 
+involves the allocation of all losses on the securitized assets until the par value of the first 
+
+- 20 - 
+
+ 
+
+loss position is reduced to zero.  Horizontal risk retention is graphically depicted below in 
+simplified form: 
+
+ 
+
+Senior Tranche -
+
+95%
+
+Subordinate – 5%  
+
+                                                
+In the above example, a securitizer with a 5 percent horizontal risk retention requirement 
+would hold this horizontal piece as a subordinated tranche or tranches.  By placing the 
+securitizer in the first loss position, any losses in excess of those projected (and implicitly 
+priced)  at  origination  will  first  affect  the  subordinate  tranche  holder,  until  the  losses 
+exceed the subordination provided by the horizontal risk retention.    
+
+EQUIVALENT EXPOSURE 
+
+A potential third form of risk retention involves the securitizer retaining on its balance 
+sheet a representative sample of all the assets that are transferred to the issuing entity.  To 
+do so, the securitizer would need to select a random sample of assets that comprises a 
+percentage  of  the  unpaid  principal  balance of  entire  pool  from  the  pre-defined  pool  of 
+assets designated for potential securitization.  
+
+To ensure that the loans retained have a similar credit risk to those securitized, a number 
+of protections would likely have to be put in place.  
+
+ALLOCATION  
+
+The  point  in  the  securitization  chain  where  risk  retention  is  held  can  affect  incentive 
+alignment differently.  In traditional lending, the originator of credit typically holds a loan on 
+its balance sheet, thereby retaining all, or a significant share, of the risks associated with the 
+loan.    The  risk  retention  requirements  discussed  above  could  be  imposed  on  various 
+
+- 21 - 
+
+ 
+
+participants  in  the  securitization  chain  to  adjust  incentives.35    Understanding  the  role  and 
+incentives of each major participant in the securitization chain can drive different choices in 
+implementation of risk retention.   
+
+SECURITIZER 
+
+Section 941 defines a securitizer as “(A) an issuer of an asset-backed security; or (B) a 
+person  who  organizes  and  initiates  an  asset-backed  securities  transaction  by  selling  or 
+transferring  assets,  either  directly  or  indirectly,  including  through  an  affiliate,  to  the 
+issuer.”  The securitizer oversees the creation and sale of the securities backed by loans 
+purchased from originators. This process has several components, which may sometimes 
+be divided among separate firms, although this study generally treats them as if carried 
+out by a single entity. 
+
+The securitizer performs the legal and economic functions required for a securitization, 
+including  reviewing  loan  documents  and  origination  standards,  handling  any  required 
+registration  of  offer  and  the  sale  of  asset-backed  securities  with  the  SEC  if  a  public 
+offering  is  initiated.    The  securitizer  or  underwriter  engages  one  or  more  credit  rating 
+agencies  to  analyze  the  transaction  and  assign  ratings  to  securities  that  reflect  the 
+securities’ likelihood of default and expected loss given default.  Finally, the securitizer 
+hires  an  investment  bank  as  an  underwriter  to  market  the  securities.    For  many  ABS 
+transactions, the underwriter and the securitizer are affiliated entities. 
+
+Because  the  securitizer  is  a  primary  decision  point  for  assets  being  securitized, 
+application  of  risk  retention  requirements  to  the  securitizer  can  be  an  effective  way  of 
+creating an incentive for the monitoring of the credit quality of the assets it securitizes 
+(regardless of the identity of the originator). 
+
+ORIGINATOR 
+
+Section 941 defines an originator as a person who “(A) through the extension of credit or 
+otherwise, creates a financial asset that collateralizes an asset-backed security; and (B) 
+sells  that  asset  directly  or  indirectly  to  a  securitizer.”    An  originator  makes  the  initial 
+decision about whether, and on what terms, to extend credit to a business, consumer or 
+homeowner  and  often  provides  initial  short-term  funding.    Originators  include  banks, 
+thrifts, subsidiaries of bank or thrift holding companies, independent finance companies, 
+and finance companies affiliated with vehicle, equipment, or other types of manufactures.  
+
+                                                 
+
+35  Further, Section 941 requires that the rules shall provide for “the allocation of risk retention obligations between a securitizer and an originator 
+in the case of a securitizer that purchases assets from an originator, as the Federal banking agencies and the Commission jointly determine 
+appropriate.”  15 U.S.C. § 78o-11(c)(1)(G)(iv).  In doing so, the percentage of risk retention required to be held by the securitizer must be 
+reduced by the percentage retained by the originator.  15 U.S.C. § 78o-11(d)(1).   
+
+- 22 - 
+
+ 
+
+The originator may securitize the loans directly or sell them to an aggregator that may 
+buy  loans  from  many  different  originators.    Aggregators  are  intermediaries  between 
+originators  and  securitizers,  and  loans  may  pass  through  several  such  parties’  hands 
+before being securitized.  
+
+Ultimately,  having  an  originator  retain  an  economic  interest  in  the  securitization  can 
+improve its incentives to originate high quality assets.  To the extent the originator has 
+ongoing responsibilities, risk retention can better align incentives with the investor. 
+
+THIRD-PARTIES  
+
+CMBS TRANSACTIONS   
+
+Section  941  prescribes  that  for  securities  backed  by  commercial  mortgages,  the 
+Agencies may adopt rules regarding the “retention of the first-loss position by a third-
+party purchaser that specifically negotiates for the purchase of such first loss position, 
+holds  adequate  financial  resources  to  back  losses,  provides  due  diligence  on  all 
+individual assets in the pool before the issuance of the asset-backed securities, and 
+meets the same standards for risk retention as the Federal banking agencies and the 
+Commission require of the securitizer.” 
+
+Section  941  thus  explicitly  contemplates  that  the  Agencies  could  determine  that  a 
+first-loss exposure by a third-party purchaser, under certain conditions, could satisfy 
+the  risk  retention  requirements.    In  CMBS,  the  most  junior  tranche  (commonly 
+referred  to  as  the  “B  piece”)  is  usually  purchased  by  a  commercial  real  estate 
+specialist that focuses on understanding and managing the credit risk associated with 
+this  junior  tranche.    In  many  cases,  these  buyers  are  the  “special  servicers,”  or 
+servicers  tasked  to  manage  loans  that  become  troubled  during  the  life  of  the 
+transaction.  These parties usually conduct due diligence on individual loans and / or 
+properties  while  the  securitization  is  being  assembled,  and  may  have  more 
+information than other investors about the quality of the underlying pool of assets. 
+
+THIRD-PARTY CREDIT GUARANTORS 
+
+A risk retention framework could consider allowing a third party guarantor to satisfy 
+risk  retention  requirements  by  taking  part  or  all  of  the  credit  risk.    The  residential 
+mortgage securitization market evolved to allow a number of third parties to provide 
+external credit support, either to the underlying loans or the securities.  Of particular 
+note  are  Fannie  Mae,  Freddie  Mac,  the  Federal  Housing  Administration  (and  other 
+
+- 23 - 
+
+ 
+
+government  agencies),  private  mortgage  insurance  (“PMI”)  providers,  and  bond 
+insurers.  
+
+AMOUNT  
+
+There are several choices in how to structure the amount of risk that should be retained for a 
+particular securitization.  This amount could be applied uniformly across all securitizations 
+and  across  time.    Alternatively,  the  amount  could  vary  based  on  the  quality  and 
+characteristics  of  the  particular  assets  securitized  and  on  the  economic  environment  that 
+exists  at  the  time  of  securitization.    Section  941  provides  the  Agencies  with  exemptive 
+authority to make adjustments as they deem appropriate within guidelines provided by the 
+statute. 
+
+There may be benefits in adjusting the amount of risk retention for different quality assets, as 
+adjustments can more appropriately align risk retention with expected loss.  For example, a  
+5 percent risk retention requirement may not be necessary for high quality assets.  In other 
+cases, 5 percent may not be sufficient to incent better underwriting standards for pools with 
+higher expected loss.  Some have suggested adjusting risk retention based on various metrics 
+that reflect the expected performance of the underlying assets. Risk retention might also be 
+adjusted  over  time  in  conjunction  with  economic  cycles,  a  possibility  that  is  addressed  in 
+more detail in Section VI. 
+
+On the other hand, a standardized rule applied uniformly may allow for greater transparency, 
+measurability, and certainty of implementation.  However, some metrics that adjust to reflect 
+expected performance may not apply appropriately to all asset classes, and may be difficult 
+to measure with confidence ex ante. 
+
+Therefore, when designing a risk retention framework, the benefits of better incenting actions 
+by  uniquely  tailoring  the  amount  of  risk  retention  to  the  characteristics  of  an  asset  pool 
+should be carefully balanced with the increased complexity and potential for regulators to set 
+levels effectively. 
+
+HEDGING, PREVENTION OF ARBITRAGE, AND RISK MANAGEMENT 
+
+To improve effectiveness, risk retention should result in meaningful and continued exposure 
+to  the  credit  risk  of  the  securitization.    Therefore,  without  proper  restrictions,  the  use  of 
+hedging  and  other  arbitrage  practices  could  ultimately  undermine  the  goals  of  the  Dodd-
+Frank Act risk retention requirements.  On the other hand, the financial system benefits by 
+allowing  financial  institutions  to  maintain  robust  risk  management  practices.    Almost  all 
+financial  institutions  employ  a  risk  department  that  oversees  other  risk  taking  parts  of  the 
+firm to minimize the probability that external shocks and internal risk positions would cause 
+
+- 24 - 
+
+ 
+
+large losses due to unexpected market changes.  Some of these institutions are also overseen 
+by  prudential  regulators,  who  also  have  an  interest  in  ensuring  that  financial  institutions 
+maintain safe and sound risk management practices. 
+
+Therefore, balancing the prohibition of hedging with the goal of allowing firms to manage 
+their overall risk exposure will be important in aligning incentives and maintaining a safe and 
+sound financial system.  A risk retention framework, which itself is meant to reduce risks to 
+financial stability, should not unduly prevent other types of risk mitigation.  
+
+EXEMPTIONS THROUGH UNDERWRITING STANDARDS  
+
+While  risk  retention  is  the  focus  of  Section  941,  it  also  requires,  for  certain  asset  classes, 
+partial or total exemptions of asset-backed securities where the underlying loans meet strong 
+underwriting  policies  and  standards.    In  this  regard,  exemptions  could  take  into  account  a 
+borrower’s  history  of  debt  repayment,  the  borrower’s  current  and  anticipated  capacity  to 
+make debt payments, and the quality and value of the collateral securing repayment.  Such 
+exemptions,  in  combination  with  risk  retention  requirements,  may  further  incent  strong 
+underwriting practices. 
+
+The  Qualified  Residential  Mortgage  (“QRM”)  as  defined  in  Section  941  provides  an 
+exemption  for  residential  mortgage  loans  that  have  underwriting  and  product  features  that 
+historical loan performance data indicate result in a low risk of default.36  Section 941 also 
+requires  that  the  standards  for  a  QRM  be  no  broader  than  the  standards  established  for 
+“Qualified  Mortgages”  as  defined  under  Section  129C  of  the  Truth  in  Lending  Act.37  
+Agencies are also required under Section 941 to prescribe underwriting standards for three 
+non-residential asset classes: auto loans, commercial loans, and commercial mortgages.  For 
+loans  originated  under  these  standards,  risk  retention  must  be  less  than  5  percent.  
+Implementation of exemptions based on underwriting standards could include: 
+
+  Explicit quantitative standards whereby clearly defined standards are set.  Under such a 
+framework  specific,  standards  and  values  could  be  established  in  which  no  loan  could 
+exceed  in  order  to  qualify  under  the  exemption.    For  example,  regulators  could  set  a 
+specific total debt-to-income ratio or loan-to-value ratio without exceptions. 
+
+  An automated underwriting model that allows for compensating factors.  Under such a 
+framework, a borrower’s credit history could be offset with an increased down payment 
+and lower loan-to-value ratio.  Therefore, an automated underwriting model would not set 
+
+                                                 
+
+36 15 U.S.C. § 78o-11(e)(4). 
+37 15 U.S.C. § 78o-11(e)(4)(c).  
+
+- 25 - 
+
+ 
+
+a  numerical  value  for  any  standard,  but  instead  could  provide  a  range  of  values  with 
+corresponding formulas that allow for different combinations of standards.   
+
+Both approaches have benefits and drawbacks.  The first framework allows for simplicity, 
+but may result in certain loans of creditworthy borrowers otherwise failing to qualify for an 
+exemption.    However,  those  borrowers  may  be  able  to  obtain  loans  subject  to  the  risk 
+retention  framework.    The  second  framework,  while  potentially  better  able  to  account  for 
+creditworthiness due to offsetting factors, is much more complex and would place a material 
+burden on regulators to create a full set of standards across many asset classes appropriately. 
+
+- 26 - 
+
+ 
+
+VI. ADJUSTING RISK RETENTION REQUIREMENTS   
+
+CALIBRATING RISK RETENTION REQUIREMENTS 
+
+Implementing risk retention requirements in the securitization process could potentially mitigate 
+some of the destabilizing effects that securitization has on the credit cycle and, more generally, 
+macroeconomic conditions. 
+
+To  the  extent  risk  retention  can  help  avoid  deterioration  in  underwriting  standards,  it  may 
+safeguard against a recurrence of the excessive expansion of credit that led to the home price 
+bubble in the recent crisis.  In addition to improving the incentive structure in securitization, risk 
+retention could diminish the amount of credit available by tying up cash that would otherwise be 
+used to make additional loans – an effect that could further mitigate some of the pro-cyclicality 
+in credit supply that has been attributed to securitization. 
+
+There is limited literature on the macroeconomic effects of risk retention to date, but available 
+academic  literature  suggests  that  securitizations  that  have  some  form  of  risk  retention  may 
+perform  better,  because  risk  retention  helps  to  align  incentives  between  originators  and 
+investors.38    The  relative  performance  of  various  types  of  asset-backed  securities  during  the 
+financial crisis also provides some evidence of the effectiveness of risk retention requirements in 
+this regard.   
+
+Risk retention requirements may help mitigate pro-cyclicality in credit formation and real estate 
+values,  contributing  to  the  stability  of  the  financial  system,  the  real  estate  sector,  and  the 
+economy.  Setting the risk retention requirements at a level that maximizes these benefits while 
+minimizing  costs  is  important.    Risk  retention  requirements  that  are  too  weak  can  impose 
+substantial  costs,  as  can  requirements  that  are  too  stringent.    An  excessive  requirement  could 
+unduly limit credit availability and economic output to the point that these costs could outweigh 
+the benefits of improved stability.  A weak requirement, however, could reduce long-run growth 
+by increasing risks to financial stability. 
+
+An increase in credit costs could constrain credit supply, but this may not be, in and of itself, a 
+negative  consequence  of  risk  retention.    Interest  rates  on  securitized  mortgages  in  the  period 
+leading up to the crisis did not reflect the real risks of unsustainable lending to private parties, the 
+financial system, and the economy.  Low private costs for credit were not sustainable because 
+they did not internalize all of the social costs of credit expansion to the entire system.  To the 
+extent that risk retention helps the market determine prices that reflect true private and public 
+                                                 
+
+38  See D. Diamond, "Financial Intermediation and Delegated Monitoring," Review of Economic Studies, vol. 51 (1984).  In particular, retaining 
+the risk associated with the loans that banks make provides such incentives.  By spreading or removing the risk, securitization may reduce the 
+bank’s incentives to screen borrowers.  See G. Gorton and G. Pennacchi, "Banks and Loan Sales: Marketing Non-Marketable Assets," Journal 
+of Monetary Economics, vol. 35, no. 3 (1995). 
+
+- 27 - 
+
+ 
+
+costs of securitization, an increase in credit costs to sustainable levels would contribute to growth 
+by promoting more efficient resource allocation. 
+
+CONSIDERATIONS REGARDING STATIC AND PROACTIVE ADJUSTMENT OF RISK 
+RETENTION 
+
+Section  946  requires  consideration  of  whether  risk  retention  requirements  and  mortgage 
+origination requirements should be static or dynamic.  In practice, a static framework would only 
+be  adjusted  infrequently  in  response  to  structural  changes  in  credit  markets.    In  contrast,  a 
+dynamic  framework  would  be  adjusted  more  frequently  in  a  counter-cyclical  manner.    Each 
+approach has costs and benefits that should be considered. 
+
+Static  regulations  have  the  benefit  of  being  transparent  and  providing  certainty  to  market 
+participants, but may not be responsive to changing market conditions.  This may allow market 
+participants to make longer-term plans for savings and investment.  The existing literature notes 
+that fixed rules may provide for greater predictability.39  Static regulations are less complex for 
+regulators.  On the other hand, if regulators set risk retention requirements at an inappropriate 
+level,  or  design  them  in  an  inappropriate  manner,  the  costs  in  terms  of  lost  long-term  output 
+could  outweigh  the  benefits  of  the  regulations.    Additionally,  fixed  rules  may  not  allow  for 
+judgment  to  be  applied  as  economic  conditions  change.40    If  regulators  are  not  responsive  to 
+innovation and changes in financial conditions, the regulations could become less applicable and 
+the benefits of risk retention may decline.  
+
+By contrast, dynamic regulation could either be automatic, utilizing pre-determined formulas, or 
+set  by  regulators  on  a  discretionary  basis.    Some  academic  literature  suggests  that  changing 
+conditions should be monitored by regulators over time, implying that there may be benefits to 
+changing  regulation  to  address  emerging  risks  to  the  system.41    In  the  case  of  automatic 
+regulation, the required amount of risk retention could be tied to the business cycle or financial 
+market  indicators  in  a  formulaic  manner.    Regulations  could  be  written  to  contain  a  counter-
+cyclical formula linking risk retention or underwriting standards to, for example, home prices.  In 
+this  example,  required  risk  retention  could  increase  automatically  as  the  economy  grows  and 
+home  prices  rise,  in  order  to  constrain  unsustainable  increases  in  credit  supply  that  could 
+potentially fuel emerging bubbles.  Alternatively, as the economy slows and home prices fall, the 
+level of retention could fall automatically to encourage credit flows and to avoid recessions.   
+
+                                                 
+
+39  See Bank of England, “The Role of Macroprudential Policy: A Discussion Paper,”  (November 2009).   M.  Dewatripont and J. Tirole, The 
+
+Prudential Regulation of Banks (Cambridge, MA: MIT Press, 1994). 
+
+40  See Bank of England, “The Role of Macroprudential Policy: A Discussion Paper,” (November 2009). 
+41  See  T.  Adrian  and  H.  Shin,  “The  Shadow  Banking  System:  Implications  for  Financial  Regulation,”  Banque  de  France,  Financial  Stability 
+
+Review, No. 13 (September 2009). 
+
+- 28 - 
+
+ 
+
+Such  dynamic  regulation  could  address  potential  cyclicality  in  credit  formation.    However, 
+determining the precise formula by which retention would be tied to the business cycle could 
+pose significant challenges to policymakers, as the understanding of formulaic linkages between 
+risk retention, credit supply and macroeconomic conditions may not be sufficiently robust to do 
+so  at  high  levels  of  confidence.    Additionally,  such  relationships  may  change  over  time, 
+potentially  reducing  the  benefits  of  dynamic  regulation  conducted  using  pre-determined 
+quantitative inputs, absent ongoing regulatory intervention.   
+
+Another type of dynamic regulation would allow regulators to adjust the regulations on a more 
+discretionary  basis.    This  would  allow  regulators  to  change  underwriting  standards  or  risk 
+retention requirements in response to economic and financial developments, including financial 
+innovation.    However,  requiring  regulators  to  make  changes  to  regulations  in  response  to  the 
+business cycle may pose challenges, both in theory and practice, as it requires regulators to make 
+determinations regarding the impact such changes may have on the business cycle, and to make 
+such  changes  quickly.    Additionally,  the  existing  literature  also  notes  that  allowance  for 
+regulatory  discretion  can  lead  to  a  bias  towards  forbearance.42    Some  suggest  that  regulatory 
+independence may be an important factor in ensuring that unpopular rules can be implemented 
+when necessary.43   
+
+Accordingly,  the  Agencies  should  act  prudently  in  setting  out  the  rules  associated  with  risk 
+retention  requirements  and  associated  exemptions.    Following  the  implementation  of  the  risk 
+retention  rules,  regulators  should  take  into  account  the  changing  nature  of  markets  and  future 
+innovations and whether such rules should be adjusted accordingly. 
+
+                                                 
+
+42  See Bank of England, “The Role of Macroprudential Policy: A Discussion Paper,”  (November 2009).   M.  Dewatripont and J. Tirole, The 
+
+Prudential Regulation of Banks (Cambridge, MA: MIT Press, 1994). 
+
+43  See  M.  Brunnermeier,  A.  Crocket,  C.  Goodhert,  A.  Persaud,  and  H.  Shin,  “The  Fundamental  Principles  of Financial  Regulation,”  Geneva 
+
+Report on the World Economy 11 (June 2009). 
+
+- 29 - 
+
+ 
+
+VII. CONCLUSION 
+
+Securitization  is  an  important  source  of  credit  formation  for  the  economy,  allowing  market 
+participants to draw efficiently upon a wide variety of sources of capital and investment, both to 
+lower costs and diversify risk.  As discussed above, some of the benefits of securitization include 
+reducing the cost of credit for borrowers and improving mechanisms for financial institutions to 
+manage  interest  rate  risk.    However,  absent  safeguards,  there  are  inherent  risks  in  the 
+securitization process that can detract from these benefits.  These risks have historically included 
+misaligned incentives among participants in the securitization process, a lack of disclosure and 
+transparency, and investor overreliance on CRAs.  The Dodd-Frank Act mandates many reforms 
+to address these issues, including risk retention requirements. 
+
+Risk retention serves as an important tool that, if properly structured, has the potential to address 
+misaligned incentives and the deterioration in underwriting standards — two critical problems 
+that had a significant impact on businesses, consumers, and homeowners in the United States.  It 
+is important to note that while risk retention can help mitigate some of these inherent risks, it 
+does not solve all of the problems in the securitization process and may not be appropriate in all 
+cases.    Therefore,  risk  retention  must  be  considered  in  conjunction  with  other  reforms  in  the 
+Dodd-Frank Act as well as other reforms occurring both domestically and internationally. 
+
+The  academic  literature  indicates  that  there  may  be  a  connection  between  asset-backed 
+securitization  and  an  exacerbation  of  pro-cyclical  lending.    Misaligned  incentives  and  a 
+deterioration in underwriting standards may have implications on the broader economy if they 
+lead to excess lending in periods of growth and a greater contraction of credit during periods of 
+stress.    Some  academic  literature  suggests  that  securitization  may  have  contributed  to  an 
+expansion  of  credit  in  the  run-up  to  the  financial  crisis,  which  in  turn  facilitated  increases  in 
+housing prices and worsened the ensuing contraction in credit when the housing bubble burst. 
+
+Based on the available literature, there is evidence that risk retention could minimize the pro-
+cyclical  macroeconomic  effects  of  securitization  by  aligning  incentives  and  improving 
+underwriting standards.  On the other hand, if risk retention requirements are too stringent, they 
+could constrain lending, and consequently, the formation of credit.   
+
+Accordingly, it is important to design a risk retention framework that maximizes the benefits of 
+asset-backed securitization as a source of credit formation and minimizes the inherent risks of an 
+originate-to-distribute model.  Such a framework should allow for efficient allocation of capital, 
+where  market  participants  accurately  price  credit  risk.    As  observed  in  the  most  recent  crisis, 
+market participants did not always internalize the true cost of the credit extended.  To the extent 
+that risk retention and other reforms can help address efficient capital allocation, they can serve 
+to facilitate stable economic growth. 
+
+- 30 - 
+
+ 
+
+APPENDIX 
+
+APPENDIX A: OTHER RELEVANT SECTIONS OF THE DODD-FRANK ACT  
+
+RATING AGENCIES - TITLE IX, SUBTITLE C 
+
+Subtitle C of the Dodd-Frank Act must be properly regulated and have a strong set of 
+incentives  to  accurately  rate  securities  in  order  to  perform  their  role  and  provide 
+meaningful and reliable ratings.  The Dodd-Frank Act contains a number of provisions 
+that  are  intended  to  improve  the  quality  and  transparency  of  credit  ratings,  address 
+conflicts of interest, reduce reliance on credit ratings, and require additional studies on 
+future changes to the structure of credit rating agencies. 
+
+Specifically, Subtitle C removes statutory references to credit ratings from certain statutes 
+and requires each Federal agency to review its regulations for references to credit ratings 
+and  replace  these  references  with  a  standard  of  creditworthiness.    The  SEC  must  also 
+conduct  a  study  on  (i)  the  independence  of  credit  rating  agencies  and  how  this 
+independence  affects  the  ratings  they  issue;  (ii)  the  feasibility  and  desirability  of 
+standardizing credit rating terminology; and (iii) the feasibility of establishing a public or 
+private utility or self regulatory agency for assigning credit rating agencies to issuers to 
+determine the ratings of structured finance products.  The Comptroller General (“GAO”) 
+must  conduct  a  study  on  alternative  means  for  compensating  credit  rating  agencies  in 
+order to create incentives for more accurate credit ratings.  The GAO must also conduct a 
+study on the feasibility and merits of creating an independent professional organization 
+that would establish independent standards for governing the rating analyst profession. 
+
+DISCLOSURE - TITLE IX, SUBTITLE D, SECTION 942 AND 945 
+
+Section  942  and  945  addresses  disclosure  and  information  transparency.    Section  942 
+mandates  that  the  SEC  adopt  regulations  requiring  issuers  of  an  ABS  to  disclose 
+information  regarding  assets  backing  each  tranche  or  class  of  the  security  and  to  set 
+standards for the format of the data provided.  Section 945 mandates that the SEC issue 
+rules  that  the  registration  statement  filed  by  issuers  of  ABS  includes  a  review  by  the 
+issuer of the assets underlying the ABS and disclose the nature of the review. 
+
+- 31 - 
+
+ 
+
+REPRESENTATIONS AND WARRANTIES - TITLE IX, SUBTITLE D, SECTION 943 
+
+Section  943  mandates  that  the  SEC  prescribe  regulations  regarding  disclosure  of 
+representations  and  warranties  in  the  ABS  market,  whereby  each  rating  agency  must 
+include in their report a description of the representations, warranties, and enforcement 
+mechanisms  available  to  investors  and  state  how  these  differ  from  similarly  issued 
+securities.    The  SEC  must  also  require  securitizers  to  disclose  fulfilled  and  unfulfilled 
+repurchase requests across all trusts aggregated by the securitizers.  
+
+UNDERWRITING PROCESS AND CONSUMER PROTECTION – TITLE XIV, SECTION 1412 
+
+Section 1412 requires the Federal Reserve Board (and the Consumer Finance Protection 
+Bureau  once  transferred)  in  consultation  with  the  Department  of  Housing  and  Urban 
+Development,  Department  of  Veterans  Affairs,  Department  of  Agriculture,  and  Rural 
+Housing  Service,  defines  standards  for  a  Qualified  Mortgage  (QM),  which  reflects  a 
+borrower’s  ability  to  repay,  ensuring  that  responsible  and  affordable  mortgage  credit 
+remains  available  to  homeowners.    While  the  section  lists  criteria,  it  leaves  ultimate 
+discretion  to  the  rule  writer.    Suggested  criteria  include:  restrictions  on  payment 
+structures  where  the  principle  balance  increases  over  time,  fully  amortizing  fixed  rate 
+loans,  taking  into  account  fees,  taxes,  and  assessments,  placing  limits  on  fees,  and 
+qualification for adjustable rate mortgages based on the maximum rate a borrower might 
+pay during the first five years, among others. 
+
+APPENDIX B: OTHER RELEVANT REGULATORY INITIATIVES 
+
+BASEL ACCORD REFORMS 
+
+Following  the  financial  crisis,  on  December  16,  2010  the  BCBS  announced  stricter 
+capital  regulatory  requirements  for  banks,  which  are  commonly  known  as  Basel  III.  
+Previously,  in  July  2009  the  BCBS  strengthened  supervisory  standards  and  increased 
+regulatory capital requirements for complex securitizations.  The BCBS adopted several 
+revisions  to  the  regulatory  framework  known  as  Basel  II  to  address  some  of  the  main 
+issues that arose during the crisis.  Basel III is intended to improve the banking sector's 
+ability to absorb shocks arising from financial and economic stress.  Basel III must be 
+individually adopted by the regulators of each participating nation and is to be phased in 
+beginning January 1, 2013.  These standards include requirements for banks to have: (i) 
+heightened  risk  weight  for  some  lower-rated  and  unrated  securitization  exposures;  (ii) 
+more  conservative  collateral  haircuts  for  securitization  collateral  with  respect  to 
+
+- 32 - 
+
+ 
+
+counterparty  exposure;  and  (iii)  additional  specific  risk  haircuts  for  securitization 
+exposures when calculating the capital requirement related to market risk.  
+
+STATEMENTS OF FINANCIAL ACCOUNTING STANDARDS NOS. 166 AND 16744  
+
+In  June  2009,  the  Financial  Accounting  Standards  Board  (“FASB”)  issued  Financial 
+Accounting  Statements  166  and  167,  which  change  the  way  entities  account  for 
+securitizations and special-purpose entities to better align financial accounting disclosure 
+practices  with  the  actual  risks  of  asset-backed  securitization.    These  statements  were 
+effective for companies’ first fiscal year that began after November 15, 2009 and January 
+1, 2010 for companies reporting on a calendar year basis.  The statements require banks 
+to consolidate on their balance sheets certain securitized assets as well as other financial 
+assets that were previously disclosed as off-balance sheet assets if certain standards of 
+control  are  met.45    While  these  consolidation  standards  primarily  respond  to  the  risks 
+associated with off-balance sheet securitization and the need for better disclosure, they 
+also have implications for earnings and regulatory capital of on-balance sheet securitized 
+assets.  In some cases, the cost of reserving capital against the consolidated securitization 
+assets  may  reduce  the  attractiveness  of  using  securitization  structures  and  incentivize 
+investors to use other means to fund loan origination.   
+
+While it is unclear what impact that mandatory risk retention will have on consolidation 
+analysis, it is clear that accounting treatment for securitization structures will differ based 
+on  characteristics  of  that  structure  and  the  distribution  of  economic  interest  among 
+investors  and  entities  affiliated  with  the  transaction.46    While  risk  retention’s  potential 
+impact  on  the  accounting  treatment  of  securitization  may  vary,  the  requirements 
+associated  with  consolidation  have  material  consequences  on  earnings  and  capital 
+allocation for affected entities.  
+
+INTERNATIONAL COMPARISONS - ARTICLE 122A 
+
+Article 122a is an amendment to the European Capital Requirements Directive that was 
+adopted by the European Parliament in May 2009.  The amendment, among other things, 
+introduces a new originator retention requirement and significantly strengthens investor 
+due  diligence  obligations,  with  capital  sanctions  in  the  event  of  non-compliance.    In 
+
+                                                 
+
+44  See  Accounting  Standards  Codification  (ASC)  Topic  860,  Transfers  and  Servicing  (commonly  called  FAS  166)  and  ASC  Topic  810, 
+
+Consolidations (commonly called FAS 167). 
+
+45  See Board of Governors of the Federal Reserve System, Report to the Congress on Risk Retention (October 2010) for a fulsome analysis of the 
+
+consolidation of off-balance sheet assets. 
+
+46  See the Board of Governors of the Federal Reserve System, Report to the Congress on Risk Retention (October 2010) discusses trends that 
+
+currently exist for accounting for the securitization of different asset types.  
+
+- 33 - 
+
+ 
+
+December  2010,  the  Committee  of  European  Bank  Supervisors  (CEBS)  issued  final 
+guidelines with respect to the application of Article 122a. 
+
+Article  122a’s  provisions  will  apply  to  new  securitizations  issued  after  December  31, 
+2010  and  after  December  31,  2014  for  existing  securitizations  where  underlying 
+exposures  are  subject  to  addition  or  substitution  after  that  date  (i.e.,  master  trusts  and 
+some CDO structures).  Article 122a applies to any EU credit institution that invests in or 
+holds securitization positions in either its banking book or trading book.  Additionally, 
+for  an  issuer  to  sell  tranches  of  structured  finance  securities  to  European  credit 
+institutions,  it  will  be  necessary  for  non-European  institutions  to  comply  with  Article 
+122a.  For example, if an EU or US auto ABS issuer wants to sell auto loan ABS tranches 
+to  a  European  credit  institution,  it  will  need  to  comply  with  the  EU  retention 
+requirements and also provide sufficient information for EU investor due diligence. 
+
+Article 122a provides a range of options to the market with regards to the form of risk 
+retention, including: (i) vertical retention of risk not less than 5 percent of the nominal 
+value of each of the tranches sold or transferred to the investors; (ii) retention of risk not 
+less than 5 percent of the nominal value of the securitized exposure in case of revolving 
+securitizations;  (iii)  equivalent  exposure  though  retention  of  risk  of  randomly  selected 
+exposures  equal  to  not  less  than  5  percent  of  the  nominal  amount  of  the  securitized 
+exposures,  where  there  would  otherwise  have  been  securitized  in  the  securitization 
+provided  that  the  number  of  potentially  securitized  exposures  is  not  less  than  100  at 
+origination; and (iv) horizontal retention of risk of the first loss tranche and if necessary 
+other tranches having the same or more severe risk profile and not maturing any earlier 
+than  those  transferred  or  sold  to  investors,  so  that  the  retention  equals  no  less  than  5 
+percent of the nominal value of the securitized exposures.  
+
+Article 122a provides an important example of risk retention strategies currently being 
+pursued by regulatory bodies outside of the United States.  
+
+- 34 - 
+
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Accordingly</author>
+</authors>
+<title>ETA proposes to amend 20 CFR part 655 as follows: Title 20—Employees’ Benefits 1. Revise the authority citation for part 655 to read as follows: Authority:</title>
+<booktitle>Section 655.0 issued under 8 U.S.C. 1101(a)(15)(E)(iii), 1101(a)(15)(H)(i) and (ii), 1182(m), (n) and (t), 1184(c), (g), and (j), 1188, and 1288(c) and (d); sec. 3(c)(1), Pub. L. 101–238, 103 Stat. 2099, 2102 (8 U.S.C. 1182 note); sec. 221(a), Pub. L. 101– 649, 104 Stat. 4978, 5027 (8 U.S.C. 1184 note); sec. 303(a)(8), Pub. L.</booktitle>
+<volume>1748</volume>
+<issue>8</issue>
+<note>note); sec.</note>
+<marker>Accordingly, </marker>
+<rawString>Accordingly, ETA proposes to amend 20 CFR part 655 as follows: Title 20—Employees’ Benefits 1. Revise the authority citation for part 655 to read as follows: Authority: Section 655.0 issued under 8 U.S.C. 1101(a)(15)(E)(iii), 1101(a)(15)(H)(i) and (ii), 1182(m), (n) and (t), 1184(c), (g), and (j), 1188, and 1288(c) and (d); sec. 3(c)(1), Pub. L. 101–238, 103 Stat. 2099, 2102 (8 U.S.C. 1182 note); sec. 221(a), Pub. L. 101– 649, 104 Stat. 4978, 5027 (8 U.S.C. 1184 note); sec. 303(a)(8), Pub. L. 102–232, 105 Stat. 1733, 1748 (8 U.S.C. 1101 note); sec.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>L</author>
+</authors>
+<volume>103</volume>
+<pages>sec.</pages>
+<marker>L, </marker>
+<rawString>323(c), Pub. L. 103–206, 107 Stat. 2428; sec.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>L</author>
+</authors>
+<booktitle>note); sec. 2(d), Pub. L.</booktitle>
+<volume>2681</volume>
+<issue>8</issue>
+<marker>L, </marker>
+<rawString>412(e), Pub. L. 105–277, 112 Stat. 2681 (8 U.S.C. 1182 note); sec. 2(d), Pub. L. 106–95, 113 Stat. 1312, 1316 (8 U.S.C. 1182 note); Pub. L. 109–423, 120 Stat. 2900; and 8 CFR 214.2(h)(4)(i).</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Section 655.00 issued under 8 U.S.C. 1101(a)(15)(H)(ii), 1184(c), and 1188; and 8 CFR 214.2(h). Subparts A and C issued under 8 CFR 214.2(h).</booktitle>
+<marker></marker>
+<rawString>Section 655.00 issued under 8 U.S.C. 1101(a)(15)(H)(ii), 1184(c), and 1188; and 8 CFR 214.2(h). Subparts A and C issued under 8 CFR 214.2(h).</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Subpart B issued under 8 U.S.C. 1101(a)(15)(H)(ii)(a), 1184(c), and 1188; and 8 CFR 214.2(h). Subparts D and E authority repealed.</booktitle>
+<marker></marker>
+<rawString>Subpart B issued under 8 U.S.C. 1101(a)(15)(H)(ii)(a), 1184(c), and 1188; and 8 CFR 214.2(h). Subparts D and E authority repealed.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Subparts F and G issued under 8 U.S.C. 1288(c) and (d); and sec. 323(c), Pub. L. 103– 206, 107 Stat.</booktitle>
+<pages>2428</pages>
+<marker></marker>
+<rawString>Subparts F and G issued under 8 U.S.C. 1288(c) and (d); and sec. 323(c), Pub. L. 103– 206, 107 Stat. 2428.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>H Subparts</author>
+</authors>
+<title>and I issued under 8 U.S.C.</title>
+<booktitle>1101(a)(15)(H)(i)(b) and (b)(1), 1182(n) and (t), and 1184(g) and (j); sec. 303(a)(8), Pub. L.</booktitle>
+<marker>Subparts, </marker>
+<rawString>Subparts H and I issued under 8 U.S.C. 1101(a)(15)(H)(i)(b) and (b)(1), 1182(n) and (t), and 1184(g) and (j); sec. 303(a)(8), Pub. L.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>note); sec. 412(e), Pub. L. 105–277, 112 Stat. 2681; and 8 CFR 214.2(h). Subparts J and K authority repealed.</booktitle>
+<volume>1748</volume>
+<issue>8</issue>
+<marker></marker>
+<rawString>102–232, 105 Stat. 1733, 1748 (8 U.S.C. 1101 note); sec. 412(e), Pub. L. 105–277, 112 Stat. 2681; and 8 CFR 214.2(h). Subparts J and K authority repealed.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>L Subparts</author>
+<author>M issued under</author>
+</authors>
+<title>a. Revising paragraphs (b) introductory text, (b)(1), and (b)(2); b. Removing paragraphs (b)(4) and (b)(5) and redesignating paragraph (b)(3) as (b)(4) and (b)(6) as (b)(5); c. Adding a new paragraph (b)(3); and d. Removing paragraphs (f) and (g) and redesignating paragraphs (h) as (f), and (i) as (g). § 655.10 Determination of prevailing wage for temporary labor certification purposes.</title>
+<booktitle>1101(a)(15)(H)(i)(c) and 1182(m); sec. 2(d), Pub. L. 106–95, 113 Stat. 1312, 1316 (8 U.S.C. 1182 note); Pub. L. 109–423, 120 Stat. 2900; and 8 CFR 214.2(h). 2. Amend § 655.10, by:</booktitle>
+<marker>Subparts, under, </marker>
+<rawString>Subparts L and M issued under 8 U.S.C. 1101(a)(15)(H)(i)(c) and 1182(m); sec. 2(d), Pub. L. 106–95, 113 Stat. 1312, 1316 (8 U.S.C. 1182 note); Pub. L. 109–423, 120 Stat. 2900; and 8 CFR 214.2(h). 2. Amend § 655.10, by: a. Revising paragraphs (b) introductory text, (b)(1), and (b)(2); b. Removing paragraphs (b)(4) and (b)(5) and redesignating paragraph (b)(3) as (b)(4) and (b)(6) as (b)(5); c. Adding a new paragraph (b)(3); and d. Removing paragraphs (f) and (g) and redesignating paragraphs (h) as (f), and (i) as (g). § 655.10 Determination of prevailing wage for temporary labor certification purposes.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

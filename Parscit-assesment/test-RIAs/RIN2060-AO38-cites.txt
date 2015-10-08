@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Aggregate Regions Base Countries Regions U S Atlantic Coast U S Atlantic Coast U S Great Lakes U S Great Lakes U S Gulf Coast U S Gulf Coast E Canadaa Canadaa W Canadaa Canadaa U S Pacific North U S Pacific North U S Pacific South U S</author>
+</authors>
+<title>Pacific South (naut mi) Longitude Latitude Philadelphia,</title>
+<date>2016</date>
+<journal>PA c</journal>
+<booktitle>Port Dolomite, MI e 3 -84.2445 45.83181 Port Everglades, FL 7.5 2.1 -80.082 26.08627 Port Hueneme, CA 12 2.8 -119.238 34.10859 Port Inland, MI e 3 -85.6524 45.87553 Figure 3B-1 NOX Emissions with the Primary Case (Tier 3 in</booktitle>
+<volume>88</volume>
+<pages>28--91161</pages>
+<location>Plaquemines, LA,</location>
+<marker>S, 2016</marker>
+<rawString> Aggregate Regions Base Countries / Regions U.S. Atlantic Coast U.S. Atlantic Coast U.S. Great Lakes U.S. Great Lakes U.S. Gulf Coast U.S. Gulf Coast E. Canadaa Canadaa W. Canadaa Canadaa U.S. Pacific North U.S. Pacific North U.S. Pacific South U.S. Pacific South (naut mi) Longitude Latitude Philadelphia, PA c 88.1 -75.0095 38.79004 -89.4248 28.91161 Plaquemines, LA, Port of 10 52.4 -89.137 28.98883 Port Angeles, WA a 65 -124.771 48.49074 Port Arthur, TX 7 21 -93.7552 29.55417 Port Canaveral, FL 10 4.4 -80.5328 28.41439 Port Dolomite, MI e 3 -84.2445 45.83181 Port Everglades, FL 7.5 2.1 -80.082 26.08627 Port Hueneme, CA 12 2.8 -119.238 34.10859 Port Inland, MI e 3 -85.6524 45.87553 Figure 3B-1 NOX Emissions with the Primary Case (Tier 3 in 2016) versus the Alternative Case (Tier 3 in</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S for</author>
+</authors>
+<title>vessels only) Chapter 3: Emission Inventory the U.S. Environmental Protection Agency,</title>
+<journal>EPA Report Number EPA-420-R-09-005, Docket ID</journal>
+<pages>2007--0121</pages>
+<marker>2014</marker>
+<rawString>for U.S. vessels only) Chapter 3: Emission Inventory the U.S. Environmental Protection Agency, EPA Report Number EPA-420-R-09-005, Docket ID EPA-HQ-OAR-2007-0121-0154.</rawString>
+</citation>
+<citation valid="true">
+<title>Commercial Marine Port Inventory Development, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2007</date>
+<tech>EPA Report Number EPA-420-R-07-012c, Docket ID</tech>
+<pages>2007--0121</pages>
+<institution>ICF International</institution>
+<contexts>
+<context position="13946" citStr="(2)" startWordPosition="1985" endWordPosition="1985">the port. The near-port inventories correct these issues. The regional emission inventories produced by the current STEEM interport model are most accurate for vessels while cruising in ocean or Great Lakes shipping lanes, and the near port inventories, which use more detailed local port information, are significantly more accurate near the ports. Therefore, the inventories in this analysis are derived by merging together: (1) the near port inventories, which extend 25 nautical miles and 7 nautical miles from the terminus of the RSZ for deep water ports and Great Lake ports, respectively, and (2) the remaining interport portion of the STEEM inventory, which extends from the endpoint of the near port inventories to the 200 nautical mile boundary or international border with Canada, as appropriate. Near some ports, a portion of the underlying STEEM emissions were retained if it was determined that the STEEM emissions included ships traversing the area near a port, but not actually entering or exiting the port. 3.3.2 Near Port Emissions Near port inventories for calendar year 2002 were developed for ocean-going vessels at 89 deep water and 28 Great Lake ports in the U.S. The inventories </context>
+<context position="16146" citStr="(2)" startWordPosition="2342" endWordPosition="2342">ts in Puerto Rico were removed as these were outside the area of interest for this study. Several California ports were added to the principle ports list because ARB provided the necessary data and estimates for those ports. This is discussed in Section 3.3.2.4.1. Also, a conglomerate port in the Puget Sound area was added as discussed in Section 3.3.2.4.2. The final list of 117 deep sea and Great Lake ports, along with their coordinates, is given in the Appendix, Table 3-102. 3.3.2.2 Port Methodology Near port emissions for each port are calculated for four modes of operation: (1) hotelling, (2) maneuvering, (3) reduced speed zone (RSZ), and (4) cruise. Hotelling, or dwelling, occurs while the vessel is docked or anchored near a dock, and only the auxiliary engine(s) are being used to provide power to meet the ship’s energy needs. Maneuvering occurs within a very short distance of the docks. The RSZ varies from port to port, though generally the Chapter 3: Emission Inventory 3-7 RSZ would begin and end when the pilots board or disembark, and typically occurs when the near port shipping lanes reach unconstrained ocean shipping lanes. The cruise mode emissions in the near ports analysi</context>
+</contexts>
+<marker>2</marker>
+<rawString>ICF International (October 2007). Commercial Marine Port Inventory Development, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA-420-R-07-012c, Docket ID EPA-HQ-OAR-2007-0121-0063.1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Corbett</author>
+</authors>
+<title>Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation</title>
+<date>2007</date>
+<booktitle>in North America, Contract Number 113.111, Docket ID EPA-HQ-OAR-2007-</booktitle>
+<contexts>
+<context position="24394" citStr="[3]" startWordPosition="3604" endWordPosition="3604">e: 0.94 = Fraction of cruise speed to maximum speed Substituting Equation 3-10 into Equation 3-9, the equation to calculate load factor becomes: Equation 3-11 ( )3][ /94.0 SpeedCruiseSpeedRSZLoadFactor mainRSZ ×= Where: 0.94 = Fraction of cruise speed to maximum speed Load factors below 2 percent were set to 2 percent as a minimum. Substituting Equation 3-8 for time in mode and Equation 3-11 for load factor into Equation 3-7 , the expression used to calculate RSZ mode emissions for the main engines becomes: Equation 3-12 RSZ Mode Emissions for Main Engines ( ) ( ) )/10()(/94.0)/2()/tan()()( 6][3][][ gtonnesAdjEFSpeedCruiseSpeedRSZcalltripsSpeedRSZceDisRSZPcallsEmissions auxauxauxRSZ −××××××××= Where: EmissionsRSZ[main] = Metric tonnes emitted from main engines in RSZ mode calls = Round-trip visits (i.e., one entrance and one clearance is considered a call) P[main] = Total main engine power, in kilowatts RSZ distance = one way distance, in nautical miles (specific to each port) RSZ speed = speed, in knots (specific to each port) 2 trips/call = Used to calculate round trip RSZ distance Cruise speed = vessel service speed, in knots EF[main] = Emission factor for main engines for the poll</context>
+</contexts>
+<marker>3</marker>
+<rawString>Corbett, J. et al. (April 2007). Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111, Docket ID EPA-HQ-OAR-2007-</rawString>
+</citation>
+<citation valid="false">
+<pages>0063--2</pages>
+<marker>0121</marker>
+<rawString>-0063.2.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>J Corbett</author>
+</authors>
+<title>Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Tasks 1 and 2: Baseline Inventory and Ports Comparison, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111,</title>
+<date>2006</date>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<contexts>
+<context position="16197" citStr="(4)" startWordPosition="2350" endWordPosition="2350">e the area of interest for this study. Several California ports were added to the principle ports list because ARB provided the necessary data and estimates for those ports. This is discussed in Section 3.3.2.4.1. Also, a conglomerate port in the Puget Sound area was added as discussed in Section 3.3.2.4.2. The final list of 117 deep sea and Great Lake ports, along with their coordinates, is given in the Appendix, Table 3-102. 3.3.2.2 Port Methodology Near port emissions for each port are calculated for four modes of operation: (1) hotelling, (2) maneuvering, (3) reduced speed zone (RSZ), and (4) cruise. Hotelling, or dwelling, occurs while the vessel is docked or anchored near a dock, and only the auxiliary engine(s) are being used to provide power to meet the ship’s energy needs. Maneuvering occurs within a very short distance of the docks. The RSZ varies from port to port, though generally the Chapter 3: Emission Inventory 3-7 RSZ would begin and end when the pilots board or disembark, and typically occurs when the near port shipping lanes reach unconstrained ocean shipping lanes. The cruise mode emissions in the near ports analysis extend 25 nautical miles beyond the end of the RS</context>
+</contexts>
+<marker>4</marker>
+<rawString>Corbett, J. et al. (May 2006). Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Tasks 1 and 2: Baseline Inventory and Ports Comparison, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111, May 2006, Docket ID EPA-HQ-OAR-2007-0121-0013.</rawString>
+</citation>
+<citation valid="true">
+<title>Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2006</date>
+<tech>EPA Report Number EPA420-D-07-006, Docket ID</tech>
+<pages>2007--0121</pages>
+<institution>RTI International</institution>
+<marker>5</marker>
+<rawString>RTI International (December 2006). Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA420-D-07-006, Docket ID EPA-HQ-OAR-2007-0121-0063.3.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Martin Ross</author>
+<author>to Barry Garelick RTI</author>
+<author>Russ Smith</author>
+<author>U S</author>
+</authors>
+<title>RTI Estimates of Growth in Bunker Fuel Consumption, Memorandum with spreadsheet from Michael Gallaher and</title>
+<date>2006</date>
+<booktitle>Environmental Protection Agency, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>RTI International</institution>
+<marker>6</marker>
+<rawString>RTI International (April 24, 2006). RTI Estimates of Growth in Bunker Fuel Consumption, Memorandum with spreadsheet from Michael Gallaher and Martin Ross, RTI, to Barry Garelick and Russ Smith, U.S. Environmental Protection Agency, Docket ID EPA-HQ-OAR-2007-0121-</rawString>
+</citation>
+<citation valid="false">
+<pages>4</pages>
+<marker>0063</marker>
+<rawString>.4.</rawString>
+</citation>
+<citation valid="false">
+<title>National Oceanic and Atmospheric Administration, Exclusive Economic Zone, Available online at http://nauticalcharts.noaa.gov/csdl/eez.htm.</title>
+<marker>7</marker>
+<rawString>National Oceanic and Atmospheric Administration, Exclusive Economic Zone, Available online at http://nauticalcharts.noaa.gov/csdl/eez.htm.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<journal>Department of Interior, North American Atlas – Political Boundaries, Available</journal>
+<note>online at http://www.nationalatlas.gov/mld/bound0m.html.</note>
+<marker>8</marker>
+<rawString>U.S. Department of Interior, North American Atlas – Political Boundaries, Available online at http://www.nationalatlas.gov/mld/bound0m.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Louis Browning</author>
+</authors>
+<date>2009</date>
+<booktitle>ICF International, 2/16/2009 Email to Penny Carey, EPA, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>9</marker>
+<rawString>Browning, Louis (2009). ICF International, 2/16/2009 Email to Penny Carey, EPA, Docket ID EPA-HQ-OAR-2007-0121-0174 (and -0174.1).</rawString>
+</citation>
+<citation valid="true">
+<date>2008</date>
+<booktitle>U.S. Water Transportation Statistical Snapshot, available from www.marad.dot.gov, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>US Department of Transportation Maritime Administration</institution>
+<marker>10</marker>
+<rawString>US Department of Transportation Maritime Administration (May 2008). U.S. Water Transportation Statistical Snapshot, available from www.marad.dot.gov, Docket ID EPA-HQOAR-2007-0121-0170.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Army</author>
+</authors>
+<title>Corps of Engineers Navigation Data Center</title>
+<date>2002</date>
+<booktitle>Principal Ports of the United States, available at http://www.iwr.usace.army.mil/ndc/db/pport/dbf/pport02.dbf, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>11</marker>
+<rawString>U.S. Army Corps of Engineers Navigation Data Center (2002). Principal Ports of the United States, available at http://www.iwr.usace.army.mil/ndc/db/pport/dbf/pport02.dbf, Docket ID EPA-HQ-OAR-2007-0121-0175 (and -0175.1).</rawString>
+</citation>
+<citation valid="true">
+<title>Port-Wide Baseline Air Emissions Inventory, prepared for the Port of Los Angeles, Docket ID EPA-HQ-OAR-2007-0121-0171. Deleted: Deleted: www.marad.dot.gov Deleted: http://www.iwr.usace.army.mi l/ndc/db/pport/dbf/pport02.dbf. Regulatory Impact Analysis</title>
+<date>2004</date>
+<institution>Starcrest Consulting Group</institution>
+<marker>12</marker>
+<rawString>Starcrest Consulting Group (June 2004). Port-Wide Baseline Air Emissions Inventory, prepared for the Port of Los Angeles, Docket ID EPA-HQ-OAR-2007-0121-0171. Deleted: Deleted: www.marad.dot.gov Deleted: http://www.iwr.usace.army.mi l/ndc/db/pport/dbf/pport02.dbf. Regulatory Impact Analysis</rawString>
+</citation>
+<citation valid="false">
+<pages>152</pages>
+<contexts>
+<context position="24394" citStr="[3]" startWordPosition="3604" endWordPosition="3604">e: 0.94 = Fraction of cruise speed to maximum speed Substituting Equation 3-10 into Equation 3-9, the equation to calculate load factor becomes: Equation 3-11 ( )3][ /94.0 SpeedCruiseSpeedRSZLoadFactor mainRSZ ×= Where: 0.94 = Fraction of cruise speed to maximum speed Load factors below 2 percent were set to 2 percent as a minimum. Substituting Equation 3-8 for time in mode and Equation 3-11 for load factor into Equation 3-7 , the expression used to calculate RSZ mode emissions for the main engines becomes: Equation 3-12 RSZ Mode Emissions for Main Engines ( ) ( ) )/10()(/94.0)/2()/tan()()( 6][3][][ gtonnesAdjEFSpeedCruiseSpeedRSZcalltripsSpeedRSZceDisRSZPcallsEmissions auxauxauxRSZ −××××××××= Where: EmissionsRSZ[main] = Metric tonnes emitted from main engines in RSZ mode calls = Round-trip visits (i.e., one entrance and one clearance is considered a call) P[main] = Total main engine power, in kilowatts RSZ distance = one way distance, in nautical miles (specific to each port) RSZ speed = speed, in knots (specific to each port) 2 trips/call = Used to calculate round trip RSZ distance Cruise speed = vessel service speed, in knots EF[main] = Emission factor for main engines for the poll</context>
+</contexts>
+<marker>3</marker>
+<rawString>-152</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Army</author>
+</authors>
+<title>Corps of Engineers Navigation Data Center</title>
+<date>2002</date>
+<booktitle>Vessel Entrances and Clearances available at http://www.iwr.usace.army.mil/ndc/db/entclrn/data/entrclrn02/, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>13</marker>
+<rawString>U.S. Army Corps of Engineers Navigation Data Center (2002), Vessel Entrances and Clearances available at http://www.iwr.usace.army.mil/ndc/db/entclrn/data/entrclrn02/, Docket ID EPA-HQ-OAR-2007-0121-0177 (and -0177.1 thru -0177.4).</rawString>
+</citation>
+<citation valid="true">
+<title>Commercial Marine Port Inventory Development, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2007</date>
+<tech>EPA Report Number EPA-420-R-07-012c, Docket ID</tech>
+<pages>2007--0121</pages>
+<institution>ICF International</institution>
+<marker>14</marker>
+<rawString>ICF International (October 2007). Commercial Marine Port Inventory Development, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA-420-R-07-012c, Docket ID EPA-HQ-OAR-2007-0121-0063.1.</rawString>
+</citation>
+<citation valid="true">
+<title>The Motor Ship’s Guide to Marine Diesel Engines</title>
+<date>2005</date>
+<institution>Nexus Media Communications</institution>
+<marker>15</marker>
+<rawString>Nexus Media Communications (2005). The Motor Ship’s Guide to Marine Diesel Engines</rawString>
+</citation>
+<citation valid="false">
+<title>available at http://www.motorship.com/,</title>
+<journal>Docket ID</journal>
+<pages>2007--0121</pages>
+<contexts>
+<context position="70676" citStr="[2005]" startWordPosition="11232" endWordPosition="11232">o prepare the detailed typical port inventories needed for this project. The final list of nine deep sea and two Great Lake typical ports used in this analysis and their data year is as follows: • Lower Mississippi River Ports [1996] Chapter 3: Emission Inventory 3-31 • Consolidated Ports of New York and New Jersey and Hudson River [1996] • Delaware River Ports [1996] • Puget Sound Area Ports [1996] • Corpus Christi, TX [1996] • Houston/Galveston Area Ports [1997] • Ports on the Patapsco River [1996] • Port of Coos Bay, OR [1996] • Port of Tampa, FL [1996] • Port of Cleveland, OH on Lake Erie [2005] • Duluth-Superior, MN &amp; WI on Lake Michigan [2005] The maneuvering and hotelling time-in-modes, as well as the maneuvering load factors for these typical ports, were binned by ship type, engine type, and DWT type, using the same bins described in Section 3.3.2.3.1.1. 3.3.2.3.8.2 Matching Typical Ports to Modeled Ports The next step in the process was to match the ports to be modeled with the typical port which was most like it. Three criteria were used for matching a given port to a typical port: regional differences,B maximum vessel draft, and the ship types that call on a specific port. One</context>
+</contexts>
+<marker>2005</marker>
+<rawString>, available at http://www.motorship.com/, Docket ID EPA-HQ-OAR-2007-0121-0163.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Army</author>
+</authors>
+<title>Corps of Engineers</title>
+<date>2006</date>
+<location>Downloaded</location>
+<marker>16</marker>
+<rawString>U.S. Army Corps of Engineers (2006). National Waterway Network, Available online at http://www.iwr.usace.army.mil/ndc/data/datanwn.htm, Downloaded April 2006.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>ARCADIS Geraghty</author>
+<author>Inc Miller</author>
+</authors>
+<title>Commercial Marine Activity for Deep Sea Ports in the United States, prepared for the U.S. Environmental Protection Agency, EPA Report Number: EPA420-R-99-020, available online at http://www.epa.gov/otaq/models/nonrdmdl/c-marine/r99020.pdf, Docket ID EPA-HQ-OAR-</title>
+<date>1999</date>
+<marker>17</marker>
+<rawString>ARCADIS Geraghty &amp; Miller, Inc. (September 1999). Commercial Marine Activity for Deep Sea Ports in the United States, prepared for the U.S. Environmental Protection Agency, EPA Report Number: EPA420-R-99-020, available online at http://www.epa.gov/otaq/models/nonrdmdl/c-marine/r99020.pdf, Docket ID EPA-HQ-OAR-</rawString>
+</citation>
+<citation valid="false">
+<pages>0121--0150</pages>
+<marker>2007</marker>
+<rawString>-0121-0150.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>ARCADIS Geraghty</author>
+<author>Inc Miller</author>
+</authors>
+<title>Commercial Marine Activity for Great Lake and Inland River Ports in the United States, prepared for the U.S. Environmental Protection Agency, EPA Report Number: EPA420-R-99-019, available online at http://www.epa.gov/otaq/models/nonrdmdl/c-marine/r99019.pdf, Docket ID EPA-HQ-OAR-</title>
+<date>1999</date>
+<marker>18</marker>
+<rawString>ARCADIS Geraghty &amp; Miller, Inc. (September 1999). Commercial Marine Activity for Great Lake and Inland River Ports in the United States, prepared for the U.S. Environmental Protection Agency, EPA Report Number: EPA420-R-99-019, available online at http://www.epa.gov/otaq/models/nonrdmdl/c-marine/r99019.pdf, Docket ID EPA-HQ-OAR-</rawString>
+</citation>
+<citation valid="false">
+<pages>0121--0151</pages>
+<marker>2007</marker>
+<rawString>-0121-0151.</rawString>
+</citation>
+<citation valid="true">
+<title>Commercial Marine Emission Inventory Development, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2002</date>
+<tech>EPA Report Number: EPA420-R-02-019, Docket ID</tech>
+<pages>2007--0121</pages>
+<institution>ENVIRON International Corporation</institution>
+<marker>19</marker>
+<rawString>ENVIRON International Corporation (2002). Commercial Marine Emission Inventory Development, prepared for the U.S. Environmental Protection Agency, EPA Report Number: EPA420-R-02-019, Docket ID EPA-HQ-OAR-2007-0121-0144.</rawString>
+</citation>
+<citation valid="true">
+<title>Oceangoing Ship Survey,</title>
+<date>2005</date>
+<journal>Summary of Results, Docket ID</journal>
+<pages>2007--0121</pages>
+<institution>California Air Resources Board</institution>
+<marker>20</marker>
+<rawString>California Air Resources Board (2005), 2005 Oceangoing Ship Survey, Summary of Results, Docket ID EPA-HQ-OAR-2007-0121-0149.</rawString>
+</citation>
+<citation valid="true">
+<title>Quantification of Emissions from Ships Associated with Ship Movements between Ports in the European Community, prepared for the European Commission,</title>
+<date>2002</date>
+<journal>Docket ID</journal>
+<pages>2007--0121</pages>
+<institution>Entec UK Limited</institution>
+<marker>21</marker>
+<rawString>Entec UK Limited (2002). Quantification of Emissions from Ships Associated with Ship Movements between Ports in the European Community, prepared for the European Commission, Docket ID EPA-HQ-OAR-2007-0121-0059.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency</title>
+<date>2009</date>
+<booktitle>Category 3 Marine Engine CO and HC Emission Factors, Memorandum from Ari Kahan to Docket EPA-HQ-OAR-2007-0121, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>22</marker>
+<rawString>U.S. Environmental Protection Agency (January 2009). Category 3 Marine Engine CO and HC Emission Factors, Memorandum from Ari Kahan to Docket EPA-HQ-OAR-2007-0121, Docket ID EPA-HQ-OAR-2007-0121-0173.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency</title>
+<date>2007</date>
+<booktitle>Memorandum from Mike Samulski to Docket EPA-HQ-OAR-2007-0121, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>23</marker>
+<rawString>U.S. Environmental Protection Agency (September 2007). Estimation of Particulate Matter Emission Factors for Diesel Engines on Ocean-Going Vessels, Memorandum from Mike Samulski to Docket EPA-HQ-OAR-2007-0121, Docket ID EPA-HQ-OAR-2007-0121-0060.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency</title>
+<date>2007</date>
+<booktitle>Memorandum from Mike Samulski to Docket EPA-HQ-OAR-2007-0121, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>24</marker>
+<rawString>U.S. Environmental Protection Agency (September 2007). Estimation of Particulate Matter Emission Factors for Diesel Engines on Ocean-Going Vessels, Memorandum from Mike Samulski to Docket EPA-HQ-OAR-2007-0121, Docket ID EPA-HQ-OAR-2007-0121-0060.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Memo from</author>
+</authors>
+<title>Chris Lindhjem of ENVIRON</title>
+<date>2005</date>
+<journal>PM Emission Factors,</journal>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>25</marker>
+<rawString>Memo from Chris Lindhjem of ENVIRON (2005). PM Emission Factors, December 15, 2005, Docket ID EPA-HQ-OAR-2007-0121-0162.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency, Exhaust and Crankcase Emission Factors for Nonroad Engine Modeling – Compression Ignition</title>
+<date>2004</date>
+<booktitle>Appendix C, EPA- 420-P-04-009, Deleted: Deep Sea Deleted: 020 Deleted: r99020 Deleted: Main Deleted: in C3 Model and Current Literature Chapter 3: Emission Inventory</booktitle>
+<marker>26</marker>
+<rawString>U.S. Environmental Protection Agency, Exhaust and Crankcase Emission Factors for Nonroad Engine Modeling – Compression Ignition (April 2004). Appendix C, EPA- 420-P-04-009, Deleted: Deep Sea Deleted: 020 Deleted: r99020 Deleted: Main Deleted: in C3 Model and Current Literature Chapter 3: Emission Inventory</rawString>
+</citation>
+<citation valid="false">
+<booktitle>153 available online at http://www.epa.gov/otaq/models/nonrdmdl/nonrdmdl2004/420p04009.pdf, Docket ID</booktitle>
+<pages>2003--0190</pages>
+<contexts>
+<context position="24394" citStr="[3]" startWordPosition="3604" endWordPosition="3604">e: 0.94 = Fraction of cruise speed to maximum speed Substituting Equation 3-10 into Equation 3-9, the equation to calculate load factor becomes: Equation 3-11 ( )3][ /94.0 SpeedCruiseSpeedRSZLoadFactor mainRSZ ×= Where: 0.94 = Fraction of cruise speed to maximum speed Load factors below 2 percent were set to 2 percent as a minimum. Substituting Equation 3-8 for time in mode and Equation 3-11 for load factor into Equation 3-7 , the expression used to calculate RSZ mode emissions for the main engines becomes: Equation 3-12 RSZ Mode Emissions for Main Engines ( ) ( ) )/10()(/94.0)/2()/tan()()( 6][3][][ gtonnesAdjEFSpeedCruiseSpeedRSZcalltripsSpeedRSZceDisRSZPcallsEmissions auxauxauxRSZ −××××××××= Where: EmissionsRSZ[main] = Metric tonnes emitted from main engines in RSZ mode calls = Round-trip visits (i.e., one entrance and one clearance is considered a call) P[main] = Total main engine power, in kilowatts RSZ distance = one way distance, in nautical miles (specific to each port) RSZ speed = speed, in knots (specific to each port) 2 trips/call = Used to calculate round trip RSZ distance Cruise speed = vessel service speed, in knots EF[main] = Emission factor for main engines for the poll</context>
+</contexts>
+<marker>3</marker>
+<rawString>-153 available online at http://www.epa.gov/otaq/models/nonrdmdl/nonrdmdl2004/420p04009.pdf, Docket ID EPA-HQ-OAR-2003-0190-0411.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Energy</author>
+<author>Environmental Analysis Inc</author>
+</authors>
+<title>Analysis of Commercial Marine Vessels Emissions and Fuel Consumption Data, EPA420-R-00-002, available online at http://www.epa.gov/otaq/models/nonrdmdl/c-marine/r00002.pdf, Docket ID EPA-HQ-OAR-</title>
+<date>2000</date>
+<marker>27</marker>
+<rawString>Energy and Environmental Analysis Inc. (February 2000). Analysis of Commercial Marine Vessels Emissions and Fuel Consumption Data, EPA420-R-00-002, available online at http://www.epa.gov/otaq/models/nonrdmdl/c-marine/r00002.pdf, Docket ID EPA-HQ-OAR-</rawString>
+</citation>
+<citation valid="false">
+<pages>0121--0146</pages>
+<marker>2007</marker>
+<rawString>-0121-0146.</rawString>
+</citation>
+<citation valid="true">
+<title>Draft Port of Los Angeles Air Emissions Inventory for Calendar Year</title>
+<date>2007</date>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>Starcrest Consulting Group</institution>
+<marker>28</marker>
+<rawString>Starcrest Consulting Group (January 2007). Draft Port of Los Angeles Air Emissions Inventory for Calendar Year 2005, Docket ID EPA-HQ-OAR-2007-0121-0145.</rawString>
+</citation>
+<citation valid="true">
+<date>2007</date>
+<booktitle>Puget Sound Maritime Air Forum Maritime Air Emissions Inventory, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>Starcrest Consulting Group</institution>
+<marker>29</marker>
+<rawString>Starcrest Consulting Group (April 2007). Puget Sound Maritime Air Forum Maritime Air Emissions Inventory, Docket ID EPA-HQ-OAR-2007-0121-0166.</rawString>
+</citation>
+<citation valid="true">
+<title>for the Port Authority of</title>
+<date>2003</date>
+<journal>Island Nonattainment Area Commercial Marine Vessel Emission Inventory, Vol</journal>
+<tech>Report, Prepared</tech>
+<volume>1</volume>
+<pages>2007--0121</pages>
+<publisher>The</publisher>
+<institution>Starcrest Consulting Group, LLC</institution>
+<location>New York, Northern New Jersey, Long</location>
+<marker>30</marker>
+<rawString>Starcrest Consulting Group, LLC (April 2003). The New York, Northern New Jersey, Long Island Nonattainment Area Commercial Marine Vessel Emission Inventory, Vol 1 - Report, Prepared for the Port Authority of New York &amp; New Jersey, United States and the Army Corps of Engineers, New York District, Docket ID EPA-HQ-OAR-2007-0121-0152.</rawString>
+</citation>
+<citation valid="true">
+<title>Houston-Galveston Area Vessel Emissions Inventory, Prepared for the Port of Houston Authority and the Texas Natural Resource Conservation Commission,</title>
+<date>2000</date>
+<journal>Docket ID</journal>
+<pages>2007--0121</pages>
+<institution>Starcrest Consulting Group, LLC</institution>
+<marker>31</marker>
+<rawString>Starcrest Consulting Group, LLC (November 2000). Houston-Galveston Area Vessel Emissions Inventory, Prepared for the Port of Houston Authority and the Texas Natural Resource Conservation Commission, Docket ID EPA-HQ-OAR-2007-0121-0147.</rawString>
+</citation>
+<citation valid="true">
+<title>Update To The Commercial Marine Inventory For Texas To Review Emissions Factors, Consider A Ton-Mile EI Method, And Revise Emissions For The Beaumont-Port Arthur Non-Attainment Area Final Report, Submitted to the Houston Advanced Research Center, Docket ID EPA-HQ-OAR-2007-</title>
+<date>2004</date>
+<institution>Eastern Research Group and Starcrest Consulting Group, LLC</institution>
+<marker>32</marker>
+<rawString>Eastern Research Group and Starcrest Consulting Group, LLC (January 2004). Update To The Commercial Marine Inventory For Texas To Review Emissions Factors, Consider A Ton-Mile EI Method, And Revise Emissions For The Beaumont-Port Arthur Non-Attainment Area Final Report, Submitted to the Houston Advanced Research Center, Docket ID EPA-HQ-OAR-2007-</rawString>
+</citation>
+<citation valid="false">
+<pages>0153</pages>
+<marker>0121</marker>
+<rawString>-0153.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Zuber M Farooqui</author>
+<author>Kuruvilla John</author>
+</authors>
+<title>Refinement of the Marine Emissions Inventory for the Corpus Christi Urban Airshed,</title>
+<date>2004</date>
+<booktitle>Proceedings of the 97th Annual A&amp;WMA Conf. &amp; Exhibition, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>Department of Environmental Engineering, Texas A&amp;M University – Kingsville,</institution>
+<marker>33</marker>
+<rawString>Zuber M. Farooqui and Kuruvilla John (June 2004). Refinement of the Marine Emissions Inventory for the Corpus Christi Urban Airshed, Department of Environmental Engineering, Texas A&amp;M University – Kingsville, Proceedings of the 97th Annual A&amp;WMA Conf. &amp; Exhibition, Docket ID EPA-HQ-OAR-2007-0121-0160.</rawString>
+</citation>
+<citation valid="true">
+<title>Commercial Marine Port Inventory Development, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2007</date>
+<journal>EPA Report Number</journal>
+<booktitle>Docket ID</booktitle>
+<pages>420--07</pages>
+<institution>ICF International</institution>
+<marker>34</marker>
+<rawString>ICF International (October 2007). Commercial Marine Port Inventory Development, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA-420-R-07-012c, October 2007, Docket ID EPA-HQ-OAR-2007-0121-0063.1.</rawString>
+</citation>
+<citation valid="true">
+<date>2007</date>
+<booktitle>LADCO 2005 Commercial Marine Emissions, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>ENVIRON International Corporation</institution>
+<marker>35</marker>
+<rawString>ENVIRON International Corporation (March 2007). LADCO 2005 Commercial Marine Emissions, Docket ID EPA-HQ-OAR-2007-0121-0158.</rawString>
+</citation>
+<citation valid="true">
+<date>2005</date>
+<booktitle>Emissions Estimation Methodology for Ocean-Going Vessels, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>California Air Resources Board</institution>
+<marker>36</marker>
+<rawString>California Air Resources Board (October 2005). Emissions Estimation Methodology for Ocean-Going Vessels, Docket ID EPA-HQ-OAR-2007-0121-0164.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>E H Pechan</author>
+<author>Associates Inc</author>
+</authors>
+<title>Commercial Marine Inventories for Select Alaskan Ports, Final Report, Prepared for the Alaska Department of Conservation,</title>
+<date>2005</date>
+<journal>Docket ID</journal>
+<pages>2007--0121</pages>
+<marker>37</marker>
+<rawString>E.H. Pechan &amp; Associates Inc. (June 2005), Commercial Marine Inventories for Select Alaskan Ports, Final Report, Prepared for the Alaska Department of Conservation, Docket ID EPA-HQ-OAR-2007-0121-0165.</rawString>
+</citation>
+<citation valid="true">
+<title>Inventory Contribution of U.S. Flagged Vessels, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2009</date>
+<tech>EPA Report Number EPA-420-R-09-005, Docket ID EPA-HQ-OAR-2007-0121-0154. Deleted: . Regulatory Impact Analysis</tech>
+<institution>ICF International</institution>
+<marker>38</marker>
+<rawString>ICF International (March 2009). Inventory Contribution of U.S. Flagged Vessels, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA-420-R-09-005, Docket ID EPA-HQ-OAR-2007-0121-0154. Deleted: . Regulatory Impact Analysis</rawString>
+</citation>
+<citation valid="false">
+<pages>154</pages>
+<contexts>
+<context position="24394" citStr="[3]" startWordPosition="3604" endWordPosition="3604">e: 0.94 = Fraction of cruise speed to maximum speed Substituting Equation 3-10 into Equation 3-9, the equation to calculate load factor becomes: Equation 3-11 ( )3][ /94.0 SpeedCruiseSpeedRSZLoadFactor mainRSZ ×= Where: 0.94 = Fraction of cruise speed to maximum speed Load factors below 2 percent were set to 2 percent as a minimum. Substituting Equation 3-8 for time in mode and Equation 3-11 for load factor into Equation 3-7 , the expression used to calculate RSZ mode emissions for the main engines becomes: Equation 3-12 RSZ Mode Emissions for Main Engines ( ) ( ) )/10()(/94.0)/2()/tan()()( 6][3][][ gtonnesAdjEFSpeedCruiseSpeedRSZcalltripsSpeedRSZceDisRSZPcallsEmissions auxauxauxRSZ −××××××××= Where: EmissionsRSZ[main] = Metric tonnes emitted from main engines in RSZ mode calls = Round-trip visits (i.e., one entrance and one clearance is considered a call) P[main] = Total main engine power, in kilowatts RSZ distance = one way distance, in nautical miles (specific to each port) RSZ speed = speed, in knots (specific to each port) 2 trips/call = Used to calculate round trip RSZ distance Cruise speed = vessel service speed, in knots EF[main] = Emission factor for main engines for the poll</context>
+</contexts>
+<marker>3</marker>
+<rawString>-154</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>J Corbett</author>
+</authors>
+<title>Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Tasks 1 and 2: Baseline Inventory and Ports Comparison, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111,</title>
+<date>2006</date>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>39</marker>
+<rawString>Corbett, J. et al. (May 2006). Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Tasks 1 and 2: Baseline Inventory and Ports Comparison, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111, May 2006, Docket ID EPA-HQ-OAR-2007-0121-0013.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>J Corbett</author>
+</authors>
+<title>Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Tasks 1 and 2: Baseline Inventory and Ports Comparison, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111,</title>
+<date>2006</date>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>40</marker>
+<rawString>Corbett, J. et al. (May 2006). Estimation, Validation and Forecasts of Regional Commercial Marine Vessel Inventories, Tasks 1 and 2: Baseline Inventory and Ports Comparison, Final Report, prepared by University of Delaware for the California Air Resource Board, Contract Number 04-346, and the Commission for Environmental Cooperation in North America, Contract Number 113.111, May 2006, Docket ID EPA-HQ-OAR-2007-0121-0013.</rawString>
+</citation>
+<citation valid="true">
+<date>1998</date>
+<booktitle>Lloyd’s Register and International Maritime Organization, Marine Exhaust Emission Quantification Study – Baltic Sea, in MEPC 45/INF.7.</booktitle>
+<marker>41</marker>
+<rawString>Lloyd’s Register and International Maritime Organization, Marine Exhaust Emission Quantification Study – Baltic Sea, in MEPC 45/INF.7. 1998.</rawString>
+</citation>
+<citation valid="true">
+<title>Current Methodologies and Best Practices in Preparing Port Emission Inventories, Final Report, prepared for the U.S. Environmental Protection Agency, available online at http://www.epa.gov/sectors/ports/bp_portemissionsfinal.pdf,</title>
+<date>2006</date>
+<journal>Docket ID</journal>
+<pages>2007--0121</pages>
+<institution>ICF International</institution>
+<marker>42</marker>
+<rawString>ICF International (January 5, 2006). Current Methodologies and Best Practices in Preparing Port Emission Inventories, Final Report, prepared for the U.S. Environmental Protection Agency, available online at http://www.epa.gov/sectors/ports/bp_portemissionsfinal.pdf, Docket ID EPAHQ-OAR-2007-0121-0148.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J J Corbett</author>
+<author>H W Koehler</author>
+</authors>
+<title>Updated Emissions from Ocean Shipping,</title>
+<date>2003</date>
+<journal>Journal of Geophysical Research,</journal>
+<booktitle>Docket ID</booktitle>
+<volume>108</volume>
+<pages>4650</pages>
+<marker>43</marker>
+<rawString>Corbett, J.J. and H.W. Koehler (2003). Updated Emissions from Ocean Shipping, Journal of Geophysical Research, 108(D20); p. 4650, Docket ID EPA-HQ-OAR-2007-0121-0176.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J J Corbett</author>
+<author>H W Koehler</author>
+</authors>
+<title>Considering Alternative Input Parameters in an Activity-Based Ship Fuel Consumption and Emissions Model: Reply to Comment by Oyvind Endresen et al.</title>
+<date>2004</date>
+<booktitle>on “Updated Emissions from Ocean Shipping,” Journal of Geophysical Research. 109(D23303), Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>44</marker>
+<rawString>Corbett, J.J. and H.W. Koehler (2004). Considering Alternative Input Parameters in an Activity-Based Ship Fuel Consumption and Emissions Model: Reply to Comment by Oyvind Endresen et al. on “Updated Emissions from Ocean Shipping,” Journal of Geophysical Research. 109(D23303), Docket ID EPA-HQ-OAR-2007-0121-0159.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Levelton Consultants Ltd</author>
+</authors>
+<title>Marine Emission Inventory Study Eastern Canada and Great Lakes – Interim Report 4: Gridding Results, prepared for Transportation Development Centre, Transport Canada,</title>
+<date>2006</date>
+<journal>Docket ID</journal>
+<pages>2007--0121</pages>
+<marker>45</marker>
+<rawString>Levelton Consultants Ltd. (2006). Marine Emission Inventory Study Eastern Canada and Great Lakes – Interim Report 4: Gridding Results, prepared for Transportation Development Centre, Transport Canada, Docket ID EPA-HQ-OAR-2007-0121-0161.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>IMO</author>
+</authors>
+<title>Revision of MARPOL Annex VI and the NOx technical code. Input from the four subgroups and individual experts to the final report of the Informal Cross Government/Industry Scientific Group of Experts.</title>
+<booktitle>BLG/INF.10 12/28/2007, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>46</marker>
+<rawString>IMO. Revision of MARPOL Annex VI and the NOx technical code. Input from the four subgroups and individual experts to the final report of the Informal Cross Government/Industry Scientific Group of Experts. BLG/INF.10 12/28/2007, Docket ID EPA-HQ-OAR-2007-0121-</rawString>
+</citation>
+<citation valid="false">
+<marker>0118</marker>
+<rawString>.</rawString>
+</citation>
+<citation valid="true">
+<title>Transportation in Canada Annual Report</title>
+<date>2004</date>
+<institution>Transport Canada</institution>
+<note>Tables 3-26 and 8-</note>
+<marker>47</marker>
+<rawString>Transport Canada (2004). Transportation in Canada Annual Report 2004. (Tables 3-26 and 8-</rawString>
+</citation>
+<citation valid="false">
+<booktitle>http://www.tc.gc.ca/pol/en/report/anre2004/8F_e.htm, Docket ID EPA-HQ-OAR-2007-</booktitle>
+<marker>27</marker>
+<rawString>). http://www.tc.gc.ca/pol/en/report/anre2004/8F_e.htm, Docket ID EPA-HQ-OAR-2007-</rawString>
+</citation>
+<citation valid="false">
+<pages>0169</pages>
+<marker>0121</marker>
+<rawString>-0169.</rawString>
+</citation>
+<citation valid="true">
+<title>Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2006</date>
+<tech>EPA Report Number EPA420-D-07-006, Docket ID</tech>
+<pages>2007--0121</pages>
+<institution>RTI International</institution>
+<marker>48</marker>
+<rawString>RTI International (December 2006). Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA420-D-07-006, Docket ID EPA-HQ-OAR-2007-0121-0063.3.</rawString>
+</citation>
+<citation valid="true">
+<title>Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2006</date>
+<booktitle>EPA Report Number EPA420-D-07-006, Docket ID EPA-HQ-OAR-2007-0121-0063.3. Deleted: ). Deleted: . Chapter 3: Emission Inventory</booktitle>
+<institution>RTI International</institution>
+<marker>49</marker>
+<rawString>RTI International (December 2006). Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA420-D-07-006, Docket ID EPA-HQ-OAR-2007-0121-0063.3. Deleted: ). Deleted: . Chapter 3: Emission Inventory</rawString>
+</citation>
+<citation valid="false">
+<pages>155</pages>
+<contexts>
+<context position="24394" citStr="[3]" startWordPosition="3604" endWordPosition="3604">e: 0.94 = Fraction of cruise speed to maximum speed Substituting Equation 3-10 into Equation 3-9, the equation to calculate load factor becomes: Equation 3-11 ( )3][ /94.0 SpeedCruiseSpeedRSZLoadFactor mainRSZ ×= Where: 0.94 = Fraction of cruise speed to maximum speed Load factors below 2 percent were set to 2 percent as a minimum. Substituting Equation 3-8 for time in mode and Equation 3-11 for load factor into Equation 3-7 , the expression used to calculate RSZ mode emissions for the main engines becomes: Equation 3-12 RSZ Mode Emissions for Main Engines ( ) ( ) )/10()(/94.0)/2()/tan()()( 6][3][][ gtonnesAdjEFSpeedCruiseSpeedRSZcalltripsSpeedRSZceDisRSZPcallsEmissions auxauxauxRSZ −××××××××= Where: EmissionsRSZ[main] = Metric tonnes emitted from main engines in RSZ mode calls = Round-trip visits (i.e., one entrance and one clearance is considered a call) P[main] = Total main engine power, in kilowatts RSZ distance = one way distance, in nautical miles (specific to each port) RSZ speed = speed, in knots (specific to each port) 2 trips/call = Used to calculate round trip RSZ distance Cruise speed = vessel service speed, in knots EF[main] = Emission factor for main engines for the poll</context>
+</contexts>
+<marker>3</marker>
+<rawString>-155</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>James Corbett</author>
+<author>Chengfeng Wang</author>
+</authors>
+<date>2005</date>
+<booktitle>Emission Inventory Review SECA Inventory Progress Discussion, p 11, memorandum to California Air Resources Board, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>50</marker>
+<rawString>Corbett, James and Chengfeng Wang (October 26, 2005). Emission Inventory Review SECA Inventory Progress Discussion, p 11, memorandum to California Air Resources Board, Docket ID EPA-HQ-OAR-2007-0121-0168.</rawString>
+</citation>
+<citation valid="true">
+<title>Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency,</title>
+<date>2006</date>
+<tech>EPA Report Number EPA420-D-07-006, Docket ID</tech>
+<pages>2007--0121</pages>
+<institution>RTI International</institution>
+<marker>51</marker>
+<rawString>RTI International (December 2006). Global Trade and Fuels Assessment – Future Trends and Effects of Designation Requiring Clean Fuels in the Marine Sector: Task Order No. 1, Draft Report, prepared for the U.S. Environmental Protection Agency, EPA Report Number EPA420-D-07-006, Docket ID EPA-HQ-OAR-2007-0121-0063.3.</rawString>
+</citation>
+<citation valid="true">
+<date>2005</date>
+<booktitle>Oceangoing Ship Survey, Summary of Results, Docket ID</booktitle>
+<pages>2007--0121</pages>
+<institution>California Air Resources Board (</institution>
+<marker>53</marker>
+<rawString>California Air Resources Board ( September 2005). 2005 Oceangoing Ship Survey, Summary of Results, Docket ID EPA-HQ-OAR-2007-0121-0149.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Maritime</author>
+</authors>
+<title>Administration, Office of Statistical and Economic Analysis</title>
+<date>2006</date>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<publisher>World Ports,</publisher>
+<marker>54</marker>
+<rawString>U.S. Maritime Administration, Office of Statistical and Economic Analysis (April 2006). Vessel Calls at U.S. &amp; World Ports, 2005, Docket ID EPA-HQ-OAR-2007-0121-0040.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Santa Barbara</author>
+</authors>
+<title>County Air Quality News, Issue 62,</title>
+<date>2001</date>
+<booktitle>Docket ID</booktitle>
+<pages>2007--0121</pages>
+<marker>55</marker>
+<rawString>Santa Barbara County Air Quality News, Issue 62, July-August 2001, Docket ID EPA-HQOAR-2007-0121-0167.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

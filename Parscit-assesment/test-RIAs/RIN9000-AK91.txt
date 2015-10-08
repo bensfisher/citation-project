@@ -1,0 +1,973 @@
+  
+ 
+ 
+Regulatory Impact Analysis 
+Employment Eligibility Verification 
+(Federal Acquisition Regulation Case 2007-013) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notice of Proposed Rulemaking 
+May 29, 2008 
+ 2 
+Contents 
+Executive Summary ........................................................................................................... 7 
+Benefits Statement......................................................................................................................9 
+OMB Accounting Statement............................................................................................ 10 
+1. Background .................................................................................................................. 11 
+Market Failure Addressed.......................................................................................................12 
+The Employment Eligibility Verification (E-Verify) Program ............................................13 
+2. Population Estimates ................................................................................................... 18 
+Affected Population..................................................................................................................18 
+Initial Year Company Population Estimate ..........................................................................................18 
+Recurring Year Company Population Estimate ...................................................................................19 
+Initial Year Employee Population Estimates........................................................................................20 
+Recurring Year Employee Population Estimates .................................................................................25 
+3. Cost Analysis ................................................................................................................ 28 
+Startup Costs.............................................................................................................................28 
+Registration...........................................................................................................................................28 
+Memorandum of Understanding...........................................................................................................28 
+Implementation.........................................................................................................................30 
+Designated Personnel Training.............................................................................................................30 
+Computer and Internet Costs ................................................................................................................31 
+Total Annual Startup and E-Verify User Training Costs .....................................................................32 
+Employee Verification..............................................................................................................33 
+Submission of Information ...................................................................................................................33 
+SSA Tentative Nonconfirmation ..........................................................................................................34 
+Employee Contests SSA Findings........................................................................................................34 
+Resolution of the SSA Nonconfirmation..............................................................................................35 
+Submission of Information to DHS.........................................................................................36 
+Photo Screening Tool Process ..............................................................................................................37 
+DHS Initial Verification .......................................................................................................................37 
+DHS Second Stage Verification ...........................................................................................................37 
+DHS Third Stage Verification ..............................................................................................................38 
+Employee Contests DHS Findings .......................................................................................................38 
+Resolution of the DHS Nonconfirmation .............................................................................................39 
+DHS Final Nonconfirmation ................................................................................................................39 
+Cost of Verifying Employees through E-VERIFY ..............................................................................41 
+Employee Replacement (Turnover) Costs .............................................................................42 
+Employer & Employee Cost of Using the E-Verify System..................................................46 
+Government Costs ....................................................................................................................47 
+Overall Costs.............................................................................................................................47 
+4. Benefits Statement........................................................................................................ 50 
+5. Analysis of Alternative ................................................................................................. 50 
+6. Small Entity Information............................................................................................. 54 
+ 3 
+Ten Employee Contractor.....................................................................................................................54 
+Fifty Employee Contractor ...................................................................................................................57 
+One Hundred Employee Contractor .....................................................................................................59 
+Five Hundred Employee Contractor.....................................................................................................60 
+Summary of Impact ..............................................................................................................................62 
+Appendix A:  Estimation of Revenues per Firm............................................................. 63 
+Appendix B: Analysis of Uncertainty.............................................................................. 65 
+Number of Employees Vetted Sensitivity Analysis ...............................................................65 
+Initial Year Employees Only Sensitivity Analysis ...............................................................................66 
+3% NPV Annualized Employees Only Sensitivity Analysis ...............................................................67 
+3% NPV Ten Year Employees Only Sensitivity Analysis ...................................................................68 
+7% NPV Annualized Employees Only Sensitivity Analysis ...............................................................70 
+7% NPV Ten Year Employees Only Sensitivity Analysis ...................................................................71 
+Number of Contractors and Subcontractors Sensitivity Analysis.......................................72 
+Initial Year Contractors and Subcontractors Sensitivity Analysis .......................................................73 
+3% NPV Annualized Contractors and Subcontractors Sensitivity Analysis........................................74 
+3% NPV Ten Year Contractors and Subcontractors Sensitivity Analysis ...........................................75 
+7% NPV Annualized Contractors and Subcontractors Sensitivity Analysis........................................76 
+7% NPV Ten Year Contractors and Subcontractors Sensitivity Analysis ...........................................77 
+Overall Sensitivity Analysis.....................................................................................................78 
+Initial Year Overall Sensitivity Analysis..............................................................................................78 
+3% NPV Annualized Overall Sensitivity Analysis ..............................................................................79 
+3% NPV Ten Year Overall Sensitivity Analysis..................................................................................80 
+7% NPV Annualized Overall Sensitivity Analysis ..............................................................................81 
+7% NPV Ten Year Overall Sensitivity Analysis..................................................................................82 
+ 4 
+Tables 
+ 
+Table ES-1 Total Cost of Proposed Rule - 7% NPV...................................................................................8 
+Table ES-2. OMB Accounting Statement of Annualized Costs and Benefits (2009-2018)....................10 
+Table 1:  Number of Prime and Subcontractors Annually Enrolled in the E-Verify Program ...........20 
+Table 2  Total Labor Content of Covered Prime and Subcontracts .......................................................24 
+Table 3: Number of Initial and New Employees Vetted Through the  E-Verify Program ...................27 
+Table 4:  Initial Registration .......................................................................................................................28 
+Table 5: Read and Sign Memorandum of Understanding .......................................................................29 
+Table 6: Estimated Number of HR Personnel and Training Costs .........................................................31 
+Table 7: Cost of New & Replacement Computers and Internet Access .................................................32 
+Table 8: Total Annual Contractor Startup and E-Verify User Training Costs.....................................32 
+Table 9:  E-Verify Hours Required to Verify Each New Hire through SSA..........................................36 
+Table 10:  E-Verify Hours Required to Verify Each New Hire...............................................................40 
+Table 11:  Cost to Verify Each New Hire Through E-Verify...................................................................41 
+Table 12:  Authorized Employee Replacement (Turnover) Costs...........................................................46 
+Table 13:  Total Non-Government Cost of the E-Verify -FAR Rule.......................................................46 
+Table 14:  Government Costs for E-Verify................................................................................................47 
+Table 15:  Undiscounted 10 Year Cost of E-Verify...................................................................................48 
+Table 16:  Discounted 10 Year Cost of E-Verify (7% Discount) .............................................................48 
+Table 17:  Discounted 10 Year Cost of E-Verify (3% Discount) .............................................................49 
+Table 18:  Total 10 Year Cost for E-Verify with a 7% and 3% Discount Rate (both Federal 
+Government and Non-Government Costs).......................................................................................49 
+Table 19:  Reduction in the Number of Employees if Only Newly Hired Employees are Vetted 
+Through E-Verify ...............................................................................................................................51 
+Table 20:  Reduction in Cost if Only Newly Hired Employees are Vetted Through E-Verify (7% & 
+3% NPV)..............................................................................................................................................52 
+Table 21:  Undiscounted 10 Year Cost for a 10 Employee Firm .............................................................54 
+Table22: Total Annual Contractor Startup and E-Verify User Training Costs for a 10 Employee 
+Firm......................................................................................................................................................55 
+Table 23:  Verification Costs for New Hires for a 10 Employee..............................................................55 
+Table 24:  Authorized Employee Replacement (Turnover) Costs for a 10 Employee Firm .................56 
+Table 25:  Undiscounted 10 Year Cost for a 50 Employee Firm .............................................................57 
+Table 26: Total Annual Contractor Startup and E-Verify User Training Costs for a 50 Employee 
+Firm......................................................................................................................................................58 
+Table 27:  Verification Costs for New Hires for a 50 Employee Firm ....................................................58 
+Table 28:  Authorized Employee Replacement (Turnover) Costs for a 50 Employee Firm .................59 
+Table 29:  Undiscounted 10 Year Cost for a 100 Employee Firm ...........................................................60 
+Table 30:  Undiscounted 10 Year Cost for a 500 Employee Firm ...........................................................61 
+ 5 
+Table 31:  Initial Year Compliance Cost Compared to Annual Revenue...............................................62 
+Table 32:  2002 Data on Firm Size and Receipts.......................................................................................63 
+Table 33:  Linear Interpolation of SBA Firm Data ..................................................................................64 
+Table 34: Triangle Distribution of the Number of Employees Verified in 2009 ....................................66 
+Table 35: Monte Carlo Simulation Results for Variance in the Number of Employees Vetted 
+Through E-Verify in 2009..................................................................................................................67 
+Table 36: Annualized Monte Carlo Simulation Results for Variance in the Number of Employees 
+Vetted through E-Verify (3% NPV) 2009-2018 ...............................................................................68 
+Table 37: 10 Year Monte Carlo Simulation Results for Variance in the Number of Employees Vetted 
+through E-Verify (3% NPV) 2009-2018 ...........................................................................................69 
+Table 38: Annualized Monte Carlo Simulation Results for Variance in the Number of Employees 
+Vetted through E-Verify (7% NPV) 2009-2018 ...............................................................................70 
+Table 39: 10 Year Monte Carlo Simulation Results for Variance in the Number of Employees Vetted 
+through E-Verify (7% NPV) 2009-2018 ...........................................................................................71 
+Table 40: Triangle Distribution of the Number of Contractors & Subcontractors Verified in 2009 ..72 
+Table 41: Monte Carlo Simulation Results for Variance in the Number of Contractors & 
+Subcontractors Vetted Through E-Verify in 2009 ..........................................................................73 
+Table 42: Annualized Monte Carlo Simulation Results for Variance in the Number of Contractors & 
+Subcontractors Vetted through E-Verify (3% NPV) 2009-2018....................................................74 
+Table 43: 10 Year Monte Carlo Simulation Results for Variance in the Number of Contractors & 
+Subcontractors Vetted through E-Verify (3% NPV) 2009-2018....................................................75 
+Table 44: Annualized Monte Carlo Simulation Results for Variance in the Number of Contractors 
+and Subcontractors Vetted through E-Verify (7% NPV) 2009-2018 ............................................76 
+Table 45: 10 Year Monte Carlo Simulation Results for Variance in the Number of Contractors & 
+Subcontractors Vetted through E-Verify (7% NPV) 2009-2018....................................................77 
+Table 46: Monte Carlo Simulation Results for Variance in the Number of Employees Vetted 
+Through E-Verify and the Number of Contractors & Subcontractors Enrolled in E-Verify in 
+2009 ......................................................................................................................................................78 
+Table 47: Annualized Monte Carlo Simulation Results for Variance in the Number of Employees 
+Vetted Through E-Verify & the Number of Firms Enrolled over the Ten Year Period (3% 
+NPV) 2009-2018 ..................................................................................................................................79 
+Table 48: 10 Year Monte Carlo Simulation Results for Variance in the Number of Employees Vetted 
+Through E-Verify & the Number of Firms Enrolled in E-Verify (3% NPV) 2009-2018 ............80 
+Table 49: Annualized Monte Carlo Simulation Results for Variance in the Number of Employees 
+Vetted Through E-Verify & the Number of Firms Enrolled over the Ten Year Period (7% 
+NPV) 2009-2018 ..................................................................................................................................81 
+Table 50: 10 Year Monte Carlo Simulation Results for Variance in the Number of Employees Vetted 
+Through E-Verify & the Number of Firms Enrolled in E-Verify (7% NPV) 2009-2018 ............82 
+ 
+ 
+ 
+ 
+ 6 
+ 
+Charts 
+ 
+ 
+Chart 1: The E-Verify Authorization Process (Data from Oct. 2006 – Mar. 2007)...............................17 
+Chart 2: Final Case Resolution by Percentage (January 2007 – June 2007)..........................................40 
+ 7 
+Executive Summary 
+ 
+The accompanying rule proposes to amend the Federal Acquisition Regulation (FAR) to 
+require that certain contracts contain a clause requiring that the contractor and 
+subcontractor utilize the E-Verify System to verify employment eligibility of all newly 
+hired employees of the contractor or subcontractor and all employees directly engaged in 
+the performance of work in the United States under those contracts. 
+ 
+The E-Verify System is an internet-based system operated by U.S. Citizenship and 
+Immigration Services (USCIS), in partnership with the Social Security Administration 
+(SSA). E-Verify works by allowing employers to electronically compare employee 
+information taken from the Form I-9 to ensure employees are authorized to work in the 
+United States and that the employees’ name, Social Security number, and date of birth 
+match government records. 
+ 
+In the initial fiscal year the rule is expected to be effective (2009), we estimate that there 
+will be approximately 169,000 contractors and subcontractors that will be required to 
+enroll in E-Verify due to this rule and that there will be an additional 3.8 million 
+employees vetted through E-Verify.  In the initial year, the cost of the proposed rule at 
+7% net present value is approximately $107.0 million  and over the ten year period of 
+analysis (2009-2018), the cost of the proposed rule is approximately $550.3 million.  In 
+the initial year, the cost of the proposed rule at 3% net present value is approximately, 
+$111.2 million and over the ten year period of analysis (2009-2018), the cost of the 
+proposed rule is 668.9 million. Compliance costs from E-Verify are in the following 
+general categories and Table ES-1 below provides a summary of the costs: 
+ 
+ ●  Startup Costs – Employers must register to use the E-verify System and sign a 
+Memorandum of Understanding with USCIS and SSA.  A very small number of 
+employers may need to purchase a computer and internet connection for their hiring site 
+if that hiring site does not already have internet access. 
+ ●  Training – Employees that use the E-Verify System are required to take an on-
+line tutorial.  While USCIS does not charge a fee for this training, employers will incur 
+the opportunity cost of the time the employee spends for this training, as the employee’s 
+time could have been spent on other activities. 
+ ●  Employee Verification – Employers will incur the opportunity cost of the time 
+spent entering data into E-Verify and if the employee receives a tentative 
+nonconfirmation, employers would inform the employee, and spend time closing out the 
+case after resolution of the tentative nonconfirmation.  In addition, the employer would 
+incur lost productivity when an employee would need to be away from work to visit SSA 
+to correct his/her information. We believe the employee would bear the cost of driving to 
+SSA. 
+ ●  Employee Replacement (Turnover) Cost – There may be a small percentage of 
+workers who are authorized to work in the U.S. and receive a tentative nonconfirmation, 
+but choose not to take the steps necessary to resolve the tentative nonconfirmation 
+(despite the strong economic incentives to resolve the issue).  To the extent that the 
+accompanying E-Verify rulemaking results in the termination of a worker authorized to 
+ 8 
+work in the U.S., those costs would be considered to be a cost of the rule.  However, the 
+termination and replacement costs of unauthorized workers are not counted as a direct 
+cost of this rule since current immigration law prohibits employers from hiring or 
+continuing to employ aliens whom they know are not authorized to work in the U.S. The 
+termination and replacement of unauthorized employees will impose a burden on 
+employers, but INA section 274A(a)(1), (2), 8 U.S.C. 1324a(a)(1), (2), expressly 
+prohibits employers from hiring or knowingly continuing to employ an alien whom they 
+know is not authorized to work in the United States. Accordingly, costs that result from 
+employers’ knowledge of their workers’ illegal status are attributable to the Immigration 
+and Nationality Act, not to the Federal Acquisition Regulation requiring Employment 
+Eligibility Verification for certain federal contractors and subcontractors. 
+●  Federal Government Cost – The government will incur operating costs from each 
+query that an employer runs and will also incur costs from resolving tentative 
+nonconfirmations.  
+  
+Table ES-1 Total Cost of Proposed Rule - 7% NPV  
+ 
+ 
+In order to further inform our understanding of the economic impact of this rule on small 
+entities, we considered hypothetical contractors with 10, 50, 100, and 500 employees and 
+estimated the economic impact of the rule on those 4 sizes of entities in their initial year 
+of enrollment.  The initial year a contractor enrolls in E-Verify is expected to be the year 
+with the highest compliance cost, as the contractor is incurring both the start-up costs of 
+enrolling in E-Verify as well as the costs of vetting new employees through the E-Verify 
+system.  
+ 
+We estimate the average direct cost of this rule to a contractor with 10 employees to be 
+$419 in the initial year, for a contractor with 50 employees, we estimate the average cost 
+of participating in E-Verify to be $1,168 in the initial year, for a contractor with 100 
+employees we estimate an initial year impact of $2,102, while a contractor with 500 
+employees is expected to have an initial year impact of $8,964.  This level of direct cost 
+burden is well under 1% of the expected annual revenue of these 4 sizes of small entities, 
+and therefore does not appear to represent a significant impact on a cost-per-contractor 
+basis. 
+ 
+ 9 
+Benefits Statement 
+ 
+Because illegal aliens are at risk of being apprehended in immigration enforcement 
+actions, contractors who hire illegal aliens will necessarily have a more unstable 
+workforce than contractors who do not hire unauthorized workers.  Given the 
+vulnerabilities in the paper I-9 system, even many employers that do not knowingly 
+employ illegal aliens nevertheless may have unauthorized workers, undetected, on their 
+workforce.   
+ 
+This rule will promote economy and efficiency in Government procurement.  Stability 
+and dependability are important elements of economy and efficiency.  A contractor 
+whose workforce is unstable will likely be less able to produce goods and services 
+economically and efficiently than a contractor whose work force is more stable.  Because 
+of the Executive Branch’s obligation to enforce the immigration laws, including the 
+detection and removal of illegal aliens identified through vigorous worksite enforcement, 
+contractors that employ illegal aliens cannot rely on the continuing availability and 
+service of those illegal workers, and such contractors inevitably will have a less stable 
+workforce than contractors that do not employ such persons.  Where a contractor assigns 
+illegal aliens to work on Federal contracts, the enforcement of Federal immigration laws 
+imposes a direct risk of disruption, delay, and increased expense in Federal contracting.  
+Therefore, we consider such contractors to be less dependable procurement sources, even 
+if they do not knowingly hire or knowingly continue to employ unauthorized workers.   
+ 
+Contractors that use E-Verify to confirm the employment eligibility of their workforce 
+are much less likely to face immigration enforcement actions, and generally should be 
+more efficient and dependable procurement sources than contractors that do not use that 
+system to verify the work eligibility of their workforce.  In addition, rigorous 
+employment verification through E-Verify will help contractors to confirm the identity of 
+the persons working on federal contracts, which will contribute to enhancing national 
+security.  For example, contractors operating at sensitive national infrastructure sites may 
+require some type of background investigation.  Such investigations are likely to be 
+significantly more efficient for a workforce whose identity and work authorization status 
+have been confirmed through E-verify. 
+ 
+ 10 
+OMB Accounting Statement 
+ 
+As required by OMB Circular A-4 (available at 
+www.whitehouse.gov/omb/circulars/index.html), DHS has prepared an accounting 
+statement showing the classification of the costs and benefits associated with this rule. 
+Table ES-2 provides an estimate of the dollar amount of these costs and benefits 
+expressed in 2007 dollars, at three percent and seven percent discount rates. DHS 
+estimates the cost of this rule will be approximately $78.4 million annualized (7 percent 
+discount rate) and approximately $78.4 million annualized (3 percent discount rate). 
+ 
+Table ES-2. OMB Accounting Statement of Annualized Costs and Benefits (2009-
+2018) 
+  3% discount rate 7% discount rate 
+  
+Primary 
+Estimate 
+Minimum 
+Estimate 
+Maximum 
+Estimate 
+Primary 
+Estimate 
+Minimum 
+Estimate 
+Maximum 
+Estimate 
+COSTS       
+Annualized monetized costs 
+$78.4 
+million 
+$73.4 
+million 
+$83.4 
+million 
+$78.4 
+million 
+$73.2 
+million 
+$83.5 
+million 
+Annualized quantified, but un-monetized costs None None 
+Qualitative (un-quantified) costs None None 
+              
+BENEFITS       
+Annualized monetized benefits None None 
+Annualized quantified, but un-monetized 
+benefits 
+This rule will reduce the instability and 
+disruption that results from the 
+presence of unauthorized alien workers 
+in the Government contract workforce, 
+and thereby promote economy and 
+efficiency in Government procurement.   
+This rule will reduce the instability and 
+disruption that results from the presence of 
+unauthorized alien workers in the 
+Government contract workforce, and 
+thereby promote economy and efficiency in 
+Government procurement.   
+Qualitative (un-quantified) benefits 
+This rule will prevent reliance on 
+unauthorized labor in Government 
+procurement, and improve security in 
+Government contract worksites 
+This rule will prevent reliance on 
+unauthorized labor in Government 
+procurement, and improve security in 
+Government contract worksites 
+ 
+ 
+ 11 
+1. Background 
+ 
+In 1986, Congress passed the Immigration Reform and Control Act (IRCA), explicitly 
+prohibiting the employment of persons not authorized to work in the United States.  
+Employers that hire or employ workers whom they know are unauthorized, including 
+employers that act with constructive knowledge that those they hire or employ are 
+unauthorized to work, face civil and criminal sanctions under the Act.  IRCA also 
+established a paper-based system for employers to verify employment eligibility by 
+examining documents produced by an employee to establish his or her identity and work 
+authorization, filling out an employment eligibility verification form (known as the Form 
+I-9), and keeping these records in the employer’s files for possible inspection by Federal 
+immigration authorities. 
+ 
+The security and reliability of this paper-based system is dependent on the diligence with 
+which employers implement it, and on the security of the identity and work eligibility 
+documents that the employee presents for the employer's examination.  In recent years 
+the quality of counterfeit documents and the sophistication of identity theft efforts have 
+steadily increased, resulting in a steady deterioration in the ability of the paper-based 
+employment verification system to identify illegal workers, even where employers seek 
+in good faith to comply with their obligations under IRCA.  ICE's enforcement 
+experience as well as that of the former Immigration and Naturalization Service (INS) 
+shows that large numbers of illegal aliens are working in the United States for employers 
+who have followed, at least in form, the I-9 process. 
+ 
+In 1996, President Clinton issued an executive order prohibiting Federal agencies from 
+contracting with employers that employ unauthorized workers in violation of IRCA, 
+noting that the presence of unauthorized aliens on a contractor’s workforce rendered that 
+contractor’s workforce less stable and reliable than the workforces of contractors who do 
+not employ unauthorized aliens.  See Executive Order 12989, 61 FR 6091 (February 15, 
+1996). 
+ 
+Later that same year, Congress passed the Illegal Immigration Reform and Immigrant 
+Responsibility Act (IIRIRA), which established the Basic Pilot program, a free program 
+for verifying employment eligibility of both U.S. citizens and non-citizens, as a 
+supplement to the paper-based employment verification system created in 1986.  The 
+Basic Pilot program—now known as E-Verify—is a significantly more robust means for 
+confirming employment eligibility than the Form I-9 system.  In renewing the E-Verify 
+program twice in the last six years, Congress has repeatedly acknowledged that the I-9 
+system is so vulnerable to fraud that “the easy availability of counterfeit documents has 
+made a mockery of” the statutory bar against employment of unauthorized workers, H.R. 
+Rep. 107-310 at 2; H.R. Rep. 108-304 at 3. 
+ 
+The E-Verify system is the best currently available means of verifying employment 
+eligibility.  Participating employers submit queries to the web-based E-Verify system 
+after they have filled out the Citizenship and Immigration Services Form I-9 and accepted 
+the documents proffered by an employee.  E-Verify then confirms the legitimacy of 
+ 12 
+information and documents that have already been reviewed and accepted as reasonably 
+appearing to be genuine on their face.  In contrast with the paper-based I-9 system, which 
+relies on employers to attempt to confirm the legitimacy of the identity and work-
+authorization documents presented by an employee, and which does not involve any 
+routine examination or confirmation by the government, E-Verify is an interactive 
+electronic mechanism for the employer to confirm an employee’s work authorization 
+with the relevant Federal authorities, usually in a matter of seconds.  Throughout its 
+voluntary operation to date, E-Verify has consistently identified instances in which an 
+employee has submitted false identity and work authorization documents that were not 
+detected in the ordinary I-9 review.  The most recent study of the E-Verify system, 
+completed in 2007, showed that the system rejects between 5.2 percent and 5.3 percent of 
+all queries submitted seeking confirmation of an employee’s work authorization.  In 
+fiscal year 2007, when E-Verify received approximately 3 million queries, approximately 
+157,000 individuals without work authorization who have managed to evade the I-9 
+process were stopped from obtaining illegal employment by E-Verify.  Recent 
+enhancements of the E-Verify system, such as the addition of a “photo tool” (currently 
+able to be used only for certain documents presented by non-citizens) which allows the 
+employer to compare the photograph on the identity document submitted by the 
+employee with the official record for that document, have further improved E-Verify’s 
+ability to prevent identity theft or more sophisticated forms of fraud.   
+ 
+The E-Verify System is expected to help contractors avoid employment of unauthorized 
+aliens, and will assist Federal agencies to avoid contracting with companies that 
+knowingly hire unauthorized aliens.  This promotes economy and efficiency in federal 
+contracting, and it also enhances the Government’s ability to protect national security and 
+ensure compliance with the nation’s immigration laws. 
+ 
+Need for the Proposed Rule 
+ 
+Even though federal contractors can currently choose to enroll in E-Verify and 
+electronically verify the employment eligibility of their newly hired employees, it is not a 
+legal or contractual requirement, thus many have chosen not to enroll.  Some contractors 
+may be reluctant to use E-Verify because, as DHS’s experience in worksite enforcement 
+shows, government contractors are not immune from the temptation to knowingly hire 
+illegal workers in a tight labor market.  Moreover, even employers do not knowingly hire 
+illegal workers can face the same disruptions in staffing and production if illegal workers 
+are found in their employ.     
+ 
+DHS’s worksite enforcement efforts include criminal investigations and arrests of illegal 
+aliens at the worksite, causing disruptions in staffing and production by employers—
+including Federal contractors—who employ unauthorized workers.  Such disruptions can 
+harm the overall operations of the affected business; where illegal workers are assigned 
+to a specific project or contract, their detention or their decision to abandon their jobs to 
+avoid detection directly harms the employer’s ability to complete that project or contract.  
+These negative impacts, however, are generally passed on in higher costs to the 
+government, both in pure price terms and in terms of interfering with the projects for 
+ 13 
+which the government depends on contractors’ support.  Moreover, because of limited 
+enforcement resources some firms may conclude that the likelihood of a worksite 
+enforcement action is not high enough, and the share of the impact felt by the contractor 
+itself not large enough, to justify the effort required to use the E-Verify system.   
+ 
+Since contractors nevertheless may suffer serious consequences if they are found to 
+knowingly employ unauthorized aliens, some contractors have invested resources in 
+reducing the probability of hiring unauthorized aliens.  In a competitive marketplace, 
+however, contractors will not normally choose to make additional investments to reduce 
+the probability of hiring unauthorized aliens over their privately optimal amount, since 
+they would consequently be choosing to increase their cost of production and would be at 
+a disadvantage when competing with companies that have chosen not to make similar 
+investments.  
+ 
+For example, existing debarment rules, established in response to Executive Order 12989 
+(February 16, 1996) only penalize contractors that knowingly hire unauthorized workers, 
+and do not encourage contractors to adopt additional means to ensure that they do not 
+unwittingly hire or assign to federal contracts persons that are not authorized to work in 
+the United States.  Executive Order xxxxx of June xx, 2008 amends Executive Order 
+12989 in light of the recent advances in the reliability, convenience, and accuracy of the 
+E-Verify system and directs federal agencies to use this powerful tool to avoid both the 
+general inefficiencies that flow from contracting with employers burdened with unstable 
+workforces as well as the direct costs of disruptions to federal contract performance that 
+result when unauthorized aliens are found in, and must be subsequently removed from, 
+the federal contract workforce.  As this rulemaking requires covered federal contractors 
+to enroll in E-Verify, the competitive advantage that may be currently enjoyed by those 
+contractors not participating in E-Verify would be expected to disappear. 
+  
+ 
+The Employment Eligibility Verification (E-Verify) Program  
+ 
+The E-Verify program is an internet-based system operated by U.S. Citizenship and 
+Immigration Services (USCIS) in partnership with the Social Security Administration 
+(SSA).  E-Verify assists employers in determining the employment eligibility of 
+individual workers and the validity of the documents submitted with the Form I-9.   
+ 
+Before an employer can participate in the E-Verify program, the employer must enter into 
+a written agreement called a memorandum of understanding (MOU) with DHS.  This 
+MOU requires employers to agree to abide by current legal hiring procedures and to 
+ensure that no employee will be unfairly discriminated against as a result of the E-Verify 
+program.  Violation of the terms of this agreement by the employer is grounds for 
+immediate termination of its participation in E-Verify.   
+ 
+Both the User Manual and Tutorial for the E-Verify program contain instructions and 
+other related materials on E-Verify procedures and requirements. Once the user has 
+ 14 
+signed the MOU and completed an online tutorial, he or she may begin using the system 
+to verify the employment eligibility of all newly hired employees. 
+  
+Employers participating in the E-Verify program are still required to complete an 
+Employment Eligibility Verification Form (Form I-9)1 for each newly hired employee, as 
+required under current law.  Within three days of the worker’s hire date an employer must 
+enter the newly hired worker’s information as presented on the I-9 form. This includes 
+information such as the employee’s name, Social Security number (SSN), and citizenship 
+status or alien number.  The information that is entered on the E-Verify website is then 
+checked against information contained in SSA and USCIS databases. 
+ 
+SSA first verifies that the name, SSN, and date of birth are correct and, if the employee 
+has stated that he or she is a US citizen, confirms whether this is in fact the case through 
+its databases.  If the employee is a U.S. citizen, SSA establishes that the employee is 
+employment-eligible.  In the cases of newly naturalized citizens, however, SSA is 
+sometimes unable to confirm their U.S. citizenship and must forward the inquiry to 
+USCIS.  This is usually the case when the newly naturalized citizen has not yet notified 
+SSA of the change in his or her citizenship status.   
+ 
+USCIS also verifies through database checks that any non-U.S. citizen employee is in an 
+employment-authorized immigration status.   
+ 
+If the information provided by the worker matches the information in the SSA and 
+USCIS records, no further action will generally be required, and the worker may continue 
+employment.  E-Verify procedures require only that the employer record on the I-9 form 
+the verification ID number and result obtained from E-Verify, or print a copy of the 
+transaction record and retain it with the I-9 form. 
+ 
+If SSA is unable to verify information presented by the worker, the employer will receive 
+an “SSA Tentative Nonconfirmation” notice.  Employers can receive a tentative 
+nonconfirmation notice for a variety of reasons, including inaccurate entry of information 
+into the form on the E-Verify website, name changes, or changes in immigration status 
+that are not reflected in the SSA database. 
+ 
+If the individual’s information does not match the SSA records, the employer must 
+provide the employee with a written notice of the fact, called a “Notice to Employee of 
+Tentative Nonconfirmation.”  The worker must then check a box on the notice stating 
+that he or she contests or does not contest the tentative Nonconfirmation, and both the 
+worker and the employer must sign the notice.   
+ 
+If the worker chooses to contest the tentative nonconfirmation, the employer must print a 
+second notice, called a “Referral Letter,” which contains information about resolving the 
+tentative nonconfirmation, as well as the contact information for SSA.  The worker then 
+                                                
+1http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=05721
+94d3e88d010VgnVCM10000048f3d6a1RCRD&vgnextchannel=91919c7755cb9010VgnVCM10000045f3
+d6a1RCRD 
+ 
+ 15 
+has eight federal government work days to visit an SSA office to try to resolve the 
+discrepancy.  Under the MOU, if the worker contacts SSA to resolve the tentative 
+Nonconfirmation, the employer is prohibited from terminating or otherwise taking 
+adverse action against the worker while he or she awaits a final resolution from the 
+government agency. 
+ 
+In the past the employer had to wait 24 hours to resubmit the query after a SSA Tentative 
+Nonconfirmation.  However, SSA has since enhanced their function so that in nearly all 
+cases the system response, after the employee visits an SSA office, goes automatically to 
+the employer, obviating the need for the employer to resubmit the case.  If the worker 
+fails to show up at SSA within 10 federal government work days (from the date the 
+worker was referred to SSA), chooses not to contest the tentative nonconfirmation, or if 
+SSA was unable to resolve the discrepancy the employer will receive a notice of final 
+nonconfirmation and the employee must be terminated. 
+ 
+In September 2007, E-Verify was enhanced with the addition of a photo screening tool 
+which enables employers to determine whether certain documents produced during 
+Employment Eligibility Verification Form I-9 (herein Form I-9) completion are 
+fraudulent, to more accurately verify an employee’s identity, and to help prevent identity 
+theft.  The Photo Screening Tool step of E-Verify currently applies to non-citizens who 
+choose to provide a DHS document with a photograph for completion of the Form I-9. 
+Accepted documents with photographs include Form I-551 Permanent Resident Card 
+(PRC or “Green Card”) and Form I-766 Employment Authorization Document (EAD). If 
+the employee does not provide one of these documents, the E-Verify query process will 
+be exactly the same as before. When the photo screening tool is triggered, the employer 
+must determine whether the photo on the employee’s documentation and the photo 
+displayed in E-Verify reasonably appear identical and select “yes,” “no,” or “cannot 
+determine.”  
+ 
+If USCIS is unable to automatically verify that the worker is employment-authorized, the 
+employer will receive a “DHS verification in progress” notice from USCIS while an 
+immigration status verifier (ISV) manually checks USCIS records.  If the ISV is unable 
+to verify the worker’s employment authorization, the employer will receive a “DHS 
+Tentative Nonconfirmation” notice from USCIS.  Employers can receive a tentative 
+nonconfirmation notice for a variety of reasons, including inaccurate entry of information 
+into the form on the E-Verify website, name changes, or changes in immigration status 
+that are not reflected in either SSA or USCIS databases. 
+ 
+If the individual’s information does not match the USCIS records, the employer must 
+provide the employee with a written notice of the fact, called a “Notice to Employee of 
+Tentative Nonconfirmation.”  The worker must then check a box on the notice stating 
+that he or she contests or does not contest the tentative Nonconfirmation, and both the 
+worker and the employer must sign the notice.   
+ 
+If the worker chooses to contest the DHS tentative nonconfirmation, the employer must 
+print a second notice, called a “Referral Letter,” which contains information about 
+resolving the tentative nonconfirmation, as well as the contact information for USCIS.  
+ 16 
+The worker then has eight federal government work days to contact USCIS via phone to 
+try to resolve the discrepancy.  Under the MOU, if the worker contacts USCIS to resolve 
+the tentative Nonconfirmation, the employer is prohibited from terminating or otherwise 
+taking adverse action against the worker while he or she awaits a final resolution from the 
+government agency. 
+ 
+To resolve a DHS tentative nonconfirmation notice, employees can contact USCIS 
+through a toll-free number provided in the referral letter.  If contacted by the employee, 
+USCIS has 10 federal government work days after the employee receives the referral 
+letter to resolve the case.  If the case is resolved, USCIS will electronically send the result 
+of the referral back to the employer within the 10 federal government work days.  
+However, if an employee has failed to contact USCIS within the requisite period, the 
+employer will be notified of the “DHS no show,” which requires the employer to 
+terminate the worker from employment.  Likewise, if the worker does not contest the 
+“tentative nonconfirmation,” it automatically becomes a “final nonconfirmation” and the 
+employer is required to terminate the worker. 
+ 
+Chart 1 displays the authorization process and the different stages involved in receiving 
+authorization.  Note that the percentages reported in the chart are based on statistics from 
+the current voluntary E-verify program collected from October 2006 through March 
+2007.  Under the current E-Verify program, approximately 95% of the employees are 
+authorized to work and only 5% receive a final nonconfirmation.  
+ 17 
+Chart 1: The E-Verify Authorization Process (Data from Oct. 2006 – Mar. 2007) 
+ 
+ 
+ 
+Employer enters new 
+employee Form I-9 data 
+(100% of employees) 
+Information is compared  
+with SSA database 
+(100% of employees) 
+SSA Data not matched/ 
+SSA TNC issued 
+(5.1% of employees) 
+SSA Data matched 
+(94.9% of employees) 
+Information is compared  
+with USCIS database 
+(10.9% of employees) 
+Authorized by SSA 
+(84.4% of employees) 
+Employee contests 
+(0.4% of employees) 
+Final non- 
+confirmation 
+(4.7% of employees) 
+Authorized by USCIS 
+(10.3% of employees) 
+USCIS status verifier 
+checks other DHS data 
+(1.8% of employees) 
+USCIS TNC issued. 
+(0.7% of employees) 
+Employee contests 
+(1.6% of employees) 
+ SSA Verification 
+ 
+ USCIS Verification 
+Unauthorized 
+(<0.1% of employees) 
+Final non-confirmation 
+(0.5% of employees) 
+USCIS Data matched 
+(9.1% of employees) 
+USCIS Data not matched 
+(1.8% of employees) 
+9.1% 
+1.1% 
+Citizen 
+84.0% 
+0.4% 
+0.2% 0.3% 
+0.4% 
+9.1% 
+0.1% 
+1.8% 
+Non-Citizen 
+10.9% 
+94.9% 5.1% 
+1.8% 
+0.7% 
+1.6% 
+1.2% 
+<0.1% 
+3.5% 
+Non-Citizen 
+<0.1% 
+ 18 
+2. Population Estimates 
+This section details the assumptions used to estimate the number of federal contractors, 
+subcontractors, and their employees that are expected to be affected by this rule.  The 
+period of analysis is from 2009 to 2018. We assume that costs will be incurred beginning 
+in 2009. Costs are discounted at 7 and 3 percent to their present value (PV) in 2007 
+dollars.  
+Affected Population 
+  Initial Year Company Population Estimate 
+Prime contractors and subcontractors meeting the criteria set forth in the accompanying 
+rulemaking will be required to verify the employment eligibility of employees using 
+United States Citizenship and Immigration Service’s E-Verify program.  The types of 
+federal contracts excluded from the scope of the rulemaking are: 
+ 
+●  Contracts with no work within the U.S. 
+●  Contracts under the micro threshold (generally $3,000) 
+●  Contracts for commercial off the shelf supplies 
+ 
+In order to estimate the number of contractors impacted by this rule we queried the 
+Federal government’s electronic system for collecting contract placement data known as 
+the Federal Procurement Data System-Next Generation (FPDS-NG). A query of FPDS-
+NG revealed that there were 127,456 unique prime contractors with contracts signed in 
+FY 2006 that would fall within the scope of this rulemaking.     
+ 
+In order to estimate the number of FY 2007 contractors, we compared the amount of 
+federal dollars spent on contracts in FY 2007 to the amount of dollars spent on federal 
+contracts in FY 2006.   In FY 2007, there was $439 billion spent on federal contracts, 
+while in FY 2006 there was $429 billion spent.  Consequently, FY 2007 saw a 2.3 
+percent increase in the amount of dollars spent on contracts.  However, the consumer 
+price index increased by approximately 2.8 percent between 2006 and 2007, so the 
+amount of dollars spent on federal contracts increased roughly by the rate of inflation. As 
+the number of real dollars spent on federal contracts remained nearly the same in FY 
+2006 and FY 2007, we did not increase the number of contractors above the 127,456 
+contractors estimated in 2006 and we assume the amount of federal contractors in FY 
+2007 remained at 127,456. 
+ 
+It is difficult to project the number of contractors over the ten year period of analysis (FY 
+2009- FY 2018) due to the number of variables that could influence the amount of 
+government spending and the amount of that spending that would be used to purchase 
+contract support.  For the purpose of this cost analysis, we will assume a small amount of 
+growth in the number of contractors and project the number of FY 2008 prime 
+contractors to increase by 5%.  We increase FY 2007’s 127,456 unique prime contractors 
+by 5% to estimate 133,829 (127,456 X 1.05) unique prime contractors within the scope of 
+the rulemaking in FY 2008. We increase FY 2008’s estimate of 133,829 by 5% to 
+ 19 
+determine that the number of unique contractors within the scope of this rulemaking for 
+FY 2009 (the initial of the period of analysis) is 140,520 (133,829 * 1.05).    
+ 
+Please note that the FPDS-NG database does not include the number of subcontractors 
+utilized by prime contractors. However, in order to estimate the full scope of the 
+contractors impacted by this rule, we must make assumptions regarding the number of 
+subcontractors used.  As such, we have estimated the number of subcontractors who are 
+not otherwise a prime contractor on another contract within the scope of the rule to be 
+20% the number of prime contractors, approximately 28,104 (140,520 X .2).2  
+Subcontractors that serve as a prime contractor on other contracts within the scope of the 
+rulemaking must already comply with the rule’s requirements.  Consequently, we 
+estimate that the total number of contractors and subcontractors that will initially have to 
+enroll in E-Verify to be approximately 168,624 (140,520 prime contractors + 28,104 
+subcontractors = 168,624) in FY 2009.   
+  Recurring Year Company Population Estimate  
+ 
+As explained above, in FY 2009, we estimate there will be approximately 168,624 
+contractors and subcontractors required to enroll in E-Verify. However, we must make 
+several assumptions in order to estimate the number of additional companies that will be 
+required to enroll in E-Verify in the subsequent years: 
+ 
+1.  Many of the companies who receive a covered contract or subcontract in the initial 
+year will also receive a covered contract or subcontract in the subsequent year and 
+consequently will continue their participation in the E-Verify program.3 We have 
+assumed that 80% of the contracts each year would be performed by contractors and/or 
+subcontractors that worked on a contract within the scope of the rule in the previous year 
+and consequently were already required by this rule to be enrolled in E-Verify.  For the 
+subsequent years, we estimate 20% of the contractors will be newly required to enroll 
+into the E-Verify program. 
+ 
+2.  Table 1 represents the estimated number of prime and subcontractors that will initially 
+enroll in the E-Verify program and those contractors that will be required to enroll in the 
+E-Verify program in subsequent years.  In the initial year, 2009, we estimate that all of 
+the contractors that are awarded contracts covered by this rule will need to enroll in the 
+E-Verify program, as this rule represents a new requirement.  In the subsequent years, 
+2010-2018, we assume that 80% of the contractors will either receive a new contract 
+requiring them to continue to be enrolled in the E-Verify program or will continue to 
+work on an existing contract that will require them to continue to be enrolled in the E-
+Verify program.  Consequently, we assume that the remaining 20% of the contractors 
+will be new to the E-Verify program and will be newly required to participate.  
+                                                
+2 The 20% estimate of covered subcontractors is a “best guess” provided by government contracting 
+professionals. 
+3 For the purposes of the cost analysis, it is important to differentiate between companies that are newly 
+enrolled in the E-Verify program from companies that are already enrolled in the E-Verify program.   
+Newly enrolled companies incur start-up costs that are not incurred by companies already enrolled in E-
+Verify. 
+ 20 
+ 
+In addition, in FY 2010, we have estimated that there will be a 5% growth rate per year in 
+the number of contractors enrolling in E-Verify.  As such, we have assumed that there 
+will be a 5% increase in the number of new contractors per year that will need to register 
+in the E-Verify program to account for future growth. 
+ 
+Table 1:  Number of Prime and Subcontractors Annually Enrolled in the E-Verify 
+Program  
+ 
+  Initial Year Employee Population Estimates 
+ 
+In order to estimate the cost of the proposed rule, we need to know the number of 
+additional employees that will be vetted through the E-Verify system.  The additional 
+employees that will be vetted through the E-Verify system are:  
+ 
+• All new hires of a covered contractor or subcontractor, whether working under a 
+federal contract or not.  
+• For existing employees, all assigned employees (i.e.; those performing work 
+under a covered contract).  
+ 
+However, the federal government does not have an estimate of the total number of 
+assigned employees that perform work on government contracts or an estimate of the 
+number of new hires at a covered contractor or subcontractor.  In order to estimate the 
+number of employees that will be vetted through the E-Verify system, we must make a 
+series of assumptions that allow us to estimate the amount of contract labor being 
+purchased  by the government and then convert the amount of labor being purchased into 
+Full Time Equivalent positions (FTE’s).  Specifically, we will estimate the amount of 
+federal contracting dollars within the scope of the rulemaking and then estimate the 
+amount of those contract dollars that will be used for the categories of direct labor, 
+overhead, materials, and general and administrative (G&A) expense.4  We will then 
+convert the amount of labor dollars into FTE’s by dividing the total amount of labor 
+dollars by an estimate of the cost of an FTE.  Below outlines the methodology on a step-
+                                                
+4 Our estimate of the percentage of contracting dollars allocated to direct labor, overhead, materials, and 
+G&A expenses is based on the professional estimate of senior government procurement professionals. 
+ 21 
+by-step basis.  Table 2 shows these calculations. We understand that these assumptions 
+are rough estimates and we welcome public comment providing more precise 
+information. 
+ 
+ 1. The first step is to determine the amount of contracting dollars that will be covered by 
+the scope of the rule.  In FY 2007, according to the FPDS-NG database, there were 
+approximately $439 billion in federal contracts.  However, some of these contracting 
+dollars are for contracts that will not be within the scope of the proposed rule and should 
+be excluded from the analysis.  We will assume 10% of the contracting dollars are for 
+contracts outside of the scope of the rule. 5  Excluding the dollars spent for contracts 
+outside of the scope of the rule, we estimate there is $395.1 billion ($439 billion * .9 = 
+$395.1 billion) in contracts within the scope of the proposed rule in FY 2007. 
+ 
+2.  Once we determine the amount of contracting dollars covered by the rule (see step 1 
+above), we then must estimate how much of those contracting dollars would be used to 
+pay for direct labor. We estimate 26% of the $395.1 billion is used to pay direct labor 
+costs.  Therefore, the direct labor cost of the covered contracts is calculated at $102.7 
+billion (26% direct labor * $395.1 billion = $102.7 billion).  The employees whose 
+salaries are paid by this $102.7 billion would be considered to be assigned employees and 
+would be required to be vetted through E-Verify.   
+ 
+In order to estimate the number of employees, we must convert the $102.7 billion in labor 
+dollars to FTE’s. To determine the number of FTE’s, we divide the direct labor cost of 
+$102.7 billion by the average expected annual wage of a contractor.  Unfortunately, we 
+do not have data on the average salary of a covered federal contractor, but we do estimate 
+the average salary for a federal employee at $66,705.6  We will use the average salary of 
+a federal employee as a proxy for the average wage of a covered federal contractor.  
+ 
+We considered using data from the Bureau of Labor Statistics, which reports the average 
+wage rate of “all occupations” in the U.S. is approximately $40,000 annually as a proxy 
+for the wage of a covered contractor , but do not believe the average wage for the 
+nationwide workforce is a reasonable substitute for the average wage of a federal 
+contractor.  Statistics show that the Federal government workforce is more highly 
+educated than the general U.S. workforce.7  Consequently, we believe it is reasonable to 
+assume that as the work the federal government is required to perform requires a more 
+                                                
+5 Ten percent is an approximate, but reasonable estimate as approximately 9.25% of contracting dollars are 
+for contracts with no work performed inside the U.S. 
+6 http://www.opm.gov/feddata/html/paystructure/2004/table2.asp  The average annual salary of federal 
+employees within the United States was $60,772 in 2004.  Adjusting for inflation, $60,772 in 2004 dollars 
+is equivalent to $66,705 in 2007 dollars.   http://www.bls.gov/bls/inflation.htm   
+7 According to information from the U.S. Census Bureau, in 2006 approximately 28% of the U.S. 
+population 25 years and over has attained a college degree (Bachelor, Master’s, Professional, or Doctoral 
+degree) and 10 percent has a graduate degree (Master’s, Professional, or Doctoral) 
+http://www.census.gov/population/socdemo/education/cps2006/tab10-01.xls . However, according to a 
+study by the Congressional Budget Office, in 2005 49% of full-time permanent federal employees had a 
+college degree and over 17% had a graduate degree. The March 2007 CBO study is titled “Characteristics 
+and Pay of Federal Civilian Employees” www.cbo.gov/ftpdocs/78xx/doc7874/03-15-
+Federal_Personnel.pdf.  
+ 22 
+highly educated workforce, the work that the government hires contractors to perform 
+would also require a higher education level relative to the average U.S. workforce.  
+Consequently, we believe the average wage of a federal employee is a better proxy for 
+the wage of a covered federal contractor than the average wage of the nationwide 
+workforce. 
+ 
+Dividing $102.7 billion in direct labor by $66,705 yields an estimate of 1,540,004 
+employees (102.726 billion/ $66,705 cost per employee).  Over the course of a year, there 
+would also be turnover in these employees.  In order to adjust for turnover we assumed 
+an annual turnover rate of 40.7% as the Bureau of Labor Statistics estimated the annual 
+turnover rate for all industries and regions in 2006 at 40.7%.8  Multiplying 1,540,004 
+employees by 1.407 to account for turnover equals 2,166,786 employees in the initial 
+year that are a result of direct labor expenditures and who will be vetted through E-verify. 
+ 
+3. After we estimate the amount of direct labor, we estimate how much of the contract is 
+overhead expenses. We assume that overhead expenses are equal to direct labor expenses 
+of 26% (an overhead rate of 100%).  Overhead expenses typically pay for items such as 
+rent, electricity, computers, support personnel and employee benefits (i.e. health 
+insurance and paid leave). Support personnel include IT support, janitors, and human 
+resources.   Consequently, some of the overhead expenses will be used to pay for labor.  
+We estimate that 40% of the overhead expense will be used to pay for labor.  The amount 
+of the labor component of the overhead is calculated as $41.09 billion (26% overhead 
+expense * 40% labor component of overhead * $395.1 billion).  
+ 
+Dividing $41.09 billion by our estimate of the average contractor FTE wage of $66,705 
+yields 616,002 overhead support employees.  However, the employees who provide 
+overhead support functions are not considered to be assigned employees and would not 
+need to be vetted. But, as additional support personnel are newly hired by the contractor, 
+these new hires would need to be vetted through E-Verify.  Multiplying 616,002 
+overhead support employees by the turnover rate of 40.7% yields 250,713 overhead 
+support new hires that would need to be vetted thorough E-Verify.   
+ 
+4.  The next category is material expenses. Material expenses represent goods and 
+services purchased directly for a contract.  Examples of goods would be the steel 
+purchased for the building of a ship or a radar system (if the contractor did not build it).    
+We assume that material expenses represent 26% of the total contract cost and of that 
+26%, 80% of the material costs represent goods purchased and 20% represents services 
+purchased.  The services purchased represent hired subcontractors.9  The covered 
+subcontractors are estimated to follow the same assumptions for direct labor, overhead, 
+materials, and G&A expenses as the prime contractors. The total number of employees 
+that will be vetted through the material expense category is 137,443 employees 
+(including turnover). See Table 2 for details of the calculation. 
+ 
+                                                
+8 “Job Openings and Labor Turnover: January 2007” 
+9 These covered subcontracts are subcontractors that are not otherwise a prime contractor.   If a 
+subcontractor was also a prime on another contract, the subcontractor would already be required to 
+particulate in E-Verify 
+ 23 
+5.   The general and administrative (G&A) category represents management, financial 
+and other expenses which are incurred by or allocated to a business unit and which is for 
+the general management and administration of the business unit as a whole. For example, 
+the expenses for operating a corporate headquarters, including the salaries of the 
+personnel working at the corporate headquarters could be considered G&A expenses.  
+We assume G&A is equal to 15% of the sum of the direct labor, overhead, and, material 
+expenses. We further assume that 80% of the G&A expense represents an expenditure on 
+labor.  The amount of G&A that we estimate is an expenditure on labor is $36.981 
+billion.  This is calculated by multiplying the15% G&A rate * $308.178 billion total of 
+direct labor, overhead, and, material expenses * 80 % labor component of G&A.   
+ 
+ Dividing $36.981 billion by the estimate of the average contractor FTE wage of $66,705 
+yields 554,402 G&A related support employees.  However, the employees who provide 
+G&A support functions are not considered to be assigned employees and would not need 
+to be vetted. But, as additional G&A support personnel are newly hired by the contractor, 
+these new hires would need to be vetted through E-Verify.  Multiplying 554,402 
+overhead support employees by the turnover rate of 40.7% yields 225,641 G&A support 
+new hires that would need to be vetted thorough E-Verify.   
+ 
+6.  Steps 2 though 5 above show that we estimate there will be an additional 2,780,584 
+employees vetted through E-Verify due to the rulemaking (2,166,786 direct labor + 
+250,713 overhead + 137,443 materials (subcontractors)  + 225,641 G&A).  This estimate 
+of 2,780,584 employees is not likely to include all possible new hires of a covered 
+contractor or subcontractor, whether working under a federal contract or not.  For 
+example, contractors covered under this rulemaking may hire employees to perform work 
+for other private sector firms and not for the government.  While many contractors have 
+enough federal contracting business that they have organized themselves into business 
+units that solely perform federal contracting, many contractors service both federal and 
+non-federal clients.  Unfortunately, we do not have the data necessary to say how many 
+new hires have not been counted in Steps 2 through 5 above.  In order to attempt to take 
+these additional employees into account, we are multiplying our estimate of 2,780,584 
+employees that we have previously calculated will be vetted through E-Verify by an 
+additional 25%.  Allowing for this additional 25% of potential employees will increase 
+our estimate to 3,475,730 employees (2,780,584 employees * 1.25) being vetted through 
+E-Verify.  
+ 
+Since the 3,475,730 employee estimate shown directly above is calculated based on FY 
+2007, data we then need to adjust this FY 2007 estimate to the initial year of the period of 
+analysis (FY 2009). 
+ 
+In order to estimate the FY 2009 number of employees vetted through E-Verify, we 
+increase the FY 2007 approximation to account for potential future growth.10 
+Consequently, for FY 2008 the number of employees vetted through E-Verify would be 
+3,649,516 (3,475,730 * 1.05), and for FY 2009 the number of employees vetted through 
+E-Verify would be 3,831,992 (3,649,516 *1.05).
+                                                
+10 Recall that we previously assumed a 5% growth rate in the number of covered contractors each year.  

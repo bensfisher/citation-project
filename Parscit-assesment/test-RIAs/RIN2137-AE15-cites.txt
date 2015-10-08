@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<title>Regulatory Flexibility Analysis Integrity Management Program for Gas Distribution Pipelines Introduction The Regulatory Flexibility Act of 1980 (Public Law 96-354) requires agencies to evaluate the potential effects of their proposed and final rules on small businesses, small organizations, and small governmental jurisdictions. The Regulatory Flexibility Act requires that Federal agencies take small entities’ concerns into account when developing, writing, publicizing, promulgating, and enforcing regulations. To this end, the Act requires that agencies detail how they have met these concerns, by including a Regulatory Flexibility Analysis (RFA). An initial RFA, which accompanies a Notice of Proposed Rulemaking</title>
+<date>2004</date>
+<booktitle>(NPRM), must include the following five elements: 57 “Progress and Challenges in Improving pipeline Safety,” Statement of the Honorable Kenneth M.Mead, Inspector General, Department of transportation, before the Committee on energy and Commerce, Subcommittee on Energy and Air Quality, U.S. House of Representatives,</booktitle>
+<marker>2004</marker>
+<rawString>Regulatory Flexibility Analysis Integrity Management Program for Gas Distribution Pipelines Introduction The Regulatory Flexibility Act of 1980 (Public Law 96-354) requires agencies to evaluate the potential effects of their proposed and final rules on small businesses, small organizations, and small governmental jurisdictions. The Regulatory Flexibility Act requires that Federal agencies take small entities’ concerns into account when developing, writing, publicizing, promulgating, and enforcing regulations. To this end, the Act requires that agencies detail how they have met these concerns, by including a Regulatory Flexibility Analysis (RFA). An initial RFA, which accompanies a Notice of Proposed Rulemaking (NPRM), must include the following five elements: 57 “Progress and Challenges in Improving pipeline Safety,” Statement of the Honorable Kenneth M.Mead, Inspector General, Department of transportation, before the Committee on energy and Commerce, Subcommittee on Energy and Air Quality, U.S. House of Representatives, July 20, 2004. requirement.59 The study group gathered and analyzed data to help focus the effort and ultimately identify options for attaining improved safety. 2. A succinct statement of the objectives of, and legal basis for, the proposed rule.</rawString>
+</citation>
+<citation valid="false">
+<title>In response to the mandate concerning IMPs for distribution systems contained in The Pipeline Inspection, Protection, Enforcement and Safety Act of 2006 (Public Law No:</title>
+<date>2006</date>
+<booktitle>65 FR 75378 and 67 FR 2136) and gas transmission pipelines (49 CFR 192, Subpart O, published at 68 FR 69778) to</booktitle>
+<pages>109--468</pages>
+<marker>2006</marker>
+<rawString>In response to the mandate concerning IMPs for distribution systems contained in The Pipeline Inspection, Protection, Enforcement and Safety Act of 2006 (Public Law No: 109-468, Dec. 29, 2006), also known as the PIPES Act. PHMSA is initiating this rulemaking. PHMSA is extending its integrity management approach to the largest segment of the Nation’s pipeline network – the distribution systems that directly serve homes, schools, businesses, and other natural gas consumers. Beginning in 2000, the agency promulgated regulations requiring operators of hazardous liquid pipelines (49 CFR 195.452, published at 65 FR 75378 and 67 FR 2136) and gas transmission pipelines (49 CFR 192, Subpart O, published at 68 FR 69778) to develop and follow individualized IMPs, in addition to PHMSA’s core pipeline safety regulations. PHMSA proposes to require operators of gas distribution pipelines to develop and implement IMPs that will better assure the integrity of their pipeline systems. Each IMP must contain the following elements: · Improving knowledge of the system’s infrastructure. · Identifying threats (existing and potential). · Evaluating and prioritizing risks. · Identifying and implementing measures to mitigate risks.</rawString>
+</citation>
+<citation valid="true">
+<title>58 House of Representatives report</title>
+<date>2004</date>
+<pages>108--792</pages>
+<marker>2004</marker>
+<rawString>58 House of Representatives report 108-792, November 20, 2004.</rawString>
+</citation>
+<citation valid="true">
+<title>59 “Integrity Management for Gas Distribution, Report of Phase 1 Investigations”, prepared by Joint Work/Study Groups,</title>
+<date>2005</date>
+<note>U.S. DOT/PHMSA - Report: DIMP Phase 1, Doc. Number: RSPA2004-19854-70, available at http://dmses.dot.gov/docimages/p84/388302.pdf</note>
+<marker>2005</marker>
+<rawString>59 “Integrity Management for Gas Distribution, Report of Phase 1 Investigations”, prepared by Joint Work/Study Groups, December 2005, U.S. DOT/PHMSA - Report: DIMP Phase 1, Doc. Number: RSPA2004-19854-70, available at http://dmses.dot.gov/docimages/p84/388302.pdf</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

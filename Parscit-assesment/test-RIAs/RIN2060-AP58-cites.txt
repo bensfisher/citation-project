@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Æ NHTSA Docket Management Facility</author>
+<author>U S M–30</author>
+</authors>
+<pages>20590</pages>
+<institution>Department of Transportation, West Building,</institution>
+<location>Ground Floor, Rm. W12–140, 1200 New Jersey Avenue, SE., Washington, DC</location>
+<marker>Facility, M–30, </marker>
+<rawString>Æ NHTSA: Docket Management Facility, M–30, U.S. Department of Transportation, West Building, Ground Floor, Rm. W12–140, 1200 New Jersey Avenue, SE., Washington, DC 20590.</rawString>
+</citation>
+<citation valid="false">
+<title>NHTSA: Docket Management Facility, M–30, U.S. Department of Transportation, West Building,</title>
+<pages>20590</pages>
+<location>Ground Floor, Rm. W12–140, 1200 New Jersey Avenue, SE, Washington, DC</location>
+<marker></marker>
+<rawString>(202) 566–1744. NHTSA: Docket Management Facility, M–30, U.S. Department of Transportation, West Building, Ground Floor, Rm. W12–140, 1200 New Jersey Avenue, SE, Washington, DC 20590. The Docket Management Facility is open between 9 a.m. and 5 p.m. Eastern Time, Monday through Friday, except Federal holidays.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>FOR FURTHER</author>
+</authors>
+<title>INFORMATION CONTACT: EPA: Tad Wysor, Office of Transportation and Air Quality, Assessment and Standards Division, Environmental Protection Agency,</title>
+<date>2000</date>
+<marker>FURTHER, 2000</marker>
+<rawString>FOR FURTHER INFORMATION CONTACT: EPA: Tad Wysor, Office of Transportation and Air Quality, Assessment and Standards Division, Environmental Protection Agency, 2000 Traverwood Drive, Ann Arbor MI 48105; telephone number: 734–214– 4332; fax number: 734–214–4816; e-mail address: wysor.tad@epa.gov, or Assessment and Standards Division Hotline; telephone number (734) 214– 4636; e-mail address asdinfo@epa.gov.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>NHTSA Rebecca Yoon</author>
+</authors>
+<title>Office of Chief Counsel, National Highway Traffic Safety Administration,</title>
+<pages>20590</pages>
+<location>1200 New Jersey Avenue, SE., Washington, DC</location>
+<marker>Yoon, </marker>
+<rawString>NHTSA: Rebecca Yoon, Office of Chief Counsel, National Highway Traffic Safety Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590.</rawString>
+</citation>
+<citation valid="false">
+<tech>Telephone: (202)</tech>
+<pages>366--2992</pages>
+<marker></marker>
+<rawString>Telephone: (202) 366–2992.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Warming</author>
+</authors>
+<title>National Academy of Sciences, National Academy of Engineering,</title>
+<date>1992</date>
+<booktitle>Institute of Medicine, ‘‘Policy Implications of Greenhouse Warming: Mitigation, Adaptation, and the Science Base,’’ National Academies Press,</booktitle>
+<pages>287</pages>
+<marker>Warming, 1992</marker>
+<rawString>Warming, National Academy of Sciences, National Academy of Engineering, Institute of Medicine, ‘‘Policy Implications of Greenhouse Warming: Mitigation, Adaptation, and the Science Base,’’ National Academies Press, 1992. p. 287.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>D R</author>
+<author>M A Toman</author>
+</authors>
+<title>Energy and Security: Externalities and Policies,’’ Energy Policy 21:1093–1109; and</title>
+<date>1993</date>
+<booktitle>The Economics of Energy Security: Theory, Evidence, Policy,’’</booktitle>
+<editor>in A. V. Kneese and J. L. Sweeney, eds.</editor>
+<marker>R, Toman, 1993</marker>
+<rawString>D. R., and M. A. Toman (1993). ‘‘Energy and Security: Externalities and Policies,’’ Energy Policy 21:1093–1109; and Toman, M. A. (1993). ‘‘The Economics of Energy Security: Theory, Evidence, Policy,’’ in A. V. Kneese and J. L. Sweeney, eds.</rawString>
+</citation>
+<citation valid="true">
+<date>1993</date>
+<booktitle>Handbook of Natural Resource and Energy Economics, Vol. III.</booktitle>
+<pages>pp.</pages>
+<editor>Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)].</editor>
+<publisher>North-Holland,</publisher>
+<location>Amsterdam:</location>
+<marker>1993</marker>
+<rawString>(1993). Handbook of Natural Resource and Energy Economics, Vol. III. Amsterdam: North-Holland, pp. Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.</rawString>
+</citation>
+<citation valid="true">
+<date>2009</date>
+<booktitle>202 Global Climate Change Impacts in the</booktitle>
+<editor>United States, Thomas R. Karl, Jerry M. Melillo, and Thomas C. Peterson, (eds.).</editor>
+<publisher>Cambridge University Press,</publisher>
+<note>http://www.globalchange.gov/ publications/reports/scientific-assessments/usimpacts.</note>
+<marker>2009</marker>
+<rawString>202 Global Climate Change Impacts in the United States, Thomas R. Karl, Jerry M. Melillo, and Thomas C. Peterson, (eds.). Cambridge University Press, 2009. http://www.globalchange.gov/ publications/reports/scientific-assessments/usimpacts.</rawString>
+</citation>
+<citation valid="true">
+<title>The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+<date>2007</date>
+<booktitle>203 Climate Change</booktitle>
+<editor>Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)].</editor>
+<publisher>Cambridge University Press,</publisher>
+<location>Cambridge, United Kingdom and New York, NY, USA.</location>
+<marker>2007</marker>
+<rawString>203 Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>United States</author>
+<author>Thomas R Karl</author>
+<author>Jerry M Melillo</author>
+<author>C Thomas</author>
+</authors>
+<title>http://www.globalchange.gov/ publications/reports/scientific-assessments/usimpacts. 205 Weather and Climate Extremes in a Changing Climate. Regions of Focus:</title>
+<date>2009</date>
+<booktitle>204 Global Climate Change Impacts in the</booktitle>
+<pages>164</pages>
+<editor>Peterson, (eds.).</editor>
+<publisher>Cambridge University Press,</publisher>
+<location>Hawaii, Caribbean, and</location>
+<marker>States, Karl, Melillo, Thomas, 2009</marker>
+<rawString>204 Global Climate Change Impacts in the United States, Thomas R. Karl, Jerry M. Melillo, and Thomas C. Peterson, (eds.). Cambridge University Press, 2009. http://www.globalchange.gov/ publications/reports/scientific-assessments/usimpacts. 205 Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and U.S. Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research. [Thomas R. Karl, Gerald A. Meehl, Christopher D. Miller, Susan J. Hassol, Anne M. Waple, and William L. Murray (eds.)]. Department of Commerce, NOAA’s National Climatic Data Center, Washington, D.C., USA, 164 pp.</rawString>
+</citation>
+<citation valid="true">
+<title>The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+<date>2007</date>
+<booktitle>206 Climate Change</booktitle>
+<editor>Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)].</editor>
+<publisher>Cambridge University Press,</publisher>
+<location>Cambridge, United Kingdom and New York, NY, USA.</location>
+<marker>2007</marker>
+<rawString>206 Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Thomas R Karl States</author>
+<author>Jerry M Melillo</author>
+<author>C Thomas</author>
+</authors>
+<date>2009</date>
+<booktitle>207 Global Climate Change Impacts in the United</booktitle>
+<editor>Peterson, (eds.).</editor>
+<publisher>Cambridge University Press,</publisher>
+<location>Cambridge, United Kingdom and New York, NY, USA.</location>
+<marker>States, Melillo, Thomas, 2009</marker>
+<rawString>207 Global Climate Change Impacts in the United States, Thomas R. Karl, Jerry M. Melillo, and Thomas C. Peterson, (eds.). Cambridge University Press, 2009. http://www.globalchange.gov/ [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>United States</author>
+<author>Thomas R Karl</author>
+<author>Jerry M Melillo</author>
+<author>C Thomas</author>
+</authors>
+<title>http://www.globalchange.gov/ publications/reports/scientific-assessments/usimpacts. 213 Weather and Climate Extremes in a Changing Climate. Regions of Focus:</title>
+<date>2009</date>
+<booktitle>212 Global Climate Change Impacts in the</booktitle>
+<editor>Peterson, (eds.).</editor>
+<publisher>Cambridge University Press,</publisher>
+<location>Hawaii, Caribbean, and</location>
+<marker>States, Karl, Melillo, Thomas, 2009</marker>
+<rawString>212 Global Climate Change Impacts in the United States, Thomas R. Karl, Jerry M. Melillo, and Thomas C. Peterson, (eds.). Cambridge University Press, 2009. http://www.globalchange.gov/ publications/reports/scientific-assessments/usimpacts. 213 Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and U.S. Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research. [Thomas R. Karl, Gerald A. Meehl, Christopher D. Miller, Susan J. Hassol, Anne M. Waple, and William L. Murray (eds.)]. Department of Commerce, NOAA’s National Climatic Data Center, Washington, DC, Intergovernmental Panel on Climate Change [M.L.</rawString>
+</citation>
+<citation valid="true">
+<title>Hematotoxicity and carcinogenicity of benzene.</title>
+<date>2009</date>
+<journal>Federal Register /</journal>
+<booktitle>Proposed Rules 262 Aksoy, M.</booktitle>
+<volume>74</volume>
+<pages>49597</pages>
+<editor>Parry, O.F. Canziani, J.P. Palutikof, P.J. van der Linden and C.E. Hanson (eds.)].</editor>
+<publisher>Cambridge University Press,</publisher>
+<location>Cambridge, United Kingdom and New York, NY, USA.</location>
+<marker>2009</marker>
+<rawString>Parry, O.F. Canziani, J.P. Palutikof, P.J. van der Linden and C.E. Hanson (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. 49597 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules 262 Aksoy, M. (1989). Hematotoxicity and carcinogenicity of benzene. Environ. Health Perspect. 82: 193–197.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>B D Goldstein</author>
+</authors>
+<title>Benzene toxicity. Occupational medicine. State of the Art Reviews.</title>
+<date>1988</date>
+<volume>3</volume>
+<pages>541--554</pages>
+<marker>Goldstein, 1988</marker>
+<rawString>263 Goldstein, B.D. (1988). Benzene toxicity. Occupational medicine. State of the Art Reviews. 3: 541–554. 264 Rothman, N., G.L. Li, M. Dosemeci, W.E.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>G E Marti Bechtold</author>
+<author>Y Z Wang</author>
+<author>M Linet</author>
+<author>L Q Xi</author>
+<author>W Lu</author>
+<author>M T Smith</author>
+<author>N Titenko-Holland</author>
+<author>L P Zhang</author>
+<author>W Blot</author>
+<author>S N Yin</author>
+<author>R B Hayes</author>
+</authors>
+<title>Hematotoxicity among Chinese workers heavily exposed to benzene.</title>
+<date>1996</date>
+<journal>Am. J. Ind. Med.</journal>
+<volume>29</volume>
+<pages>236--246</pages>
+<marker>Bechtold, Wang, Linet, Xi, Lu, Smith, Titenko-Holland, Zhang, Blot, Yin, Hayes, 1996</marker>
+<rawString>Bechtold, G.E. Marti, Y.Z. Wang, M. Linet, L.Q. Xi, W. Lu, M.T. Smith, N. Titenko-Holland, L.P. Zhang, W. Blot, S.N. Yin, and R.B. Hayes (1996) Hematotoxicity among Chinese workers heavily exposed to benzene. Am. J. Ind. Med. 29: 236–246.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S EPA</author>
+</authors>
+<title>Toxicological Review of Benzene (Noncancer Effects). Environmental Protection Agency, Integrated Risk Information System (IRIS), Research and Development, National Center for Environmental Assessment, Washington DC. This material is available electronically at http://www.epa.gov/iris/subst/0276.htm.</title>
+<date>2002</date>
+<marker>EPA, 2002</marker>
+<rawString>265 U.S. EPA (2002) Toxicological Review of Benzene (Noncancer Effects). Environmental Protection Agency, Integrated Risk Information System (IRIS), Research and Development, National Center for Environmental Assessment, Washington DC. This material is available electronically at http://www.epa.gov/iris/subst/0276.htm.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>O Qu</author>
+<author>R Shore</author>
+<author>G Li</author>
+<author>X Jin</author>
+<author>C L Chen</author>
+<author>B Cohen</author>
+<author>A Melikian</author>
+<author>D Eastmond</author>
+<author>S Rappaport</author>
+<author>H Li</author>
+<author>D Rupa</author>
+<author>R Suramaya</author>
+<author>W Songnian</author>
+<author>Y Huifant</author>
+<author>M Meng</author>
+<author>M Winnik</author>
+<author>E Kwok</author>
+<author>Y Li</author>
+<author>R Mu</author>
+<author>B Xu</author>
+<author>X Zhang</author>
+<author>K Li</author>
+</authors>
+<date>2003</date>
+<booktitle>HEI Report 115, Validation &amp; Evaluation of Biomarkers in Workers Exposed to Benzene in China.</booktitle>
+<volume>267</volume>
+<marker>Qu, Shore, Li, Jin, Chen, Cohen, Melikian, Eastmond, Rappaport, Li, Rupa, Suramaya, Songnian, Huifant, Meng, Winnik, Kwok, Li, Mu, Xu, Zhang, Li, 2003</marker>
+<rawString>266 Qu, O.; Shore, R.; Li, G.; Jin, X.; Chen, C.L.; Cohen, B.; Melikian, A.; Eastmond, D.; Rappaport, S.; Li, H.; Rupa, D.; Suramaya, R.; Songnian, W.; Huifant, Y.; Meng, M.; Winnik, M.; Kwok, E.; Li, Y.; Mu, R.; Xu, B.; Zhang, X.; Li, K. (2003) HEI Report 115, Validation &amp; Evaluation of Biomarkers in Workers Exposed to Benzene in China. 267 Qu, Q., R. Shore, G. Li, X. Jin, L.C. Chen, B.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>e g William</author>
+</authors>
+<title>Nordhaus, The Challenge of Global Warming (2008); Nicholas Stern, The Economics of Climate Change (2008); Discounting and 49673 Federal Register /</title>
+<date>2009</date>
+<journal>Proposed Rules</journal>
+<booktitle>Oil Prices, Energy Security, and Import Policy, Washington, DC: Resources for the Future, Johns</booktitle>
+<volume>74</volume>
+<editor>Monday,</editor>
+<publisher>Hopkins University Press;</publisher>
+<location>Montgomery</location>
+<marker>William, 2009</marker>
+<rawString>e.g., William Nordhaus, The Challenge of Global Warming (2008); Nicholas Stern, The Economics of Climate Change (2008); Discounting and 49673 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules 507 See, e.g., Bohi, Douglas R. and W. David Montgomery (1982). Oil Prices, Energy Security, and Import Policy, Washington, DC: Resources for the Future, Johns Hopkins University Press; Bohi, D. R., and M. A. Toman (1993). ‘‘Energy and Security: Externalities and Policies,’’ Energy Policy 21:1093–1109; and Toman, M. A. (1993). ‘‘The Economics of Energy Security: Theory, Evidence, Policy,’’ in A. V. Kneese and J. L. Sweeney, eds.</rawString>
+</citation>
+<citation valid="true">
+<date>1993</date>
+<booktitle>Handbook of Natural Resource and Energy Economics, Vol. III.</booktitle>
+<pages>pp.</pages>
+<publisher>North-Holland,</publisher>
+<location>Amsterdam:</location>
+<marker>1993</marker>
+<rawString>(1993). Handbook of Natural Resource and Energy Economics, Vol. III. Amsterdam: North-Holland, pp.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>e g William</author>
+</authors>
+<title>Nordhaus, The Challenge of Global Warming (2008); Nicholas Stern, The Economics of Climate Change (2007); Discounting and 49723</title>
+<date>2009</date>
+<journal>Federal Register /</journal>
+<booktitle>Proposed Rules 598 Energy Information Administration, U.S. Department of Energy</booktitle>
+<volume>74</volume>
+<location>DOE/EIA–0607(96), Washington, D.C.</location>
+<note>Available at http://www.osti.gov/ bridge/purl.cover.jsp?purl=/366567–BvCFp0/ webviewable/ (last accessed</note>
+<marker>William, 2009</marker>
+<rawString>e.g., William Nordhaus, The Challenge of Global Warming (2008); Nicholas Stern, The Economics of Climate Change (2007); Discounting and 49723 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules 598 Energy Information Administration, U.S. Department of Energy (1996). Issues in Midterm Analysis and Forecasting 1996, DOE/EIA–0607(96), Washington, D.C. Available at http://www.osti.gov/ bridge/purl.cover.jsp?purl=/366567–BvCFp0/ webviewable/ (last accessed Jul. 7, 2009).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M Kubik</author>
+</authors>
+<title>Consumer Views on Transportation and Energy. Second Edition.</title>
+<date>2006</date>
+<tech>Technical Report: National</tech>
+<institution>Renewable Energy Laboratory.</institution>
+<marker>Kubik, 2006</marker>
+<rawString>599 Kubik, M. (2006). Consumer Views on Transportation and Energy. Second Edition. Technical Report: National Renewable Energy Laboratory.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>David L Greene</author>
+<author>Jin-Tan Liu</author>
+</authors>
+<title>Automotive Fuel Economy Improvements and Consumers’ Surplus.’’ Transportation Research Part A 22A(3): 203–218. The study actually calculated the willingness to pay for reduced vehicle operating costs, of which vehicle fuel economy is a major component.</title>
+<date>1988</date>
+<marker>Greene, Liu, 1988</marker>
+<rawString>600 Greene, David L., and Jin-Tan Liu (1988). ‘‘Automotive Fuel Economy Improvements and Consumers’ Surplus.’’ Transportation Research Part A 22A(3): 203–218. The study actually calculated the willingness to pay for reduced vehicle operating costs, of which vehicle fuel economy is a major component.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Molly Espey</author>
+<author>Santosh Nair</author>
+</authors>
+<date>2005</date>
+<marker>Espey, Nair, 2005</marker>
+<rawString>601 Espey, Molly, and Santosh Nair (2005).</rawString>
+</citation>
+<citation valid="true">
+<title>Automobile Fuel Economy: What is it Worth?’’ Contemporary Economic Policy 23(3): 317–323; McManus, Walter M.</title>
+<date>2006</date>
+<institution>University of Michigan Transportation Research Institute.</institution>
+<marker>2006</marker>
+<rawString>‘‘Automobile Fuel Economy: What is it Worth?’’ Contemporary Economic Policy 23(3): 317–323; McManus, Walter M. (2006). ‘‘Can Proactive Fuel Economy Strategies Help Automakers Mitigate Fuel-Price Risks?’’ University of Michigan Transportation Research Institute.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Jacob Gramlich</author>
+</authors>
+<title>Gas Prices and Endogenous Product Selection in the U.S.</title>
+<date>2008</date>
+<journal>49724 Federal Register /</journal>
+<booktitle>Proposed Rules Automobile Industry.’’ Available at http:// www.econ.yale.edu/seminars/apmicro/am08/ gramlich-081216.pdf (last accessed</booktitle>
+<volume>74</volume>
+<marker>Gramlich, 2008</marker>
+<rawString>602 Gramlich, Jacob (2008). ‘‘Gas Prices and Endogenous Product Selection in the U.S. 49724 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules Automobile Industry.’’ Available at http:// www.econ.yale.edu/seminars/apmicro/am08/ gramlich-081216.pdf (last accessed May 1, 2009).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>G Metcalf</author>
+<author>D Rosenthal</author>
+</authors>
+<title>The ‘New’ View of Investment Decisions and Public Policy Analysis: An Application to Green Lights and Cold Refrigerators,’’</title>
+<date>1995</date>
+<journal>Journal of Policy Analysis and Management</journal>
+<volume>14</volume>
+<pages>517--531</pages>
+<marker>Metcalf, Rosenthal, 1995</marker>
+<rawString>603 Metcalf, G., and D. Rosenthal (1995). ‘‘The ‘New’ View of Investment Decisions and Public Policy Analysis: An Application to Green Lights and Cold Refrigerators,’’ Journal of Policy Analysis and Management 14: 517–531.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>D Greene</author>
+<author>J German</author>
+<author>M Delucchi</author>
+</authors>
+<title>Fuel Economy: The Case for Market Failure’’</title>
+<date>2009</date>
+<booktitle>in Reducing Climate Impacts in the Transportation Sector, Sperling,</booktitle>
+<editor>D., and J. Cannon, eds.</editor>
+<publisher>Springer Science.</publisher>
+<marker>Greene, German, Delucchi, 2009</marker>
+<rawString>604 Greene, D., J. German, and M. Delucchi (2009). ‘‘Fuel Economy: The Case for Market Failure’’ in Reducing Climate Impacts in the Transportation Sector, Sperling, D., and J. Cannon, eds. Springer Science.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S Dasgupta</author>
+<author>S Siddarth</author>
+<author>J Silva-Risso</author>
+</authors>
+<title>To Lease or to Buy? A Structural Model of a Consumer’s Vehicle and Contract Choice Decisions.’’</title>
+<date>2007</date>
+<journal>Journal of Marketing Research</journal>
+<volume>44</volume>
+<pages>490--502</pages>
+<marker>Dasgupta, Siddarth, Silva-Risso, 2007</marker>
+<rawString>605 Dasgupta, S., S. Siddarth, and J. Silva-Risso (2007). ‘‘To Lease or to Buy? A Structural Model of a Consumer’s Vehicle and Contract Choice Decisions.’’ Journal of Marketing Research 44: 490– 502.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A Sanstad</author>
+<author>R Howarth</author>
+</authors>
+<date>1994</date>
+<journal>Normal’ Markets, Market Imperfections, and Energy Efficiency.’’ Energy Policy</journal>
+<volume>22</volume>
+<issue>10</issue>
+<pages>811--818</pages>
+<marker>Sanstad, Howarth, 1994</marker>
+<rawString>606 Sanstad, A., and R. Howarth (1994). ‘‘ ‘Normal’ Markets, Market Imperfections, and Energy Efficiency.’’ Energy Policy 22(10): 811–818; Larrick, R.P., and J.B. Soll (2008). ‘‘The MPG illusion.’’ Science 320: 1593–1594.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>National Research Council</author>
+</authors>
+<title>Effectiveness and Impact of Corporate Average Fuel Economy (CAFE) Standards,’’</title>
+<date>2002</date>
+<publisher>National Academy Press,</publisher>
+<location>Washington, DC</location>
+<note>Available at http://www.nap.edu/ openbook.php?isbn=0309076013 (last accessed</note>
+<marker>Council, 2002</marker>
+<rawString>607 National Research Council, ‘‘Effectiveness and Impact of Corporate Average Fuel Economy (CAFE) Standards,’’ National Academy Press, Washington, DC (2002). Available at http://www.nap.edu/ openbook.php?isbn=0309076013 (last accessed September 11, 2009).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>United Nations</author>
+</authors>
+<title>Intergovernmental Panel on Climate Change (IPCC), the U.S. Climate Change Science Program (CCSP), and EPA. Our discussion relies heavily on the most recent, thoroughly peer-reviewed, and credible assessments of global and U.S. climate change: the IPCC Fourth Assessment Report (Climate Change 2007), EPA’s proposed Endangerment and Cause or Contribute Findings for Greenhouse Gases under</title>
+<booktitle>Section 202(a) of the Clean Air Act and the accompanying Technical Support Document (TSD), and CCSP and National Science and Technology Council reports that include the Scientific Assessment of the Effects of Global Change on the United States and Synthesis and Assessment Products. Land Management, Centers for Disease Control and Prevention, Minerals Management Service, National Park Service, U.S. Army Corps of Engineers, U.S. Forest Service, and Advisory Council on Historic Preservation. NHTSA is also exploring its obligations under Section 7 of the Endangered Species Act with the U.S. Fish and Wildlife Service and the National Oceanic and Atmospheric Administration Fisheries Service.</booktitle>
+<marker>Nations, </marker>
+<rawString>United Nations Intergovernmental Panel on Climate Change (IPCC), the U.S. Climate Change Science Program (CCSP), and EPA. Our discussion relies heavily on the most recent, thoroughly peer-reviewed, and credible assessments of global and U.S. climate change: the IPCC Fourth Assessment Report (Climate Change 2007), EPA’s proposed Endangerment and Cause or Contribute Findings for Greenhouse Gases under Section 202(a) of the Clean Air Act and the accompanying Technical Support Document (TSD), and CCSP and National Science and Technology Council reports that include the Scientific Assessment of the Effects of Global Change on the United States and Synthesis and Assessment Products. Land Management, Centers for Disease Control and Prevention, Minerals Management Service, National Park Service, U.S. Army Corps of Engineers, U.S. Forest Service, and Advisory Council on Historic Preservation. NHTSA is also exploring its obligations under Section 7 of the Endangered Species Act with the U.S. Fish and Wildlife Service and the National Oceanic and Atmospheric Administration Fisheries Service.</rawString>
+</citation>
+<citation valid="false">
+<title>Alternative); and VOCs under Alternative 4. Despite these individual increases, emissions of PM2.5, SOX, NOX, and VOCs remain emissions: Regional Greenhouse Gas Initiative (RGGI); Western Climate Initiative (WCI); Midwestern Greenhouse Gas Reduction Accord; EPA’s Proposed GHG Emissions Standards; H.R. 2454: American Clean Energy and Security Act (‘‘WaxmanMarkey Bill’’); Renewable Fuel Standard (RFS2); Program Activities of DOE’s Office of Fossil Energy; Program Activities of DOE’s Office of Nuclear Energy; United Nation’s Framework Convention</title>
+<date>2009</date>
+<booktitle>on Climate Change (UNFCCC)—The Kyoto Protocol and upcoming Conference of the Parties (COP) 15 in Copenhagen, Denmark; G8 Declaration—Summit 2009; and the Asia Pacific Partnership on Clean Development and Climate.642 The SAP 49745 Federal Register /</booktitle>
+<volume>74</volume>
+<location>(Mercedes), Chrysler, Ferrari, Ford, Subaru, General Motors, Honda, Hyundai, Kia, Lotus, Maserati, Mazda, Mitsubishi, Nissan, Porsche, Subaru, Suzuki, Tata, Toyota, and Volkswagen.</location>
+<marker>2009</marker>
+<rawString>and 4 (Preferred Alternative); and VOCs under Alternative 4. Despite these individual increases, emissions of PM2.5, SOX, NOX, and VOCs remain emissions: Regional Greenhouse Gas Initiative (RGGI); Western Climate Initiative (WCI); Midwestern Greenhouse Gas Reduction Accord; EPA’s Proposed GHG Emissions Standards; H.R. 2454: American Clean Energy and Security Act (‘‘WaxmanMarkey Bill’’); Renewable Fuel Standard (RFS2); Program Activities of DOE’s Office of Fossil Energy; Program Activities of DOE’s Office of Nuclear Energy; United Nation’s Framework Convention on Climate Change (UNFCCC)—The Kyoto Protocol and upcoming Conference of the Parties (COP) 15 in Copenhagen, Denmark; G8 Declaration—Summit 2009; and the Asia Pacific Partnership on Clean Development and Climate.642 The SAP 49745 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules 647 BMW, Daimler (Mercedes), Chrysler, Ferrari, Ford, Subaru, General Motors, Honda, Hyundai, Kia, Lotus, Maserati, Mazda, Mitsubishi, Nissan, Porsche, Subaru, Suzuki, Tata, Toyota, and Volkswagen.</rawString>
+</citation>
+<citation valid="false">
+<title>The Regulatory Flexibility Act only requires Fuel Economy Division, Office of International Policy, Fuel Economy, and Consumer Programs, National Highway Traffic Safety Administration,</title>
+<date></date>
+<pages>648</pages>
+<location>1200 New Jersey Avenue, SE., Washington, DC 20590. You</location>
+<marker></marker>
+<rawString>648 The Regulatory Flexibility Act only requires Fuel Economy Division, Office of International Policy, Fuel Economy, and Consumer Programs, National Highway Traffic Safety Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590. You may also contact him by phone at (202) 366–0846 or by fax at (202) 493–2290. 8. Regulation Identifier Number information, Labeling, Motor vehicle pollution, Reporting and recordkeeping requirements. 40 CFR Part 600 Administrative practice and procedure, Electric power, Fuel economy, Incorporation by reference, Labeling, Reporting and recordkeeping requirements.</rawString>
+</citation>
+<citation valid="false">
+<title>Protection Agency at the following address: Director, Certification and Innovative Strategies Division, U.S. Environmental Protection Agency,</title>
+<date>2000</date>
+<booktitle>in 13 CFR 121.201. (i) Vehicle manufacturers (NAICS code 336111). (ii) Independent commercial importers (NAICS codes 811111, 811112, 811198, 423110, 424990, and 441120). (iii) Alternate fuel vehicle converters (NAICS codes</booktitle>
+<volume>335312</volume>
+<pages>485310--811198</pages>
+<marker>2000</marker>
+<rawString>Protection Agency at the following address: Director, Certification and Innovative Strategies Division, U.S. Environmental Protection Agency, 2000 Traverwood Drive, Ann Arbor, Michigan 48105. (1) The following categories of businesses (with their associated NAICS codes) may apply for exemption based on the Small Business Administration size standards in 13 CFR 121.201. (i) Vehicle manufacturers (NAICS code 336111). (ii) Independent commercial importers (NAICS codes 811111, 811112, 811198, 423110, 424990, and 441120). (iii) Alternate fuel vehicle converters (NAICS codes 335312, 336312, 336322, 336399, 454312, 485310, and 811198).</rawString>
+</citation>
+<citation valid="false">
+<title>(AECD) descriptions submitted at certification. Any AECD specific to high altitude must require engineering emission data for EPA evaluation to quantify any emission impact and validity of the AECD.</title>
+<journal>16. A new §</journal>
+<volume>86</volume>
+<marker></marker>
+<rawString>(AECD) descriptions submitted at certification. Any AECD specific to high altitude must require engineering emission data for EPA evaluation to quantify any emission impact and validity of the AECD. * * * * * 16. A new § 86.1818–12 is added to read as follows: § 86.1818–12 Greenhouse gas emission standards for light-duty vehicles, light-duty trucks, and medium-duty passenger vehicles.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Applicability</author>
+</authors>
+<title>This section contains regulations implementing greenhouse gas emission standards for CO2, N2O, and CH4 applicable to all LDVs, LDTs and MDPVs. This section applies to 2012 and later model year LDVs, LDTs and MDPVs, including multi-fuel vehicles, vehicles fueled with alternative fuels, hybrid electric vehicles, plug-in hybrid electric vehicles, electric vehicles, and fuel cell electric vehicles. Unless otherwise specified, multi-fuel vehicles must comply with all requirements established for each consumed fuel. The provisions of this section also apply to aftermarket conversion systems, aftermarket conversion installers, and aftermarket conversion certifiers, as those terms are defined in 40 CFR 85.502, of all model year light-duty vehicles, light-duty trucks,</title>
+<date>2014</date>
+<booktitle>and VerDate Nov&amp;lt;24&amp;gt;2008 23:31 Sep 25, 2009 Jkt 217001 PO 00000 Frm 00303 Fmt 4701 Sfmt 4700 E:\FR\FM\28SEP2.SGM 28SEP2ms Model year CO2 target value (grams/mile) 2012 ................................ 242 2013 ................................ 234</booktitle>
+<pages>227</pages>
+<marker>Applicability, 2014</marker>
+<rawString>(a) Applicability. This section contains regulations implementing greenhouse gas emission standards for CO2, N2O, and CH4 applicable to all LDVs, LDTs and MDPVs. This section applies to 2012 and later model year LDVs, LDTs and MDPVs, including multi-fuel vehicles, vehicles fueled with alternative fuels, hybrid electric vehicles, plug-in hybrid electric vehicles, electric vehicles, and fuel cell electric vehicles. Unless otherwise specified, multi-fuel vehicles must comply with all requirements established for each consumed fuel. The provisions of this section also apply to aftermarket conversion systems, aftermarket conversion installers, and aftermarket conversion certifiers, as those terms are defined in 40 CFR 85.502, of all model year light-duty vehicles, light-duty trucks, and VerDate Nov&amp;lt;24&amp;gt;2008 23:31 Sep 25, 2009 Jkt 217001 PO 00000 Frm 00303 Fmt 4701 Sfmt 4700 E:\FR\FM\28SEP2.SGM 28SEP2ms Model year CO2 target value (grams/mile) 2012 ................................ 242 2013 ................................ 234 2014 ................................ 227 2015 ................................ 215 2016 and later ................ 204 (B) For passenger automobiles with a footprint of greater than 56 square feet, the gram/mile CO2 target value shall be selected for the appropriate model year from the following table: Model year CO2 target value (grams/mile) 2012 ................................ 313 2013 ................................ 305 2014 ................................ 297 2015 ................................ 286 2016 and later ................ 275 (C) For passenger automobiles with a Model year CO2 target value (grams/mile) 2012 ................................ 298 2013 ................................ 287 2014 ................................ 276 2015 ................................ 261 2016 and later ................ 246 (B) For light trucks with a footprint of greater than 66 square feet, the gram/ mile CO2 target value shall be selected for the appropriate model year from the following table: Model year CO2 target value (grams/mile) 2012 ................................ 399 2013 ................................ 388 2014 ................................ 377 2015 ................................ 362 2016 and later ................ 347 (C) For light trucks with a footprint light trucks subject to the interim fleet average CO2 standard.</rawString>
+</citation>
+<citation valid="false">
+<title>(3) Manufacturers choosing to optionally apply these standards are subject to the restrictions on credit banking and trading specified in § 86.1865–12. (f) N2O standards for light-duty vehicles, light-duty trucks, and mediumduty passenger vehicles. Exhaust emissions of nitrous oxide (N2O) shall not exceed 0.010 grams per mile at full useful life, as measured according to the Federal Test Procedure (FTP) described in subpart B of this part. (g) Methane standards for light-duty vehicles, light-duty trucks, and mediumduty passenger vehicles. Exhaust emissions of methane (CH4) shall not exceed 0.030 grams per mile at full useful life, as measured according to the Federal Test Procedure (FTP) described in subpart B of this part.</title>
+<marker></marker>
+<rawString>(3) Manufacturers choosing to optionally apply these standards are subject to the restrictions on credit banking and trading specified in § 86.1865–12. (f) N2O standards for light-duty vehicles, light-duty trucks, and mediumduty passenger vehicles. Exhaust emissions of nitrous oxide (N2O) shall not exceed 0.010 grams per mile at full useful life, as measured according to the Federal Test Procedure (FTP) described in subpart B of this part. (g) Methane standards for light-duty vehicles, light-duty trucks, and mediumduty passenger vehicles. Exhaust emissions of methane (CH4) shall not exceed 0.030 grams per mile at full useful life, as measured according to the Federal Test Procedure (FTP) described in subpart B of this part.</rawString>
+</citation>
+<citation valid="false">
+<title>Section 86.1823–08 is amended by adding paragraph (m) to read as follows: § 86.1823–08 Durability demonstration procedures for exhaust emissions. * * * * * (m) Durability demonstration procedures for vehicles subject to the greenhouse gas exhaust emission standards specified in 86.1818–12. (1) CO2. (i) Unless otherwise specified under paragraph (m)(1)(ii) of this section, manufacturers may use a multiplicative CO2 deterioration factor of one or an additive deterioration factor of zero. (ii) Based on an analysis of industrywide data, EPA may periodically (f) Unless otherwise approved by the Administrator, a manufacturer of electric vehicles must create separate test groups based on the type of battery technology, the capacity and voltage of the battery, and the type and size of the electric motor.</title>
+<marker></marker>
+<rawString>17. Section 86.1823–08 is amended by adding paragraph (m) to read as follows: § 86.1823–08 Durability demonstration procedures for exhaust emissions. * * * * * (m) Durability demonstration procedures for vehicles subject to the greenhouse gas exhaust emission standards specified in 86.1818–12. (1) CO2. (i) Unless otherwise specified under paragraph (m)(1)(ii) of this section, manufacturers may use a multiplicative CO2 deterioration factor of one or an additive deterioration factor of zero. (ii) Based on an analysis of industrywide data, EPA may periodically (f) Unless otherwise approved by the Administrator, a manufacturer of electric vehicles must create separate test groups based on the type of battery technology, the capacity and voltage of the battery, and the type and size of the electric motor.</rawString>
+</citation>
+<citation valid="false">
+<title>Section 86.1829–01 is amended by revising paragraph (b)(1)(i) and by adding paragraph (b)(1)(iii)(G) to read as follows: § 86.1829–01 Durability and emission testing requirements; waivers.</title>
+<marker></marker>
+<rawString>19. Section 86.1829–01 is amended by revising paragraph (b)(1)(i) and by adding paragraph (b)(1)(iii)(G) to read as follows: § 86.1829–01 Durability and emission testing requirements; waivers.</rawString>
+</citation>
+<citation valid="false">
+<title>Section 86.1835–01 is amended as follows: a. By revising paragraph (a)(4). b. By revising paragraph (b)(1) introductory text. c. By adding paragraph (b)(1)(vi). d. By revising paragraph (b)(3). e. By revising paragraph (c)(1)(ii).</title>
+<marker></marker>
+<rawString>20. Section 86.1835–01 is amended as follows: a. By revising paragraph (a)(4). b. By revising paragraph (b)(1) introductory text. c. By adding paragraph (b)(1)(vi). d. By revising paragraph (b)(3). e. By revising paragraph (c)(1)(ii).</rawString>
+</citation>
+<citation valid="false">
+<booktitle>86.1835–01 Confirmatory certification testing.</booktitle>
+<marker></marker>
+<rawString>§ 86.1835–01 Confirmatory certification testing.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Compliance</author>
+<author>Innovative Strategies Division</author>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency,</title>
+<date>2000</date>
+<marker>Compliance, Division, S, 2000</marker>
+<rawString>Compliance and Innovative Strategies Division, U.S. Environmental Protection Agency, 2000 Traverwood, Ann Arbor, Michigan 48105. procedures specified in § 600.113–08 of this chapter. (B) Calculate 5-cycle city and highway carbon-related exhaust emissions using data determined in paragraph (d)(2)(i)(A) of this section according to the calculation procedures in paragraphs (d) through (f) of 40 CFR 600.114–08. (C) Calculate a 5-cycle city/highway combined carbon-related exhaust emission value using the city and highway values determined in paragraph (d)(2)(i)(B) of this section. (D) Subtract the 5-cycle city/highway combined carbon-related exhaust emission value determined with the offcycle technology operating from the 5-cycle city/highway combined carbonrelated exhaust emission value credits under paragraph (c) of this section. (iv) Fleet average CO2 credit threshold values.</rawString>
+</citation>
+<citation valid="false">
+<title>265 ............................................................................................ 388 (v) Credits are earned on the last day 29. The authority citation for part 600 continues to read as follows:</title>
+<date>2011</date>
+<booktitle>Model year LDV/LDT1 LDT2/HLDT/ MDPV 2009 ........................................................................................... 321 ............................................................................................ 437 2010 ........................................................................................... 299 ............................................................................................ 418</booktitle>
+<pages>109--58</pages>
+<marker>2011</marker>
+<rawString>Model year LDV/LDT1 LDT2/HLDT/ MDPV 2009 ........................................................................................... 321 ............................................................................................ 437 2010 ........................................................................................... 299 ............................................................................................ 418 2011 ........................................................................................... 265 ............................................................................................ 388 (v) Credits are earned on the last day 29. The authority citation for part 600 continues to read as follows: Authority: 49 U.S.C. 32901–23919q, Pub. L. 109–58. 30. The heading for Part 600 is revised as set forth above.</rawString>
+</citation>
+<citation valid="false">
+<title>Subpart A—Fuel Economy and Carbon-Related Exhaust Emission Regulations for 1977 and Later Model Year Automobiles—General Provisions 31. The heading for subpart A is revised as set forth above. 32. A new § 600.001–12 is added to subpart A to read as follows: § 600.001–12 General applicability. (a) The provisions of this subpart are 34. Section 600.006–08 is amended as follows: a. By revising the heading. b. By revising paragraph (b)(2)(ii). c. By revising paragraph (b)(2)(iv). d. By adding paragraph (c)(5). e. By revising paragraph (e). f. By revising paragraph (g)(3). § 600.006–08 Data and information requirements for fuel economy data vehicles. 35. Section 600.007–08 is amended as follows: a. By revising paragraph (b)(4) through (6). b. By revising paragraph (c). c. By revising paragraph (f) introductory text.</title>
+<booktitle>600.007–08 Vehicle acceptability. a. By</booktitle>
+<marker></marker>
+<rawString>Subpart A—Fuel Economy and Carbon-Related Exhaust Emission Regulations for 1977 and Later Model Year Automobiles—General Provisions 31. The heading for subpart A is revised as set forth above. 32. A new § 600.001–12 is added to subpart A to read as follows: § 600.001–12 General applicability. (a) The provisions of this subpart are 34. Section 600.006–08 is amended as follows: a. By revising the heading. b. By revising paragraph (b)(2)(ii). c. By revising paragraph (b)(2)(iv). d. By adding paragraph (c)(5). e. By revising paragraph (e). f. By revising paragraph (g)(3). § 600.006–08 Data and information requirements for fuel economy data vehicles. 35. Section 600.007–08 is amended as follows: a. By revising paragraph (b)(4) through (6). b. By revising paragraph (c). c. By revising paragraph (f) introductory text. § 600.007–08 Vehicle acceptability. a. By revising the introductory text. b. By revising paragraph (a)(1). c. By revising paragraph (b)(1) and (2). d. By revising paragraph (c)(1). e. By revising paragraph (d)(1) and (2). f. By revising paragraph (e). g. By adding paragraph (f)(4). h. By revising paragraphs (g) through (l). i. By adding paragraph (m).</rawString>
+</citation>
+<citation valid="false">
+<title>Fuel economy calculations weighted grams/mile values for total hydrocarbons (HC), carbon monoxide (CO), and carbon dioxide (CO2); and, additionally for methanol-fueled automobiles, methanol (CH3OH) and formaldehyde (HCHO); and, additionally for ethanol-fueled automobiles, methanol (CH3OH), ethanol (C2H5OH), acetaldehyde (C2H4O), and formaldehyde (HCHO); and additionally for natural gas-fueled vehicles non-methane hydrocarbons (NMHC) and methane (CH4) for the FTP, HFET, US06, SC03 and cold temperature FTP tests. Additionally, the (1) Calculate the mass values for the highway fuel economy test for HC, CO and CO2, and where applicable,</title>
+<date>2008</date>
+<booktitle>CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4 as specified in § 86.144(b) of this chapter. Measure and record the test (1) Calculate the weighted grams/mile values for the cold temperature FTP test for HC, CO and CO2, and where applicable, CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4 as specified in § 86.144(b) of this chapter. For</booktitle>
+<marker>2008</marker>
+<rawString>§ 600.113–08 Fuel economy calculations weighted grams/mile values for total hydrocarbons (HC), carbon monoxide (CO), and carbon dioxide (CO2); and, additionally for methanol-fueled automobiles, methanol (CH3OH) and formaldehyde (HCHO); and, additionally for ethanol-fueled automobiles, methanol (CH3OH), ethanol (C2H5OH), acetaldehyde (C2H4O), and formaldehyde (HCHO); and additionally for natural gas-fueled vehicles non-methane hydrocarbons (NMHC) and methane (CH4) for the FTP, HFET, US06, SC03 and cold temperature FTP tests. Additionally, the (1) Calculate the mass values for the highway fuel economy test for HC, CO and CO2, and where applicable, CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4 as specified in § 86.144(b) of this chapter. Measure and record the test (1) Calculate the weighted grams/mile values for the cold temperature FTP test for HC, CO and CO2, and where applicable, CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4 as specified in § 86.144(b) of this chapter. For 2008 through 2010 diesel-fueled vehicles, HC measurement is optional. (1) Calculate the total grams/mile values for the US06 test for HC, CO and CO2, and where applicable, CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4 as specified in § 86.144(b) of this chapter.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Barr Harbor Drive</author>
+<author>P O Box C700</author>
+<author>West Conshohocken</author>
+<author>PA</author>
+</authors>
+<title>(2) Calculate separately the grams/ for Testing</title>
+<date>1990</date>
+<booktitle>in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th</booktitle>
+<tech>D 1298–85 (Reapproved</tech>
+<location>Street, NW., Room 3340, Washington, DC, or</location>
+<marker>Drive, C700, Conshohocken, PA, 1990</marker>
+<rawString>(2) Calculate separately the grams/ for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW., Room 3340, Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http://www.archives.gov/ federal_register/ code_of_federal_regulations/ ibr_locations.html or: (B) ASTM D 1298–85 (Reapproved 1990) ‘‘Standard Practice for Density, Relative Density (Specific Gravity), or API Gravity of Crude Petroleum and Liquid Petroleum Products by Hydrometer Method’’ for the gasoline fuel component and also for the methanol fuel component and combining as follows. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW., Room 3340, Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http://www.archives.gov/ CWFg = Carbon weight fraction of gasoline portion of blend per ASTM D 3343–90 ‘‘Standard Test Method for Estimation of Hydrogen Content of Aviation Fuels.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW., Room 3340, Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http://www.archives.gov/ SGg = Specific gravity of gasoline as measured by ASTM D 1298–85 (Reapproved 1990) ‘‘Standard Practice for Density, Relative Density (Specific Gravity), or API Gravity of Crude Petroleum and Liquid Petroleum Products by Hydrometer Method.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW, Room 3340, Washington DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>SGm</author>
+</authors>
+<title>Specific gravity of methanol as measured by ASTM D 1298–85 (Reapproved</title>
+<date>1990</date>
+<booktitle>in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW, Room 3340, Washington DC, or</booktitle>
+<marker>SGm, 1990</marker>
+<rawString>SGm = Specific gravity of methanol as measured by ASTM D 1298–85 (Reapproved 1990) ‘‘Standard Practice for Density, Relative Density (Specific Gravity), or API Gravity of Crude Petroleum and Liquid Petroleum Products by Hydrometer Method.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW, Room 3340, Washington DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html.</rawString>
+</citation>
+<citation valid="false">
+<title>Upon the approval of the Administrator, other procedures to American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW, Room 3340, Washington DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html.</title>
+<booktitle>(g) Calculate separate FTP, highway, US06, SC03 and Cold temperature FTP fuel economy from the grams/mile values for total HC, CO, CO2 and, where applicable, CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4, and</booktitle>
+<marker></marker>
+<rawString>(B) Upon the approval of the Administrator, other procedures to American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW, Room 3340, Washington DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html. * * * * * (g) Calculate separate FTP, highway, US06, SC03 and Cold temperature FTP fuel economy from the grams/mile values for total HC, CO, CO2 and, where applicable, CH3OH, C2H5OH, C2H4O, HCHO, NMHC and CH4, and the test fuel’s specific gravity, carbon weight fraction, net heating value, and additionally for natural gas, the test fuel’s composition.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>D ASTM</author>
+</authors>
+<title>1945–91 ‘‘Standard Test Method for Analysis of Natural Gas by Gas Chromatography.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th</title>
+<booktitle>C2H5OH = Grams/mile CH3OH (ethanol) as obtained in paragraph (d) of this section. the Administrator. 39. Section 600.114–08 is amended as follows: a. By revising the heading. b. By revising the introductory text. c. By adding paragraphs (d) through (f). § 600.114–08 Vehicle-specific 5-cycle</booktitle>
+<marker>ASTM, </marker>
+<rawString>ASTM D 1945–91 ‘‘Standard Test Method for Analysis of Natural Gas by Gas Chromatography.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW., Room 3340, Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ CWFexHC = Carbon weight fraction of exhaust hydrocarbons = CWFg as determined in (f)(4) of this section. HC = Grams/mile HC as obtained in paragraph (g) of this section. CO = Grams/mile CO as obtained in paragraph (g) of this section. CO2 = Grams/mile CO2 as obtained in paragraph (g) of this section. CH3OH = Grams/mile CH3OH (methanol) as obtained in paragraph (d) of this section. HCHO = Grams/mile HCHO (formaldehyde) as obtained in paragraph (g) of this section. C2H5OH = Grams/mile CH3OH (ethanol) as obtained in paragraph (d) of this section. Where: CREE means the carbon-related exhaust emission value as defined in § 600.002– 08. CWFexHC= Carbon weight fraction of exhaust hydrocarbons = CWFg as determined in (f)(4) of this section. HC = Grams/mile HC as obtained in paragraph (g) of this section. CO = Grams/mile CO as obtained in paragraph (g) of this section. CO2= Grams/mile CO2as obtained in paragraph (g) of this section. CH3OH = Grams/mile CH3OH (methanol) as obtained in paragraph (d) of this section. HCHO = Grams/mile HCHO (formaldehyde) as obtained in paragraph (g) of this section. C2H5OH = Grams/mile CH3OH (ethanol) as obtained in paragraph (d) of this section. the Administrator. 39. Section 600.114–08 is amended as follows: a. By revising the heading. b. By revising the introductory text. c. By adding paragraphs (d) through (f). § 600.114–08 Vehicle-specific 5-cycle fuel economy and carbon-related exhaust emission calculations. Paragraphs (a) through (c) of this emissions in grams per mile over Bag Y at temperature X. US06 City CREE = carbon-related exhaust emissions in grams per mile over the ‘‘city’’ portion of the US06 test. SC03 CREE = carbon-related exhaust emissions in grams per mile over the SC03 test. (e) Highway carbon-related exhaust emissions. (1) For each vehicle tested, determine the 5-cycle highway carbonrelated exhaust emissions using the following equation: exhaust emissions in grams per mile over the highway portion of the US06 test, HFET CREE = carbon-related exhaust emissions in grams per mile over the HFET test, SC03 CREE = carbon-related exhaust emissions in grams per mile over the SC03 test. (f) Carbon-related exhaust emissions exhaust emissions in grams per mile over the city portion of the US06 test. US06 Highway CREE = carbon-related exhaust emissions in miles per gallon over the Highway portion of the US06 test. HFET CREE = carbon-related exhaust emissions in grams per mile over the HFET test. SC03 CREE = carbon-related exhaust emissions in grams per mile over the SC03 test. (ii) Highway carbon-related exhaust emissions. exhaust emissions in grams per mile over the Highway portion of the US06 test, HFET CREE = carbon-related exhaust emissions in grams per mile over the HFET test, SC03 CREE = carbon-related exhaust emissions in grams per mile over the SC03 test.</rawString>
+</citation>
+<citation valid="false">
+<title>(2) Two-bag FTP equations. If the 2-bag emissions in grams per mile over the city portion of the US06 test, and SC03 CREE = carbon-related exhaust emissions in grams per mile over the SC03 test, and Subpart C—Procedures for Calculating Fuel Economy and Carbon-related Exhaust Emission Values for 1977 and Later Model Year Automobiles 41. The heading for subpart C is natural gas test fuel.</title>
+<marker></marker>
+<rawString>(2) Two-bag FTP equations. If the 2-bag emissions in grams per mile over the city portion of the US06 test, and SC03 CREE = carbon-related exhaust emissions in grams per mile over the SC03 test, and Subpart C—Procedures for Calculating Fuel Economy and Carbon-related Exhaust Emission Values for 1977 and Later Model Year Automobiles 41. The heading for subpart C is natural gas test fuel.</rawString>
+</citation>
+<citation valid="false">
+<title>Subpart D—Fuel Economy Regulations for 1977 and Later Model Year Automobiles—Labeling 45. A new § 600.301–12 is added to subpart D to read as follows: § 600.301–12 General applicability.</title>
+<marker></marker>
+<rawString>Subpart D—Fuel Economy Regulations for 1977 and Later Model Year Automobiles—Labeling 45. A new § 600.301–12 is added to subpart D to read as follows: § 600.301–12 General applicability.</rawString>
+</citation>
+<citation valid="false">
+<title>(a) Unless otherwise specified, the provisions of this subpart are applicable to 2012 and later model year automobiles.</title>
+<marker></marker>
+<rawString>(a) Unless otherwise specified, the provisions of this subpart are applicable to 2012 and later model year automobiles.</rawString>
+</citation>
+<citation valid="false">
+<title>Subpart F—Fuel Economy Regulations for Model Year</title>
+<date>1978</date>
+<journal>Federal Register /</journal>
+<booktitle>Proposed Rules ASTM D 240–92 ‘‘Standard Test Method</booktitle>
+<volume>74</volume>
+<pages>51</pages>
+<marker>1978</marker>
+<rawString>(b) [Reserved] Subpart F—Fuel Economy Regulations for Model Year 1978 Passenger Automobiles and for 1979 and Later Model Year Automobiles (Light Trucks and Passenger Automobiles)— Procedures for Determining Manufacturer’s Average Fuel Economy and Manufacturer’s Average Carbonrelated Exhaust Emissions 46. The heading for subpart F is 49779 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules paragraph (b) of this section for any running change approved or implemented under §§ 86.079–32, 86.079–33, or 86.082–34 or 86.1842–01 as applicable, which: 49781 Federal Register / Vol. 74, No. 186 / Monday, September 28, 2009 / Proposed Rules ASTM D 240–92 ‘‘Standard Test Method for Heat of Combustion of Liquid Hydrocarbon Fuels by Bomb Calorimeter.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.</rawString>
+</citation>
+<citation valid="false">
+<title>be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th</title>
+<date></date>
+<institution>Copies</institution>
+<location>Street, NW., Room 3340, Washington, DC, or</location>
+<marker></marker>
+<rawString>Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW., Room 3340, Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html.</rawString>
+</citation>
+<citation valid="false">
+<title>The density for alcohol fuels shall be determined per ASTM D 1298–85 (Reapproved</title>
+<date>1990</date>
+<booktitle>in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies</booktitle>
+<pages>600--510</pages>
+<location>P.O. Box C700, West Conshohocken, PA</location>
+<marker>1990</marker>
+<rawString>(B) The density for alcohol fuels shall be determined per ASTM D 1298–85 (Reapproved 1990) ‘‘Standard Practice for Density, Relative Density (Specific Gravity), or API Gravity of Crude Petroleum and Liquid Petroleum Products by Hydrometer Method.’’ This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the American Society for Testing and Materials, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428–2959. Copies may be inspected at U.S. EPA Headquarters Library, EPA West Building, Constitution Avenue and 14th Street, NW., Room 3340, Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http://www.archives.gov/ federal_register/ code_of_federal_regulations/ ibr_locations.html. (3) Separate reports shall be submitted for passenger automobiles and light trucks (as identified in § 600.510).</rawString>
+</citation>
+<citation valid="false">
+<title>(c) The model year report must include the following information: (1)(i) All fuel economy data used in the FTP/HFET-based model type calculations under § 600.208–12, and subsequently required by the Administrator in accordance with § 600.507; (ii) All carbon-related exhaust emission data used in the FTP/HFETbased model type calculations under § 600.208–12, and subsequently required by the Administrator in accordance with § 600.507; (2)(i) All fuel economy data for certification vehicles and for vehicles tested for running changes approved under § 86.1842–01 of this chapter; (ii) All carbon-related exhaust emission data for certification vehicles and for vehicles tested for running changes approved under § 86.1842–01 of this chapter; (3) Any additional fuel economy and carbon-related exhaust emission data submitted by the manufacturer under § 600.509; (4)(i) A fuel economy value for each model type of the manufacturer’s product line calculated according to § 600.510(b)(2); (ii) A carbon-related exhaust emission value for each model type of the manufacturer’s product line calculated according to § 600.510(b)(2); (5)(i) The manufacturer’s average fuel economy value calculated according to address of the official responsible for preparing the report; (iv)</title>
+<date>2000</date>
+<journal>CFR</journal>
+<booktitle>Be submitted to: Director, Compliance and Innovative Strategies Division, U.S. Environmental Protection Agency,</booktitle>
+<pages>1--50</pages>
+<location>Traverwood, Ann Arbor, Michigan</location>
+<marker>2000</marker>
+<rawString>(c) The model year report must include the following information: (1)(i) All fuel economy data used in the FTP/HFET-based model type calculations under § 600.208–12, and subsequently required by the Administrator in accordance with § 600.507; (ii) All carbon-related exhaust emission data used in the FTP/HFETbased model type calculations under § 600.208–12, and subsequently required by the Administrator in accordance with § 600.507; (2)(i) All fuel economy data for certification vehicles and for vehicles tested for running changes approved under § 86.1842–01 of this chapter; (ii) All carbon-related exhaust emission data for certification vehicles and for vehicles tested for running changes approved under § 86.1842–01 of this chapter; (3) Any additional fuel economy and carbon-related exhaust emission data submitted by the manufacturer under § 600.509; (4)(i) A fuel economy value for each model type of the manufacturer’s product line calculated according to § 600.510(b)(2); (ii) A carbon-related exhaust emission value for each model type of the manufacturer’s product line calculated according to § 600.510(b)(2); (5)(i) The manufacturer’s average fuel economy value calculated according to address of the official responsible for preparing the report; (iv) Be submitted to: Director, Compliance and Innovative Strategies Division, U.S. Environmental Protection Agency, 2000 Traverwood, Ann Arbor, Michigan 48105; (v) Identify the current model year; (vi) Be written in the English language; and (vii)(A) Specify any part of the information specified in paragraph (d)(2)(ii) of this section. (iii) Each manufacturer whose premodel year report omits any of the information specified in (c)(2), (c)(3)(i) and (ii), or (c)(3)(iv)(P) and (Q) shall file a supplementary report containing the information specified in paragraph (d)(2)(iii) of this section. (2)(i) The supplementary report required by paragraph (d)(1)(i) of this section must contain: (A) Such revisions of and additions to manufacturer under this part. (e) Determination of carbon-related exhaust emission values and average carbon-related exhaust emissions. (1) Vehicle configuration carbon1. The authority citation for part 531 continues to read as follows: Authority: 49 U.S.C. 32902; delegation of authority at 49 CFR 1.50.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Amend</author>
+</authors>
+<title>531.5 by redesignating</title>
+<date>2012</date>
+<journal>G2 .................................... ...................... ...................... ................ ................ ................ ................ ................ 5,000 H ...................................... PC H ............ 265/55R18 ...</journal>
+<booktitle>235/60R15 ... 96.1 58.5 58.7 58.6 39.1 1,000 31.19 E1 .................................... PC E ............ 225/65R16 ...</booktitle>
+<volume>36</volume>
+<pages>1--000</pages>
+<note>30,500 Note to Appendix A Table 2. Accordingly, vehicle models</note>
+<marker>Amend, 2012</marker>
+<rawString>2. Amend § 531.5 by redesignating 2012 ................................................................................................................. 36.23 28.12 0.0005308 0.005842 2013 ................................................................................................................. 37.15 28.67 0.0005308 0.005153 2014 ................................................................................................................. 38.08 29.22 0.0005308 0.004498 2015 ................................................................................................................. 39.55 30.08 0.0005308 0.003520 2016 ................................................................................................................. 41.38 31.12 0.0005308 0.002406 (d) In addition to the requirement of paragraphs (b) and (c) of this section, each manufacturer shall also meet the minimum standard for domestically manufactured passenger automobiles expressed in Table IV: D ...................................... PC D ............ 235/60R15 ... 96.1 58.5 58.7 58.6 39.1 1,000 31.19 E1 .................................... PC E ............ 225/65R16 ... 105.0 64.7 64.5 64.6 47.1 3,000 30.52 E2 .................................... ...................... ...................... ................ ................ ................ ................ ................ 1,000 F ...................................... PC F ............. 235/65R16 ... 105.0 64.6 64.6 64.6 47.1 8,000 30.52 G1 .................................... PC G ............ 235/65R17 ... 107.0 65.1 65.3 65.2 48.4 2,000 29.34 G2 .................................... ...................... ...................... ................ ................ ................ ................ ................ 5,000 H ...................................... PC H ............ 265/55R18 ... 107.0 65.2 65.2 65.2 48.4 5,000 29.34 30,500 Note to Appendix A Table 2. Accordingly, vehicle models A, B, C, D, E, F, G and H would be compared to fuel economy values of 31.19, 31.19, 31.19, 31.19, 30.52, 30.52, 29.34 and 29.34 mpg, respectively. With the appropriate fuel economy targets calculated, Manufacturer X’s required fuel economy would be calculated as illustrated in ‘‘Appendix A Figure 1.’’ Appendix A, Figure 1 Calculation of Manufacturer X’s target fuel economy standard.</rawString>
+</citation>
+<citation valid="true">
+<title>Jkt 217001 PO 00000 Frm 00334 Fmt 4701 Sfmt 4700 E:\FR\FM\28SEP2.SGM 28SEP2ms 4. The authority citation for part 533 continues to read as follows: Authority: 49 U.S.C. 32902; delegation of authority at 49 CFR 1.50. 5. Amend § 533.5 by adding Figures 2 values in Table VI.</title>
+<date>2009</date>
+<booktitle>VerDate Nov&amp;lt;24&amp;gt;2008</booktitle>
+<pages>23--31</pages>
+<marker>2009</marker>
+<rawString>VerDate Nov&amp;lt;24&amp;gt;2008 23:31 Sep 25, 2009 Jkt 217001 PO 00000 Frm 00334 Fmt 4701 Sfmt 4700 E:\FR\FM\28SEP2.SGM 28SEP2ms 4. The authority citation for part 533 continues to read as follows: Authority: 49 U.S.C. 32902; delegation of authority at 49 CFR 1.50. 5. Amend § 533.5 by adding Figures 2 values in Table VI.</rawString>
+</citation>
+<citation valid="false">
+<title>Revise Appendix A to Part 533 to read as follows: Appendix A to Part 533—Example of Calculating Compliance Under §</title>
+<date></date>
+<journal>F3 .................................... ...................... ...................... ................ ................ ................ ................ ................ 800 ................ G ...................................... PU G ............ 255/70R17 ...</journal>
+<booktitle>E1 .................................... PU E ............ 275/70R17 ...</booktitle>
+<tech>533.5 C1</tech>
+<volume>125</volume>
+<pages>500--1</pages>
+<location>New Jersey Avenue, SE., Washington, DC</location>
+<marker></marker>
+<rawString>6. Revise Appendix A to Part 533 to read as follows: Appendix A to Part 533—Example of Calculating Compliance Under § 533.5 C1 .................................... ...................... ...................... ................ ................ ................ ................ ................ 300 ................ C2 .................................... PU C ............ 255/70R17 ... 125.0 68.7 68.9 68.8 59.7 400 24.09 C3 .................................... ...................... ...................... ................ ................ ................ ................ ................ 400 ................ D ...................................... PU D ............ 255/70R17 ... 125.0 68.7 68.9 68.8 59.7 400 24.09 E1 .................................... PU E ............ 275/70R17 ... 150.0 68.9 68.9 68.9 71.8 500 24.00 E2 .................................... ...................... ...................... ................ ................ ................ ................ ................ 500 ................ F1 .................................... ...................... ...................... ................ ................ ................ ................ ................ 1,600 ................ F2 .................................... PU F ............. 255/70R17 ... 125.0 69.0 68.8 68.9 59.8 800 24.09 F3 .................................... ...................... ...................... ................ ................ ................ ................ ................ 800 ................ G ...................................... PU G ............ 255/70R17 ... 125.0 69.0 68.8 68.9 59.8 800 24.09 (4) Be submitted in 5 copies to: Administrator, National Highway Traffic Safety Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590, or submitted electronically to the following secure e-mail address: cafe@dot.gov. Electronic submissions should be provided in a pdf format. * * * * * 9. Amend § 537.7 by revising paragraphs (c)(4)(xvi)(A)(4) and (c)(4)(xvi)(B)(4) to read as follows: § 537.7 Pre-model year and mid-model year reports.</rawString>
+</citation>
+<citation valid="true">
+<title>Be addressed to: Administrator, National Highway Traffic Safety Administration,</title>
+<date></date>
+<journal>Dated: September</journal>
+<volume>15</volume>
+<institution>Ray LaHood, Secretary, Department of Transportation.</institution>
+<location>1200 New Jersey Avenue, SE., Washington, DC</location>
+<marker></marker>
+<rawString>(1) Be addressed to: Administrator, National Highway Traffic Safety Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590. * * * * * Dated: September 15, 2009. Ray LaHood, Secretary, Department of Transportation.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Dated</author>
+</authors>
+<title>Administrator, Environmental Protection Agency.</title>
+<date>2009</date>
+<marker>Dated, 2009</marker>
+<rawString>Dated: September 15, 2009. Lisa P. Jackson, Administrator, Environmental Protection Agency.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>E9–22516 Filed 9–17–09; 4:15 pm] BILLING CODE 4910–59–P; 6560–50–P VerDate Nov&amp;lt;24&amp;gt;2008 23:31 Sep 25, 2009 Jkt 217001 PO 00000 Frm 00337 Fmt 4701 Sfmt 4700 E:\FR\FM\28SEP2.SGM 28SEP2 EP</booktitle>
+<marker></marker>
+<rawString>[FR Doc. E9–22516 Filed 9–17–09; 4:15 pm] BILLING CODE 4910–59–P; 6560–50–P VerDate Nov&amp;lt;24&amp;gt;2008 23:31 Sep 25, 2009 Jkt 217001 PO 00000 Frm 00337 Fmt 4701 Sfmt 4700 E:\FR\FM\28SEP2.SGM 28SEP2 EP</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

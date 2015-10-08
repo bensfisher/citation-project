@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>E Brown</author>
+<author>R N Elliott</author>
+</authors>
+<title>On-Farm Energy Use Characterizations, Report Number IE052, ©American Council for an Energy-Efficient</title>
+<date>2005</date>
+<journal>Industrial Nitric Acid Production</journal>
+<booktitle>http://www.aceee.org/pubs/ie052full.pdf E.H. Pechan &amp; Associates, Inc., Perrin Quarles Associates, Inc., and Alpine Geophysics, LLC, Greenhouse Gas (GHG) Emissions and New Source Review, Work Assignment No. 1-06, EPA Contract No.</booktitle>
+<volume>325311</volume>
+<pages>07--097</pages>
+<location>Economy, Washington, D.C.,</location>
+<marker>Brown, Elliott, 2005</marker>
+<rawString>Industrial Nitric Acid Production 325311 1,000 Brown, E., and Elliott, R.N., On-Farm Energy Use Characterizations, Report Number IE052, ©American Council for an Energy-Efficient Economy, Washington, D.C., March 2005. http://www.aceee.org/pubs/ie052full.pdf E.H. Pechan &amp; Associates, Inc., Perrin Quarles Associates, Inc., and Alpine Geophysics, LLC, Greenhouse Gas (GHG) Emissions and New Source Review, Work Assignment No. 1-06, EPA Contract No. EP-D-07-097, April 10, 2008 (EPA-HQ-OAR-2008-0318-0080).</rawString>
+</citation>
+<citation valid="false">
+<title>Characterization of the U.S. Industrial Commercial Boiler Population, submitted to Oak Ridge National Laboratory,</title>
+<date>2005</date>
+<booktitle>http://www1.eere.energy.gov/industry/distributedenergy/pdfs/characterization_industrial_comme rical_boiler_population.pdf Energy and Environmental Analysis, Inc. (EEA), World of Distributed Generation in</booktitle>
+<pages>2008--0318</pages>
+<location>Delaware,</location>
+<marker>2005</marker>
+<rawString>Environmental Energy and Analysis, Inc. (EEA), Characterization of the U.S. Industrial Commercial Boiler Population, submitted to Oak Ridge National Laboratory, May 2005 (EPA-HQ-OAR-2008-0318-0005). http://www1.eere.energy.gov/industry/distributedenergy/pdfs/characterization_industrial_comme rical_boiler_population.pdf Energy and Environmental Analysis, Inc. (EEA), World of Distributed Generation in Delaware, February 2004.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>http www eeainc comrrdbDGRegProjectDocumentsDEDGWorld pdf Federal Register</author>
+</authors>
+<title>74 FR 16447, Mandatory Greenhouse Gas Reporting Regulations; Proposed Rule,</title>
+<date>2009</date>
+<location>Washington, D.C.,</location>
+<marker>Register, 2009</marker>
+<rawString>http://www.eeainc.com/rrdb/DGRegProject/Documents/DEDGWorld.pdf Federal Register, 74 FR 16447, Mandatory Greenhouse Gas Reporting Regulations; Proposed Rule, Washington, D.C., April 10, 2009. Federal Reserve, Statistical Release G17. Industrial Production and Capacity Utilization.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>http www federalreserve govreleasesg17About htm ICF</author>
+<author>International</author>
+</authors>
+<title>Memorandum from Chris Steuer, Marian Van Pelt and Robert Lanza regarding Methodology Description for Industrial Sector GHG Threshold Analysis,</title>
+<date>2007</date>
+<pages>2008--0318</pages>
+<marker>ICF, International, 2007</marker>
+<rawString>http://www.federalreserve.gov/releases/g17/About.htm ICF, International, Memorandum from Chris Steuer, Marian Van Pelt and Robert Lanza regarding Methodology Description for Industrial Sector GHG Threshold Analysis, November 2, 2007 (EPA-HQ-OAR-2008-0318-0079).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lawrence Berkeley</author>
+</authors>
+<title>National Laboratory (LBNL). Energy Data Sourcebook for the U.S. Residential Sector. Prepared by Energy Analysis Program, Environmental Energy Technologies Division, LBNL,</title>
+<date>1997</date>
+<institution>University of California,</institution>
+<location>Berkeley, CA,</location>
+<marker>Berkeley, 1997</marker>
+<rawString>Lawrence Berkeley National Laboratory (LBNL). Energy Data Sourcebook for the U.S. Residential Sector. Prepared by Energy Analysis Program, Environmental Energy Technologies Division, LBNL, University of California, Berkeley, CA, September 1997.</rawString>
+</citation>
+<citation valid="false">
+<title>http://enduse.lbl.gov/info/Pubs95_99.html National Multi-Housing Council (NMHC), Quick Facts Apartment Stock: Distribution of Apartments by Size of Property, NMHC tabulation of unpublished data from the U.S. Census Bureau&amp;apos;s</title>
+<date>1995</date>
+<booktitle>Property Owners and Managers Survey. http://www.nmhc.org/ U.S. Census Bureau</booktitle>
+<note>http://www.census.gov/hhes/www/housing.html.</note>
+<marker>1995</marker>
+<rawString>http://enduse.lbl.gov/info/Pubs95_99.html National Multi-Housing Council (NMHC), Quick Facts Apartment Stock: Distribution of Apartments by Size of Property, NMHC tabulation of unpublished data from the U.S. Census Bureau&amp;apos;s 1995 – 1996 Property Owners and Managers Survey. http://www.nmhc.org/ U.S. Census Bureau (2006), American Housing Survey for the United States: 2005. http://www.census.gov/hhes/www/housing.html.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Economic Census,</title>
+<date>2004</date>
+<pages>0384</pages>
+<marker>Bureau, 2004</marker>
+<rawString>U.S. Census Bureau (2004), 2002 Economic Census, August 2004. http://www.census.gov/econ/census02/ U.S. Census Bureau (1998), 1995 Property Owners and Managers Survey, 1998. http://www.census.gov/hhes/www/housing/poms/poms.html U.S. Energy Information Administration (EIA), Electric Power Annual, 2007, January 21, 2009. http://www.eia.doe.gov/cneaf/electricity/epa/epa_sum.html U.S. Energy Information Administration (EIA), Annual Energy Review 2005, DOE/EIA-0384, July 1, 2006.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Energy Information Administration</author>
+</authors>
+<title>Residential Energy Consumption Survey,</title>
+<date>2005</date>
+<booktitle>http://www.eia.doe.gov/emeu/mecs/contents.html U.S. Environmental Protection Agency (EPA), Inventory of U.S. Greenhouse Gas Emissions and Sinks:</booktitle>
+<pages>2008--0508</pages>
+<location></location>
+<marker>Administration, 2005</marker>
+<rawString>U.S. Energy Information Administration (EIA), 2005 Residential Energy Consumption Survey, February 2009. http://www.eia.doe.gov/emeu/recs/recspubuse05/pubuse05.html U.S. Energy Information Administration (EIA), 2003 Commercial Building Energy Consumption Survey, December 2006. http://www.eia.doe.gov/emeu/cbecs/cbecs2003/public_use_2003/cbecs_pudata2003.html U.S. Energy Information Administration (EIA), 2002 Manufacturing Energy Consumption Survey, January 2007. http://www.eia.doe.gov/emeu/mecs/contents.html U.S. Environmental Protection Agency (EPA), Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990 – 2007, April 2009, US EPA 430-R-09-004. http://www.epa.gov/climatechange/emissions/usinventoryreport.html U.S. Environmental Protection Agency (EPA), Supporting Data for Threshold Analysis Subpart E – W, Greenhouse Gas Mandatory Reporting Rulemaking, March 10, 2009 (EPA-HQ-OAR2008-0508-0046.7).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Supporting Data for Threshold Analysis Subpart X – PP, Greenhouse Gas Mandatory Reporting Rulemaking,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Supporting Data for Threshold Analysis Subpart X – PP, Greenhouse Gas Mandatory Reporting Rulemaking, March 10, 2009 (EPA-HQ-OAR2008-0508-0046.8).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Emissions &amp; Generation Resource Integrated Database (eGRID)</title>
+<date>2004</date>
+<booktitle>US EPA 452/R-07-015. http://www.epa.gov/ttn/atw/nsps/sinsps/sinspspg.html U.S. Environmental Protection Agency (EPA), Draft U.S. Adipic Acid and Nitric Acid N2O Emissions 1990 – 2020: Inventories, Projections and Opportunities for Reductions,</booktitle>
+<pages>2008--0508</pages>
+<marker>S, 2004</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Emissions &amp; Generation Resource Integrated Database (eGRID) 2004, May 2007. http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html U.S. Environmental Protection Agency (EPA), Regulatory Impact Analysis for the Stationary Spark-Ignition New Source Performance Standard (SI NSPS) and New Area Source NESHAP, December 2007, US EPA 452/R-07-015. http://www.epa.gov/ttn/atw/nsps/sinsps/sinspspg.html U.S. Environmental Protection Agency (EPA), Draft U.S. Adipic Acid and Nitric Acid N2O Emissions 1990 – 2020: Inventories, Projections and Opportunities for Reductions, November 2001. http://www.epa.gov/nitrousoxide/pdfs/adipic_nitric_n2o.pdf U.S. Environmental Protection Agency (EPA), Climate Change Division, Fugitive Emissions Reporting from the Petroleum and Natural Gas Industry: Background Technical Support Document, undated, FR publish date: March 26, 2009 (EPA-HQ-OAR-2008-0508-0023).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Adipic Acid Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Adipic Acid Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0005).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions from Primary Production of Aluminum: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions from Primary Production of Aluminum: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 4, 2009 (EPA-HQ-OAR-2008-0508-0006).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Ammonia Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Ammonia Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0007).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions from Cement: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions from Cement: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 28, 2009 (EPA-HQ-OAR-2008-0508-0008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions From Electronics Manufacture (Semiconductors, MEMs, Liquid Crystal Displays, and Photovoltaics),</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions From Electronics Manufacture (Semiconductors, MEMs, Liquid Crystal Displays, and Photovoltaics), January 29, 2009 (EPA-HQ-OAR-2008-0508-0009).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Ethanol Facilities: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Ethanol Facilities: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 4, 2009 (EPA-HQ-OAR-2008-0508-0010).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Ferroalloy Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Ferroalloy Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Glass Manufacturing Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Glass Manufacturing Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0014).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Emissions of HFC-23 from Production of HCFC-22: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Emissions of HFC-23 from Production of HCFC-22: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 06, 2009 (EPA-HQ-OAR-2008-0508-0015).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Hydrogen Production: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2008</date>
+<pages>2008--0508</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Hydrogen Production: Proposed Rule for Mandatory Reporting of Greenhouse Gases, August 5, 2008 (EPA-HQ-OAR-2008-0508-0016).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Iron and Steel Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2008</date>
+<pages>2008--0508</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Iron and Steel Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, September 9, 2008 (EPA-HQ-OAR-2008-0508-0017).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Lead Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Lead Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0018).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Lime Manufacturing Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Lime Manufacturing Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0019).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation,</title>
+<date>2009</date>
+<booktitle>Technical Support Document for Process Emissions from Magnesium Production and Processing: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</booktitle>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Process Emissions from Magnesium Production and Processing: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 10, 2009 (EPA-HQ-OAR-2008-0508-0020).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Petrochemical Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2008</date>
+<pages>2008--0508</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Petrochemical Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, September 9, 2008 (EPA-HQ-OAR-2008-0508-0024).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Petroleum Refining Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2008</date>
+<pages>2008--0508</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Petroleum Refining Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, September 9, 2008 (EPA-HQ-OAR-2008-0508-0025).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Phosphoric Acid Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Phosphoric Acid Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 20, 2009 (EPA-HQ-OAR-2008-0508-0026).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Pulp and Paper Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Pulp and Paper Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 11, 2009 (EPA-HQ-OAR-2008-0508-0027).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Silicon Carbide Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Silicon Carbide Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0028).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Soda Ash Manufacturing Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Soda Ash Manufacturing Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0029).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Titanium Dioxide Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Titanium Dioxide Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0031).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Underground Coal Mines: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for Underground Coal Mines: Proposed Rule for Mandatory Reporting of Greenhouse Gases, February 4, 2009 (EPA-HQ-OAR-2008-0508-0032).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Zinc Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases,</title>
+<date>2009</date>
+<pages>2008--0508</pages>
+<marker>S, 2009</marker>
+<rawString>U.S. Environmental Protection Agency (EPA), Office of Air and Radiation, Technical Support Document for the Zinc Production Sector: Proposed Rule for Mandatory Reporting of Greenhouse Gases, January 22, 2009 (EPA-HQ-OAR-2008-0508-0033).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Greenhouse Gas</author>
+</authors>
+<title>Emissions Thresholds Evaluation (GHG Thresholds TSD) and Methodology for Estimating New and Modified Sources that Would Be Subject to PSD Permitting for GHGs (GHG PSD Sources TSD), both of which can be found at EPA-HQ-OAR-2009-0517. Significant uncertainties exist in the following estimates due to the lack of historical record and permitting experience upon which to base resource needs for including GHG sources.</title>
+<marker>Gas, </marker>
+<rawString>Greenhouse Gas Emissions Thresholds Evaluation (GHG Thresholds TSD) and Methodology for Estimating New and Modified Sources that Would Be Subject to PSD Permitting for GHGs (GHG PSD Sources TSD), both of which can be found at EPA-HQ-OAR-2009-0517. Significant uncertainties exist in the following estimates due to the lack of historical record and permitting experience upon which to base resource needs for including GHG sources.</rawString>
+</citation>
+<citation valid="false">
+<title>Evaluation of ICR-based Resource Requirements for Permitting Authorities at Different Possible GHG Permitting Thresholds aNew commercial/residential permits take 10% of the time needed for new industrial permits bSalaries from Title V ICR adjusted to 2007 dollars using</title>
+<date>2007</date>
+<journal>Industrial</journal>
+<booktitle>1,190,732 Total Additional Burden 186,990 $14,439,368 25,000 tpy PSD Permit Preparation and Issuance - Industrial 301 365 109,865 $8,483,775 PSD Permit Preparation and Issuance - Commercial/Residential 60 36 2,160 $166,795 Total Additional Burden 112,025 $8,650,571 50,000 tpy PSD Permit Preparation and Issuance - Industrial 301 207 62,307 $4,811,347 PSD Permit Preparation and Issuance - Commercial/Residential 60 15 900 $69,498 Total Additional Burden</booktitle>
+<volume>301</volume>
+<pages>172--507</pages>
+<marker>2007</marker>
+<rawString>2. Evaluation of ICR-based Resource Requirements for Permitting Authorities at Different Possible GHG Permitting Thresholds aNew commercial/residential permits take 10% of the time needed for new industrial permits bSalaries from Title V ICR adjusted to 2007 dollars using 2007 OPM General Schedule Salary Table available at: http://www.opm.gov/oca/07tables/index.asp cIncorporating GHG information/requirements into significant revisions and permit renewals adds an additional 10% of the current time (90 hours each) dThe Title V ICR estimates that 3,267 permits annually undergo renewal, and the remaining 14,700 existing permits will need to undergo significant revisions. PSD Permit Preparation and Issuance - Industrial 301 3,664 1,102,864 $85,163,158 PSD Permit Preparation and Issuance - Commercial/Residential 60 37,233 2,233,980 $172,507,936 Total Additional Burden 3,336,844 $257,671,094 10,000 tpy PSD Permit Preparation and Issuance - Industrial 301 570 171,570 $13,248,635 PSD Permit Preparation and Issuance - Commercial/Residential 60 257 15,420 $1,190,732 Total Additional Burden 186,990 $14,439,368 25,000 tpy PSD Permit Preparation and Issuance - Industrial 301 365 109,865 $8,483,775 PSD Permit Preparation and Issuance - Commercial/Residential 60 36 2,160 $166,795 Total Additional Burden 112,025 $8,650,571 50,000 tpy PSD Permit Preparation and Issuance - Industrial 301 207 62,307 $4,811,347 PSD Permit Preparation and Issuance - Commercial/Residential 60 15 900 $69,498 Total Additional Burden 63,207 $4,880,845 aAssume permit preparation and issuance for commercial/residential permits takes 20% the amount of time needed to prepare and issue an industrial permit.</rawString>
+</citation>
+<citation valid="true">
+<title>bLabor cost of $77.22/hr from Prevention of Significant Deterioration and Non-Attainment Area New Source Review (Renewal),</title>
+<date>2008</date>
+<journal>EPA ICR Number 1230.23, OMB Control Number</journal>
+<pages>2060--0003</pages>
+<marker>2008</marker>
+<rawString>bLabor cost of $77.22/hr from Prevention of Significant Deterioration and Non-Attainment Area New Source Review (Renewal), EPA ICR Number 1230.23, OMB Control Number 2060-0003, 2008. 3. Estimates of Avoided ICR-based Burden for Permitting Authorities and Sources at Different Possible GHG Major Source Applicability Threshold for Title V and PSD</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

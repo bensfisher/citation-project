@@ -1,0 +1,4586 @@
+Wednesday, 
+May 7, 2008 
+Part III 
+Department of 
+Health and Human 
+Services 
+Centers for Medicare & Medicaid Services 
+42 CFR Part 413 
+Medicare Program; Prospective Payment 
+System and Consolidated Billing for 
+Skilled Nursing Facilities for FY 2009; 
+Proposed Rule 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00001 Fmt 4717 Sfmt 4717 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25918 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+DEPARTMENT OF HEALTH AND 
+HUMAN SERVICES 
+Centers for Medicare & Medicaid 
+Services 
+42 CFR Part 413 
+[CMS–1534–P] 
+RIN 0938–AP11 
+Medicare Program; Prospective 
+Payment System and Consolidated 
+Billing for Skilled Nursing Facilities for 
+FY 2009 
+AGENCY: Centers for Medicare & 
+Medicaid Services (CMS), HHS. 
+ACTION: Proposed rule. 
+SUMMARY: This proposed rule would 
+update the payment rates used under 
+the prospective payment system (PPS) 
+for skilled nursing facilities (SNFs), for 
+fiscal year (FY) 2009. In addition, it 
+would recalibrate the case-mix indexes 
+so that they more accurately reflect 
+parity in expenditures related to the 
+implementation of case-mix refinements 
+in January 2006. It also discusses our 
+ongoing analysis of nursing home staff 
+time measurement data collected in the 
+Staff Time and Resource Intensity 
+Verification (STRIVE) project. Finally, 
+the proposed rule would make technical 
+corrections in the regulations text with 
+respect to Medicare bad debt payments 
+to SNFs and the reference to the 
+definition of urban and rural as applied 
+to SNFs. 
+DATES: To be assured consideration, 
+comments must be received at one of 
+the addresses provided below, no later 
+than 5 p.m. on June 30, 2008. 
+ADDRESSES: In commenting, please refer 
+to file code CMS–1534–P. Because of 
+staff and resource limitations, we cannot 
+accept comments by facsimile (FAX) 
+transmission. 
+You may submit comments in one of 
+four ways (no duplicates, please): 
+1. Electronically. You may submit 
+electronic comments on specific issues 
+in this regulation to http:// 
+www.regulations.gov. Follow the 
+instructions for ‘‘Comment or 
+Submission’’ and enter the file code to 
+find the document accepting comments. 
+2. By regular mail. You may mail 
+written comments (one original and two 
+copies) to the following address ONLY: 
+Centers for Medicare & Medicaid 
+Services, Department of Health and 
+Human Services, Attention: CMS–1534– 
+P, P.O. Box 8016, Baltimore, MD 21244– 
+8016. 
+Please allow sufficient time for mailed 
+comments to be received before the 
+close of the comment period. 
+3. By express or overnight mail. You 
+may send written comments (one 
+original and two copies) to the following 
+address ONLY: Centers for Medicare & 
+Medicaid Services, Department of 
+Health and Human Services, Attention: 
+CMS–1534–P, Mail Stop C4–26–05, 
+7500 Security Boulevard, Baltimore, MD 
+21244–1850. 
+4. By hand or courier. If you prefer, 
+you may deliver (by hand or courier) 
+your written comments (one original 
+and two copies) before the close of the 
+comment period to one of the following 
+addresses. 
+a. Room 445–G, Hubert H. Humphrey 
+Building, 200 Independence Avenue, 
+SW., Washington, DC 20201 
+(Because access to the interior of the 
+HHH Building is not readily available to 
+persons without Federal Government 
+identification, commenters are 
+encouraged to leave their comments in 
+the CMS drop slots located in the main 
+lobby of the building. A stamp-in clock 
+is available for persons wishing to retain 
+a proof of filing by stamping in and 
+retaining an extra copy of the comments 
+being filed.) 
+Comments mailed to the addresses 
+indicated as appropriate for hand or 
+courier delivery may be delayed and 
+received after the comment period. 
+b. 7500 Security Boulevard, 
+Baltimore, MD 21244–1850. 
+If you intend to deliver your 
+comments to the Baltimore address, 
+please call telephone number (410) 786– 
+9994 in advance to schedule your 
+arrival with one of our staff members. 
+Comments mailed to the address 
+indicated as appropriate for hand or 
+courier delivery may be delayed and 
+received after the comment period. 
+For information on viewing public 
+comments, see the beginning of the 
+SUPPLEMENTARY INFORMATION section. 
+FOR FURTHER INFORMATION CONTACT: 
+Ellen Berry, (410) 786–4528 (for 
+information related to clinical issues). 
+Jeanette Kranacs, (410) 786–9385 (for 
+information related to the development 
+of the payment rates and case-mix 
+indexes). Bill Ullman, (410) 786–5667 
+(for information related to level of care 
+determinations, consolidated billing, 
+and general information). 
+SUPPLEMENTARY INFORMATION: 
+Submitting Comments: We welcome 
+comments from the public on all issues 
+set forth in this rule to assist us in fully 
+considering issues and developing 
+policies. You can assist us by 
+referencing the file code CMS–1534–P 
+and the specific ‘‘issue identifier’’ that 
+precedes the section on which you 
+choose to comment. 
+Inspection of Public Comments: All 
+comments received before the close of 
+the comment period are available for 
+viewing by the public, including any 
+personally identifiable or confidential 
+business information that is included in 
+a comment. We post all comments 
+received before the close of the 
+comment period on the following Web 
+site as soon as possible after they have 
+been received: http://www.cms.hhs.gov/ 
+eRulemaking. Click on the link 
+‘‘Electronic Comments on CMS 
+Regulations’’ on that Web site to view 
+public comments. 
+Comments received timely will also 
+be available for public inspection as 
+they are received, generally beginning 
+approximately 3 weeks after publication 
+of a document, at the headquarters of 
+the Centers for Medicare & Medicaid 
+Services, 7500 Security Boulevard, 
+Baltimore, Maryland 21244, Monday 
+through Friday of each week from 8:30 
+a.m. to 4 p.m. To schedule an 
+appointment to view public comments, 
+phone 1–800–743–3951. 
+To assist readers in referencing 
+sections contained in this document, we 
+are providing the following Table of 
+Contents. 
+Table of Contents 
+I. Background 
+A. Current System for Payment of SNF 
+Services Under Part A of the Medicare 
+Program 
+B. Requirements of the Balanced Budget 
+Act of 1997 (BBA) for Updating the 
+Prospective Payment System for Skilled 
+Nursing Facilities 
+C. The Medicare, Medicaid, and SCHIP 
+Balanced Budget Refinement Act of 1999 
+(BBRA) 
+D. The Medicare, Medicaid, and SCHIP 
+Benefits Improvement and Protection 
+Act of 2000 (BIPA) 
+E. The Medicare Prescription Drug, 
+Improvement, and Modernization Act of 
+2003 (MMA) 
+F. Skilled Nursing Facility Prospective 
+Payment—General Overview 
+1. Payment Provisions—Federal Rate 
+2. Rate Updates Using the Skilled Nursing 
+Facility Market Basket Index 
+II. Annual Update of Payment Rates Under 
+the Prospective Payment System for 
+Skilled Nursing Facilities 
+A. Federal Prospective Payment System 
+1. Costs and Services Covered by the 
+Federal Rates 
+2. Methodology Used for the Calculation of 
+the Federal Rates 
+B. Case-Mix Adjustments 
+1. Background 
+2. Development of the Case-Mix Indexes 
+C. Wage Index Adjustment to Federal Rates 
+1. Clarification of New England Deemed 
+Counties 
+2. Multi-Campus Hospital Wage Index Data 
+D. Updates to Federal Rates 
+E. Relationship of RUG–III Classification 
+System to Existing Skilled Nursing 
+Facility Level-of-Care Criteria 
+F. Example of Computation of Adjusted 
+PPS Rates and SNF Payment 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25919 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+G. Other Issues 
+1. Staff Time and Resource Intensity 
+Verification (STRIVE) Project 
+2. Minimum Data Set (MDS) 3.0 
+3. Integrated Post Acute Care Payment 
+H. Miscellaneous Technical Corrections 
+and Clarifications 
+1. Bad Debt Payments 
+2. Additional Clarifications 
+III. The Skilled Nursing Facility Market 
+Basket Index 
+A. Use of the Skilled Nursing Facility 
+Market Basket Percentage 
+B. Market Basket Forecast Error 
+Adjustment 
+C. Federal Rate Update Factor 
+IV. Consolidated Billing 
+V. Application of the SNF PPS to SNF 
+Services Furnished by Swing-Bed 
+Hospitals 
+VI. Provisions of the Proposed Rule 
+VII. Collection of Information Requirements 
+VIII. Regulatory Impact Analysis 
+A. Overall Impact 
+B. Anticipated Effects 
+C. Alternatives Considered 
+D. Accounting Statement 
+E. Conclusion 
+Regulation Text 
+Addendum: FY 2009 CBSA-Based Wage 
+Index Tables (Tables 8 & 9) 
+Abbreviations 
+In addition, because of the many 
+terms to which we refer by abbreviation 
+in this proposed rule, we are listing 
+these abbreviations and their 
+corresponding terms in alphabetical 
+order below: 
+AIDS Acquired Immune Deficiency 
+Syndrome 
+ARD Assessment Reference Date 
+BBA Balanced Budget Act of 1997, Pub. L. 
+105–33 
+BBRA Medicare, Medicaid, and SCHIP 
+Balanced Budget Refinement Act of 1999, 
+Pub. L. 106–113 
+BIPA Medicare, Medicaid, and SCHIP 
+Benefits Improvement and Protection Act 
+of 2000, Pub. L. 106–554 
+CAH Critical Access Hospital 
+CARE Continuity Assessment Record and 
+Evaluation 
+CBSA Core-Based Statistical Area 
+CFR Code of Federal Regulations 
+CMI Case-Mix Index 
+CMS Centers for Medicare & Medicaid 
+Services 
+DRA Deficit Reduction Act of 2005, Pub. L. 
+109–171 
+FQHC Federally Qualified Health Center 
+FR Federal Register 
+FY Fiscal Year 
+GAO Government Accountability Office 
+HAC Hospital-Acquired Condition 
+HCPCS Healthcare Common Procedure 
+Coding System 
+HIPPS Health Insurance Prospective 
+Payment System 
+HIT Health Information Technology 
+IFC Interim Final Rule with Comment 
+Period 
+IPPS Hospital Inpatient Prospective 
+Payment System 
+MDS Minimum Data Set 
+MMA Medicare Prescription Drug, 
+Improvement, and Modernization Act of 
+2003, Pub.L. 108–173 
+MSA Metropolitan Statistical Area 
+MS–DRG Medicare Severity Diagnosis- 
+Related Group 
+NRST Non-Resident Specific Time 
+NTA Non-Therapy Ancillary 
+OIG Office of the Inspector General 
+OMB Office of Management and Budget 
+OMRA Other Medicare Required 
+Assessment 
+PAC–PRD Post-Acute Care Payment Reform 
+Demonstration 
+PPS Prospective Payment System 
+RAI Resident Assessment Instrument 
+RAP Resident Assessment Protocol 
+RAVEN Resident Assessment Validation 
+Entry 
+RFA Regulatory Flexibility Act, Pub. L. 96– 
+354 
+RHC Rural Health Clinic 
+RIA Regulatory Impact Analysis 
+RUG–III Resource Utilization Groups, 
+Version III 
+RUG–53 Refined 53–Group RUG–III Case- 
+Mix Classification System 
+RST Resident Specific Time 
+SCHIP State Children’s Health Insurance 
+Program 
+SNF Skilled Nursing Facility 
+STM Staff Time Measurement 
+STRIVE Staff Time and Resource Intensity 
+Verification 
+UMRA Unfunded Mandates Reform Act, 
+Pub. L. 104–4 
+VBP Value-Based Purchasing 
+I. Background 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘BACKGROUND’’ at the 
+beginning of your comments.] 
+Annual updates to the prospective 
+payment system (PPS) rates for skilled 
+nursing facilities (SNFs) are required by 
+section 1888(e) of the Social Security 
+Act (the Act), as added by section 4432 
+of the Balanced Budget Act of 1997 
+(BBA), and amended by the Medicare, 
+Medicaid, and State Children’s Health 
+Insurance Program (SCHIP) Balanced 
+Budget Refinement Act of 1999 (BBRA), 
+the Medicare, Medicaid, and SCHIP 
+Benefits Improvement and Protection 
+Act of 2000 (BIPA), and the Medicare 
+Prescription Drug, Improvement, and 
+Modernization Act of 2003 (MMA). Our 
+most recent annual update occurred in 
+a final rule (72 FR 43412, August 3, 
+2007) that set forth updates to the SNF 
+PPS payment rates for fiscal year (FY) 
+2008. We subsequently published two 
+correction notices (72 FR 55085, 
+September 28, 2007, and 72 FR 67652, 
+November 30, 2007) with respect to 
+those payment rate updates. 
+A. Current System for Payment of 
+Skilled Nursing Facility Services Under 
+Part A of the Medicare Program 
+Section 4432 of the BBA amended 
+section 1888 of the Act to provide for 
+the implementation of a per diem PPS 
+for SNFs, covering all costs (routine, 
+ancillary, and capital-related) of covered 
+SNF services furnished to beneficiaries 
+under Part A of the Medicare program, 
+effective for cost reporting periods 
+beginning on or after July 1, 1998. In 
+this proposed rule, we propose to 
+update the per diem payment rates for 
+SNFs for FY 2009. Major elements of the 
+SNF PPS include: 
+• Rates. As discussed in section I.F.1. 
+of this proposed rule, we established per 
+diem Federal rates for urban and rural 
+areas using allowable costs from FY 
+1995 cost reports. These rates also 
+included an estimate of the cost of 
+services that, before July 1, 1998, had 
+been paid under Part B but were 
+furnished to Medicare beneficiaries in a 
+SNF during a Part A covered stay. We 
+adjust the rates annually using a SNF 
+market basket index, and we adjust 
+them by the hospital inpatient wage 
+index to account for geographic 
+variation in wages. We also apply a 
+case-mix adjustment to account for the 
+relative resource utilization of different 
+patient types. This adjustment utilizes a 
+refined, 53-group version of the 
+Resource Utilization Groups, version III 
+(RUG–III) case-mix classification 
+system, based on information obtained 
+from the required resident assessments 
+using the Minimum Data Set (MDS) 2.0. 
+Additionally, as noted in the August 4, 
+2005 final rule (70 FR 45028), the 
+payment rates at various times have also 
+reflected specific legislative provisions, 
+including section 101 of the BBRA, 
+sections 311, 312, and 314 of the BIPA, 
+and section 511 of the MMA. 
+• Transition. Under sections 
+1888(e)(1)(A) and (e)(11) of the Act, the 
+SNF PPS included an initial, three- 
+phase transition that blended a facility- 
+specific rate (reflecting the individual 
+facility’s historical cost experience) with 
+the Federal case-mix adjusted rate. The 
+transition extended through the 
+facility’s first three cost reporting 
+periods under the PPS, up to and 
+including the one that began in FY 
+2001. Thus, the SNF PPS is no longer 
+operating under the transition, as all 
+facilities have been paid at the full 
+Federal rate effective with cost reporting 
+periods beginning in FY 2002. As we 
+now base payments entirely on the 
+adjusted Federal per diem rates, we no 
+longer include adjustment factors 
+related to facility-specific rates for the 
+coming FY. 
+• Coverage. The establishment of the 
+SNF PPS did not change Medicare’s 
+fundamental requirements for SNF 
+coverage. However, because the RUG–III 
+classification is based, in part, on the 
+beneficiary’s need for skilled nursing 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25920 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+care and therapy, we have attempted, 
+where possible, to coordinate claims 
+review procedures with the output of 
+beneficiary assessment and RUG–III 
+classifying activities. This approach 
+includes an administrative presumption 
+that utilizes a beneficiary’s initial 
+classification in one of the upper 35 
+RUGs of the refined 53-group system to 
+assist in making certain SNF level of 
+care determinations, as discussed in 
+greater detail in section II.E. of this 
+proposed rule. 
+• Consolidated Billing. The SNF PPS 
+includes a consolidated billing 
+provision that requires a SNF to submit 
+consolidated Medicare bills to its fiscal 
+intermediary or Medicare 
+Administrative Contractor for almost all 
+of the services that its residents receive 
+during the course of a covered Part A 
+stay. In addition, this provision places 
+with the SNF the Medicare billing 
+responsibility for physical, 
+occupational, and speech-language 
+therapy that the resident receives during 
+a noncovered stay. The statute excludes 
+a small list of services from the 
+consolidated billing provision 
+(primarily those of physicians and 
+certain other types of practitioners), 
+which remain separately billable under 
+Part B when furnished to a SNF’s Part 
+A resident. A more detailed discussion 
+of this provision appears in section IV. 
+of this proposed rule. 
+• Application of the SNF PPS to SNF 
+services furnished by swing-bed 
+hospitals. Section 1883 of the Act 
+permits certain small, rural hospitals to 
+enter into a Medicare swing-bed 
+agreement, under which the hospital 
+can use its beds to provide either acute 
+or SNF care, as needed. For critical 
+access hospitals (CAHs), Part A pays on 
+a reasonable cost basis for SNF services 
+furnished under a swing-bed agreement. 
+However, in accordance with section 
+1888(e)(7) of the Act, these services 
+furnished by non-CAH rural hospitals 
+are paid under the SNF PPS, effective 
+with cost reporting periods beginning 
+on or after July 1, 2002. A more detailed 
+discussion of this provision appears in 
+section V. of this proposed rule. 
+B. Requirements of the Balanced Budget 
+Act of 1997 (BBA) for Updating the 
+Prospective Payment System for Skilled 
+Nursing Facilities 
+Section 1888(e)(4)(H) of the Act 
+requires that we publish annually in the 
+Federal Register: 
+1. The unadjusted Federal per diem 
+rates to be applied to days of covered 
+SNF services furnished during the FY. 
+2. The case-mix classification system 
+to be applied with respect to these 
+services during the FY. 
+3. The factors to be applied in making 
+the area wage adjustment with respect 
+to these services. 
+In the July 30, 1999 final rule (64 FR 
+41670), we indicated that we would 
+announce any changes to the guidelines 
+for Medicare level of care 
+determinations related to modifications 
+in the RUG–III classification structure 
+(see section II.E. of this proposed rule 
+for a discussion of the relationship 
+between the case-mix classification 
+system and SNF level of care 
+determinations). 
+Along with other revisions proposed 
+later in this preamble, this proposed 
+rule provides the annual updates to the 
+Federal rates as mandated by the Act. 
+C. The Medicare, Medicaid, and SCHIP 
+Balanced Budget Refinement Act of 
+1999 (BBRA) 
+There were several provisions in the 
+BBRA that resulted in adjustments to 
+the SNF PPS. We described these 
+provisions in detail in the final rule that 
+we published in the Federal Register on 
+July 31, 2000 (65 FR 46770). In 
+particular, section 101(a) of the BBRA 
+provided for a temporary 20 percent 
+increase in the per diem adjusted 
+payment rates for 15 specified RUG–III 
+groups. In accordance with section 
+101(c)(2) of the BBRA, this temporary 
+payment adjustment expired on January 
+1, 2006, upon the implementation of 
+case-mix refinements (see section I.F.1. 
+of this proposed rule). We included 
+further information on BBRA provisions 
+that affected the SNF PPS in Program 
+Memorandums A–99–53 and A–99–61 
+(December 1999). 
+Also, section 103 of the BBRA 
+designated certain additional services 
+for exclusion from the consolidated 
+billing requirement, as discussed in 
+section IV. of this proposed rule. 
+Further, for swing-bed hospitals with 
+more than 49 (but less than 100) beds, 
+section 408 of the BBRA provided for 
+the repeal of certain statutory 
+restrictions on length of stay and 
+aggregate payment for patient days, 
+effective with the end of the SNF PPS 
+transition period described in section 
+1888(e)(2)(E) of the Act. In the July 31, 
+2001 final rule (66 FR 39562), we made 
+conforming changes to the regulations at 
+§ 413.114(d), effective for services 
+furnished in cost reporting periods 
+beginning on or after July 1, 2002, to 
+reflect section 408 of the BBRA. 
+D. The Medicare, Medicaid, and SCHIP 
+Benefits Improvement and Protection 
+Act of 2000 (BIPA) 
+The BIPA also included several 
+provisions that resulted in adjustments 
+to the SNF PPS. We described these 
+provisions in detail in the final rule that 
+we published in the Federal Register on 
+July 31, 2001 (66 FR 39562). In 
+particular: 
+• Section 203 of the BIPA exempted 
+CAH swing-beds from the SNF PPS. We 
+included further information on this 
+provision in Program Memorandum A– 
+01–09 (Change Request #1509), issued 
+January 16, 2001, which is available 
+online at http://www.cms.hhs.gov/ 
+transmittals/downloads/a0109.pdf. 
+• Section 311 of the BIPA revised the 
+statutory update formula for the SNF 
+market basket, and also directed us to 
+conduct a study of alternative case-mix 
+classification systems for the SNF PPS. 
+In 2006, we submitted a report to the 
+Congress on this study, which is 
+available online at http:// 
+www.cms.hhs.gov/SNFPPS/Downloads/ 
+RC__2006_PC__PPSSNF.pdf. 
+• Section 312 of the BIPA provided 
+for a temporary increase of 16.66 
+percent in the nursing component of the 
+case-mix adjusted Federal rate for 
+services furnished on or after April 1, 
+2001, and before October 1, 2002. The 
+add-on is no longer in effect. This 
+section also directed the Government 
+Accountability Office (GAO) to conduct 
+an audit of SNF nursing staff ratios and 
+submit a report to the Congress on 
+whether the temporary increase in the 
+nursing component should be 
+continued. The report (GAO–03–176), 
+which GAO issued in November 2002, 
+is available online at http:// 
+www.gao.gov/new.items/d03176.pdf. 
+• Section 313 of the BIPA repealed 
+the consolidated billing requirement for 
+services (other than physical, 
+occupational, and speech-language 
+therapy) furnished to SNF residents 
+during noncovered stays, effective 
+January 1, 2001. (A more detailed 
+discussion of this provision appears in 
+section IV. of this proposed rule.) 
+• Section 314 of the BIPA corrected 
+an anomaly involving three of the RUGs 
+that the BBRA had designated to receive 
+the temporary payment adjustment 
+discussed above in section I.C. of this 
+proposed rule. (As noted previously, in 
+accordance with section 101(c)(2) of the 
+BBRA, this temporary payment 
+adjustment expired upon the 
+implementation of case-mix refinements 
+on January 1, 2006.) 
+• Section 315 of the BIPA authorized 
+us to establish a geographic 
+reclassification procedure that is 
+specific to SNFs, but only after 
+collecting the data necessary to establish 
+a SNF wage index that is based on wage 
+data from nursing homes. To date, this 
+has proven to be infeasible due to the 
+volatility of existing SNF wage data and 
+the significant amount of resources that 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00004 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25921 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+would be required to improve the 
+quality of that data. 
+We included further information on 
+several of the BIPA provisions in 
+Program Memorandum A–01–08 
+(Change Request #1510), issued January 
+16, 2001, which is available online at 
+www.cms.hhs.gov/transmittals/ 
+downloads/a0108.pdf. 
+E. The Medicare Prescription Drug, 
+Improvement, and Modernization Act of 
+2003 (MMA) 
+The MMA included a provision that 
+results in a further adjustment to the 
+SNF PPS. Specifically, section 511 of 
+the MMA amended section 1888(e)(12) 
+of the Act, to provide for a temporary 
+increase of 128 percent in the PPS per 
+diem payment for any SNF resident 
+with Acquired Immune Deficiency 
+Syndrome (AIDS), effective with 
+services furnished on or after October 1, 
+2004. This special AIDS add-on was to 
+remain in effect until ‘‘* * * such date 
+as the Secretary certifies that there is an 
+appropriate adjustment in the case mix. 
+* * *’’ The AIDS add-on is also 
+discussed in Program Transmittal #160 
+(Change Request #3291), issued on April 
+30, 2004, which is available online at 
+http://www.cms.hhs.gov/transmittals/ 
+downloads/r160cp.pdf. As discussed in 
+the SNF PPS final rule for FY 2006 (70 
+FR 45028, August 4, 2005), we did not 
+address the certification of the AIDS 
+add-on with the implementation of the 
+case-mix refinements, thus allowing the 
+temporary add-on payment created by 
+section 511 of the MMA to continue in 
+effect. 
+For the limited number of SNF 
+residents that qualify for the AIDS add- 
+on, implementation of this provision 
+results in a significant increase in 
+payment. For example, using FY 2006 
+data, we identified less than 2,700 SNF 
+residents with a diagnosis code of 042 
+(Human Immunodeficiency Virus (HIV) 
+Infection). For FY 2009, an urban 
+facility with a resident with AIDS in 
+RUG group ‘‘SSA’’ would have a case- 
+mix adjusted payment of almost $246.55 
+(see Table 4) before the application of 
+the MMA adjustment. After an increase 
+of 128 percent, this urban facility would 
+receive a case-mix adjusted payment of 
+approximately $562.13. 
+In addition, section 410 of the MMA 
+contained a provision that excluded 
+from consolidated billing certain 
+practitioner and other services 
+furnished to SNF residents by rural 
+health clinics (RHCs) and Federally 
+Qualified Health Centers (FQHCs). 
+(Further information on this provision 
+appears in section IV. of this proposed 
+rule.) 
+F. Skilled Nursing Facility Prospective 
+Payment—General Overview 
+We implemented the Medicare SNF 
+PPS effective with cost reporting 
+periods beginning on or after July 1, 
+1998. This PPS pays SNFs through 
+prospective, case-mix adjusted per diem 
+payment rates applicable to all covered 
+SNF services. These payment rates 
+cover all costs of furnishing covered 
+skilled nursing services (routine, 
+ancillary, and capital-related costs) 
+other than costs associated with 
+approved educational activities. 
+Covered SNF services include post- 
+hospital services for which benefits are 
+provided under Part A and all items and 
+services that, before July 1, 1998 had 
+been paid under Part B (other than 
+physician and certain other services 
+specifically excluded under the BBA) 
+but furnished to Medicare beneficiaries 
+in a SNF during a covered Part A stay. 
+A comprehensive discussion of these 
+provisions appears in the May 12, 1998 
+interim final rule (63 FR 26252). 
+1. Payment Provisions—Federal Rate 
+The PPS uses per diem Federal 
+payment rates based on mean SNF costs 
+in a base year updated for inflation to 
+the first effective period of the PPS. We 
+developed the Federal payment rates 
+using allowable costs from hospital- 
+based and freestanding SNF cost reports 
+for reporting periods beginning in FY 
+1995. The data used in developing the 
+Federal rates also incorporated an 
+estimate of the amounts that would be 
+payable under Part B for covered SNF 
+services furnished to individuals during 
+the course of a covered Part A stay in 
+a SNF. 
+In developing the rates for the initial 
+period, we updated costs to the first 
+effective year of the PPS (the 15-month 
+period beginning July 1, 1998) using a 
+SNF market basket index, and then 
+standardized for the costs of facility 
+differences in case-mix and for 
+geographic variations in wages. In 
+compiling the database used to compute 
+the Federal payment rates, we excluded 
+those providers that received new 
+provider exemptions from the routine 
+cost limits, as well as costs related to 
+payments for exceptions to the routine 
+cost limits. Using the formula that the 
+BBA prescribed, we set the Federal rates 
+at a level equal to the weighted mean of 
+freestanding costs plus 50 percent of the 
+difference between the freestanding 
+mean and weighted mean of all SNF 
+costs (hospital-based and freestanding) 
+combined. We computed and applied 
+separately the payment rates for 
+facilities located in urban and rural 
+areas. In addition, we adjusted the 
+portion of the Federal rate attributable 
+to wage-related costs by a wage index. 
+The Federal rate also incorporates 
+adjustments to account for facility case- 
+mix, using a classification system that 
+accounts for the relative resource 
+utilization of different patient types. 
+The RUG–III classification system uses 
+beneficiary assessment data from the 
+Minimum Data Set (MDS) completed by 
+SNFs to assign beneficiaries to one of 53 
+RUG–III groups. The original RUG–III 
+case-mix classification system included 
+44 groups. However, under refinements 
+that became effective on January 1, 
+2006, we added nine new groups— 
+comprising a new Rehabilitation plus 
+Extensive Services category—at the top 
+of the RUG hierarchy. The May 12, 1998 
+interim final rule (63 FR 26252) 
+included a detailed description of the 
+original 44-group RUG–III case-mix 
+classification system. A comprehensive 
+description of the refined 53-group 
+RUG–III case-mix classification system 
+(RUG–53) appeared in the proposed and 
+final rules for FY 2006 (70 FR 29070, 
+May 19, 2005, and 70 FR 45026, August 
+4, 2005). 
+Further, in accordance with section 
+1888(e)(4)(E)(ii)(IV) of the Act, the 
+Federal rates in this proposed rule 
+reflect an update to the rates that we 
+published in the August 3, 2007 final 
+rule for FY 2008 (72 FR 43412) and the 
+associated correction notices (on 
+September 28, 2007, 72 FR 55085, and 
+November 30, 2007, 72 FR 67652), equal 
+to the full change in the SNF market 
+basket index. A more detailed 
+discussion of the SNF market basket 
+index and related issues appears in 
+sections I.F.2. and III. of this proposed 
+rule. 
+2. Rate Updates Using the Skilled 
+Nursing Facility Market Basket Index 
+Section 1888(e)(5) of the Act requires 
+us to establish a SNF market basket 
+index that reflects changes over time in 
+the prices of an appropriate mix of 
+goods and services included in covered 
+SNF services. We use the SNF market 
+basket index to update the Federal rates 
+on an annual basis. In the August 3, 
+2007, FY 2008 SNF PPS final rule (72 
+FR 43425 through 43430), we revised 
+and rebased the market basket, which 
+included updating the base year from 
+FY 1997 to FY 2004. The proposed FY 
+2009 market basket increase is 3.1 
+percent. 
+In addition, as explained in the 
+August 4, 2003, final rule for FY 2004 
+(66 FR 46058) and in section III.B. of 
+this proposed rule, the annual update of 
+the payment rates includes, as 
+appropriate, an adjustment to account 
+for market basket forecast error. As 
+described in the final rule for FY 2008, 
+VerDate Aug<31>2005 21:54 May 06, 2008 Jkt 214001 PO 00000 Frm 00005 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25922 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+the threshold percentage that serves to 
+trigger an adjustment to account for 
+market basket forecast error is 0.5 
+percentage point effective for FY 2008 
+and subsequent years. This adjustment 
+takes into account the forecast error 
+from the most recently available FY for 
+which there is final data, and applies 
+whenever the difference between the 
+forecasted and actual change in the 
+market basket exceeds a 0.5 percentage 
+point threshold. For FY 2007 (the most 
+recently available FY for which there is 
+final data), the estimated increase in the 
+market basket index was 3.1 percentage 
+points, while the actual increase was 3.1 
+percentage points, resulting in no 
+difference. Accordingly, as the 
+difference between the estimated and 
+actual amount of change does not 
+exceed the 0.5 percentage point 
+threshold, the payment rates for FY 
+2009 do not include a forecast error 
+adjustment. Table 1 below shows the 
+forecasted and actual market basket 
+amounts for FY 2007. 
+TABLE 1.—DIFFERENCE BETWEEN THE FORECASTED AND ACTUAL MARKET BASKET INCREASES FOR FY 2007 
+Index Forecasted FY 2007 Increase* 
+Actual FY 2007 
+Increase** 
+FY 2007 
+Difference*** 
+SNF ........................................................................................................................................ 3.1 3.1 0.0 
+*Published in Federal Register; based on second quarter 2006 Global Insight Inc. forecast (97 index). 
+**Based on the first quarter 2008 Global Insight Inc.forecast (97 index). 
+***The FY 2007 forecast error correction for the PPS Operating portion will be applied to the FY 2009 PPS update recommendations. Any 
+forecast error less than 0.5 percentage points will not be reflected in the update recommendation. 
+II. Annual Update of Payment Rates 
+Under the Prospective Payment System 
+for Skilled Nursing Facilities 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Annual Update’’ at the 
+beginning of your comments.] 
+A. Federal Prospective Payment System 
+This proposed rule sets forth a 
+schedule of Federal prospective 
+payment rates applicable to Medicare 
+Part A SNF services beginning October 
+1, 2008. The schedule incorporates per 
+diem Federal rates that provide Part A 
+payment for all costs of services 
+furnished to a beneficiary in a SNF 
+during a Medicare-covered stay. 
+1. Costs and Services Covered by the 
+Federal Rates 
+In accordance with section 
+1888(e)(2)(B) of the Act, the Federal 
+rates apply to all costs (routine, 
+ancillary, and capital-related) of covered 
+SNF services other than costs associated 
+with approved educational activities as 
+defined in § 413.85. Under section 
+1888(e)(2)(A)(i) of the Act, covered SNF 
+services include post-hospital SNF 
+services for which benefits are provided 
+under Part A (the hospital insurance 
+program), as well as all items and 
+services (other than those services 
+excluded by statute) that, before July 1, 
+1998, were paid under Part B (the 
+supplementary medical insurance 
+program) but furnished to Medicare 
+beneficiaries in a SNF during a Part A 
+covered stay. (These excluded service 
+categories are discussed in greater detail 
+in section V.B.2. of the May 12, 1998 
+interim final rule (63 FR 26295 through 
+26297)). 
+2. Methodology Used for the Calculation 
+of the Federal Rates 
+The proposed FY 2009 rates would 
+reflect an update using the full amount 
+of the latest market basket index. The 
+proposed FY 2009 market basket 
+increase factor is 3.1 percent. A 
+complete description of the multi-step 
+process used to calculate Federal rates 
+initially appeared in the May 12, 1998 
+interim final rule (63 FR 26252), as 
+further revised in subsequent rules. We 
+note that in accordance with section 
+101(c)(2) of the BBRA, the previous 
+temporary increases in the per diem 
+adjusted payment rates for certain 
+designated RUGs, as specified in section 
+101(a) of the BBRA and section 314 of 
+the BIPA, are no longer in effect due to 
+the implementation of case-mix 
+refinements as of January 1, 2006. 
+However, the temporary increase of 128 
+percent in the per diem adjusted 
+payment rates for SNF residents with 
+AIDS, enacted by section 511 of the 
+MMA, remains in effect. 
+We used the SNF market basket to 
+adjust each per diem component of the 
+Federal rates forward to reflect cost 
+increases occurring between the 
+midpoint of the Federal FY beginning 
+October 1, 2007, and ending September 
+30, 2008, and the midpoint of the 
+Federal FY beginning October 1, 2008, 
+and ending September 30, 2009, to 
+which the payment rates apply. In 
+accordance with section 
+1888(e)(4)(E)(ii)(IV) of the Act, we 
+update the payment rates for FY 2009 by 
+a factor equal to the full market basket 
+index percentage increase. (We note, 
+however, that the President’s budget 
+currently includes a provision that 
+would establish a zero percent market 
+basket update for FYs 2009 through 
+2011, and that the provisions outlined 
+in this proposed rule would need to 
+reflect any legislation that the Congress 
+may enact to adopt that proposal.) We 
+further adjust the rates by a wage index 
+budget neutrality factor, described later 
+in this section. Tables 2 and 3 reflect the 
+updated components of the unadjusted 
+Federal rates for FY 2009. 
+TABLE 2.—FY 2009 UNADJUSTED FEDERAL RATE PER DIEM—URBAN 
+Rate component Nursing— Case-mix 
+Therapy— 
+Case-mix 
+Therapy— 
+Non-case-mix Non-case-mix 
+Per Diem Amount ............................................................................................ $151.30 $113.97 $15.00 $77.22 
+TABLE 3.—FY 2009 UNADJUSTED FEDERAL RATE PER DIEM—RURAL 
+Rate component Nursing— Case-mix 
+Therapy— 
+Case-mix 
+Therapy— 
+Non-case-mix Non-case-mix 
+Per Diem Amount ............................................................................................ $144.55 $131.42 $16.04 $78.64 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25923 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+B. Case-Mix Adjustments 
+1. Background 
+Section 1888(e)(4)(G)(i) of the Act 
+requires the Secretary to make an 
+adjustment to account for case-mix. The 
+statute specifies that the adjustment is 
+to reflect both a resident classification 
+system that the Secretary establishes to 
+account for the relative resource use of 
+different patient types, as well as 
+resident assessment and other data that 
+the Secretary considers appropriate. In 
+first implementing the SNF PPS (63 FR 
+26252, May 12, 1998), we developed the 
+Resource Utilization Groups, version III 
+(RUG–III) case-mix classification 
+system, which tied the amount of 
+payment to resident resource use in 
+combination with resident characteristic 
+information. Staff time measurement 
+(STM) studies conducted in 1990, 1995, 
+and 1997 provided information on 
+resource use (time spent by staff 
+members on residents) and resident 
+characteristics that enabled us not only 
+to establish RUG–III, but also to create 
+case-mix indexes. 
+Under the BBA, each update of the 
+SNF PPS payment rates must include 
+the case-mix classification methodology 
+applicable for the coming Federal FY. 
+As indicated in section I.F.1 of this 
+proposed rule, the payment rates set 
+forth herein reflect the use of the refined 
+RUG–53 system that we discussed in 
+detail in the proposed and final rules for 
+FY 2006. 
+When we developed the refined RUG– 
+53 system, we constructed new case-mix 
+indexes, using the Staff Time 
+Measurement (STM) study data that was 
+collected during the 1990s and 
+originally used in creating the SNF PPS 
+case-mix classification system and case- 
+mix indexes. In section II.B.2 of this 
+proposed rule, we discuss further 
+adjustments to those new case-mix 
+indexes. 
+2. Development of the Case-Mix Indexes 
+In the SNF PPS final rule for FY 2006 
+(70 FR 45032, August 4, 2005), we 
+introduced two refinements to the SNF 
+PPS: nine new case-mix groups to 
+account for the care needs of 
+beneficiaries requiring both extensive 
+medical and rehabilitation services, and 
+an adjustment to reflect the variability 
+in the use of non-therapy ancillaries 
+(NTAs). We made these refinements by 
+using the resource minute data from the 
+original 44-group RUG–III model to 
+create a new set of relative weights, or 
+case-mix indexes (CMIs), for the 53- 
+group RUG–III model. We then 
+compared the CMIs for the two models 
+to ensure that estimated total payments 
+under the 53-group model would 
+maintain parity to those that would 
+have been made under the 44-group 
+model. 
+In conducting this analysis, we used 
+FY 2001 claims data (the most current 
+data available at the time) to compare 
+the distribution of payment days by 
+RUG category in the original, 44-group 
+model with anticipated payments by 
+RUG category in the refined 53-group 
+model. Based on the results of this 
+analysis, we adjusted the new CMIs 
+upward by applying a parity adjustment 
+factor, in order to ensure that the RUG– 
+III model was expanded in a budget- 
+neutral manner. We then applied a 
+second adjustment to the CMIs to 
+account for the variability in the use of 
+NTA services. These two adjustments 
+resulted in a combined 17.9 percent 
+increase in the CMIs that went into 
+effect on January 1, 2006, as part of the 
+case-mix refinement implementation. A 
+detailed description of the methods 
+used to make these two adjustments to 
+the CMIs appears in the SNF PPS 
+proposed rule for FY 2006 (70 FR 29077 
+through 29078, May 19, 2005). However, 
+we recognized that utilization patterns 
+change over time, and in the FY 2006 
+final rule (70 FR 45031, August 4, 2005), 
+we committed to monitoring the 
+accuracy and effectiveness of the CMIs 
+used in the 53-group model. 
+In monitoring recent claims data, we 
+observed that actual utilization patterns 
+differed significantly from those we had 
+projected using the 2001 data. In 
+particular, the proportion of patients 
+grouped in the highest paying RUG 
+categories—combining high therapy 
+with extensive services—greatly 
+exceeded our projections. We have, 
+therefore, used actual claims data to 
+recalibrate both of the adjustments to 
+the CMIs: the parity adjustment 
+designed to make the change from the 
+44-group model to the 53-group model 
+in a budget-neutral manner, and the 
+factor used to recognize the variability 
+in NTA utilization. 
+To determine the parity adjustment 
+factor needed to re-establish budget 
+neutrality, we compared simulated CY 
+2006 payments (using the most recent 
+data available) for the 44-group and 53- 
+group RUG–III models using the same 
+methodology that we described in the 
+SNF PPS proposed rule for FY 2006 (70 
+FR 29077 through 29078, May 19, 2005). 
+Once we had identified the recalibrated 
+parity adjustment factor necessary to re- 
+establish budget neutrality, we then 
+determined the recalibrated percentage 
+adjustment that would be needed to 
+reset the NTA component of the CMIs 
+at the appropriate level specified in the 
+SNF PPS final rule for FY 2006 (70 FR 
+45031, August 4, 2005). Under our 
+proposed recalibration, these two 
+adjustments, which had initially 
+produced a combined increase of 17.9 
+percent in the FY 2006 refinement, 
+would instead result in an overall 9.68 
+percent increase for FY 2009. Thus, for 
+FY 2009, the aggregate impact of this 
+proposed recalibration would be the 
+difference between the original, FY 2006 
+total increase of 17.9 percent and the 
+recalibrated total increase of 9.68 
+percent, or a negative $770 million. 
+It is extremely important to note that 
+this adjustment, as proposed, would be 
+made prospectively. However, we are 
+responsible for maintaining the fiscal 
+integrity of the SNF PPS, and by using 
+the actual claims data, the SNF PPS 
+would better reflect the resources used, 
+resulting in more accurate payment. To 
+that end, we have developed our 
+proposed recalibration of the parity and 
+NTA adjustments to the CMIs using 
+actual claims distribution data. 
+Although the 2001 data were the best 
+source available at the time the FY 2006 
+refinements were introduced, the 2006 
+data provide the most recent and a more 
+accurate source of RUG–53 utilization. 
+(We also note that pursuant to our 
+ongoing commitment to monitoring the 
+accuracy and effectiveness of the CMIs 
+under the refined case-mix system, there 
+may be further revisions to the 
+recalibration as we develop the FY 2009 
+final rule, based on the data available at 
+that time.) 
+We note that the negative $770 
+million adjustment described above 
+would be largely offset by the FY 2009 
+market basket adjustment factor of 3.1 
+percent, or $710 million, with a net 
+result of a negative annual update of 
+approximately $60 million. We are, 
+nevertheless, confident that this 
+proposed recalibration would achieve 
+the goals of the refinement provision 
+implemented in January 2006, and that, 
+as a result, payments would better 
+reflect those policies. We also wish to 
+note that after it conducted a thorough 
+review of SNF profit margins, MedPAC 
+concluded that, in the aggregate, SNFs 
+are operating on a sound financial basis. 
+As evidenced by MedPAC’s recent 
+recommendation for a zero percent 
+update for SNFs in FY 2009, we believe 
+that this recalibration could be made 
+without creating undue hardship on 
+providers. 
+We list the case-mix adjusted 
+payment rates separately for urban and 
+rural SNFs in Tables 4 and 5, with the 
+corresponding case-mix values. These 
+tables do not reflect the AIDS add-on 
+enacted by section 511 of the MMA, 
+which we apply only after making all 
+other adjustments (wage and case-mix). 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25924 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+TABLE 4.—RUG–53 CASE-MIX ADJUSTED FEDERAL RATES AND ASSOCIATED INDEXES—URBAN 
+RUG–III 
+category 
+Nursing 
+index 
+Therapy 
+index 
+Nursing 
+component 
+Therapy 
+component 
+Non-case 
+mix therapy 
+comp 
+Non-case 
+mix compo-
+nent 
+Total rate 
+RUX .......................................................... 1.77 2.25 267.80 256.43 .................... 77.22 601.45 
+RUL .......................................................... 1.31 2.25 198.20 256.43 .................... 77.22 531.85 
+RVX .......................................................... 1.44 1.41 217.87 160.70 .................... 77.22 455.79 
+RVL .......................................................... 1.24 1.41 187.61 160.70 .................... 77.22 425.53 
+RHX .......................................................... 1.33 0.94 201.23 107.13 .................... 77.22 385.58 
+RHL .......................................................... 1.27 0.94 192.15 107.13 .................... 77.22 376.50 
+RMX ......................................................... 1.80 0.77 272.34 87.76 .................... 77.22 437.32 
+RML .......................................................... 1.57 0.77 237.54 87.76 .................... 77.22 402.52 
+RLX .......................................................... 1.22 0.43 184.59 49.01 .................... 77.22 310.82 
+RUC ......................................................... 1.20 2.25 181.56 256.43 .................... 77.22 515.21 
+RUB .......................................................... 0.92 2.25 139.20 256.43 .................... 77.22 472.85 
+RUA .......................................................... 0.78 2.25 118.01 256.43 .................... 77.22 451.66 
+RVC .......................................................... 1.14 1.41 172.48 160.70 .................... 77.22 410.40 
+RVB .......................................................... 1.01 1.41 152.81 160.70 .................... 77.22 390.73 
+RVA .......................................................... 0.77 1.41 116.50 160.70 .................... 77.22 354.42 
+RHC ......................................................... 1.13 0.94 170.97 107.13 .................... 77.22 355.32 
+RHB .......................................................... 1.03 0.94 155.84 107.13 .................... 77.22 340.19 
+RHA .......................................................... 0.88 0.94 133.14 107.13 .................... 77.22 317.49 
+RMC ......................................................... 1.07 0.77 161.89 87.76 .................... 77.22 326.87 
+RMB ......................................................... 1.01 0.77 152.81 87.76 .................... 77.22 317.79 
+RMA ......................................................... 0.97 0.77 146.76 87.76 .................... 77.22 311.74 
+RLB .......................................................... 1.06 0.43 160.38 49.01 .................... 77.22 286.61 
+RLA .......................................................... 0.79 0.43 119.53 49.01 .................... 77.22 245.76 
+SE3 .......................................................... 1.72 .................... 260.24 .................... 15.00 77.22 352.46 
+SE2 .......................................................... 1.38 .................... 208.79 .................... 15.00 77.22 301.01 
+SE1 .......................................................... 1.17 .................... 177.02 .................... 15.00 77.22 269.24 
+SSC .......................................................... 1.14 .................... 172.48 .................... 15.00 77.22 264.70 
+SSB .......................................................... 1.05 .................... 158.87 .................... 15.00 77.22 251.09 
+SSA .......................................................... 1.02 .................... 154.33 .................... 15.00 77.22 246.55 
+CC2 .......................................................... 1.13 .................... 170.97 .................... 15.00 77.22 263.19 
+CC1 .......................................................... 0.99 .................... 149.79 .................... 15.00 77.22 242.01 
+CB2 .......................................................... 0.91 .................... 137.68 .................... 15.00 77.22 229.90 
+CB1 .......................................................... 0.84 .................... 127.09 .................... 15.00 77.22 219.31 
+CA2 .......................................................... 0.83 .................... 125.58 .................... 15.00 77.22 217.80 
+CA1 .......................................................... 0.75 .................... 113.48 .................... 15.00 77.22 205.70 
+IB2 ............................................................ 0.69 .................... 104.40 .................... 15.00 77.22 196.62 
+IB1 ............................................................ 0.67 .................... 101.37 .................... 15.00 77.22 193.59 
+IA2 ............................................................ 0.57 .................... 86.24 .................... 15.00 77.22 178.46 
+IA1 ............................................................ 0.53 .................... 80.19 .................... 15.00 77.22 172.41 
+BB2 .......................................................... 0.68 .................... 102.88 .................... 15.00 77.22 195.10 
+BB1 .......................................................... 0.65 .................... 98.35 .................... 15.00 77.22 190.57 
+BA2 .......................................................... 0.56 .................... 84.73 .................... 15.00 77.22 176.95 
+BA1 .......................................................... 0.48 .................... 72.62 .................... 15.00 77.22 164.84 
+PE2 .......................................................... 0.79 .................... 119.53 .................... 15.00 77.22 211.75 
+PE1 .......................................................... 0.77 .................... 116.50 .................... 15.00 77.22 208.72 
+PD2 .......................................................... 0.72 .................... 108.94 .................... 15.00 77.22 201.16 
+PD1 .......................................................... 0.70 .................... 105.91 .................... 15.00 77.22 198.13 
+PC2 .......................................................... 0.66 .................... 99.86 .................... 15.00 77.22 192.08 
+PC1 .......................................................... 0.65 .................... 98.35 .................... 15.00 77.22 190.57 
+PB2 .......................................................... 0.52 .................... 78.68 .................... 15.00 77.22 170.90 
+PB1 .......................................................... 0.50 .................... 75.65 .................... 15.00 77.22 167.87 
+PA2 .......................................................... 0.49 .................... 74.14 .................... 15.00 77.22 166.36 
+PA1 .......................................................... 0.46 .................... 69.60 .................... 15.00 77.22 161.82 
+TABLE 5.—RUG–53 CASE-MIX ADJUSTED FEDERAL RATES AND ASSOCIATED INDEXES—RURAL 
+RUG–III 
+category 
+Nursing 
+Index 
+Therapy 
+index 
+Nursing 
+component 
+Therapy 
+component 
+Non-case 
+mix 
+therapy 
+comp 
+Non-case 
+mix 
+component 
+Total rate 
+RUX .......................................................... 1.77 2.25 255.85 295.70 .................... 78.64 630.19 
+RUL .......................................................... 1.31 2.25 189.36 295.70 .................... 78.64 563.70 
+RVX .......................................................... 1.44 1.41 208.15 185.30 .................... 78.64 472.09 
+RVL .......................................................... 1.24 1.41 179.24 185.30 .................... 78.64 443.18 
+RHX .......................................................... 1.33 0.94 192.25 123.53 .................... 78.64 394.42 
+RHL .......................................................... 1.27 0.94 183.58 123.53 .................... 78.64 385.75 
+RMX ......................................................... 1.80 0.77 260.19 101.19 .................... 78.64 440.02 
+RML .......................................................... 1.57 0.77 226.94 101.19 .................... 78.64 406.77 
+RLX .......................................................... 1.22 0.43 176.35 56.51 .................... 78.64 311.50 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00008 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25925 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+TABLE 5.—RUG–53 CASE-MIX ADJUSTED FEDERAL RATES AND ASSOCIATED INDEXES—RURAL—Continued 
+RUG–III 
+category 
+Nursing 
+Index 
+Therapy 
+index 
+Nursing 
+component 
+Therapy 
+component 
+Non-case 
+mix 
+therapy 
+comp 
+Non-case 
+mix 
+component 
+Total rate 
+RUC ......................................................... 1.20 2.25 173.46 295.70 .................... 78.64 547.80 
+RUB .......................................................... 0.92 2.25 132.99 295.70 .................... 78.64 507.33 
+RUA .......................................................... 0.78 2.25 112.75 295.70 .................... 78.64 487.09 
+RVC .......................................................... 1.14 1.41 164.79 185.30 .................... 78.64 428.73 
+RVB .......................................................... 1.01 1.41 146.00 185.30 .................... 78.64 409.94 
+RVA .......................................................... 0.77 1.41 111.30 185.30 .................... 78.64 375.24 
+RHC ......................................................... 1.13 0.94 163.34 123.53 .................... 78.64 365.51 
+RHB .......................................................... 1.03 0.94 148.89 123.53 .................... 78.64 351.06 
+RHA .......................................................... 0.88 0.94 127.20 123.53 .................... 78.64 329.37 
+RMC ......................................................... 1.07 0.77 154.67 101.19 .................... 78.64 334.50 
+RMB ......................................................... 1.01 0.77 146.00 101.19 .................... 78.64 325.83 
+RMA ......................................................... 0.97 0.77 140.21 101.19 .................... 78.64 320.04 
+RLB .......................................................... 1.06 0.43 153.22 56.51 .................... 78.64 288.37 
+RLA .......................................................... 0.79 0.43 114.19 56.51 .................... 78.64 249.34 
+SE3 .......................................................... 1.72 .................... 248.63 .................... 16.04 78.64 343.31 
+SE2 .......................................................... 1.38 .................... 199.48 .................... 16.04 78.64 294.16 
+SE1 .......................................................... 1.17 .................... 169.12 .................... 16.04 78.64 263.80 
+SSC .......................................................... 1.14 .................... 164.79 .................... 16.04 78.64 259.47 
+SSB .......................................................... 1.05 .................... 151.78 .................... 16.04 78.64 246.46 
+SSA .......................................................... 1.02 .................... 147.44 .................... 16.04 78.64 242.12 
+CC2 .......................................................... 1.13 .................... 163.34 .................... 16.04 78.64 258.02 
+CC1 .......................................................... 0.99 .................... 143.10 .................... 16.04 78.64 237.78 
+CB2 .......................................................... 0.91 .................... 131.54 .................... 16.04 78.64 226.22 
+CB1 .......................................................... 0.84 .................... 121.42 .................... 16.04 78.64 216.10 
+CA2 .......................................................... 0.83 .................... 119.98 .................... 16.04 78.64 214.66 
+CA1 .......................................................... 0.75 .................... 108.41 .................... 16.04 78.64 203.09 
+IB2 ............................................................ 0.69 .................... 99.74 .................... 16.04 78.64 194.42 
+IB1 ............................................................ 0.67 .................... 96.85 .................... 16.04 78.64 191.53 
+IA2 ............................................................ 0.57 .................... 82.39 .................... 16.04 78.64 177.07 
+IA1 ............................................................ 0.53 .................... 76.61 .................... 16.04 78.64 171.29 
+BB2 .......................................................... 0.68 .................... 98.29 .................... 16.04 78.64 192.97 
+BB1 .......................................................... 0.65 .................... 93.96 .................... 16.04 78.64 188.64 
+BA2 .......................................................... 0.56 .................... 80.95 .................... 16.04 78.64 175.63 
+BA1 .......................................................... 0.48 .................... 69.38 .................... 16.04 78.64 164.06 
+PE2 .......................................................... 0.79 .................... 114.19 .................... 16.04 78.64 208.87 
+PE1 .......................................................... 0.77 .................... 111.30 .................... 16.04 78.64 205.98 
+PD2 .......................................................... 0.72 .................... 104.08 .................... 16.04 78.64 198.76 
+PD1 .......................................................... 0.70 .................... 101.19 .................... 16.04 78.64 195.87 
+PC2 .......................................................... 0.66 .................... 95.40 .................... 16.04 78.64 190.08 
+PC1 .......................................................... 0.65 .................... 93.96 .................... 16.04 78.64 188.64 
+PB2 .......................................................... 0.52 .................... 75.17 .................... 16.04 78.64 169.85 
+PB1 .......................................................... 0.50 .................... 72.28 .................... 16.04 78.64 166.96 
+PA2 .......................................................... 0.49 .................... 70.83 .................... 16.04 78.64 165.51 
+PA1 .......................................................... 0.46 .................... 66.49 .................... 16.04 78.64 161.17 
+C. Wage Index Adjustment to Federal 
+Rates 
+Section 1888(e)(4)(G)(ii) of the Act 
+requires that we adjust the Federal rates 
+to account for differences in area wage 
+levels, using a wage index that we find 
+appropriate. Since the inception of a 
+PPS for SNFs, we have used hospital 
+wage data in developing a wage index 
+to be applied to SNFs. We propose to 
+continue that practice for FY 2009, as 
+we continue to believe that in the 
+absence of SNF-specific wage data, 
+using the hospital inpatient wage index 
+is appropriate and reasonable for the 
+SNF PPS. As explained in the update 
+notice for FY 2005 (69 FR 45786, July 
+30, 2004), the SNF PPS does not use the 
+hospital area wage index’s occupational 
+mix adjustment, as this adjustment 
+serves specifically to define the 
+occupational categories more clearly in 
+a hospital setting; moreover, the 
+collection of the occupational wage data 
+also excludes any wage data related to 
+SNFs. Therefore, we believe that using 
+the updated wage data exclusive of the 
+occupational mix adjustment continues 
+to be appropriate for SNF payments. 
+Since the implementation of the SNF 
+PPS, as set forth in § 413.337(a)(1)(ii), a 
+SNF’s wage index is determined based 
+on the location of the SNF in an urban 
+or rural area as defined in § 413.333 and 
+further defined in § 412.62(f)(1)(ii) and 
+§ 412.62(f)(1)(iii) as urban and rural 
+areas, respectively. In the FY 2006 SNF 
+PPS final rule (70 FR 45041, August 4, 
+2005), we adopted revised labor market 
+area definitions based on CBSAs. At the 
+time, we noted that these were the same 
+labor market area definitions (based on 
+OMB’s new CBSA designations) 
+implemented under the Hospital 
+Inpatient Prospective Payment System 
+(IPPS) at § 412.64(b), which were 
+effective for those hospitals beginning 
+October 1, 2004, as discussed in the 
+IPPS final rule for FY 2005 (69 FR at 
+49026 through 49034, August 11, 2004). 
+In the FY 2006 SNF PPS final rule, we 
+inadvertently omitted making a 
+conforming regulation text change for 
+§ 413.333. However, no change was 
+made to our decision to follow the IPPS 
+definition of urban and rural. We are 
+proposing to make that conforming 
+regulation text change to revise the 
+definitions for rural and urban areas 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00009 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25926 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+effective for services provided on or 
+after October 1, 2005, to reference the 
+regulations at § 412.64(b)(1)(ii)(A) 
+through (C), consistent with the revision 
+under the IPPS. 
+1. Clarification of New England Deemed 
+Counties 
+We are taking this opportunity to 
+address the change in the treatment of 
+‘‘New England deemed counties’’ (that 
+is, those counties in New England listed 
+in § 412.64(b)(1)(ii)(B) that were deemed 
+to be part of urban areas under section 
+601(g) of the Social Security 
+Amendments of 1983) that was made in 
+the FY 2008 IPPS final rule with 
+comment period (72 FR 47337 through 
+47338, August 22, 2007). These counties 
+include the following: Litchfield 
+County, Connecticut; York County, 
+Maine; Sagadahoc County, Maine; 
+Merrimack County, New Hampshire; 
+and Newport County, Rhode Island. Of 
+these five ‘‘New England deemed 
+counties,’’ three (York County, 
+Sagadahoc County, and Newport 
+County) are also included in 
+metropolitan statistical areas defined by 
+OMB and are considered urban under 
+both the current IPPS and SNF PPS 
+labor market area definitions in 
+§ 412.64(b)(1)(ii)(A). The remaining two, 
+Litchfield County and Merrimack 
+County, are geographically located in 
+areas that are considered rural under the 
+current IPPS (and SNF PPS) labor 
+market area definitions, but have been 
+previously deemed urban under the 
+IPPS in certain circumstances, as 
+discussed below. 
+In the FY 2008 IPPS final rule with 
+comment period, § 412.64(b)(1)(ii)(B) 
+was revised such that the two ‘‘New 
+England deemed counties’’ that are still 
+considered rural under the OMB 
+definitions (Litchfield County, CT and 
+Merrimack County, NH), are no longer 
+considered urban effective for 
+discharges occurring on or after October 
+1, 2007, and therefore, are considered 
+rural in accordance with 
+§ 412.64(b)(1)(ii)(C). However, for 
+purposes of payment under the IPPS, 
+acute-care hospitals located within 
+those areas are treated as being 
+reclassified to their deemed urban area 
+effective for discharges occurring on or 
+after October 1, 2007 (see 72 FR 47337 
+through 47338). We note that the SNF 
+PPS does not provide for such 
+geographic reclassification. Also, in the 
+FY 2008 IPPS final rule with comment 
+period (72 FR 47338), we explained that 
+we have limited this policy change for 
+the ‘‘New England deemed counties’’ 
+only to IPPS hospitals, and any change 
+to non-IPPS provider wage indexes 
+would be addressed in the respective 
+payment system rules. Accordingly, we 
+are taking this opportunity to clarify the 
+treatment of ‘‘New England deemed 
+counties’’ under the SNF PPS in this 
+proposed rule. 
+As discussed above, the SNF PPS has 
+consistently used the IPPS definition of 
+‘‘urban’’ and ‘‘rural’’ with regard to the 
+wage index used in the SNF PPS. 
+Historical changes to the labor market 
+area/geographic classifications and 
+annual updates to the wage index values 
+under the SNF PPS are made effective 
+October 1 each year. When we 
+established the most recent SNF PPS 
+payment rate update, effective for SNF 
+services provided on or after October 1, 
+2007 through September 30, 2008, we 
+considered the ‘‘New England deemed 
+counties’’ (including Litchfield County, 
+CT and Merrimack County, NH) as 
+urban for FY 2008, as evidenced by the 
+inclusion of Litchfield County as one of 
+the constituent counties of urban CBSA 
+25540 (Hartford-West Hartford-East 
+Hartford, CT), and the inclusion of 
+Merrimack County as one of the 
+constituent counties of urban CBSA 
+31700 (Manchester-Nashua, NH)). 
+As noted above, § 413.333 indicates 
+that the terms ‘‘rural’’ and ‘‘urban’’ are 
+defined according to the definitions of 
+those terms as used in the IPPS. 
+Applying the IPPS definitions, 
+Litchfield County, CT and Merrimack 
+County, NH are not considered ‘‘urban’’ 
+under § 412.64(b)(1)(ii)(A) through (B) 
+as revised under the FY 2008 IPPS final 
+rule and, therefore, are considered 
+‘‘rural’’ under § 412.64(b)(1)(ii)(C). 
+Accordingly, reflecting our policy to use 
+the IPPS definitions of ‘‘urban’’ and 
+‘‘rural,’’ these two counties will be 
+considered ‘‘rural’’ under the SNF PPS 
+effective with the next update of the 
+SNF PPS payment rates on October 1, 
+2008, and will no longer be included in 
+urban CBSA 25540 (Hartford-West 
+Hartford-East Hartford, CT) and urban 
+CBSA 31700 (Manchester-Nashua, NH), 
+respectively. We note that this policy is 
+consistent with our policy of not taking 
+into account IPPS geographic 
+reclassifications in determining 
+payments under the SNF PPS. As 
+indicated above, we are proposing to 
+make a technical change to the 
+regulations at § 413.333 to reflect the 
+updated IPPS regulation reference. 
+2. Multi-Campus Hospital Wage Index 
+Data 
+In the FY 2008 SNF PPS final rule (72 
+FR 43412, August 3, 2007), we 
+established SNF PPS wage index values 
+for FY 2008 calculated from the same 
+data (collected from cost reports 
+submitted by hospitals for cost reporting 
+periods beginning during FY 2004) used 
+to compute the FY 2008 acute care 
+hospital inpatient wage index, without 
+taking into account geographic 
+reclassification under sections 
+1886(d)(8) and (d)(10) of the Act. 
+However, the IPPS policy that 
+apportions the wage data for multi- 
+campus hospitals was not finalized 
+before the SNF PPS final rule. The SNF 
+PPS wage index values applicable for 
+services provided on or after October 1, 
+2007 through September 30, 2008 are 
+shown in Table 8 (for urban areas) and 
+Table 9 (for rural areas) and in the 
+Addendum to the FY 2008 SNF PPS 
+final rule (72 FR 43437 through 43463). 
+We are continuing to use IPPS wage 
+data for FY 2009 because we believe 
+that in the absence of SNF-specific wage 
+data, using the hospital inpatient wage 
+data is appropriate and reasonable for 
+the SNF PPS. We note that the IPPS 
+wage data used to determine the 
+proposed FY 2009 SNF wage index 
+values reflect our policy that was 
+adopted under the IPPS beginning in FY 
+2008, which apportions the wage data 
+for multi-campus hospitals located in 
+different labor market areas, or Core- 
+Based Statistical Areas (CBSAs), to each 
+CBSA where the campuses are located 
+(see the FY 2008 IPPS final rule with 
+comment period (72 FR 47317 through 
+47320)). Specifically, for the proposed 
+FY 2009 SNF PPS, the wage index was 
+computed using IPPS wage data 
+(published by hospitals for cost 
+reporting periods beginning in 2005, as 
+with the FY 2009 IPPS wage index), 
+which allocated salaries and hours to 
+the campuses of two multi-campus 
+hospitals with campuses that are located 
+in different labor areas; one is 
+Massachusetts and the other is Illinois. 
+The wage index values for the proposed 
+FY 2009 SNF PPS in the following 
+CBSAs are affected by this policy: 
+Boston-Quincy, MA (CBSA 14484), 
+Providence-New Bedford-Falls River, 
+RI–MA (CBSA 39300), Chicago- 
+Naperville-Joliet, IL (CBSA 16974) and 
+Lake County-Kenosha County, IL–WI 
+(CBSA 29404) (please refer to Table 8 in 
+the Addendum of this proposed rule). 
+In summary, for FY 2009, we propose 
+to use the FY 2009 wage index data 
+(collected from cost reports submitted 
+by hospitals for cost reporting periods 
+beginning during FY 2005) to adjust 
+SNF PPS payments beginning October 1, 
+2008. These data reflect the multi- 
+campus and New England deemed 
+counties policies discussed above. 
+Finally, we propose to continue using 
+the same methodology discussed in the 
+SNF PPS final rule for FY 2008 (72 FR 
+43423) to address those geographic areas 
+in which there are no hospitals and, 
+thus, no hospital wage index data on 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00010 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25927 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+which to base the calculation of the FY 
+2009 SNF PPS wage index. For rural 
+geographic areas that do not have 
+hospitals and, therefore, lack hospital 
+wage data on which to base an area 
+wage adjustment, we would use the 
+average wage index from all contiguous 
+CBSAs as a reasonable proxy. This 
+methodology is used to construct the 
+wage index for rural Massachusetts. 
+However, we would not apply this 
+methodology to rural Puerto Rico due to 
+the distinct economic circumstances 
+that exist there, but instead would 
+continue using the most recent wage 
+index previously available for that area. 
+For urban areas without specific 
+hospital wage index data, we would use 
+the average wage indexes of all of the 
+urban areas within the State to serve as 
+a reasonable proxy for the wage index 
+of that urban CBSA. The only urban area 
+without wage index data available is 
+CBSA (25980) Hinesville-Fort Stewart, 
+GA. 
+To calculate the SNF PPS wage index 
+adjustment, we would apply the wage 
+index adjustment to the labor-related 
+portion of the Federal rate, which is 
+69.994 percent of the total rate. This 
+percentage reflects the labor-related 
+relative importance for FY 2009, using 
+the revised and rebased FY 2004-based 
+market basket. The labor-related relative 
+importance for FY 2008 was 70.249, as 
+shown in Table 11. We calculate the 
+labor-related relative importance from 
+the SNF market basket, and it 
+approximates the labor-related portion 
+of the total costs after taking into 
+account historical and projected price 
+changes between the base year and FY 
+2009. The price proxies that move the 
+different cost categories in the market 
+basket do not necessarily change at the 
+same rate, and the relative importance 
+captures these changes. Accordingly, 
+the relative importance figure more 
+closely reflects the cost share weights 
+for FY 2009 than the base year weights 
+from the SNF market basket. 
+We calculate the labor-related relative 
+importance for FY 2009 in four steps. 
+First, we compute the FY 2009 price 
+index level for the total market basket 
+and each cost category of the market 
+basket. Second, we calculate a ratio for 
+each cost category by dividing the FY 
+2009 price index level for that cost 
+category by the total market basket price 
+index level. Third, we determine the FY 
+2009 relative importance for each cost 
+category by multiplying this ratio by the 
+base year (FY 2004) weight. Finally, we 
+add the FY 2009 relative importance for 
+each of the labor-related cost categories 
+(wages and salaries, employee benefits, 
+non-medical professional fees, labor- 
+intensive services, and a portion of 
+capital-related expenses) to produce the 
+FY 2009 labor-related relative 
+importance. Tables 6 and 7 below show 
+the Federal rates by labor-related and 
+non-labor-related components. 
+TABLE 6.—RUG–53 CASE-MIX ADJUSTED FEDERAL RATES FOR URBAN SNFS BY LABOR AND NON-LABOR COMPONENT 
+RUG-III 
+category Total rate 
+Labor por-
+tion 
+Non-labor 
+portion 
+RUX ......................................................................................................................................................... 601.45 420.98 180.47 
+RUL .......................................................................................................................................................... 531.85 372.26 159.59 
+RVX .......................................................................................................................................................... 455.79 319.03 136.76 
+RVL .......................................................................................................................................................... 425.53 297.85 127.68 
+RHX ......................................................................................................................................................... 385.58 269.88 115.70 
+RHL .......................................................................................................................................................... 376.50 263.53 112.97 
+RMX ......................................................................................................................................................... 437.32 306.10 131.22 
+RML ......................................................................................................................................................... 402.52 281.74 120.78 
+RLX .......................................................................................................................................................... 310.82 217.56 93.26 
+RUC ......................................................................................................................................................... 515.21 360.62 154.59 
+RUB ......................................................................................................................................................... 472.85 330.97 141.88 
+RUA ......................................................................................................................................................... 451.66 316.13 135.53 
+RVC ......................................................................................................................................................... 410.40 287.26 123.14 
+RVB .......................................................................................................................................................... 390.73 273.49 117.24 
+RVA .......................................................................................................................................................... 354.42 248.07 106.35 
+RHC ......................................................................................................................................................... 355.32 248.70 106.62 
+RHB ......................................................................................................................................................... 340.19 238.11 102.08 
+RHA ......................................................................................................................................................... 317.49 222.22 95.27 
+RMC ......................................................................................................................................................... 326.87 228.79 98.08 
+RMB ......................................................................................................................................................... 317.79 222.43 95.36 
+RMA ......................................................................................................................................................... 311.74 218.20 93.54 
+RLB .......................................................................................................................................................... 286.61 200.61 86.00 
+RLA .......................................................................................................................................................... 245.76 172.02 73.74 
+SE3 .......................................................................................................................................................... 352.46 246.70 105.76 
+SE2 .......................................................................................................................................................... 301.01 210.69 90.32 
+SE1 .......................................................................................................................................................... 269.24 188.45 80.79 
+SSC .......................................................................................................................................................... 264.70 185.27 79.43 
+SSB .......................................................................................................................................................... 251.09 175.75 75.34 
+SSA .......................................................................................................................................................... 246.55 172.57 73.98 
+CC2 .......................................................................................................................................................... 263.19 184.22 78.97 
+CC1 .......................................................................................................................................................... 242.01 169.39 72.62 
+CB2 .......................................................................................................................................................... 229.90 160.92 68.98 
+CB1 .......................................................................................................................................................... 219.31 153.50 65.81 
+CA2 .......................................................................................................................................................... 217.80 152.45 65.35 
+CA1 .......................................................................................................................................................... 205.70 143.98 61.72 
+IB2 ............................................................................................................................................................ 196.62 137.62 59.00 
+IB1 ............................................................................................................................................................ 193.59 135.50 58.09 
+IA2 ............................................................................................................................................................ 178.46 124.91 53.55 
+IA1 ............................................................................................................................................................ 172.41 120.68 51.73 
+BB2 .......................................................................................................................................................... 195.10 136.56 58.54 
+BB1 .......................................................................................................................................................... 190.57 133.39 57.18 
+BA2 .......................................................................................................................................................... 176.95 123.85 53.10 
+BA1 .......................................................................................................................................................... 164.84 115.38 49.46 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00011 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25928 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+TABLE 6.—RUG–53 CASE-MIX ADJUSTED FEDERAL RATES FOR URBAN SNFS BY LABOR AND NON-LABOR 
+COMPONENT—Continued 
+RUG-III 
+category Total rate 
+Labor por-
+tion 
+Non-labor 
+portion 
+PE2 .......................................................................................................................................................... 211.75 148.21 63.54 
+PE1 .......................................................................................................................................................... 208.72 146.09 62.63 
+PD2 .......................................................................................................................................................... 201.16 140.80 60.36 
+PD1 .......................................................................................................................................................... 198.13 138.68 59.45 
+PC2 .......................................................................................................................................................... 192.08 134.44 57.64 
+PC1 .......................................................................................................................................................... 190.57 133.39 57.18 
+PB2 .......................................................................................................................................................... 170.90 119.62 51.28 
+PB1 .......................................................................................................................................................... 167.87 117.50 50.37 
+PA2 .......................................................................................................................................................... 166.36 116.44 49.92 
+PA1 .......................................................................................................................................................... 161.82 113.26 48.56 
+TABLE 7.—RUG–53 CASE-MIX ADJUSTED FEDERAL RATES FOR RURAL SNFS BY LABOR AND NON-LABOR COMPONENT 
+RUG-III 
+category Total rate 
+Labor por-
+tion 
+Non-labor 
+portion 
+RUX ......................................................................................................................................................... 630.19 441.10 189.09 
+RUL .......................................................................................................................................................... 563.70 394.56 169.14 
+RVX .......................................................................................................................................................... 472.09 330.43 141.66 
+RVL .......................................................................................................................................................... 443.18 310.20 132.98 
+RHX ......................................................................................................................................................... 394.42 276.07 118.35 
+RHL .......................................................................................................................................................... 385.75 270.00 115.75 
+RMX ......................................................................................................................................................... 440.02 307.99 132.03 
+RML ......................................................................................................................................................... 406.77 284.71 122.06 
+RLX .......................................................................................................................................................... 311.50 218.03 93.47 
+RUC ......................................................................................................................................................... 547.80 383.43 164.37 
+RUB ......................................................................................................................................................... 507.33 355.10 152.23 
+RUA ......................................................................................................................................................... 487.09 340.93 146.16 
+RVC ......................................................................................................................................................... 428.73 300.09 128.64 
+RVB .......................................................................................................................................................... 409.94 286.93 123.01 
+RVA .......................................................................................................................................................... 375.24 262.65 112.59 
+RHC ......................................................................................................................................................... 365.51 255.84 109.67 
+RHB ......................................................................................................................................................... 351.06 245.72 105.34 
+RHA ......................................................................................................................................................... 329.37 230.54 98.83 
+RMC ......................................................................................................................................................... 334.50 234.13 100.37 
+RMB ......................................................................................................................................................... 325.83 228.06 97.77 
+RMA ......................................................................................................................................................... 320.04 224.01 96.03 
+RLB .......................................................................................................................................................... 288.37 201.84 86.53 
+RLA .......................................................................................................................................................... 249.34 174.52 74.82 
+SE3 .......................................................................................................................................................... 343.31 240.30 103.01 
+SE2 .......................................................................................................................................................... 294.16 205.89 88.27 
+SE1 .......................................................................................................................................................... 263.80 184.64 79.16 
+SSC .......................................................................................................................................................... 259.47 181.61 77.86 
+SSB .......................................................................................................................................................... 246.46 172.51 73.95 
+SSA .......................................................................................................................................................... 242.12 169.47 72.65 
+CC2 .......................................................................................................................................................... 258.02 180.60 77.42 
+CC1 .......................................................................................................................................................... 237.78 166.43 71.35 
+CB2 .......................................................................................................................................................... 226.22 158.34 67.88 
+CB1 .......................................................................................................................................................... 216.10 151.26 64.84 
+CA2 .......................................................................................................................................................... 214.66 150.25 64.41 
+CA1 .......................................................................................................................................................... 203.09 142.15 60.94 
+IB2 ............................................................................................................................................................ 194.42 136.08 58.34 
+IB1 ............................................................................................................................................................ 191.53 134.06 57.47 
+IA2 ............................................................................................................................................................ 177.07 123.94 53.13 
+IA1 ............................................................................................................................................................ 171.29 119.89 51.40 
+BB2 .......................................................................................................................................................... 192.97 135.07 57.90 
+BB1 .......................................................................................................................................................... 188.64 132.04 56.60 
+BA2 .......................................................................................................................................................... 175.63 122.93 52.70 
+BA1 .......................................................................................................................................................... 164.06 114.83 49.23 
+PE2 .......................................................................................................................................................... 208.87 146.20 62.67 
+PE1 .......................................................................................................................................................... 205.98 144.17 61.81 
+PD2 .......................................................................................................................................................... 198.76 139.12 59.64 
+PD1 .......................................................................................................................................................... 195.87 137.10 58.77 
+PC2 .......................................................................................................................................................... 190.08 133.04 57.04 
+PC1 .......................................................................................................................................................... 188.64 132.04 56.60 
+PB2 .......................................................................................................................................................... 169.85 118.88 50.97 
+PB1 .......................................................................................................................................................... 166.96 116.86 50.10 
+PA2 .......................................................................................................................................................... 165.51 115.85 49.66 
+PA1 .......................................................................................................................................................... 161.17 112.81 48.36 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25929 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+Section 1888(e)(4)(G)(ii) of the Act 
+also requires that we apply this wage 
+index in a manner that does not result 
+in aggregate payments that are greater or 
+less than would otherwise be made in 
+the absence of the wage adjustment. For 
+FY 2009 (Federal rates effective October 
+1, 2008), we would apply an adjustment 
+to fulfill the budget neutrality 
+requirement. We would meet this 
+requirement by multiplying each of the 
+components of the unadjusted Federal 
+rates by a budget neutrality factor equal 
+to the ratio of the weighted average 
+wage adjustment factor for FY 2008 to 
+the weighted average wage adjustment 
+factor for FY 2009. For this calculation, 
+we use the same 2006 claims utilization 
+data for both the numerator and 
+denominator of this ratio. We define the 
+wage adjustment factor used in this 
+calculation as the labor share of the rate 
+component multiplied by the wage 
+index plus the non-labor share of the 
+rate component. The proposed budget 
+neutrality factor for this year is 1.0009. 
+The wage index applicable to FY 2009 
+is set forth in Tables 8 and 9, which 
+appear in the Addendum of this 
+proposed rule. 
+In the SNF PPS final rule for FY 2006 
+(70 FR 45026, August 4, 2005), we 
+adopted the changes discussed in the 
+Office of Management and Budget 
+(OMB) Bulletin No. 03–04 (June 6, 
+2003), available online at 
+www.whitehouse.gov/omb/bulletins/ 
+b03–04.html, which announced revised 
+definitions for Metropolitan Statistical 
+Areas (MSAs), and the creation of 
+Micropolitan Statistical Areas and 
+Combined Statistical Areas. In addition, 
+OMB published subsequent bulletins 
+regarding CBSA changes, including 
+changes in CBSA numbers and titles. As 
+indicated in the FY 2008 SNF PPS final 
+rule (72 FR 43423, August 3, 2007), this 
+and all subsequent SNF PPS rules and 
+notices are considered to incorporate 
+the CBSA changes published in the 
+most recent OMB bulletin that applies 
+to the hospital wage data used to 
+determine the current SNF PPS wage 
+index. The OMB bulletins may be 
+accessed online at http:// 
+www.whitehouse.gov/omb/bulletins/ 
+index.html. 
+In adopting the OMB Core-Based 
+Statistical Area (CBSA) geographic 
+designations, we provided for a 1-year 
+transition with a blended wage index for 
+all providers. For FY 2006, the wage 
+index for each provider consisted of a 
+blend of 50 percent of the FY 2006 
+MSA-based wage index and 50 percent 
+of the FY 2006 CBSA-based wage index 
+(both using FY 2002 hospital data). We 
+referred to the blended wage index as 
+the FY 2006 SNF PPS transition wage 
+index. As discussed in the SNF PPS 
+final rule for FY 2006 (70 FR 45041), 
+subsequent to the expiration of this 1- 
+year transition on September 30, 2006, 
+we used the full CBSA-based wage 
+index values, as now presented in 
+Tables 8 and 9 of this proposed rule. 
+D. Updates to the Federal Rates 
+In accordance with section 
+1888(e)(4)(E) of the Act, as amended by 
+section 311 of the BIPA, the proposed 
+payment rates in this proposed rule 
+reflect an update equal to the full SNF 
+market basket, estimated at 3.1 
+percentage points. We would continue 
+to disseminate the rates, wage index, 
+and case-mix classification methodology 
+through the Federal Register before the 
+August 1 that precedes the start of each 
+succeeding FY. 
+E. Relationship of RUG–III Classification 
+System to Existing Skilled Nursing 
+Facility Level-of-Care Criteria 
+As discussed in § 413.345, we include 
+in each update of the Federal payment 
+rates in the Federal Register the 
+designation of those specific RUGs 
+under the classification system that 
+represent the required SNF level of care, 
+as provided in § 409.30. This 
+designation reflects an administrative 
+presumption under the refined RUG–53 
+that beneficiaries who are correctly 
+assigned to one of the upper 35 of the 
+RUG–53 groups on the initial 5-day, 
+Medicare-required assessment are 
+automatically classified as meeting the 
+SNF level of care definition up to and 
+including the assessment reference date 
+on the 5-day Medicare required 
+assessment. 
+A beneficiary assigned to any of the 
+lower 18 groups is not automatically 
+classified as either meeting or not 
+meeting the definition, but instead 
+receives an individual level of care 
+determination using the existing 
+administrative criteria. This 
+presumption recognizes the strong 
+likelihood that beneficiaries assigned to 
+one of the upper 35 groups during the 
+immediate post-hospital period require 
+a covered level of care, which would be 
+significantly less likely for those 
+beneficiaries assigned to one of the 
+lower 18 groups. 
+In this proposed rule, we are 
+continuing the designation of the upper 
+35 groups for purposes of this 
+administrative presumption, consisting 
+of the following RUG–53 classifications: 
+All groups within the Rehabilitation 
+plus Extensive Services category; All 
+groups within the Ultra High 
+Rehabilitation category; all groups 
+within the Very High Rehabilitation 
+category; all groups within the High 
+Rehabilitation category; all groups 
+within the Medium Rehabilitation 
+category; all groups within the Low 
+Rehabilitation category; all groups 
+within the Extensive Services category; 
+all groups within the Special Care 
+category; and, all groups within the 
+Clinically Complex category. 
+F. Example of Computation of Adjusted 
+PPS Rates and SNF Payment 
+Using the hypothetical SNF XYZ 
+described in Table 10 below, the 
+following shows the adjustments made 
+to the Federal per diem rate to compute 
+the provider’s actual per diem PPS 
+payment. SNF XYZ’s 12-month cost 
+reporting period begins October 1, 2008. 
+SNF XYZ’s total PPS payment would 
+equal $29,719. We derive the Labor and 
+Non-labor columns from Table 6 of this 
+proposed rule. 
+TABLE 10.—RUG–53 SNF XYZ: LOCATED IN CEDAR RAPIDS, IA (URBAN CBSA 16300) 
+[Wage Index: 0.8924] 
+RUG Group Labor Wage index Adj. labor Non-labor Adj. rate Percent adj Medicare days payment 
+RVX .................................. $319.03 0.8924 $284.70 $136.76 $421.46 $421.46 14 $5,900.00 
+RLX .................................. 217.56 0.8924 194.15 93.26 287.41 287.41 30 8,622.00 
+RHA .................................. 222.22 0.8924 198.31 95.27 293.58 293.58 16 4,697.00 
+CC2 .................................. 184.22 0.8924 164.40 78.97 243.37 554.88* 10 5,549.00 
+IA2 .................................... 124.91 0.8924 111.47 53.55 165.02 165.02 30 4,951.00 
+Total .......................... .................... .................... .................... .................... .................... .................... 100 29,719.00 
+* Reflects a 128 percent adjustment from section 511 of the MMA. 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25930 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+G. Other Issues 
+1. Staff Time and Resource Intensity 
+Verification (STRIVE) Project 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘STRIVE Project’’ at the 
+beginning of your comments.] 
+As noted previously in section II.B.1 
+of this proposed rule, section 
+1888(e)(4)(G)(i) of the Act requires the 
+Secretary to make an adjustment to 
+account for case-mix. The statute 
+specifies that the adjustment is to reflect 
+both a resident classification system that 
+the Secretary establishes to account for 
+the relative resource use of different 
+patient types, as well as resident 
+assessment and other data that the 
+Secretary considers appropriate. In first 
+implementing the SNF PPS (63 FR 
+26252, May 12, 1998), we developed the 
+RUG-III case-mix classification system, 
+which tied the amount of payment to 
+resident resource use in combination 
+with resident characteristic information. 
+Staff time measurement (STM) studies 
+conducted in 1990, 1995, and 1997 
+provided information on resource use 
+(time spent by staff members on 
+residents) and resident characteristics 
+that enabled us not only to establish 
+RUG–III, but also to create case-mix 
+indexes. 
+Since that time, we have become 
+concerned that incentives of the SNF 
+PPS and the public reporting of nursing 
+home quality measures likely have 
+altered industry practices, and have 
+affected the nursing resources required 
+to treat different types of patients. 
+Changes to technology might also have 
+affected care methods, while more 
+choices in housing alternatives (such as 
+assisted living and community housing) 
+may have altered the population mix 
+served by nursing homes. 
+To help ensure that the SNF PPS 
+payment rates reflect current practices 
+and resource needs, CMS sponsored a 
+national nursing home time study, 
+STRIVE, which began in the Fall of 
+2005. Information collected in STRIVE 
+includes the amount of time that staff 
+members spend on residents and 
+information on residents’’ physical and 
+clinical status derived from MDS 
+assessment data. 
+Two hundred and five nursing homes 
+from the following fifteen States and 
+jurisdictions volunteered to participate 
+in STRIVE: The District of Columbia, 
+Nevada, Florida, Illinois, Iowa, 
+Kentucky, Louisiana, Michigan, 
+Montana, New York, Ohio, South 
+Dakota, Texas, Virginia, and 
+Washington. We are currently analyzing 
+staff time and MDS assessment data for 
+approximately 9,700 residents. 
+Nursing homes with poor survey 
+histories or pending enforcement 
+actions were excluded from the sample. 
+In addition, nursing homes with poor 
+quality measure (QM) scores, low 
+occupancy rates, or large proportions of 
+private pay or pediatric patients were 
+also excluded. 
+Nursing homes were randomly 
+recruited within five strata. The five 
+strata follow: Hospital-based facilities; 
+facilities with high concentrations of 
+residents on ventilators; facilities with 
+high concentrations of residents with 
+Human Immunodeficiency Virus (HIV); 
+facilities with high concentrations of 
+residents on Medicare Part A stays; and 
+all other facilities. Facilities with large 
+concentrations of residents on 
+ventilators, residents with HIV, or 
+residents on Part A stays were over- 
+sampled in order to assure sufficient 
+numbers of residents in those 
+populations. Nursing homes were 
+voluntarily recruited in random order 
+until enough facilities in each targeted 
+category agreed to participate. 
+Participating facilities included both 
+not-for-profit entities and corporations; 
+chains and independent operators; 
+nursing homes with populations small 
+to large in size; and facilities situated in 
+urban and rural locations. 
+STRIVE began on-site data collection 
+at both SNFs and Medicaid Nursing 
+Facilities (NFs) in the Spring of 2006. 
+STRIVE collected data from both types 
+of facilities because almost half of the 
+States use a version of the RUG-III 
+system for their Medicaid 
+reimbursement systems. 
+Participating facilities submitted both 
+time and MDS assessment data. Nursing 
+staff recorded their time over 48 hours. 
+Nursing staff included registered nurses, 
+licensed practical nurses, and nursing 
+aides. Therapy staff recorded their time 
+over 7 consecutive days. Therapy staff 
+included physical therapists and aides; 
+occupational therapists and aides; and 
+speech-language pathologists. Each 
+nursing home staff member recorded his 
+or her time at the facility in different 
+categories (for example, resident- 
+specific time (RST), non-resident- 
+specific time (NRST), unpaid time, and 
+non-study time). 
+As our analysis continues, we expect 
+to introduce changes to the RUG-III 
+grouper methodology and clinical 
+assessment instrument. Further 
+exploration of STRIVE data and possible 
+refinements to the SNF PPS may 
+ultimately culminate in a new RUG 
+model, version IV. 
+To date, STRIVE has benefited from 
+stakeholder input, starting with the 
+December 2005 Open Door Forum to 
+which the public was invited. The 
+educators, researchers, beneficiary 
+advocates, clinicians, consultants, 
+government experts, and representatives 
+from health care, nursing home, and 
+other related industry associations 
+serving on the STRIVE technical expert 
+panel (TEP) have provided valuable 
+insights on topics such as sample 
+populations. Beginning in 2005 until its 
+most recent February 2008 meeting, the 
+TEP has met twice and held two 
+teleconferences. Additionally, our 
+contractor recently established a smaller 
+Analytic Panel consisting of various 
+stakeholders who meet regularly with 
+our researchers to discuss the analysis 
+of the STRIVE data. 
+Our preliminary analyses of RUG III- 
+related resource times and payment 
+rates indicated that, as mentioned 
+previously, SNF care patterns have 
+changed significantly over the decade 
+since we last conducted STMs. We note 
+that calculating CMIs based upon 
+STRIVE data for use within a RUG-III 
+model constructed over a decade ago 
+would create methodological challenges 
+and, therefore, could only be considered 
+an interim step, as we would have to 
+reexamine the CMIs after changes to the 
+structural model are finalized. We will 
+continue to analyze STRIVE data and 
+intend to create an updated RUG 
+classification structure that would more 
+accurately reflect current care practices 
+and resource use. Our contractors also 
+plan to receive input from the TEP and 
+the Analytic Panel to guide the STRIVE 
+analysis. We may also use the results of 
+the contractors’ analyses to make 
+changes to the RUG classification 
+structure. It is our intention to introduce 
+new case-mix weights in FY 2010 that 
+reflect the results of the STRIVE 
+analysis and any changes to the RUG 
+classification structure. 
+More information on STRIVE appears 
+at the following Web site: https:// 
+www.qtso.com/strive.html. Items posted 
+there include: Assessment forms 
+distributed by STRIVE; ‘‘train the 
+trainer’’ materials used to teach the data 
+monitors who, in turn, instructed 
+nursing home staff members on how to 
+record their time; materials from State 
+teleconferences; and slides presented at 
+STRIVE TEPs. We plan to post 
+preliminary results of the STRIVE 
+analyses, when available, on the 
+following Web site: http:// 
+www.cms.hhs.gov/SNFPPS/ 
+10_TimeStudy.asp. 
+2. Minimum Data Set (MDS) 3.0 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘MDS 3.0’’ at the beginning of 
+your comments.] 
+Sections 1819(f)(6)(A)–(B) and 
+1919(f)(6)(A)–(B) of the Social Security 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00014 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25931 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+Act, as amended by the Omnibus 
+Budget Reconciliation Act of 1987 
+(OBRA 1987), require the Secretary of 
+the Department of Health and Human 
+Services (the Secretary) to specify a 
+minimum data set of core elements for 
+use in conducting comprehensive 
+assessments. As stated in § 483.20, 
+Medicare- and Medicaid-participating 
+nursing homes must conduct ‘‘a 
+comprehensive, accurate, standardized, 
+reproducible assessment’’ of each 
+nursing home resident’s functional 
+capacity. 
+CMS is developing a new version of 
+the MDS, MDS 3.0, to reflect more 
+accurately each resident’s clinical, 
+cognitive, and functional status as well 
+as the care that nursing homes provide 
+residents. The regulations at 
+§ 483.20(b)(1)(i) through (xviii) list the 
+clinical domains that must be included 
+in the Resident Assessment Instrument 
+(RAI). These domains have been 
+incorporated into the MDS 2.0 and 
+would also be included in MDS 3.0. We 
+anticipate that in FY 2010, MDS 3.0 
+would become the current version of the 
+MDS. MDS 3.0, like MDS 2.0, would 
+focus on the clinical assessment of each 
+nursing home resident to screen for 
+common, often unrecognized or 
+unevaluated, conditions and syndromes. 
+We made clinical revisions to the 
+instrument based on input from subject- 
+area experts, feedback from MDS users, 
+resident advocates and families, and 
+new knowledge and evidence about 
+resident assessment. With the 
+implementation of MDS 3.0, we aim to 
+increase the clinical relevance, 
+accuracy, and efficiency of assessments; 
+require assessors to record direct 
+resident responses on some items; 
+include assessment items used in other 
+care settings; and move items toward 
+future electronic health record formats. 
+On January 24, 2008, CMS hosted a 
+special Open Door Forum to provide 
+details about MDS 3.0. 
+We now plan to evaluate the impact 
+of the MDS 3.0 changes on the RUG–III 
+resident classification system used in 
+the Medicare payment structure. We 
+intend to develop ways to adapt the 
+RUG system to the MDS 3.0 assessment 
+instrument as part of the STRIVE study. 
+We would then finalize changes to the 
+MDS 3.0 and any necessary adaptations 
+to the RUG classification system. Our 
+intent would be to implement the 
+updated system nationally in FY 2010. 
+We are very much aware that the 
+transition to a new MDS instrument in 
+conjunction with the possible release of 
+a new RUG grouper requires careful 
+planning and extensive provider 
+training. CMS staff are already working 
+on training plans that would include a 
+new MDS 3.0 manual, documentation 
+explaining the updated RUG grouper 
+methodology, data specifications for 
+providers and vendors, training videos, 
+a help desk call and e-mail center, and 
+a train-the-trainer conference tentatively 
+scheduled for Spring 2009. However, we 
+realize that the most effective training 
+would require coordination between 
+CMS and its key stakeholders, including 
+provider and professional associations, 
+Fiscal Intermediaries and Part A and 
+Part B Medicare Administrative 
+Contractors (MACs), and State agencies. 
+We want to encourage stakeholders to 
+work with CMS staff to provide 
+additional training opportunities on the 
+local level to ensure a smooth transition. 
+We plan to publish a transition plan in 
+2008 that should highlight opportunities 
+for joint action. In 2009, we intend to 
+make draft MDS 3.0 specifications 
+available to providers and vendors. We 
+also tentatively plan to include in the 
+update to the FY 2010 SNF PPS rates 
+(which we intend to introduce in Spring 
+2009 and finalize by the end of July, 
+2009) definitive information on the final 
+MDS 3.0 and RUG grouper 
+specifications. Additional information is 
+available online at http:// 
+www.cms.hhs.gov via the following 
+links: 
+• MDS 3.0 information: http:// 
+www.cms.hhs.gov/ 
+NursingHomeQualityInits/ 
+25_NHQIMDS30.asp. 
+• January 15, 2008 version of the 
+MDS 3.0 instrument: http:// 
+www.cms.hhs.gov/ 
+NursingHomeQualityInits/Downloads/ 
+MDS30DraftVersion.pdf. 
+• MDS 3.0 timeline: http:// 
+www.cms.hhs.gov/ 
+NursingHomeQualityInits/Downloads/ 
+MDS30Timeline.pdf. 
+3. Integrated Post Acute Care Payment 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Integrated Post Acute Care 
+Payment’’ at the beginning of your 
+comments.] 
+Under current law, Medicare covers 
+post-acute care (PAC) services in 
+various care settings, including SNFs, 
+home health agencies (HHAs), long-term 
+care hospitals (LTCHs), and inpatient 
+rehabilitation facilities (IRFs). Each of 
+the PAC sites has a separate payment 
+system that relies on different patient 
+assessment instruments, although there 
+is no mandated assessment instrument 
+for LTCHs. The current model is based 
+on provider-oriented ‘‘silos’’ with 
+significant payment differentials 
+existing between provider types that 
+treat similar patients and provide 
+similar services. 
+In the SNF PPS update notice for FY 
+2007 (71 FR 43172 through 43173, July 
+31, 2006), we described our plans to 
+explore refinements to the existing PAC 
+payment methodologies to create a more 
+seamless system for payment and 
+delivery of PAC under Medicare. The 
+new model will focus on beneficiary 
+needs rather than provider type and will 
+be characterized by more consistent 
+payments for the same type of care 
+across different sites of service, quality- 
+driven pay-for-performance incentives, 
+and collection of uniform clinical 
+assessment information to support 
+quality and discharge planning 
+functions. 
+We also noted in the FY 2007 SNF 
+PPS update notice (71 FR 43172) that 
+section 5008 of the Deficit Reduction 
+Act (DRA) of 2005 mandates a PAC 
+payment reform demonstration for 
+purposes of understanding costs and 
+outcomes across different PAC sites. To 
+meet this mandate, CMS implemented 
+the PAC Payment Reform 
+Demonstration (PAC–PRD) to examine 
+differences in costs and outcomes for 
+PAC patients of similar case-mix who 
+use different types of PAC providers and 
+to develop a standardized patient 
+assessment tool for use at hospital 
+discharge and at PAC admission and 
+discharge. This tool, the Continuity 
+Assessment Record and Evaluation 
+(CARE) tool, will measure the health 
+and functional status of Medicare acute 
+discharges. During the demonstration, 
+CARE will be used at hospital discharge 
+and upon admission and discharge from 
+PAC settings. The CARE instrument 
+consists of a core set of assessment 
+items that are common to all patients 
+and care settings and are organized 
+under several major domains: Medical, 
+Functional, Cognitive, Social, and 
+Continuity of Care, in addition to 
+supplemental items for specific 
+conditions and care settings. Additional 
+information on the PAC–PRD is 
+available at: http://www.cms.hhs.gov/
+DemoProjectsEvalRpts/MD/itemdetail.
+asp?filterType=dual,%20keyword&filter
+Value=post%20acute%20care&filter
+ByDID=0&sortByDID=3&sortOrder=
+descending&itemID=CMS1201325&
+intNumPerPage=10. 
+We are interested in receiving public 
+comments on the CARE instrument, and 
+specifically invite comments on how 
+CARE might advance the use of Health 
+Information Technology (HIT) in 
+automating the process for collecting 
+and submitting quality data. The CARE 
+tool is available at http:// 
+www.cms.hhs.gov/ 
+paperworkreductionactof1995/pral/ 
+list.asp. Viewers should scroll down to 
+the entry for CMS–10243, ‘‘Data 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00015 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25932 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+Collection for Administering the 
+Medicare Continuity Assessment Record 
+and Evaluation (CARE) Instrument.’’ 
+Viewers can then click on the link to 
+CMS–10243, click on the link to 
+‘‘Downloads,’’ and open Appendix A 
+(‘‘CARE Tool Item Matrix,’’ a .pdf file) 
+and Appendix B (‘‘CARE Tool Master 
+Document,’’ in Microsoft Word). 
+In addition, we wish to take this 
+opportunity to discuss recent 
+developments in the related area of 
+value-based purchasing (VBP). VBP ties 
+payment to performance through the use 
+of incentives based on measures of 
+quality and cost of care. The 
+implementation of VBP is rapidly 
+transforming CMS from being a passive 
+payer of claims to an active purchaser 
+of higher quality, more efficient health 
+care for Medicare beneficiaries. Our 
+VBP initiatives include hospital pay for 
+reporting (the Reporting Hospital 
+Quality Data for the Annual Payment 
+Update Program), physician pay for 
+reporting (the Physician Quality 
+Reporting Initiative), home health pay 
+for reporting, the Hospital VBP Plan 
+Report to Congress, and various VBP 
+demonstration programs across payment 
+settings, including the Premier Hospital 
+Quality Incentive Demonstration and 
+the Physician Group Practice 
+Demonstration. 
+The preventable hospital-acquired 
+conditions (HAC) payment provision for 
+IPPS hospitals is another of CMS’’ 
+value-based purchasing initiatives. The 
+principal behind the HAC payment 
+provision (Medicare not paying more for 
+healthcare-associated conditions) could 
+be applied to the Medicare payment 
+systems for other settings of care. 
+Section 1886(d)(4)(D) of the Act 
+required the Secretary to select for the 
+HAC IPPS payment provision 
+conditions that: (a) are high cost, high 
+volume, or both; (b) are assigned to a 
+higher-paying Medicare severity 
+diagnosis-related group (MS–DRG) 
+when present as a secondary diagnosis; 
+and (c) could reasonably have been 
+prevented through the application of 
+evidence-based guidelines. Beginning 
+October 1, 2008, Medicare can no longer 
+assign an inpatient hospital discharge to 
+a higher-paying MS–DRG if a selected 
+HAC condition was not present on 
+admission. That is, the case will be paid 
+as though the secondary diagnosis were 
+not present. (Medicare will continue to 
+assign a discharge to a higher-paying 
+MS–DRG in those instances where the 
+selected condition was, in fact, present 
+on admission). 
+The broad principle articulated in the 
+HAC payment provision for IPPS 
+hospitals—of Medicare not paying for 
+these types of preventable conditions— 
+could potentially be applied to other 
+Medicare payment systems for similar 
+conditions that occur in settings other 
+than IPPS hospitals. Other possible 
+settings of care might include hospital 
+outpatient departments, SNFs, HHAs, 
+end-stage renal disease facilities, and 
+physician practices. The 
+implementation would be different for 
+each setting, as each payment system is 
+different and the reasonable 
+preventability through the application 
+of evidence-based guidelines could vary 
+for candidate conditions over the 
+different settings. However, alignment 
+of incentives across settings of care is an 
+important goal for all of CMS’’ VBP 
+initiatives, including the HAC 
+provision. 
+A related application of the broad 
+principle behind the HAC payment 
+provision for IPPS hospitals could be 
+considered through Medicare secondary 
+payer policy by requiring the provider 
+that failed to prevent the occurrence of 
+a preventable condition in one setting to 
+pay for all or part of the necessary 
+follow-up care in a second setting. This 
+would help shield the Medicare 
+program from inappropriately paying for 
+the downstream effects of a preventable 
+condition acquired in the first setting 
+but treated in the second setting. 
+We note that we are not proposing 
+new Medicare policy in this discussion 
+of the possible application of HACs 
+payment policy for IPPS hospitals to 
+other settings, as some of these 
+approaches may require new statutory 
+authority. Rather, we are seeking public 
+comment on the application of the 
+preventable HACs payment provision 
+for IPPS hospitals to other Medicare 
+payment systems and settings. We look 
+forward to working with stakeholders in 
+the fight against these preventable 
+conditions. 
+H. Miscellaneous Technical Corrections 
+and Clarifications 
+We are also taking the opportunity to 
+set forth certain technical corrections 
+and clarifications in this proposed rule, 
+as discussed below. 
+1. Bad Debt Payments 
+We are proposing to make a technical 
+revision in the SNF PPS regulations at 
+§ 413.335(b) to reflect Medicare bad debt 
+payments to SNFs. Under section 
+1861(v)(1) of the Act and § 413.89 of the 
+regulations, Medicare may pay some or 
+all of the uncollectible deductible and 
+coinsurance amounts to those entities 
+paid under a reasonable cost payment 
+methodology that are eligible to receive 
+payment for ‘‘bad debt’’ as defined in 
+§ 413.89(b)(1). Under the original 
+reasonable cost SNF payment 
+methodology that preceded the 
+introduction of the SNF PPS, SNFs did, 
+in fact, receive bad debt payments for 
+uncollectible SNF coinsurance amounts 
+(the SNF benefit has no deductible). As 
+we noted in the preamble to the July 30, 
+1999 SNF PPS final rule (64 FR 41656), 
+while the SNF PPS has maintained this 
+longstanding practice of recognizing 
+SNF bad debt payments ever since its 
+inception, these payments are not 
+included within the SNF PPS per diem 
+itself, but rather, are claimed on the 
+SNF’s Medicare cost report. However, in 
+drafting the regulations text in 
+§ 413.335(b) on the scope of the SNF 
+PPS per diem payment, we 
+inadvertently omitted a reference to this 
+practice. 
+Accordingly, in this proposed rule, 
+we now propose to rectify that 
+inadvertent omission by adding a new 
+clause to § 413.335(b), to clarify that in 
+addition to the Federal per diem 
+payment amounts, SNFs receive 
+payment for bad debts of Medicare 
+beneficiaries, as specified in the 
+provisions of the regulations at § 413.89. 
+We note that those provisions include 
+the 30 percent reduction in applicable 
+SNF bad debt payments made in 
+accordance with section 5004 of the 
+DRA, as specified in § 413.89(h)(2). 
+Further, we note that the President’s 
+budget currently includes a provision 
+that would eliminate Medicare bad debt 
+payments altogether, and that the 
+provisions outlined in this proposed 
+rule would need to reflect any 
+legislation that the Congress may enact 
+to adopt that proposal. Finally, we note 
+that our proposed revision is similar to 
+language that already appears in the 
+regulations text for the inpatient 
+psychiatric facility PPS, at 
+§ 412.422(b)(2). 
+2. Additional Clarifications 
+We are also proposing to make 
+clarifications in two other areas: When 
+a SNF may bill at the default payment 
+rate, and the role of rehabilitation 
+services evaluations in SNFs. 
+A recent analysis of claims data has 
+confirmed confusion among providers 
+as to when it is permissible to submit a 
+claim using the Health Insurance 
+Prospective Payment System (HIPPS) 
+rate code of AAA00, which is the 
+default code. Under the SNF PPS, SNFs 
+are required to submit resident 
+assessment data according to an 
+assessment schedule. When the resident 
+assessment is prepared timely, the 
+provider should bill the RUG payment 
+group that is assigned to the assessment. 
+When the SNF fails to comply with the 
+assessment schedule, it must file a late 
+assessment in order to be paid. In this 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00016 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25933 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+situation, CMS pays a ‘‘default rate’’— 
+a reduced payment made in lieu of the 
+full SNF PPS rate that would have been 
+paid had the resident been assessed in 
+a timely manner. Noncompliance with 
+the schedule is determined by the 
+assessment reference date (ARD) on the 
+resident assessment. 
+Program instructions also allow for 
+payment at the default rate in the 
+following limited circumstances where 
+the SNF has failed to assess the 
+beneficiary: When the stay is less than 
+8 days within a spell of illness; the SNF 
+is notified on an untimely basis or is 
+unaware of a Medicare Secondary Payer 
+denial; the SNF is notified on an 
+untimely basis of the revocation of a 
+payment ban; the beneficiary requests a 
+demand bill; or, the SNF is notified on 
+an untimely basis or is unaware of a 
+beneficiary’s disenrollment from a 
+Medicare Advantage plan. Further 
+information regarding these limited 
+circumstances can be found in the 
+Provider Reimbursement Manual, Part I 
+(CMS Pub. 15–1), Chapter 28. 
+In circumstances other than those 
+described above, no payment is 
+available to the SNF where the SNF fails 
+to assess the resident. However, even 
+when no payment will be made, we 
+wish to clarify that the SNF must 
+nonetheless submit a claim using the 
+HIPPS default rate code and an 
+occurrence code 77 indicating provider 
+liability in order to ensure that the 
+beneficiary’s spell of illness (benefit 
+period) is updated. 
+We have also recently received 
+questions concerning Change Request 
+(CR) 5532 (Transmittal no. 73, dated 
+June 29, 2007), regarding coverage of 
+rehabilitation services in a SNF (see 
+CMS Pub. 100–2, Chapter 8, § 30.4.1.1). 
+As a result, we wish to clarify the 
+requirement that an initial evaluation 
+must be completed and the plan of 
+treatment developed before recording 
+the number of minutes of rehabilitation 
+services provided or estimated for each 
+discipline on the Resident Assessment 
+Instrument (RAI). 
+For Medicare to cover rehabilitation 
+services in a SNF, the services must be 
+directly and specifically related to an 
+active written treatment plan that is 
+developed before the start of 
+rehabilitation services. The plan must 
+be based upon an initial evaluation 
+performed by a qualified therapist (after 
+SNF admission and before the start of 
+rehabilitation services in the SNF) and 
+must be approved by the physician after 
+any needed consultation with the 
+qualified therapist. This means that the 
+evaluation must have been performed 
+for each discipline and the plan of 
+treatment developed in order to include 
+minutes for each discipline under 
+Section P (‘‘Special Treatments and 
+Procedures’’) of the Resident 
+Assessment Instrument, and also to 
+project minutes under Section T 
+(‘‘Therapy Supplement for Medicare 
+PPS’’) of the Resident Assessment 
+Instrument. Section T of the MDS is 
+completed for Medicare 5-day 
+assessments and in certain cases, when 
+a beneficiary is readmitted to the SNF, 
+whereas Section P is completed for each 
+Medicare-required assessment. In those 
+cases where a beneficiary is discharged 
+during the SNF stay and later 
+readmitted, an initial evaluation must 
+be performed upon readmission to the 
+SNF, prior to the start of rehabilitation 
+services in the SNF. 
+III. The Skilled Nursing Facility Market 
+Basket Index 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Market Basket Index’’ at the 
+beginning of your comments.] 
+Section 1888(e)(5)(A) of the Act 
+requires us to establish a SNF market 
+basket index (input price index), that 
+reflects changes over time in the prices 
+of an appropriate mix of goods and 
+services included in the SNF PPS. This 
+proposed rule incorporates the latest 
+available projections of the SNF market 
+basket index. We will incorporate 
+updated projections based on the latest 
+available projections when we publish 
+the SNF final rule. Accordingly, we 
+have developed a SNF market basket 
+index that encompasses the most 
+commonly used cost categories for SNF 
+routine services, ancillary services, and 
+capital-related expenses. 
+Each year, we calculate a revised 
+labor-related share based on the relative 
+importance of labor-related cost 
+categories in the input price index. 
+Table 11 below summarizes the 
+proposed updated labor-related share 
+for FY 2009. 
+TABLE 11.—LABOR-RELATED RELATIVE IMPORTANCE, FY 2008 AND FY 2009 
+Relative impor-
+tance, labor-re-
+lated, FY 2008 
+07:2 forecast 
+Relative impor-
+tance, labor-re-
+lated, FY 2009 
+08:1 forecast 
+Wages and salaries ......................................................................................................................................... 51.218 51.139 
+Employee benefits ........................................................................................................................................... 11.720 11.595 
+Nonmedical professional fees ......................................................................................................................... 1.333 1.331 
+Labor-intensive services .................................................................................................................................. 3.456 3.454 
+Capital-related (.391) ....................................................................................................................................... 2.522 2.475 
+Total .......................................................................................................................................................... 70.249 69.994 
+Source: Global Insight, Inc., formerly DRI-WEFA. 
+A. Use of the Skilled Nursing Facility 
+Market Basket Percentage 
+Section 1888(e)(5)(B) of the Act 
+defines the SNF market basket 
+percentage as the percentage change in 
+the SNF market basket index from the 
+average of the previous FY to the 
+average of the current FY. For the 
+Federal rates established in this 
+proposed rule, we use the percentage 
+increase in the SNF market basket index 
+to compute the update factor for FY 
+2009. We use the Global Insight, Inc. 
+(formerly DRI–WEFA), first quarter 2008 
+forecasted percentage increase in the FY 
+2004-based SNF market basket index for 
+routine, ancillary, and capital-related 
+expenses, described in the previous 
+section, to compute the update factor in 
+this proposed rule. Finally, as discussed 
+in section I.A. of this proposed rule, we 
+no longer compute update factors to 
+adjust a facility-specific portion of the 
+SNF PPS rates because the initial three- 
+phase transition period from facility- 
+specific to full Federal rates that started 
+with cost reporting periods beginning in 
+July 1998 has expired. 
+B. Market Basket Forecast Error 
+Adjustment 
+As discussed in the June 10, 2003, 
+supplemental proposed rule (68 FR 
+34768) and finalized in the August 4, 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00017 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25934 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+2003, final rule (68 FR 46067), the 
+regulations at § 413.337(d)(2) provide 
+for an adjustment to account for market 
+basket forecast error. The initial 
+adjustment applied to the update of the 
+FY 2003 rate for FY 2004, and took into 
+account the cumulative forecast error for 
+the period from FY 2000 through FY 
+2002. Subsequent adjustments in 
+succeeding FYs take into account the 
+forecast error from the most recently 
+available FY for which there is final 
+data, and apply whenever the difference 
+between the forecasted and actual 
+change in the market basket exceeds a 
+specified threshold. We originally used 
+a 0.25 percentage point threshold for 
+this purpose; however, for the reasons 
+specified in the FY 2008 SNF PPS final 
+rule (72 FR 43425, August 3, 2007), we 
+adopted a 0.5 percentage point 
+threshold effective with FY 2008. As 
+discussed previously in section I.F.2. of 
+this proposed rule, as the difference 
+between the estimated and actual 
+amounts of increase in the market 
+basket index for FY 2007 (the most 
+recently available FY for which there is 
+final data) does not exceed the 0.5 
+percentage point threshold, the 
+proposed payment rates for FY 2009 do 
+not include a forecast error adjustment. 
+C. Federal Rate Update Factor 
+Section 1888(e)(4)(E)(ii)(IV) of the Act 
+requires that the update factor used to 
+establish the FY 2009 Federal rates be 
+at a level equal to the full market basket 
+percentage change. Accordingly, to 
+establish the update factor, we 
+determined the total growth from the 
+average market basket level for the 
+period of October 1, 2007 through 
+September 30, 2008 to the average 
+market basket level for the period of 
+October 1, 2008 through September 30, 
+2009. Using this process, the proposed 
+market basket update factor for FY 2009 
+SNF Federal rates is 3.1 percent. We 
+used this revised proposed update factor 
+to compute the Federal portion of the 
+SNF PPS rate shown in Tables 2 and 3. 
+IV. Consolidated Billing 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Consolidated Billing’’ at the 
+beginning of your comments.] 
+Section 4432(b) of the BBA 
+established a consolidated billing 
+requirement that places the Medicare 
+billing responsibility for virtually all of 
+the services that the SNF’s residents 
+receive on the SNF, except for a small 
+number of services that the statute 
+specifically identifies as being excluded 
+from this provision. As noted previously 
+in section I. of this proposed rule, 
+subsequent legislation enacted a number 
+of modifications in the consolidated 
+billing provision. 
+Specifically, section 103 of the BBRA 
+amended this provision by further 
+excluding a number of individual ‘‘high- 
+cost, low-probability’’ services, 
+identified by the Healthcare Common 
+Procedure Coding System (HCPCS) 
+codes, within several broader categories 
+(chemotherapy and its administration, 
+radioisotope services, and customized 
+prosthetic devices) that otherwise 
+remained subject to the provision. We 
+discuss this BBRA amendment in 
+greater detail in the proposed and final 
+rules for FY 2001 (65 FR 19231 through 
+19232, April 10, 2000, and 65 FR 46790 
+through 46795, July 31, 2000), as well as 
+in Program Memorandum AB–00–18 
+(Change Request #1070), issued March 
+2000, which is available online at 
+http://www.cms.hhs.gov/transmittals/ 
+downloads/ab001860.pdf. 
+Section 313 of the BIPA further 
+amended this provision by repealing its 
+Part B aspect; that is, its applicability to 
+services furnished to a resident during 
+a SNF stay that Medicare does not 
+cover. (However, physical, 
+occupational, and speech-language 
+therapy remain subject to consolidated 
+billing, regardless of whether the 
+resident who receives these services is 
+in a covered Part A stay.) We discuss 
+this BIPA amendment in greater detail 
+in the proposed and final rules for FY 
+2002 (66 FR 24020 through 24021, May 
+10, 2001, and 66 FR 39587 through 
+39588, July 31, 2001). 
+In addition, section 410 of the MMA 
+amended this provision by excluding 
+certain practitioner and other services 
+furnished to SNF residents by RHCs and 
+FQHCs. We discuss this MMA 
+amendment in greater detail in the 
+update notice for FY 2005 (69 FR 
+45818–45819, July 30, 2004), as well as 
+in Program Transmittal #390 (Change 
+Request #3575), issued December 10, 
+2004, which is available online at http:// 
+www.cms.hhs.gov/transmittals/
+downloads/r390cp.pdf. 
+To date, the Congress has enacted no 
+further legislation affecting the 
+consolidated billing provision. 
+However, as noted above and explained 
+in the proposed rule for FY 2001 (65 FR 
+19232, April 10, 2000), the amendments 
+enacted in section 103 of the BBRA not 
+only identified for exclusion from this 
+provision a number of particular service 
+codes within four specified categories 
+(that is, chemotherapy items, 
+chemotherapy administration services, 
+radioisotope services, and customized 
+prosthetic devices), but also gave the 
+Secretary ‘‘* * * the authority to 
+designate additional, individual services 
+for exclusion within each of the 
+specified service categories.’’ In the 
+proposed rule for FY 2001, we also 
+noted that the BBRA Conference report 
+(H.R. Rep. No. 
+106–479 at 854 (1999) (Conf. Rep.)) 
+characterizes the individual services 
+that this legislation targets for exclusion 
+as, ‘‘* * * high-cost, low probability 
+events that could have devastating 
+financial impacts because their costs far 
+exceed the payment [SNFs] receive 
+under the prospective payment system 
+* * *’’. According to the conferees, 
+section 103(a), ‘‘is an attempt to exclude 
+from the PPS certain services and costly 
+items that are provided infrequently in 
+SNFs * * *’’. By contrast, we noted that 
+the Congress declined to designate for 
+exclusion any of the remaining services 
+within those four categories (thus 
+leaving all of those services subject to 
+SNF consolidated billing), because they 
+are relatively inexpensive and are 
+furnished routinely in SNFs. 
+As we further explained in the final 
+rule for FY 2001 (65 FR 46790, July 31, 
+2000), and as our longstanding policy, 
+any additional service codes that we 
+might designate for exclusion under our 
+discretionary authority must meet the 
+same criteria that the Congress used in 
+identifying the original codes excluded 
+from consolidated billing under section 
+103(a) of the BBRA: they must fall 
+within one of the four service categories 
+specified in the BBRA, and they also 
+must meet the same standards of high 
+cost and low probability in the SNF 
+setting. Accordingly, we characterized 
+this statutory authority to identify 
+additional service codes for exclusion 
+‘‘* * * as essentially affording the 
+flexibility to revise the list of excluded 
+codes in response to changes of major 
+significance that may occur over time 
+(for example, the development of new 
+medical technologies or other advances 
+in the state of medical practice)’’ (65 FR 
+46791). In this proposed rule, we 
+specifically invite public comments 
+identifying codes in any of these four 
+service categories (chemotherapy items, 
+chemotherapy administration services, 
+radioisotope services, and customized 
+prosthetic devices) representing recent 
+medical advances that might meet our 
+criteria for exclusion from SNF 
+consolidated billing. 
+We note that the original BBRA 
+legislation (as well as the implementing 
+regulations) identified a set of excluded 
+services by means of specifying HCPCS 
+codes that were in effect as of a 
+particular date (in that case, as of July 
+1, 1999). Identifying the excluded 
+services in this manner made it possible 
+for us to utilize program issuances as 
+the vehicle for accomplishing routine 
+updates of the excluded codes, in order 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25935 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+to reflect any minor revisions that might 
+subsequently occur in the coding system 
+itself (for example, the assignment of a 
+different code number to the same 
+service). Accordingly, in the event that 
+we identify through the current 
+rulemaking cycle any new services that 
+would actually represent a substantive 
+change in the scope of the exclusions 
+from SNF consolidated billing, we 
+would identify these additional 
+excluded services by means of the 
+HCPCS codes that are in effect as of a 
+specific date (in this case, as of October 
+1, 2008). By making any new exclusions 
+in this manner, we could similarly 
+accomplish routine future updates of 
+these additional codes through the 
+issuance of program instructions. 
+V. Application of the SNF PPS to SNF 
+Services Furnished by Swing-Bed 
+Hospitals 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Swing-Bed Hospitals’’ at the 
+beginning of your comments.] 
+In accordance with section 1888(e)(7) 
+of the Act, as amended by section 203 
+of the BIPA, Part A pays CAHs on a 
+reasonable cost basis for SNF services 
+furnished under a swing-bed agreement. 
+However, effective with cost reporting 
+periods beginning on or after July 1, 
+2002, the swing-bed services of non- 
+CAH rural hospitals are paid under the 
+SNF PPS. As explained in the final rule 
+for FY 2002 (66 FR 39562, July 31, 
+2001), we selected this effective date 
+consistent with the statutory provision 
+to integrate swing-bed rural hospitals 
+into the SNF PPS by the end of the SNF 
+transition period, June 30, 2002. 
+Accordingly, all non-CAH swing-bed 
+rural hospitals have come under the 
+SNF PPS as of June 30, 2003. Therefore, 
+all rates and wage indexes outlined in 
+earlier sections of this proposed rule for 
+the SNF PPS also apply to all non-CAH 
+swing-bed rural hospitals. A complete 
+discussion of assessment schedules, the 
+MDS and the transmission software 
+(RAVEN–SB for Swing Beds) appears in 
+the final rule for FY 2002 (66 FR 39562, 
+July 31, 2001). The latest changes in the 
+MDS for swing-bed rural hospitals 
+appear on our SNF PPS Web site, 
+www.cms.hhs.gov/snfpps. 
+VI. Provisions of the Proposed Rule 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Provisions of the Proposed 
+Rule’’ at the beginning of your 
+comments.] 
+In this proposed rule, in addition to 
+accomplishing the required annual 
+update of the SNF PPS payment rates, 
+we also propose making the following 
+revisions in the regulations text: 
+• Revise the existing SNF PPS 
+definitions of ‘‘urban’’ and ‘‘rural’’ areas 
+that appear in § 413.333 to include 
+updated cross-references to the 
+corresponding IPPS definitions in Part 
+412, subpart D. 
+• Make a technical revision at 
+§ 413.335(b) to reflect Medicare bad debt 
+payments to SNFs. 
+VII. Collection of Information 
+Requirements 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Collection of Information’’ at 
+the beginning of your comments.] 
+This document does not impose 
+information collection and 
+recordkeeping requirements. 
+Consequently, it need not be reviewed 
+by the Office of Management and 
+Budget under the authority of the 
+Paperwork Reduction Act of 1995 (44 
+U.S.C. 3501 et seq.). 
+VIII. Regulatory Impact Analysis 
+[If you choose to comment on issues 
+in this section, please include the 
+caption ‘‘Impact Analysis’’ at the 
+beginning of your comments.] 
+A. Overall Impact 
+We have examined the impacts of this 
+rule as required by Executive Order 
+12866 (September 1993, Regulatory 
+Planning and Review), the Regulatory 
+Flexibility Act (September 19, 1980, 
+RFA, Pub. L. 96–354), section 1102(b) of 
+the Social Security Act (the Act), the 
+Unfunded Mandates Reform Act of 1995 
+(UMRA, Pub. L. 104–4), Executive Order 
+13132 on Federalism, and the 
+Congressional Review Act (5 U.S.C. 
+804(2)). 
+Executive Order 12866, as amended, 
+directs agencies to assess all costs and 
+benefits of available regulatory 
+alternatives and, if regulation is 
+necessary, to select regulatory 
+approaches that maximize net benefits 
+(including potential economic, 
+environmental, public health and safety 
+effects, distributive impacts, and 
+equity). A regulatory impact analysis 
+(RIA) must be prepared for major rules 
+with economically significant effects 
+($100 million or more in any 1 year). 
+This proposed rule is a major rule, as 
+defined in Title 5, United States Code, 
+section 804(2), because we estimate the 
+FY 2009 impact reflects a $710 million 
+increase from the update to the payment 
+rates and a $770 million reduction from 
+the recalibration of the case-mix 
+adjustment, thereby yielding a net 
+decrease of $60 million on payments to 
+SNFs. 
+The proposed update set forth in this 
+proposed rule would apply to payments 
+in FY 2009. Accordingly, the analysis 
+that follows only describes the impact of 
+this single year. In accordance with the 
+requirements of the Act, we will publish 
+a notice for each subsequent FY that 
+will provide for an update to the 
+payment rates and include an associated 
+impact analysis. 
+The RFA requires agencies to analyze 
+options for regulatory relief of small 
+entities. For purposes of the RFA, small 
+entities include small businesses, 
+nonprofit organizations, and small 
+government jurisdictions. Most SNFs 
+and most other providers and suppliers 
+are small entities, either by their 
+nonprofit status or by having revenues 
+of $11.5 million or less in any 1 year. 
+For purposes of the RFA, approximately 
+53 percent of SNFs are considered small 
+businesses according to the Small 
+Business Administration’s latest size 
+standards, with total revenues of $11.5 
+million or less in any 1 year (for further 
+information, see 65 FR 69432, 
+November 17, 2000). Individuals and 
+States are not included in the definition 
+of a small entity. In addition, 
+approximately 29 percent of SNFs are 
+nonprofit organizations. 
+This proposed rule would update the 
+SNF PPS rates published in the final 
+rule for FY 2008 (72 FR 43412, August 
+3, 2007) and the associated correction 
+notices (72 FR 55085, September 28, 
+2007, and 72 FR 67652, November 30, 
+2007), thereby decreasing net payments 
+by an estimated $60 million. As 
+indicated in Table 12, the effect on 
+facilities will be a net negative impact 
+of 0.3 percent. The total impact reflects 
+a $770 million reduction from the 
+recalibration of the case-mix 
+adjustment, offset by a $710 million 
+increase from the update to the payment 
+rates. We note that some individual 
+providers may experience a net increase 
+in payments while most others 
+experience a decrease. This is due to the 
+distributional impact of the FY 2009 
+wage indexes and the degree of 
+Medicare utilization. While this 
+proposed rule is considered major, its 
+relative impact on SNFs overall is 
+extremely small; that is, less than 3 
+percent of total SNF revenues from all 
+payor sources. Therefore, the Secretary 
+has determined that this proposed rule 
+will not have a significant economic 
+impact on a substantial number of small 
+entities. 
+In addition, section 1102(b) of the Act 
+requires us to prepare a regulatory 
+impact analysis if a rule may have a 
+significant impact on the operations of 
+a substantial number of small rural 
+hospitals. This analysis must conform to 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25936 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+the provisions of section 603 of the 
+RFA. For purposes of section 1102(b) of 
+the Act, we define a small rural hospital 
+as a hospital that is located outside of 
+a Metropolitan Statistical Area and has 
+fewer than 100 beds. The proposed rule 
+will affect small rural hospitals that (a) 
+furnish SNF services under a swing-bed 
+agreement or (b) have a hospital-based 
+SNF. We anticipate that the impact on 
+small rural hospitals will be similar to 
+the impact on SNF providers overall. 
+Section 202 of UMRA also requires 
+that agencies assess anticipated costs 
+and benefits before issuing any rule 
+whose mandates require spending in 
+any 1 year of $100 million in 1995 
+dollars, updated annually for inflation. 
+In 2008, that threshold is approximately 
+$130 million. This proposed rule would 
+not have a substantial effect on the 
+governments mentioned, or on private 
+sector costs. 
+Executive Order 13132 establishes 
+certain requirements that an agency 
+must meet when it promulgates 
+regulations that impose substantial 
+direct requirement costs on State and 
+local governments, preempts State law, 
+or otherwise has Federalism 
+implications. As stated above, this 
+proposed rule would have no 
+substantial effect on State and local 
+governments. 
+B. Anticipated Effects 
+This proposed rule sets forth 
+proposed updates of the SNF PPS rates 
+contained in the final rule for FY 2008 
+(72 FR 43412, August 3, 2007) and the 
+associated correction notices (72 FR 
+55085, September 28, 2007, and 72 FR 
+67652, November 30, 2007). Based on 
+the above, we estimate the FY 2009 
+impact would be a net decrease of $60 
+million on payments to SNFs (this 
+reflects a $770 million reduction from 
+the recalibration of the case-mix 
+adjustment, offset by a $710 million 
+increase from the update to the payment 
+rates. The impact analysis of this 
+proposed rule represents the projected 
+effects of the changes in the SNF PPS 
+from FY 2008 to FY 2009. We estimate 
+the effects by estimating payments 
+while holding all other payment 
+variables constant. We use the best data 
+available, but we do not attempt to 
+predict behavioral responses to these 
+changes, and we do not make 
+adjustments for future changes in such 
+variables as days or case-mix. 
+We note that certain events may 
+combine to limit the scope or accuracy 
+of our impact analysis, because an 
+analysis is future-oriented and, thus, 
+very susceptible to forecasting errors 
+due to other changes in the forecasted 
+impact time period. Some examples of 
+possible events are newly-legislated 
+general Medicare program funding 
+changes by the Congress, or changes 
+specifically related to SNFs. In addition, 
+changes to the Medicare program may 
+continue to be made as a result of 
+previously-enacted legislation, or new 
+statutory provisions. Although these 
+changes may not be specific to the SNF 
+PPS, the nature of the Medicare program 
+is that the changes may interact, and the 
+complexity of the interaction of these 
+changes could make it difficult to 
+predict accurately the full scope of the 
+impact upon SNFs. 
+In accordance with section 
+1888(e)(4)(E) of the Act, we update the 
+payment rates for FY 2008 by a factor 
+equal to the full market basket index 
+percentage increase plus the FY 2007 
+forecast error adjustment to determine 
+the payment rates for FY 2009. The 
+special AIDS add-on established by 
+section 511 of the MMA remains in 
+effect until ‘‘* * *such date as the 
+Secretary certifies that there is an 
+appropriate adjustment in the case mix. 
+* * *’’ We have not provided a separate 
+impact analysis for the MMA provision. 
+Our latest estimates indicate that there 
+are less than 2,700 beneficiaries who 
+qualify for the AIDS add-on payment. 
+The impact to Medicare is included in 
+the ‘‘total’’ column of Table 12. In 
+proposing to update the rates for FY 
+2009, standard annual revisions and 
+clarifications mentioned elsewhere in 
+this proposed rule (for example, the 
+update to the wage and market basket 
+indexes used for adjusting the Federal 
+rates). These revisions would increase 
+payments to SNFs by approximately 
+$710 million. 
+The net decrease in payments 
+associated with this proposed rule is 
+estimated to be $60 million for FY 2009. 
+The decrease of $770 million due to the 
+recalibration of the case-mix 
+adjustment, together with the market 
+basket increase of $710 million, results 
+in a net decrease of $60 million. 
+The impacts are shown in Table 12. 
+The breakdown of the various categories 
+of data in the table follows. 
+The first column shows the 
+breakdown of all SNFs by urban or rural 
+status, hospital-based or freestanding 
+status, and census region. 
+The first row of figures in the first 
+column describes the estimated effects 
+of the various changes on all facilities. 
+The next six rows show the effects on 
+facilities split by hospital-based, 
+freestanding, urban, and rural 
+categories. The urban and rural 
+designations are based on the location of 
+the facility under the CBSA designation. 
+The next twenty-two rows show the 
+effects on urban versus rural status by 
+census region. 
+The second column in the table shows 
+the number of facilities in the impact 
+database. 
+The third column of the table shows 
+the effect of the annual update to the 
+wage index. This represents the effect of 
+using the most recent wage data 
+available. The total impact of this 
+change is zero percent; however, there 
+are distributional effects of the change. 
+The fourth column shows the effect of 
+recalibrating the two adjustments (parity 
+and NTA) to the CMIs. As explained 
+previously in section II.B.2 of this 
+proposed rule, we are proposing this 
+recalibration so that the CMIs more 
+accurately reflect parity in expenditures 
+under the refined, 53-group RUG system 
+introduced in 2006 relative to payments 
+made under the original, 44-group RUG 
+system, and in order to keep the NTA 
+component at the appropriate level 
+specified in the FY 2006 SNF PPS final 
+rule. The total impact of this change is 
+a decrease of 3.3 percent. We note that 
+some individual providers may 
+experience larger decreases in payments 
+than others due to case-mix utilization. 
+The fifth column shows the effect of 
+all of the changes on the FY 2009 
+payments. The market basket increase of 
+3.1 percentage points is constant for all 
+providers and, though not shown 
+individually, is included in the total 
+column. It is projected that aggregate 
+payments will decrease by 0.3 percent, 
+assuming facilities do not change their 
+care delivery and billing practices in 
+response. 
+As can be seen from this table, the 
+combined effects of all of the changes 
+vary by specific types of providers and 
+by location. For example, though most 
+facilities experience payment decreases, 
+some providers (for example, those in 
+the urban Pacific region) show an 
+increase of 1.0 percent. Payment 
+increases for facilities in the urban and 
+rural Pacific areas of the country are the 
+highest for any of the provider 
+categories. 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25937 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00021 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+01
+4<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25938 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+C. Alternatives Considered 
+Section 1888(e) of the Act establishes 
+the SNF PPS for the payment of 
+Medicare SNF services for cost reporting 
+periods beginning on or after July 1, 
+1998. This section of the statute 
+prescribes a detailed formula for 
+calculating payment rates under the 
+SNF PPS, and does not provide for the 
+use of any alternative methodology. It 
+specifies that the base year cost data to 
+be used for computing the SNF PPS 
+payment rates must be from FY 1995 
+(October 1, 1994, through September 30, 
+1995.) In accordance with the statute, 
+we also incorporated a number of 
+elements into the SNF PPS (for example, 
+case-mix classification methodology, the 
+MDS assessment schedule, a market 
+basket index, a wage index, and the 
+urban and rural distinction used in the 
+development or adjustment of the 
+Federal rates). Further, section 
+1888(e)(4)(H) of the Act specifically 
+requires us to disseminate the payment 
+rates for each new FY through the 
+Federal Register, and to do so before the 
+August 1 that precedes the start of the 
+new FY. Accordingly, we are not 
+pursuing alternatives with respect to the 
+payment methodology as discussed 
+above. 
+The proposed rule would recalibrate 
+the case-mix adjustment to the case-mix 
+indexes based on actual CY 2006 data 
+instead of continuing to use FY 2001 
+data, in order to make the change from 
+the 44-group RUG model to the refined 
+53-group model in a budget-neutral 
+manner, as described in section II.B.2. 
+In the FY 2006 SNF PPS final rule (70 
+FR 45031, August 4, 2005), we 
+committed to monitoring the accuracy 
+and effectiveness of the case-mix 
+indexes used in the 53-group model. We 
+believe that using actual data instead of 
+superseded historical data better meets 
+our objective of paying SNFs more 
+accurately. 
+We considered various options for 
+implementing the revised case-mix 
+adjustment. For example, we considered 
+implementing partial adjustments to the 
+case-mix indexes over multiple years 
+until parity was achieved. However, we 
+believe that these options would further 
+delay moving to the most appropriate 
+payment amounts. Moreover, in 
+anticipation of the possible changes 
+resulting from STRIVE in the RUG–III 
+structural model and the CMIs used in 
+payment, we believe it is important for 
+the recalibration to be entirely 
+completed beforehand, in order to 
+ensure stability in the base as we move 
+forward with these other changes. 
+We also considered introducing new 
+case-mix weights derived from the 
+STRIVE time study data. However, our 
+initial analyses show that it would be 
+more efficient and less burdensome to 
+providers to introduce any new case- 
+mix weights as part of an overall 
+restructuring of the RUG–III model that 
+is currently scheduled for October 2009. 
+D. Accounting Statement 
+As required by OMB Circular A–4 
+(available at http:// 
+www.whitehouse.gov/omb/circulars/ 
+a004/a-4.pdf), in Table 13 below, we 
+have prepared an accounting statement 
+showing the classification of the 
+expenditures associated with the 
+provisions of this proposed rule. This 
+table provides our best estimate of the 
+change in Medicare payments under the 
+SNF PPS as a result of the policies in 
+this proposed rule based on the data for 
+15,346 SNFs in our database. All 
+expenditures are classified as transfers 
+to Medicare providers (that is, SNFs). 
+TABLE 13.—ACCOUNTING STATEMENT: 
+CLASSIFICATION OF ESTIMATED EX-
+PENDITURES, FROM THE 2008 SNF 
+PPS FISCAL YEAR TO THE 2009 
+SNF PPS FISCAL YEAR 
+[In Millions] 
+Category Transfers 
+Annualized Mone-
+tized Transfers.
+$60 million* 
+From Whom To 
+Whom?.
+SNF Medicare Providers 
+to Federal Government 
+* The net decrease of $60 million in transfer 
+payments is a result of the decrease of $770 
+million due to the proposed recalibration of the 
+case-mix adjustment, together with the pro-
+posed market basket increase of $710 million. 
+E. Conclusion 
+Overall estimated payments for SNFs 
+in FY 2009 are projected to decrease by 
+0.3 percent compared with those in FY 
+2008. We estimate that SNFs in urban 
+areas would experience a 0.3 percent 
+decrease in estimated payments 
+compared with FY 2008. We estimate 
+that SNFs in rural areas would 
+experience a 0.2 percent decrease in 
+estimated payments compared with FY 
+2008. Providers in the urban Pacific 
+region and the rural Pacific region show 
+increases in payments of 1.0 and 0.9 
+percent, respectively. 
+Finally, in accordance with the 
+provisions of Executive Order 12866, 
+this regulation was reviewed by the 
+Office of Management and Budget. 
+List of Subjects in 42 CFR Part 413 
+Health facilities, Kidney diseases, 
+Medicare, Reporting and recordkeeping 
+requirements. 
+For the reasons set forth in the 
+preamble, the Centers for Medicare & 
+Medicaid Services proposes to amend 
+42 CFR chapter IV as follows: 
+PART 413—PRINCIPLES OF 
+REASONABLE COST 
+REIMBURSEMENT; PAYMENT FOR 
+END-STAGE RENAL DISEASE 
+SERVICES; PROSPECTIVELY 
+DETERMINED PAYMENT RATES FOR 
+SKILLED NURSING FACILITIES 
+1. The authority citation for part 413 
+continues to read as follows: 
+Authority: Secs. 1102, 1812(d), 1814(b), 
+1815, 1833(a), (i), and (n), 1861(v), 1871, 
+1881, 1883, and 1886 of the Social Security 
+Act (42 U.S.C. 1302, 1395d(d), 1395f(b), 
+1395g, 1395l(a), (i), and (n), 1395x(v), 
+1395hh, 1395rr, 1395tt, and 1395ww); and 
+sec. 124 of Public Law 106–133 (113 Stat. 
+1501A–332). 
+Subpart J—Prospective Payment for 
+Skilled Nursing Facilities 
+2. In § 413.333, the definitions of the 
+terms ‘‘rural area’’ and ‘‘urban area’’ are 
+revised to read as follows: 
+§ 413.333 Definitions. 
+* * * * * 
+Rural area means, for services 
+provided on or after July 1, 1998, but 
+before October 1, 2005, an area as 
+defined in § 412.62(f)(1)(iii) of this 
+chapter. For services provided on or 
+after October 1, 2005, rural area means 
+an area as defined in § 412.64(b)(1)(ii)(C) 
+of this chapter. 
+Urban area means, for services 
+provided on or after July 1, 1998, but 
+before October 1, 2005, an area as 
+defined in § 412.62(f)(1)(ii) of this 
+chapter. For services provided on or 
+after October 1, 2005, urban area means 
+an area as defined in 
+§ 412.64(b)(1)(ii)(A) and 
+§ 412.64(b)(1)(ii)(B) of this chapter. 
+§ 413.335 [Amended] 
+3. Section 413.335 is amended by 
+revising paragraph (b) to read as follows: 
+§ 413.335 Basis of payment. 
+* * * * * 
+(b) Payment in full. (1) The payment 
+rates represent payment in full (subject 
+to applicable coinsurance as described 
+in subpart G of part 409 of this chapter) 
+for all costs (routine, ancillary, and 
+capital-related) associated with 
+furnishing inpatient SNF services to 
+Medicare beneficiaries other than costs 
+associated with approved educational 
+activities as described in § 413.85. 
+(2) In addition to the Federal per diem 
+payment amounts, SNFs receive 
+payment for bad debts of Medicare 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00022 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25939 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+beneficiaries, as specified in § 413.89 of 
+this part. 
+(Catalog of Federal Domestic Assistance 
+Program No. 93.773, Medicare-Hospital 
+Insurance Program; and No. 93.774, 
+Medicare-Supplementary Medical Insurance 
+Program) 
+Dated: March 14, 2008. 
+Kerry Weems, 
+Acting Administrator, Centers for Medicare 
+& Medicaid Services. 
+Dated: April 24, 2008. 
+Michael O. Leavitt, 
+Secretary. 
+BILLING CODE 4120–01–P 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00023 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25940 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00024 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+01
+5<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25941 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00025 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+01
+6<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25942 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00026 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+01
+7<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25943 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00027 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+01
+8<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25944 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00028 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+01
+9<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25945 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00029 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+0<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25946 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00030 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+1<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25947 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00031 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+2<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25948 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00032 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+3<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25949 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00033 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+4<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25950 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00034 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+5<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25951 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00035 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+6<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25952 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00036 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+7<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25953 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00037 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+8<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25954 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00038 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+02
+9<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25955 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00039 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+03
+0<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25956 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00040 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+03
+1<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25957 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00041 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+03
+2<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25958 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00042 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+03
+3<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25959 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00043 Fmt 4701 Sfmt 4725 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+03
+4<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2
+25960 Federal Register / Vol. 73, No. 89 / Wednesday, May 7, 2008 / Proposed Rules 
+[FR Doc. 08–1214 Filed 5–1–08; 8:45 am] 
+BILLING CODE 4120–01–C 
+VerDate Aug<31>2005 20:59 May 06, 2008 Jkt 214001 PO 00000 Frm 00044 Fmt 4701 Sfmt 4702 E:\FR\FM\07MYP2.SGM 07MYP2 EP
+07
+M
+Y0
+8.
+03
+5<
+/G
+PH
+>
+jle
+nti
+ni 
+on
+ P
+RO
+D1
+PC
+65
+ w
+ith
+ P
+RO
+PO
+SA
+LS
+2

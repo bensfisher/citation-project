@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<date></date>
+<booktitle>Division of Regulations, Legislation, and Interpretation, U.S. Department of Labor, Wage and Hour Division, 200 Constitution Avenue NW., Room S– 81197 Federal Register /</booktitle>
+<volume>76</volume>
+<editor>Mary Ziegler, Director,</editor>
+<note>4th ed.</note>
+<marker></marker>
+<rawString>Mary Ziegler, Director, Division of Regulations, Legislation, and Interpretation, U.S. Department of Labor, Wage and Hour Division, 200 Constitution Avenue NW., Room S– 81197 Federal Register / Vol. 76, No. 248 / Tuesday, December 27, 2011 / Proposed Rules 4 Gilbert, Lenora. Home Care Workers: The New York City Experience, Encyclopedia of Occupational Safety and Health, Vol. 3. (4th ed.</rawString>
+</citation>
+<citation valid="true">
+<title>Costs with Overtime Work in U.S.</title>
+<date>1998</date>
+<journal>Jobs,’’ Industrial and Labor Relations Review,</journal>
+<volume>64</volume>
+<issue>1</issue>
+<pages>128--142</pages>
+<institution>International Labor Organization,</institution>
+<marker>1998</marker>
+<rawString>International Labor Organization, 1998). Costs with Overtime Work in U.S. Jobs,’’ Industrial and Labor Relations Review, 64(1): 128–142.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Stephen Trejo</author>
+</authors>
+<date>1991</date>
+<journal>The Effects of Overtime Pay Regulation on Worker Compensation,’’ American Economic Review,</journal>
+<volume>81</volume>
+<issue>4</issue>
+<pages>719--40</pages>
+<marker>Trejo, 1991</marker>
+<rawString>Trejo, Stephen. 1991. ‘‘The Effects of Overtime Pay Regulation on Worker Compensation,’’ American Economic Review, 81(4): 719–40.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Stephen Trejo</author>
+</authors>
+<title>Does the Statutory Overtime Premium Discourage Long Workweeks?’’ Industrial and Labor Relations Review, 56(3): 530– 81221</title>
+<date>1993</date>
+<journal>Federal Register /</journal>
+<booktitle>Proposed Rules 86 PHI, 2010a. p. 8. HHS,</booktitle>
+<volume>76</volume>
+<marker>Trejo, 1993</marker>
+<rawString>Trejo, Stephen. 1993. ‘‘Does the Statutory Overtime Premium Discourage Long Workweeks?’’ Industrial and Labor Relations Review, 56(3): 530– 81221 Federal Register / Vol. 76, No. 248 / Tuesday, December 27, 2011 / Proposed Rules 86 PHI, 2010a. p. 8. HHS, 2001. Pgs. 4, 5, and 7.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Census Bureau, Center for Economic Studies. Business Dynamics Statistics: Firm Age by Firm Size. Available at: http://www.ces.census.gov/ index.php/bds/bds_database_list. Accessed</title>
+<date>2010</date>
+<marker>S, 2010</marker>
+<rawString>87 U.S. Census Bureau, Center for Economic Studies. Business Dynamics Statistics: Firm Age by Firm Size. Available at: http://www.ces.census.gov/ index.php/bds/bds_database_list. Accessed June 17, 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>National Population Projections. Table 2: Projections of the Population by Selected Age Groups and Sex for the United States:</title>
+<date>2008</date>
+<marker>Bureau, 2008</marker>
+<rawString>88 U.S. Census Bureau. 2008 National Population Projections. Table 2: Projections of the Population by Selected Age Groups and Sex for the United States: 2010 to 2050. Available at: http://www. census.gov/population/www/projections/ summarytables.html. Accessed November 3, 2011.</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Occupational Outlook Handbook, 2010–11 Edition, Home Health Aides and Personal and Home Care Aides, on the Internet at http://www.bls.</booktitle>
+<volume>89</volume>
+<institution>Bureau of Labor Statistics, U.S. Department of Labor,</institution>
+<marker></marker>
+<rawString>89 Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, 2010–11 Edition, Home Health Aides and Personal and Home Care Aides, on the Internet at http://www.bls.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Tuesday</author>
+</authors>
+<title>81244 Federal Register /</title>
+<date>2011</date>
+<booktitle>Proposed Rules List of Subjects in 29 CFR Part 552 Domestic service workers, Companionship,</booktitle>
+<volume>76</volume>
+<location>Employment, Labor, Minimum</location>
+<note>gov/oco/ocos326.htm (visited</note>
+<marker>Tuesday, 2011</marker>
+<rawString>gov/oco/ocos326.htm (visited September 20, 2011). 81244 Federal Register / Vol. 76, No. 248 / Tuesday, December 27, 2011 / Proposed Rules List of Subjects in 29 CFR Part 552 Domestic service workers, Companionship, Employment, Labor, Minimum wages, Overtime pay, Reporting and recordkeeping requirements, Wages. Signed at Washington, DC on this 16th day of December. Nancy J. Leppink, Deputy Administrator, Wage and Hour Division.</rawString>
+</citation>
+<citation valid="false">
+<title>The authority citation for part 552 continues to read as follows: Authority: 29 U.S.C. 213(a)(15), (b)(21), 88 stat. 62; Sec. 29(b) of the Fair Labor Standards Act Amendments of</title>
+<date>1974</date>
+<journal>Pub. L. 93–259, 88 Stat.</journal>
+<volume>76</volume>
+<marker>1974</marker>
+<rawString>1. The authority citation for part 552 continues to read as follows: Authority: 29 U.S.C. 213(a)(15), (b)(21), 88 stat. 62; Sec. 29(b) of the Fair Labor Standards Act Amendments of 1974 (Pub. L. 93–259, 88 Stat. 76). 2. Revise § 552.3 to read as follows: § 552.3 Domestic Service Employment. (1) occasional dressing, such as assistance with putting on and taking off outerwear and footwear; (2) occasional grooming, including combing and brushing hair, assisting with brushing teeth, application of deodorant, or cleansing the hands and face of the person, such as before or after meals; (3) occasional toileting, including assisting with transfers, mobility, positioning, use of toileting equipment and supplies (such as toilet paper, wipes, and elevated toilet seats or safety frames), changing diapers, and related personal cleansing; (4) occasional driving to appointments, errands, and social events; (5) occasional feeding, including</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

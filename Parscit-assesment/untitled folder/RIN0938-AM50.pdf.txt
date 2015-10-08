@@ -1,0 +1,4040 @@
+ 
+ 
+
+Version 5010 Regulatory Impact Analysis – 
+
+Supplement 
+
+ 
+ 
+ 
+
+September 2008 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document was prepared by Gartner, Inc., under a contract to the Centers for Medicare & 
+Medicaid Services (CMS), to conduct primary and secondary research to support the 
+Regulatory Impact Analysis in the proposed rule: 45 CFR Part 162 Health Insurance Reform: 
+Modifications to the Health Insurance Portability and Accountability Act (HIPAA) Electronic 
+Transaction Standards.”  This NPRM was published in the Federal Register/Vol. 73 No. 164 on 
+Friday, August 22, 2008.
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Table of Contents 
+1.0 
+2.0 
+3.0 
+
+4.0 
+
+5.0 
+
+Intended Use of this Document ..................................................................1 
+Cost Benefit Analysis Methodology ...........................................................2 
+Key Assumptions.........................................................................................3 
+3.1  Model Assumptions ................................................................................................... 3 
+3.2  Cost Analysis Assumptions ....................................................................................... 3 
+3.3  Benefit Analysis Assumptions ................................................................................... 3 
+Costs Overview ............................................................................................4 
+4.1  Summary ................................................................................................................... 4 
+4.2  Cost Analysis Methodology ....................................................................................... 5 
+4.2.1  Cost Calculations Overview .................................................................................. 5 
+4.2.2  Cost Calculations .................................................................................................. 5 
+Benefits Overview ........................................................................................6 
+5.1  Summary ................................................................................................................... 6 
+5.2  Benefit Analysis Methodology ................................................................................... 7 
+5.2.1  Benefit Calculations Overview............................................................................... 7 
+5.2.2  Operational savings due to better standards for claims transactions.................... 7 
+5.2.3  Cost savings due to an increase in EDI for claims transactions by more covered 
+
+entities................................................................................................................... 9 
+5.2.4  Operational savings due to increased use of auxiliary transactions through EDI . 9 
+Impact Analysis by Segment.....................................................................10 
+6.1  How to use this section............................................................................................ 10 
+6.2  Hospitals.................................................................................................................. 10 
+6.2.1  Cost Calculations Overview ................................................................................ 10 
+6.2.2  Benefit Calculations Overview............................................................................. 11 
+6.2.3  Summary............................................................................................................. 12 
+6.3  Physicians and Other Providers .............................................................................. 12 
+6.3.1  Cost Calculations Overview ................................................................................ 12 
+6.3.2  Benefit Calculations Overview............................................................................. 13 
+6.3.3  Summary............................................................................................................. 14 
+6.4  Dentists.................................................................................................................... 14 
+6.4.1  Cost Calculations Overview ................................................................................ 14 
+6.4.2  Benefit Calculations Overview............................................................................. 15 
+6.4.3  Summary............................................................................................................. 15 
+6.5  Pharmacy ................................................................................................................ 16 
+6.5.1  Overview ............................................................................................................. 16 
+6.6  Health Plans ............................................................................................................ 16 
+6.6.1  Cost Calculations Overview ................................................................................ 16 
+
+6.0 
+
+ 
+
+Page i 
+
+ 
+ 
+ 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+6.6.2  Benefit Calculations Overview............................................................................. 17 
+6.6.3  Summary............................................................................................................. 18 
+6.7  Government Plans and Programs ........................................................................... 18 
+6.7.1  Cost Calculations Overview ................................................................................ 18 
+6.7.2  Benefit Calculations Overview............................................................................. 19 
+6.7.3  Summary............................................................................................................. 20 
+6.8  Clearinghouses........................................................................................................ 20 
+6.8.1  Cost Calculations Overview ................................................................................ 20 
+6.8.2  Benefit Calculations Overview............................................................................. 21 
+6.8.3  Summary............................................................................................................. 21 
+6.9  Vendors ................................................................................................................... 21 
+7.0 
+Cost/Benefit Summary...............................................................................21 
+Attachment 1 – Listing of Assumptions...............................................................28 
+ 
+
+List of Tables 
+Table 1. 
+Table 2. 
+Table 3. 
+Table 4. 
+
+Table 9. 
+
+Table 5. 
+Table 6. 
+Table 7. 
+Table 8. 
+
+Healthcare Segments......................................................................................... 2 
+Systems Implementation Cost Categories ......................................................... 4 
+Total Estimated Version 5010 Costs for Healthcare Industry............................. 5 
+Current and projected adoption rates for use for HIPAA standards across all 
+covered entities-over 10 years ........................................................................... 6 
+Total Benefits realized by Healthcare Industry ................................................... 7 
+Time incurred to resolve Pended Claims............................................................ 8 
+Time incurred to resolve Non Auto-Adjudicated Claims ..................................... 8 
+Healthcare Providers - Time incurred to get additional information to 
+support Claims Processing................................................................................. 9 
+Health  Plans - Time incurred to get additional information to support Claims 
+Processing........................................................................................................ 10 
+Table 10.  Hospitals Size Breakdown................................................................................ 10 
+Table 11.  Hospital Providers – 4010/4010A implementation costs .................................. 11 
+Table 12.  Projected Hospital Claims ................................................................................ 11 
+Table 13.  Hospital Cost Benefit Analysis Summary ......................................................... 12 
+Table 14.  Physicians and Other Providers Breakdown .................................................... 12 
+Table 15.  Physicians and Other Providers – 4010/4010A implementation costs............. 13 
+Table 16.  Projected Physician Claims.............................................................................. 13 
+Table 17.  Physician and Other Providers Cost Benefit Analysis Summary...................... 14 
+Table 18.  Dentists Breakdown.......................................................................................... 14 
+
+ 
+
+Page ii 
+
+ 
+ 
+ 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Table 19.  Dentists – 4010/4010A implementation costs .................................................. 15 
+Table 20.  Projected Dentists Claims ................................................................................ 15 
+Table 21.  Dentists Cost Benefit Analysis Summary ......................................................... 16 
+Table 22.  Health Plan Breakdown.................................................................................... 16 
+Table 23.  Health Plans – 4010/4010A implementation costs........................................... 17 
+Table 24.  Projected Claims (Hospitals, Physicians, and Dentists)................................... 17 
+Table 25.  Health Plan Benefit Allocation .......................................................................... 17 
+Table 26.  Health Plans Cost Benefit Analysis Summary (private plans) .......................... 18 
+Table 27.  Medicaid Breakdown ........................................................................................ 18 
+Table 28.  Medicaid – 4010/4010A implementation costs................................................. 19 
+Table 29.  Medicare – 5010 implementation costs............................................................ 19 
+Table 30.  Other Government Programs – 5010 implementation costs ............................ 19 
+Table 31.  Government health plans Cost Benefit Analysis Summary .............................. 20 
+Table 32.  Clearinghouses 4010/4010A costs................................................................... 20 
+Table 33.  Clearinghouses and Vendors Cost Analysis Summary .................................... 21 
+Table 34.  Version 5010 Costs Schedule by sub segment (minimum) in Millions ............. 22 
+Table 35. 
+5010 Costs Schedule by sub segment (maximum) in Millions ......................... 23 
+5010 Benefits Schedule by sub segment (minimum) in Millions ...................... 24 
+Table 36. 
+5010 Benefits Schedule by sub segment (maximum) in Millions ..................... 25 
+Table 37. 
+Table 38. 
+5010 Net Impact (minimum) in Millions ............................................................ 26 
+Table 39. 
+5010 Net Impact (maximum) in Millions ........................................................... 27 
+ 
+
+ 
+
+Page iii 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Intended Use of this Document 
+
+1.0 
+This report has been prepared for explicit use during the comment period for the “45 CFR Part 
+162 Health Insurance Reform; Modifications to the Health Insurance Portability and 
+Accountability Act (HIPAA) Electronic Transaction Standards; Proposed Rule” published to the 
+Federal Register/Vol. 73 No. 164 on Friday, August 22nd, 2008.  The information provided in this 
+report is intended only to supplement the proposed rule and provide additional clarity regarding 
+the Version 5010 Impact Analysis.  This report also does not include any of the analysis 
+pertaining to Version D.0 (pharmacy) or Version 3.0 (Medicaid subrogation), as those analyses 
+were conducted separately. This report is for instructive purposes only to help provide additional 
+context and explanation for the calculations set forth in the proposed rule.  The content of this 
+report is not meant for comment. Any comments that might stem from this document should be 
+directed to the specific section and language provided in the Notice of Proposed Rule Making 
+(NPRM) and should be provided through the designated channel. 
+
+ 
+
+Page 1 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+2.0  Cost Benefit Analysis Methodology 
+In preparing the 5010 Regulatory Impact Analysis, a detailed Cost-Benefit study was conducted 
+to examine the impact of this change across the industry.  As part of this endeavor, a 
+methodology was developed to identify the individual segments across the full spectrum of 
+health care and to evaluate each segment from a cost-benefit perspective.    
+The segments and sub segments that were identified included: 
+Table 1.  Healthcare Segments 
+
+Segments 
+
+Providers 
+
+Health Plans 
+
+Clearinghouses and 
+Vendors 
+
+Sub Segments 
+
+•  Hospitals 
+•  Physicians 
+•  Dentists 
+•  Pharmacies 
+•  Health Plans  
+•  Government Plans and 
+
+Programs 
+
+•  Clearinghouses 
+•  Vendors 
+
+ 
+Based on this segmentation strategy, select individuals with representative perspectives from 
+each of these segments were identified and interviewed.  These individuals represented both 
+the business and technical areas for their respective organizations and were capable of 
+articulating the potential cost-benefit of changes to their existing systems and processes.  In 
+addition to these interviews, secondary research was conducted to better assess the current 
+usage and industry patterns for each of the HIPAA transactions and to complement data 
+brought forth through the primary research.  This secondary research included data collection 
+from leading associations and other constituencies that represented one or more of the 
+segments identified (e.g. MGMA, HIMSS, BCBSA, etc.).  Throughout this process, sources were 
+cited and assumptions were tested and verified where possible.   
+All of the input from this research was used to construct a Cost-Benefit model that synthesized 
+the findings from the interviews as well as the inputs from the secondary research.  This model 
+was constructed in order to estimate the net impact of 5010 across the entire health care 
+spectrum inclusive of all of the individual segments.  Quality Assurance reviews were conducted 
+throughout the process and multiple iterations of the model were reviewed before the final 
+product was baselined.  The Quality Assurance process included multiple stages of validation, 
+sensitivity testing, and peer review with Internal and External Subject Matter Experts.  Figure 1 
+below depicts the process by which this cost-benefit model was constructed.
+
+ 
+
+Page 2 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Figure 1.  Cost Benefit Model Development Process 
+
+ 
+ 
+ 
+
+ 
+
+1. Develop Assumptions
+1. Develop Assumptions
+Developed assumptions 
+Developed assumptions 
+based on Interviews and 
+based on Interviews and 
+Secondary Research
+Secondary Research
+
+ 
+ 
+ 
+ 
+HIPAA 5010 
+HIPAA 5010 
+HIPAA 5010 
+HIPAA 5010 
+HIPAA 5010 
+HIPAA 5010 
+Impact
+Impact
+Impact
+Impact
+Impact
+Impact
+
+Current 
+Current 
+Current 
+Current 
+Current 
+Current 
+Transaction 
+Transaction 
+Transaction 
+Transaction 
+Transaction 
+Transaction 
+Statistics
+Statistics
+Statistics
+Statistics
+Statistics
+Statistics
+
+837837
+837837
+
+Primary Research (Interviews)
+Primary Research (Interviews)
+Primary Research (Interviews)
+Primary Research (Interviews)
+Primary Research (Interviews)
+Primary Research (Interviews)
+
+Secondary Research
+Secondary Research
+Secondary Research
+Secondary Research
+Secondary Research
+Secondary Research
+
+Healthcare 
+Healthcare 
+Healthcare 
+Healthcare 
+Healthcare 
+Healthcare 
+Industry 
+Industry 
+Industry 
+Industry 
+Industry 
+Industry 
+Statistics
+Statistics
+Statistics
+Statistics
+Statistics
+Statistics
+
+Current HIPAA 
+Current HIPAA 
+Current HIPAA 
+Current HIPAA 
+Current HIPAA 
+Current HIPAA 
+
+Statistics
+Statistics
+Statistics
+Statistics
+Statistics
+Statistics
+
+Costs
+Costs
+Costs
+Costs
+
+Payers
+Payers
+Payers
+Payers
+
+278278
+278278
+
+820820
+820820
+
+834834
+834834
+
+Benefits
+Benefits
+Benefits
+Benefits
+
+835835
+835835
+
+270/271
+270/271
+270/271
+270/271
+
+276/277
+276/277
+276/277
+276/277
+
+Providers
+Providers
+Providers
+Providers
+
+3. Model Cost/Benefit
+3. Model Cost/Benefit
+
+Modeled Costs and 
+Modeled Costs and 
+Benefits of HIPAA 
+Benefits of HIPAA 
+5010
+5010
+
+2. Derive Inputs
+2. Derive Inputs
+Derived assumptions 
+Derived assumptions 
+and logic based on the 
+and logic based on the 
+Research
+Research
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The result of this cost-benefit analysis and the cost-benefit model were then used to help form 
+the basis for the Regulatory Impact Analysis section of the proposed rule.  As a result of these 
+exhaustive efforts, estimates were arrived at that can reasonably be assumed to be 
+representative of the expected impact across the industry. 
+The remainder of this document will provide additional context behind the cost-benefit model 
+and should be considered a supplement to the proposed rule. 
+3.0  Key Assumptions 
+The following are the key assumptions used in developing the cost benefit analysis: 
+3.1  Model Assumptions 
+The cost benefit analysis was developed for a ten (10) year period.  
+3.2  Cost Analysis Assumptions 
+The majority of costs incurred for the Version 5010 HIPAA regulation are related to System 
+Implementation Costs. These costs are assumed to be incurred over a two (2) year period as 
+follows: 
+
+•  System Implementation costs are distributed evenly between years one (1) and two 
+
+(2) 
+
+•  System Implementation costs vary by segment 
+•  Transition costs begin in year three (3) 
+
+3.3  Benefit Analysis Assumptions 
+The benefits are not realized until one year after the implementation compliance date.  The 
+
+ 
+
+Page 3 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+benefits are realized from years three (3) to year ten (10) and vary by segment. 
+4.0  Costs Overview 
+4.1  Summary 
+HIPAA systems implementation costs form the majority of costs associated with the HIPAA 
+Version 5010 proposed rule. The following table summarizes the cost categories and an 
+estimate of each category as a percentage of total costs incurred. The major cost item is the 
+testing costs—these costs on average are estimated to account for 60% to 70% of the total 
+costs that will be incurred. 
+
+Table 2. 
+
+Systems Implementation Cost Categories 
+
+ 
+ 
+ 
+
+Cost Category 
+
+Hardware Procurement 
+Software Costs 
+Transmission Costs 
+New Data Collection 
+Customized Software Development 
+Testing Costs 
+Training Costs 
+Transition Costs 
+Total 
+
+Percentage of 
+Total Costs 
+(Providers) 
+
+0% 
+15% 
+0% 
+0% 
+5% 
+60% 
+5% 
+15% 
+100% 
+
+Percentage of Total 
+
+Costs 
+
+(Health Plans) 
+
+0% 
+10% 
+0% 
+0% 
+2.5% 
+70% 
+2.5% 
+15% 
+100% 
+
+ 
+Each interview participant was asked to estimate the costs for Version 5010 implementation on 
+their respective organizations. Interview participants were able to provide an estimate based on 
+their experience in implementing Version 4010/4010A transactions. Interview participants 
+provided a historical estimate on the costs incurred for implementing Version 4010/4010A 
+transactions as well as their projections on what percentage of those costs would be incurred to 
+upgrade to Version 5010. The slate of interview participants estimated their organizations costs 
+to implement 5010 would be between 20% and 40% of the costs they incurred to implement 
+Version 4010/4010A in their respective organizations.  
+The following table summarizes the total estimated costs to move to Version 5010 across the 
+healthcare industry (excluding Clearinghouses) as a result of the proposed rule: 
+ 
+
+ 
+
+Page 4 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Table 3. 
+
+Total Estimated Version 5010 Costs for Healthcare Industry 
+
+ 
+
+Providers Costs 
+Health Plans Costs 
+Clearinghouses 
+1Healthcare Industry Costs 
+(Providers Costs + Health Plan 
+Costs).  Excludes pharmacies 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+ $1,666 
+ $3,852 
+$36
+
+$5,554
+
+ $3,333  
+ $7,682  
+$45 
+
+$11,060 
+
+ 
+ 
+ 
+
+4.2  Cost Analysis Methodology 
+4.2.1  Cost Calculations Overview 
+The next sections use the following pattern in providing the costs calculations. First the key 
+assumptions are stated. Second, the formula that uses the key assumptions is outlined. Finally, 
+the results from the calculations are documented in the summary section.  This section 4.2, and 
+the following section, 5.2, are explanatory only.  The actual data and formulas are provided in 
+Section 6 – the impact analysis by segment.  A list of all of the assumptions provided in these 
+methodology sections is provided in Attachment 1 and may be used as a side-by-side guide 
+while reviewing section 6.   
+
+4.2.2  Cost Calculations 
+The following assumptions are used in the cost calculations: 
+Cost Assumption 1: For each Healthcare segment, there was a determination of how many 
+entities would be impacted.  For example, The Healthcare providers segment is broken down 
+into three sub-segments: 400+ bed, 100-400 beds and < 100 beds. The costs were different for 
+each segment and sub-segment.  Costs varied by each sub-segment based on a variety of 
+factors such as current configuration of systems, complexity of testing with trading partners, and 
+transaction volumes.  
+Cost Assumption 2: Developed an estimate of Version 4010/4010A implementation costs 
+incurred by each type of healthcare organization or entity in the sub-segment. The estimate is 
+based on data gathered from primary research and secondary research. 
+Cost Assumption 3: The Version 5010 implementation costs were estimated to be 20% to 40% 
+of Version 4010/4010A implementation costs. This range was established by the interviewees 
+for each respective sub-segment. 
+The costs are calculated for each Healthcare sub segment based on the following formula:  
+Costs incurred by each sub segment = Cost Assumption 1 X Cost Assumption 2 X Cost 
+Assumption 3 
+The costs incurred by each sub-segment are aggregated to develop the total costs incurred by 
+the Healthcare industry.  Again, the detailed data for each formula is provided in Section 6, and 
+
+                                                 
+1 - This total costs does not include the estimates gathered for Clearinghouses. 
+
+ 
+
+Page 5 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Attachment 1 includes all of the assumptions, and a reference to the tables to which they 
+pertain. 
+5.0  Benefits Overview 
+5.1  Summary 
+A number of benefits were articulated during the interviews.  These benefits were evaluated, 
+prioritized and quantified where possible.  The quantifiable benefits fall into three major 
+categories and are discussed at length in the proposed rule.  They include: 
+
+I.  Operational savings due to better standards for claims transactions: The deficiencies in 
+
+Version 4010/4010A specifications have caused much of the industry to rely on 
+“companion guides” created by health plans to address areas of Version 4010/4010A 
+that are not specific enough or require work-around solutions to address business 
+needs. These companion guides are unique, plan-specific implementation instructions 
+for the situational use of certain fields and/or data elements that are needed to support 
+current business operations. Increased standardization will reduce the reliance on 
+“companion guides” and potentially increase automation of claims transactions 
+processing increasing the operational savings for healthcare industry.  
+
+II.  Cost savings due to an increase in EDI for claims transactions by more covered entities: 
+
+Providers and Clearinghouses/Vendors maintain multiple connections (a connection 
+represents a specific implementation specific to Health plan) for claims processing. 
+Increased standardization potentially reduces the incremental costs to implement 
+additional connections increasing the uptake in EDI transactions. The table below 
+reflects the estimated current and projected adoption rates for each of the HIPAA 
+standards. We assumed that acceptance rates would gradually increase in the first 5 
+years after implementation, through 2016, and after that time the rates would remain 
+level. 
+
+Table 4.  Current and projected adoption rates for use for 
+HIPAA standards across all covered entities-over 10 years 
+
+Standard 
+
+Current 
+
+Acceptance 
+
+Increase 
+(minimum) 
+
+Increase 
+(maximum) 
+
+2% 
+5% 
+10% 
+
+75% 
+60% 
+0% ** 
+
+837-claims 
+835-remittance advice 
+278-referral request & response 
+276/277-claims status request & 
+response 
+270/271-eligibility request and 
+response 
+834-enrollment/disenrollment 
+820-premium 
+** minimal use – while there is not zero percent uptake, the use of this transaction is so 
+minimal, it does not register on any scale;  therefore, we state its current acceptance 
+rate as negligible. 
+
+5% 
+10% 
+20% 
+
+20% 
+
+10% 
+
+10% 
+
+0% 
+0% 
+
+10% 
+
+10% 
+
+3% 
+2% 
+
+20% 
+
+0% 
+0% 
+
+ 
+
+ 
+
+Page 6 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+III.  Operational savings due to increased use of auxiliary (non-claims transactions such as 
+
+eligibility and referral requests and responses) transactions through EDI: Better 
+standardization for the auxiliary transactions will increase uptake in Electronic EDI for 
+these transactions increasing the operational benefits 
+The following table summarizes the Total benefits realized by the healthcare industry 
+because of the proposed rule: 
+
+Table 5. 
+
+Total Benefits realized by Healthcare Industry 
+
+ 
+ 
+ 
+
+Benefit Category 
+
+Providers 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Provider Benefits 
+Health Plans 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Health Plan Benefits 
+Healthcare Industry Benefits (Providers 
+Benefits + Health Plan Benefits) 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+ $2,289 
+
+ $382 
+
+ $7,452 
+
+ $10,124 
+
+ $6,173 
+
+ $1,149 
+
+$19,149 
+
+$26,471 
+
+ $1,561 
+
+ $4,176 
+
+ $135 
+
+ $5,339 
+
+ $7,036 
+
+$17,160
+
+ $338 
+
+ $13,885 
+
+ $18,400 
+
+$44,871 
+
+ 
+5.2  Benefit Analysis Methodology 
+5.2.1  Benefit Calculations Overview 
+The next sections use the following pattern in providing the benefits calculations. First the key 
+assumptions are stated. Second, the formula that uses the key assumptions is outlined. Finally, 
+the results from the calculations are documented in summary section.  Attachment 1 is a list of 
+all of the assumptions, and a reference to the tables to which they pertain within this document.   
+
+5.2.2  Operational savings due to better standards for claims transactions 
+The following assumptions are used in the calculations: 
+
+ 
+
+Page 7 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Benefit Assumption 1: Based on the data provided in a recent AHIP report2 the percentage of 
+pended claims was assumed to be 14% of total claims.  
+Benefit Assumption 2: Pended claims will be reduced by 0.28% (minimum) to 0.7% 
+(maximum). Using the research and interviews, it was assumed that the pended claim 
+percentage, currently 14% (Benefit Assumption 1), would be reduced through standardization.  
+Benefit Assumption 3: Reduced manual intervention will reduce the costs for providers by 
+$3.20 per call and for plans by $1.60 per call. Manual intervention is required to resolve pended 
+claims and both Healthcare providers and Health Plans incur these operational costs. On an 
+average, the following was assumed as the time spent and cost per minute and per call by the 
+customer service representatives to resolve the pended claims: 
+ 
+
+Table 6. 
+
+Time incurred to resolve Pended Claims 
+
+Time taken by a provider agent to process 
+manual intervention for a pended claim 
+Time taken by a plan claims processor to 
+process manual intervention for a pended 
+claim 
+
+Time 
+
+10 minutes 
+
+Cost Per 
+Minute 
+$0.32 
+
+Cost Per 
+
+Call 
+$3.20 
+
+5 minutes 
+
+$0.32 
+
+$1.60 
+
+ 
+Benefit Assumption 4:  Based on the AHIP report3 assumed the percentage of non auto-
+adjudicated claims is 29% of total claims.  
+Benefit Assumption 5: Non auto-adjudicated claims will be reduced by 1.45% (minimum) to 
+2.9% (maximum). Using the research and interviews, it was assumed that the non auto-
+adjudicated claims, currently 29% (Benefit Assumption 4), would be reduced through 
+standardization. 
+Benefit Assumption 6: Reduced manual intervention will reduce the costs for providers by 
+$2.88 per call and for plans by $2.40 per call. Manual intervention is required to resolve the non 
+auto-adjudicated claims—Healthcare providers and Health Plans both incur these operational 
+costs. On an average, the following was assumed as the time spent and cost per minute and 
+per call by the by customer service representatives to resolve the Non Auto-Adjudicated claims: 
+
+Table 7. 
+
+Time incurred to resolve Non Auto-Adjudicated Claims 
+
+ 
+
+ 
+
+Time taken by a provider billing agent to 
+process non Auto adjudicated claims 
+Time taken by a plan claims processor to 
+process non Auto adjudicated claims 
+
+Time 
+
+6 minutes 
+
+5 minutes 
+
+Cost Per 
+Minute 
+$0.48 
+
+Cost Per 
+
+Call 
+$2.88 
+
+$0.48 
+
+$2.4 
+
+ 
+                                                 
+2 AHIP Report: An Updated Survey of Health Care Claims Receipt and Processing Times, May 2006 is 
+available at http://www.ahipresearch.org/pdfs/PromptPayFinalDraft.pdf  
+3 AHIP Report: An Updated Survey of Health Care Claims Receipt and Processing Times, May 2006 is 
+available at http://www.ahipresearch.org/pdfs/PromptPayFinalDraft.pdf  
+
+ 
+
+Page 8 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+The Operational savings due to better standards are calculated based on the following formula:  
+Benefits =Σ (Benefit Assumption 2 X Benefit Assumption 3 X Total claim transactions for each 
+year) + Σ  (Benefit Assumption 5 X Benefit Assumption 6 X Total claim transactions for each 
+year) 
+
+5.2.3  Cost savings due to an increase in EDI for claims transactions by more 
+
+covered entities 
+
+The following assumptions are used in the calculations: 
+Benefit Assumption 7: Cost savings for Healthcare Provider segment is $0.55 and cost 
+savings for Health Plan is $0.18. According to AHIP report1 the cost savings from using an 
+electronic transaction versus using paper transaction is $0.73.  This estimate is used as the 
+basis for cost savings due to increase in EDI for claims transactions and $0.55 cost savings is 
+allocated for Healthcare Provider and $0.18 cost savings is allocated for Health Plan 
+Benefit Assumption 8: The uptake of the electronic claim transactions based on proposed rule 
+is assumed between 2% (minimum) and 5% (maximum) 
+The cost savings due to an increase in EDI are calculated based on the following formula:  
+Benefits = Σ (Benefit Assumption 7 X Benefit Assumption 8 X Total claim transactions for each 
+year) 
+
+5.2.4  Operational savings due to increased use of auxiliary transactions 
+
+through EDI 
+
+The following assumptions are used in the calculations: 
+Benefit Assumption 9: The following uptake of auxiliary electronic claim transactions is 
+assumed: 
+•  278 (Referral request & response) between 10% (minimum) and 20% (maximum) 
+•  276/277 (Claims status request & response) between 10% (minimum) and 20% (maximum) 
+•  270/271 (Eligibility request and response) between 10% (minimum) and 20% (maximum) 
+Benefit Assumption 10: Reduced manual intervention will reduce the costs for providers and 
+plans by the amounts noted below for calls required to get additional information to support 
+claim processing.  On average, the following is the time spent by customer service 
+representatives to get additional information: 
+
+Table 8.  Healthcare Providers - Time incurred to get additional 
+
+information to support Claims Processing 
+
+ 
+
+Time taken by a provider’s office staff 
+member to find out Eligibility information 
+Time taken by a provider agent to find out 
+the status of the claim  
+Time taken by a provider’s office staff 
+member to find out the status of a referral  
+
+Time 
+
+5 minutes 
+
+12 minutes 
+
+10 minutes 
+
+Cost Per 
+Minute 
+$0.32 
+
+Cost Per 
+
+Call 
+$1.60 
+
+$0.32 
+
+$0.32 
+
+$3.84 
+
+$3.20 
+
+ 
+
+Page 9 
+
+ 
+ 
+ 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+
+Table 9.  Health  Plans - Time incurred to get additional information to 
+
+support Claims Processing 
+
+ 
+
+Time taken by a plan customer service 
+representative to give eligibility information 
+Time taken by a plan customer service 
+representative to give status of the claim 
+Time taken by a plan Utilization Review 
+representative to give status of a referral 
+
+Time 
+
+5 minutes 
+
+8 minutes 
+
+8 minutes 
+
+Cost Per 
+Minute 
+$0.32 
+
+Cost Per 
+
+Call 
+$1.60 
+
+$0.32 
+
+$0.32 
+
+$2.56 
+
+$2.56 
+
+Impact Analysis by Segment 
+
+ 
+The operational savings due to increased use of auxiliary transactions through EDI are 
+calculated based on the following formula 
+Benefits = Σ  (Benefit Assumption 9 X Benefit Assumption 10 X Total claim transactions for 
+each year) 
+6.0 
+6.1  How to use this section 
+The costs and benefits for each industry sector are provided here, and are identical to the cost 
+benefit analysis found in the regulation.  Each category lists the assumptions and provides the 
+actual figures found in the tables in the proposed rule.  The calculation is then provided, 
+showing how the assumptions were used.  Attachment 1 lists all of the assumptions and 
+references the relevant tables which contain the data.  It may be used as a side companion to 
+this section. 
+6.2  Hospitals 
+6.2.1  Cost Calculations Overview 
+Cost Assumption 1: The following is the Hospital breakdown used in the calculations. 
+
+Table 10.  Hospitals Size Breakdown 
+
+Hospital Size 
+
+400+ Bed 
+100-400 Bed 
+Fewer than 100 Bed 
+
+Total 
+Source: AHA Hospital Statistics, 2007 edition 
+
+Total 
+521 
+2,486 
+2,757 
+5,764 
+
+ 
+Cost Assumption 2: Average costs incurred by Hospitals in implementing Version 4010/4010A. 
+The estimate is based on data gathered from primary research and secondary research. 
+
+ 
+
+Page 10 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Table 11.  Hospital Providers – 4010/4010A implementation costs 
+
+Hospital Size 
+
+400+ Bed 
+100-400 Bed 
+Fewer than 100 Bed 
+
+Costs (in 
+Millions) 
+$1.900 
+$0.950 
+$0.475 
+
+ 
+ 
+ 
+
+ 
+
+Cost Assumption 3: The costs incurred for system implementations for Version 5010 is 20% to 
+40% of the total costs of implementing Version 4010/4010A. 
+The costs incurred by this Healthcare segment can be computed using the formula: Cost 
+Assumption 1 X Cost Assumption 2 X Cost Assumption 3.   
+For example, in the case of the sub-segment of 400+ bed hospitals the calculation was derived 
+by multiplying 521 X 1.9 X .20 to calculate the low end of the cost range for this segment as 
+$198 million.  The high end of the cost range would be calculated the same way with the 
+exception that Cost Assumption 3 would use the 40%, or .4, as the multiplier resulting in a total 
+of $396 million in estimated costs.  
+
+6.2.2  Benefit Calculations Overview 
+
+6.2.2.1  Operational savings due to better standards for claims transactions 
+Benefit Assumption 11: The following table outlines the total transactions by year.  This 
+information can be found in Table 2 on page 49762 in the proposed rule.   
+
+Table 12.  Projected 4Hospital Claims 
+
+2012 
+861 
+1,121 
+
+2013 
+896 
+1,165 
+
+2018 
+1,090 
+1,418 
+
+2014 
+932 
+1,212 
+
+2015 
+969 
+1,260 
+
+2017 
+1,048 
+1,363 
+
+2016 
+1,008 
+1,311 
+
+2019 
+(in Millions) 
+1,134 
+Minimum 
+Maximum 
+1,475 
+Source:  Claims Attachments Regulation: Federal Register 45 CFR Part 162, Published: September 23, 
+2005. The claims are extrapolated to increase by 4% per year 
+Note: The benefits are not realized until post implementation and hence benefits for years 2010 and 2011 
+are not calculated 
+ 
+Benefits = Σ (Benefit Assumption 2 X Benefit Assumption 3 X Benefit Assumption 11) + Σ 
+(Benefit Assumption 5 X Benefit Assumption 6 X Benefit Assumption 11). 
+Please note, to use these formulas, several iterations of the calculations will have to be made in 
+order to calculate the year by year cost or benefit, and then to sum those figures together for a 
+total ten year cost benefit picture. 
+
+                                                 
+4 Hospitals claims estimates included full breadth of institutional providers including entities beyond the 
+traditional hospitals such as Long Term Care facilities. 
+
+ 
+
+Page 11 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+6.2.2.2  Cost savings due to an increase in EDI for claims transactions by more 
+
+covered entities 
+
+Benefits = Σ (Benefit Assumption 7 X Benefit Assumption 8 X Benefit Assumption 11)  
+For the purpose of providing an example of the benefits calculation, this could be calculated by 
+multiplying $0.55 (Assumed cost reduction for use of EDI for claims transactions) X 2% 
+(minimum uptake in % of electronic claims) X 861 million (estimated minimum number of claims 
+for segment in 2012).  This same logic could be carried through for each subsequent year 
+based on the estimated claims for those years.  Also, the maximum could be calculated both by 
+using the high end of the uptake % as well as the maximum number of claims by year. 
+
+6.2.2.3  Operational savings due to increased use of auxiliary transactions 
+
+through EDI 
+
+Benefits = Σ  (Benefit Assumption 9 X Benefit Assumption 10 X Benefit Assumption 11) 
+
+6.2.3  Summary 
+The following table outlines the summary of costs and benefits for the hospital segment 
+
+Table 13.  Hospital Cost Benefit Analysis Summary 
+
+ 
+
+Costs 
+Total Costs  
+Benefits 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Total Benefits 
+Net Benefits 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+$932 
+
+$403 
+
+$66 
+
+$1,314 
+
+$1,783 
+$851 
+
+$1,864 
+
+$1,096 
+
+$219 
+
+$3,414 
+
+$4,729 
+$2,865 
+
+ 
+6.3  Physicians and Other Providers 
+6.3.1  Cost Calculations Overview 
+Cost Assumption 1: The following is the Physicians and Other Provider breakdown used in the 
+calculations 
+
+Table 14.  Physicians and Other Providers Breakdown 
+
+Physician and Other Provider 
+
+Practice Size 
+
+100 + Physicians 
+
+Total 
+393 
+
+ 
+
+Page 12 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Physician and Other Provider 
+
+Practice Size 
+
+50 - 100 Physicians 
+3 - 49 Physicians 
+1 - 2 Physicians 
+Total 
+Source: MGMA 
+
+Total 
+590 
+
+38,961 
+194,278 
+234,222 
+
+ 
+ 
+ 
+
+ 
+Cost Assumption 2: Average costs incurred by Physicians and Other Providers in implementing 
+Version 4010/4010A.  The estimate is based on data gathered from primary research and 
+secondary research. 
+ 
+
+Table 15.  Physicians and Other Providers – 4010/4010A implementation costs 
+
+Physician and Other Provider 
+
+Practice Size 
+
+100 + Physicians 
+50 - 100 Physicians 
+3 - 49 Physicians 
+1 - 2 Physicians 
+
+Costs (in 
+Millions) 
+$0.900 
+$0.450 
+$0.015 
+$0.005 
+
+ 
+
+Cost Assumption 3: The costs incurred for system implementations for Version 5010 is 20% to 
+40% of the total costs of implementing Version 4010/4010A 
+The costs incurred by this Healthcare segment can be computed using the formula: Cost 
+Assumption 1 X Cost Assumption 2 X Cost Assumption 3 
+
+6.3.2  Benefit Calculations Overview 
+
+6.3.2.1  Operational savings due to better standards for claims transactions 
+Benefit Assumption 12: The following table outlines the total transactions by year for 
+physicians 
+
+Table 16.  Projected Physician Claims 
+
+2012 
+3,446 
+4,480 
+
+2013 
+3,583 
+4,659 
+
+2017 
+4,192 
+5,450 
+
+2014 
+3,727 
+4,845 
+
+2015 
+3,876 
+5,039 
+
+2019 
+(in Millions) 
+4,534 
+Minimum 
+Maximum 
+5,895 
+Source:  Claims Attachments Regulation: Federal Register 45 CFR Part 162, Published: September 23, 
+2005. The claims are extrapolated to increase by 4% per year 
+Note: The benefits are not realized until post implementation and hence benefits for years 2010 and 2011 
+are not calculated 
+ 
+
+2016 
+4,031 
+5,241 
+
+2018 
+4,360 
+5,668 
+
+ 
+
+Page 13 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Benefits = Σ (Benefit Assumption 2 X Benefit Assumption 3 X Benefit Assumption 12) + Σ 
+(Benefit Assumption 5 X Benefit Assumption 6 X Benefit Assumption 12) 
+
+6.3.2.2  Cost savings due to an increase in EDI for claims transactions by more 
+
+covered entities 
+
+Benefits = Σ (Benefit Assumption 7 X Benefit Assumption 8 X Benefit Assumption 12)  
+
+6.3.2.3  Operational savings due to increased use of auxiliary transactions 
+
+through EDI 
+
+Benefits = Σ  (Benefit Assumption 9 X Benefit Assumption 10 X Benefit Assumption 12) 
+
+6.3.3  Summary 
+The following table outlines the summary of costs and benefits for Physician and Other 
+Providers segment 
+
+Table 17.  Physician and Other Providers Cost Benefit Analysis Summary 
+
+ 
+
+Costs 
+Total Costs  
+Benefits 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Total Benefits 
+Net Benefits 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+$435 
+
+$870 
+
+$1,612 
+
+$270 
+
+$5,251 
+
+$7,133 
+$6,698 
+
+$4,378 
+
+$874 
+
+$13,562 
+
+$18,814 
+$17,944 
+
+6.4  Dentists 
+6.4.1  Cost Calculations Overview 
+Cost Assumption 1: The following is the Dentist breakdown used in the calculations 
+
+Table 18.  Dentists Breakdown 
+
+Dentist Practice Size 
+
+General DDS 
+Specialists DDS 
+Total 
+Source: ADA 
+
+Total 
+138,420 
+36,588 
+175,008 
+
+ 
+
+ 
+
+Page 14 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Cost Assumption 2: Average costs incurred by Dentists in implementing 4010/4010A standard. 
+The estimate is based on data gathered from primary research and secondary research 
+
+Table 19.  Dentists – 4010/4010A implementation costs 
+
+ 
+ 
+ 
+
+Dentist Practice Size 
+
+100 + Physicians 
+50 - 100 Physicians 
+
+Costs (in 
+Millions) 
+$0.010 
+$0.003 
+
+ 
+
+Cost Assumption 3: The costs incurred for system implementations for Version 5010 is 20% to 
+40% of the total costs of implementing Version 4010/4010A 
+The costs incurred by this Healthcare segment can be computed using the formula: Cost 
+Assumption 1 X Cost Assumption 2 X Cost Assumption 3 
+
+6.4.2  Benefit Calculations Overview 
+
+6.4.2.1  Operational savings due to better standards for claims transactions 
+Benefit Assumption 13: The following table outlines the total transactions by year for dentists 
+
+Table 20.  Projected Dentists Claims 
+
+2015 
+657 
+802 
+
+2017 
+710 
+868 
+
+2018 
+738 
+903 
+
+2012 
+584 
+713 
+
+2013 
+607 
+742 
+
+2016 
+683 
+834 
+
+2014 
+631 
+772 
+
+2019 
+(in Millions) 
+768 
+Minimum 
+Maximum 
+939 
+Source:  Claims Attachments Regulation: Federal Register 45 CFR Part 162, Published: September 23, 
+2005. The claims are extrapolated to increase by 4% per year 
+Note: The benefits are not realized until post implementation and hence benefits for years 2010 and 2011 
+are not calculated 
+ 
+Benefits = Σ (Benefit Assumption 2 X Benefit Assumption 3 X Benefit Assumption 13) + Σ 
+(Benefit Assumption 5 X Benefit Assumption 6 X Benefit Assumption 13) 
+
+6.4.2.2  Cost savings due to an increase in EDI for claims transactions by more 
+
+covered entities 
+
+Benefits = Σ (Benefit Assumption 7 X Benefit Assumption 8 X Benefit Assumption 13)  
+
+6.4.2.3  Operational savings due to increased use of auxiliary transactions 
+
+through EDI 
+
+Benefits = Σ  (Benefit Assumption 9 X Benefit Assumption 10 X Benefit Assumption 13) 
+
+6.4.3  Summary 
+The following table outlines the summary of costs and benefits for Dentist segment 
+
+ 
+
+Page 15 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Table 21.  Dentists Cost Benefit Analysis Summary 
+
+ 
+ 
+ 
+
+ 
+
+Costs 
+Total Costs  
+Benefits 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Total Benefits 
+Net Benefits 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+$299 
+
+$274 
+
+$45 
+
+$889 
+
+$1,208 
+$909 
+
+$598 
+
+$699 
+
+$56 
+
+$2,173 
+
+$2,928 
+$2,330 
+
+6.5  Pharmacy  
+6.5.1  Overview 
+As stated in the proposed rule on page 49770, Pharmacies are using two of the Version 
+4010/4010A standards, but largely use Version 5.1 for their EDI transactions.  We are proposing 
+to adopt Version D.0, which will directly affect the pharmacy sector.  The impact analysis for 
+pharmacies is included in the D.0 portion of the proposed rule so we did not provide analytical 
+information in the Version 5010 section, and therefore do not provide any additional 
+assumptions here.   
+6.6  Health Plans 
+6.6.1  Cost Calculations Overview 
+Cost Assumption 1: The following is the Health Plan breakdown used in the calculations. 
+
+Table 22.  Health Plan Breakdown 
+
+Health Plan Category  
+
+National and Super regional 
+Large 
+Mid-sized 
+Small 
+
+Total 
+12 
+75 
+325 
+3,537 
+3,949 
+
+Total 
+Source: Estimated based on industry research and input 
+
+ 
+Cost Assumption 2: Average costs incurred by Health Plans in implementing 4010/4010A 
+standard. The estimate is based on data gathered from primary research and secondary 
+research. 
+
+ 
+
+Page 16 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Table 23.  Health Plans – 4010/4010A implementation costs 
+
+Health Plan Category 
+
+National and Super regional 
+Large 
+Mid-sized 
+Small 
+
+Costs (in 
+Millions) 
+
+$27.5 
+$15.0 
+$9.1 
+$3.9 
+
+ 
+ 
+ 
+
+ 
+Cost Assumption 3: The costs incurred for system implementations for Version 5010 are 20% to 
+40% of the total costs of implementing Version 4010/4010A. 
+The costs incurred by this Health care segment can be computed using the formula: Cost 
+Assumption 1 X Cost Assumption 2 X Cost Assumption 3. 
+
+6.6.2  Benefit Calculations Overview 
+
+6.6.2.1  Operational savings due to better standards for claims transactions 
+Benefit Assumption 14: The following table outlines the total transactions by year. 
+
+2013 
+4,479 
+5,824 
+
+2014 
+4,658 
+6,057 
+
+2015 
+4,845 
+6,300 
+
+2017 
+5,240 
+6,814 
+
+2016 
+5,039 
+6,552 
+
+Table 24.  Projected Claims (Hospitals, Physicians, and Dentists) 
+2012 
+4,307 
+5,600 
+
+2019 
+(in Millions) 
+5,668 
+Minimum 
+Maximum 
+7,370 
+Source:  Claims Attachments Regulation: Federal Register 45 CFR Part 162, Published: September 23, 
+2005. The claims are extrapolated to increase by 4% per year 
+Note: The benefits are not realized until post implementation and hence benefits for years 2010 and 2011 
+are not calculated 
+ 
+Benefit Assumption 15: These claims are served by both Private and Government Health 
+Plans. The following table outlines the benefit allocations for Private and Government Health 
+Plans. 
+
+2018 
+5,450 
+7,086 
+
+Table 25.  Health Plan Benefit Allocation 
+
+Health Plan Category 
+
+Benefit 
+
+Allocation 
+
+Private Health Plans 
+Government Health Plans 
+Source: Harvard - JFK School of Public Policy - "Health 
+care delivery covered lives - Summary of Findings" 
+
+82% 
+18% 
+
+ 
+Total Payer Benefits = Σ (Benefit Assumption 2 X Benefit Assumption 3 X Benefit Assumption 
+14 X Benefit Assumption 15) + Σ (Benefit Assumption 5 X Benefit Assumption 6 X Benefit 
+Assumption 14 X Benefit Assumption 15) 
+
+ 
+
+Page 17 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+6.6.2.2  Cost savings due to an increase in EDI for claims transactions by more 
+
+covered entities 
+
+Benefits = Σ (Benefit Assumption 7 X Benefit Assumption 8 X Benefit Assumption 14 X Benefit 
+Assumption 15)  
+
+6.6.2.3  Operational savings due to increased use of auxiliary transactions 
+
+through EDI 
+
+Benefits = Σ  (Benefit Assumption 9 X Benefit Assumption 10 X Benefit Assumption 14 X 
+Benefit Assumption 15) 
+
+6.6.3  Summary 
+The following table outlines the summary of costs and benefits for Health Plans segment 
+
+Table 26.  Health Plans Cost Benefit Analysis Summary (private plans) 
+
+ 
+
+Costs 
+Total Costs  
+Benefits 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Total Benefits 
+Net Benefits 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+$3,604 
+
+$7,209 
+
+$1,283 
+
+$111 
+
+$4,386 
+
+$5,780 
+$2,175 
+
+$3,430 
+
+$276 
+
+$11,406 
+
+$15,112 
+$7,903 
+
+6.7  Government Plans and Programs 
+6.7.1  Cost Calculations Overview 
+The costs incurred by this Healthcare segment can be computed using the formula: (Cost 
+Assumption 1 X Cost Assumption 2 X Cost Assumption 3) + (Cost Assumption 4) + (Cost 
+Assumption 5). 
+
+6.7.1.1  Medicaid Cost Calculations Overview 
+Cost Assumption 1: The following is the  breakdown for Medicaid agencies used in the 
+calculations 
+
+Table 27.  Medicaid Breakdown 
+
+Hospital Plan Category 
+
+Medicaid 
+
+Total 
+51 
+
+ 
+
+Page 18 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Hospital Plan Category 
+
+Total 
+Source: CMS 
+
+Total 
+51 
+
+ 
+ 
+ 
+
+ 
+Cost Assumption 2: Average costs incurred by Medicaid plans in implementing the Version 
+4010/4010A.  The estimate is based on data gathered from primary research. 
+ 
+
+Table 28.  Medicaid – 4010/4010A implementation costs 
+
+Health Plan Category 
+
+Medicaid 
+
+Costs (in 
+Millions) 
+
+$18.8 
+
+ 
+Cost Assumption 3: The costs incurred for Medicaid system implementations for Version  5010 
+is 20% to 40% of the total costs of implementing Version 4010/4010A 
+
+6.7.1.2  Medicare Cost Calculations Overview 
+Cost Assumption 4: The following table outlines average costs incurred by Medicare to 
+implement 5010 proposed rule. The estimate is based on data gathered from primary research. 
+
+Table 29.  Medicare – 5010 implementation costs 
+
+Health Plan Category 
+
+Medicare 
+
+Minimum Costs 
+
+(in Millions) 
+
+Maximum Costs 
+
+(in Millions) 
+
+$10 
+
+$25 
+
+ 
+
+6.7.1.3  Other Government Programs Calculations Overview 
+Cost Assumption 5: The following table outlines average costs incurred by Other Government 
+Programs (DoD, VA etc.) to implement the 5010 proposed rule. The estimate is based on data 
+gathered from primary research and secondary research. 
+
+Table 30.  Other Government Programs – 5010 implementation costs 
+
+Other Government Programs 
+
+ 
+
+Minimum Costs 
+
+(in Millions) 
+
+Maximum Costs 
+
+(in Millions) 
+
+$49.5 
+
+$99 
+
+6.7.2  Benefit Calculations Overview 
+
+6.7.2.1  Operational savings due to better standards for claims transactions 
+Total Government Payer Benefits = Σ (Benefit Assumption 2 X Benefit Assumption 3 X 
+Benefit Assumption 14 X Benefit Assumption 15) + Σ (Benefit Assumption 5 X Benefit 
+Assumption 6 X Benefit Assumption 14 X Benefit Assumption 15) 
+
+ 
+
+Page 19 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+6.7.2.2  Cost savings due to an increase in EDI for claims transactions by more 
+
+covered entities 
+
+Benefits = Σ (Benefit Assumption 7 X Benefit Assumption 8 X Benefit Assumption 14 X Benefit 
+Assumption 15)  
+
+6.7.2.3  Operational savings due to increased use of auxiliary transactions 
+
+through EDI 
+
+Benefits = Σ  (Benefit Assumption 9 X Benefit Assumption 10 X Benefit Assumption 14 X 
+Benefit Assumption 15) 
+
+6.7.3  Summary 
+The following table outlines the summary of costs and benefits for the Health Plans segment. 
+
+Table 31.  Government health plans Cost Benefit Analysis Summary 
+
+ 
+
+Costs 
+Total Costs  
+Benefits 
+Operational savings due to better standards 
+for claims transactions 
+Cost savings due to an increase in EDI for 
+claims transactions by more covered entities 
+Operational savings due to increased use of 
+auxiliary transactions through EDI 
+Total Benefits 
+Net Benefits 
+
+Minimum 
+(Millions $) 
+
+Maximum 
+(Millions $) 
+
+$252 
+
+$279 
+
+$24 
+
+$953 
+
+$1,256 
+$1,004 
+
+$481 
+
+$746 
+
+$60 
+
+$2,480 
+
+$3,286 
+$2,805 
+
+6.8  Clearinghouses 
+6.8.1  Cost Calculations Overview 
+Cost Assumption 6: The following table outlines total costs incurred by clearinghouses for 
+implementing 4010/4010A standard 
+
+Table 32.  Clearinghouses 4010/4010A costs 
+
+ 
+
+Total (in 
+Millions) 
+
+Costs 
+Source: Estimated based on industry research and input 
+
+137 
+
+ 
+Cost Assumption 3: The costs incurred for system implementations for Version 5010 is 20% to 
+40% of the total costs of implementing Version 4010/4010A 
+
+ 
+
+Page 20 
+
+ 
+ 
+ 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+The costs incurred by this Healthcare segment can be computed using the formula: Cost 
+Assumption 6 X Cost Assumption 3 
+
+6.8.2  Benefit Calculations Overview 
+The clearinghouse segment does not expect to receive any benefits from the transition to 
+Version 5010 and subsequently none was accounted for in the cost-benefit model.  
+
+6.8.3  Summary 
+The following table outlines the summary of costs and benefits for Health Plans segment 
+
+Table 33.  Clearinghouses and Vendors Cost Analysis Summary 
+
+Clearinghouses 
+
+ 
+
+Minimum Costs 
+
+(in Millions) 
+
+Maximum Costs 
+
+(in Millions) 
+
+$37 
+
+$45 
+
+6.9  Vendors 
+Per the explanation set forth in the proposed rule Vendors have not provided data on the 
+financial or business impact of 5010, and this regulation does not include the costs and benefits 
+for the vendor industry. 
+7.0  Cost/Benefit Summary 
+In summary, the overall cost-benefits explained in this document are all included in Table 27a 
+and Table 27b on pages 49784 - 49789 of the proposed rule in the Federal Register.  The 
+following tables have been provided to specifically isolate the minimum and maximum costs, 
+benefits, and net impact for the Version 5010 contribution of the overall rule.  As a reminder, this 
+supplement does not include any data for Version D.0 or Version 3.0, because such data was 
+not available through the industry.   
+
+ 
+
+Page 21 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Table 34.  Version 5010 Costs Schedule by sub segment (minimum) in Millions 
+
+ 
+ 
+ 
+
+$105  
+
+$17  
+
+$2,362  
+
+Industry 
+
+$396  
+$185  
+$127  
+$1,532  
+
+2010 
+5010 - Implementation costs 
+Hospitals  
+Physicians 
+Dentists  
+Health Plans 
+Government 
+Health Plans 
+Clearinghouses 
+Total 
+Implementation 
+Costs 
+5010 Transition costs 
+Hospitals  
+Physicians 
+Dentists  
+Health Plans 
+Government 
+Health Plans 
+Clearinghouses 
+Total Transition 
+Costs 
+Total Costs  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$2,362  
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+Total 
+
+$396  
+$185  
+$127  
+$1,532 
+
+$105  
+
+$16  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$2,361  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$140  
+$65  
+$45  
+$541  
+
+$37  
+
+$3  
+
+$831  
+
+$2,361  
+
+$831  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$792 
+$370 
+$254 
+$3,064 
+
+$210 
+
+$33 
+
+$4,723  
+
+$140 
+$65 
+$45 
+$541 
+
+$37 
+
+$3 
+
+$831  
+
+$5,554  
+
+ 
+
+Page 22 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+
+Industry 
+
+2010 
+
+Table 35.  5010 Costs Schedule by sub segment (maximum) in Millions 
+2011 
+
+2017 
+
+2013 
+
+2016 
+
+2015 
+
+2014 
+
+2012 
+
+$21  
+
+$201  
+
+$4,702  
+
+$792  
+$370  
+$254  
+$3,064  
+
+5010 - Implementation costs 
+Hospitals  
+Physicians 
+Dentists  
+Health Plans 
+Government 
+Health Plans 
+Clearinghouses 
+Total 
+Implementation 
+Costs 
+5010 Transition costs 
+Hospitals  
+$0  
+$0  
+Physicians 
+$0  
+Dentists  
+Health Plans 
+$0  
+Government 
+Health Plans 
+Clearinghouses 
+Total Transition 
+Costs 
+Total Costs  
+ 
+
+$4,702  
+
+$0  
+
+$0  
+
+$0  
+
+$792  
+$370  
+$254  
+$3,064  
+
+$201  
+
+$20  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$4,701  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$280  
+$131  
+$90  
+$1,081  
+
+$71  
+
+$4  
+
+$1,657  
+
+$4,701  
+
+$1,657  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+ 
+ 
+ 
+
+2018 
+
+2019 
+
+Total 
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$1,584 
+$740 
+$508 
+$6,128 
+
+$402 
+
+$41 
+
+$9,403  
+
+$280 
+$131 
+$90 
+$1,081 
+
+$71 
+
+$4 
+
+$1,657  
+
+$11,060  
+
+ 
+
+Page 23 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Industry 
+
+2010  2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+Total 
+
+Table 36.  5010 Benefits Schedule by sub segment (minimum) in Millions 
+
+ 
+ 
+ 
+
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$418  
+
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$451  
+
+$0  
+$435  
+
+$49 
+$197 
+$33 
+
+$169 
+
+$176 
+
+$183 
+
+$47 
+$189 
+$32 
+
+$44 
+$175 
+$30 
+
+5010 Operational Savings – Better Standards 
+$46 
+Hospitals  
+Physicians 
+$182 
+Dentists  
+$31 
+Health Plans and 
+Government 
+Health Plans 
+Clearinghouses 
+Total 
+5010 Cost Savings – Increase in Transactions 
+$4 
+Hospitals  
+Physicians 
+$16 
+Dentists  
+$3 
+Health Plans and 
+Government 
+Health Plans 
+$0  
+Clearinghouses 
+Total 
+$66  
+5010 Operational Savings – increase in auxiliary claim transactions 
+$165 
+Hospitals  
+Physicians 
+$658 
+Dentists  
+$111 
+Health Plans and 
+Government 
+Health Plans 
+Clearinghouses 
+
+$74 
+$294 
+$50 
+
+$117 
+$467 
+$79 
+
+$35 
+$139 
+$24 
+
+$141 
+
+$299 
+
+$474 
+
+$0  
+
+$0  
+
+$0  
+
+$2 
+$8 
+$1 
+
+$9 
+
+$6 
+$24 
+$4 
+
+$8 
+$34 
+$6 
+
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$13 
+
+$17 
+
+$18 
+
+$669 
+
+$0  
+
+$0  
+$20  
+
+$0  
+$36  
+
+$0  
+$51  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+ 
+
+Page 24 
+
+$191 
+
+$0  
+$470  
+
+$51 
+$205 
+$35 
+
+$198 
+
+$0  
+$489  
+
+$11 
+$44 
+$7 
+
+$18 
+
+$0  
+$80  
+
+$217 
+$870 
+$147 
+
+$885 
+
+$0  
+
+$53 
+$213 
+$36 
+
+$206 
+
+$0  
+$508  
+
+$11 
+$46 
+$8 
+
+$19 
+
+$0  
+$84  
+
+$226 
+$904 
+$153 
+
+$920 
+
+$0  
+
+$55 
+$221 
+$38 
+
+$214 
+
+$0  
+$528  
+
+$12 
+$48 
+$8 
+
+$20 
+
+$0  
+$88  
+
+$235 
+$941 
+$159 
+
+$957 
+
+$0  
+
+$58 
+$230 
+$39 
+
+$223 
+
+$0  
+$550  
+
+$12 
+$50 
+$8 
+
+$21 
+
+$0  
+$91  
+
+$245 
+$978 
+$166 
+
+$995 
+
+$0  
+
+$403 
+$1,612 
+$274 
+
+$1,560.0 
+
+$0  
+$3,849  
+
+$66 
+$270 
+$45 
+
+$135 
+
+$0  
+$516  
+
+$1,314 
+$5,251 
+$889 
+
+$5,340 
+
+$0  
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Industry 
+
+Total 
+Total Benefits  
+ 
+
+2010  2011 
+$0  
+$0  
+
+$0  
+$0  
+
+2012 
+$339  
+$777  
+
+2014 
+2013 
+$1,137  
+$717  
+$1,188  $1,639  
+
+2015 
+$1,603  
+$2,139  
+
+2016 
+$2,119  
+$2,688  
+
+2017 
+$2,203  
+$2,795  
+
+2018 
+$2,292  
+$2,908  
+
+2019 
+$2,384  
+$3,025  
+
+Total 
+$12,794  
+$17,159  
+
+Industry 
+
+2010  2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+Total 
+
+Table 37.  5010 Benefits Schedule by sub segment (maximum) in Millions 
+
+$0  
+
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$471 
+
+$490 
+
+$0  
+
+$0  
+
+$453 
+
+$119 
+$475 
+$76 
+
+$124 
+$494 
+$79 
+
+$129 
+$514 
+$82 
+
+$0  
+$1,123   $1,168   $1,215  
+
+5010 Operational Savings – Better Standards 
+Hospitals  
+Physicians 
+Dentists  
+Health Plans and 
+Government 
+Health Plans 
+Clearinghouses 
+Total 
+5010 Cost Savings – Increase in Transactions 
+Hospitals  
+$13 
+$51 
+Physicians 
+Dentists  
+$3 
+Health Plans and 
+Government 
+Health Plans 
+Clearinghouses 
+Total 
+5010 Operational Savings – increase in auxiliary claim transactions 
+Hospitals  
+Physicians 
+
+$303 
+$1,123.0 
+
+$0  
+
+$0  
+
+$24 
+
+$20 
+$80 
+$5 
+
+$43 
+
+$6 
+$25 
+$2 
+
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+$100  
+
+$0  
+$148  
+
+$90 
+$361 
+
+$191 
+$765 
+
+$0  
+$57  
+
+$33 
+
+$134 
+$535 
+$85 
+
+$510 
+
+$0  
+$1,264  
+
+$28 
+$110 
+$7 
+
+$44 
+
+$0  
+$189  
+
+$428 
+$1,711.0 
+
+$139 
+$556 
+$89 
+
+$530 
+
+$145 
+$578 
+$92 
+
+$551 
+
+$150 
+$601 
+$96 
+
+$573 
+
+$156 
+$625 
+$100 
+
+$596 
+
+$1,096 
+$4,378 
+$699 
+
+$4,174 
+
+$0  
+$1,314  
+
+$0  
+$1,366  
+
+$0  
+$1,420  
+
+$0  
+$1,477  
+
+$0  
+$10,347  
+
+$36 
+$143 
+$9 
+
+$46 
+
+$0  
+$234  
+
+$37 
+$149 
+$10 
+
+$48 
+
+$0  
+$244  
+
+$39 
+$155 
+$10 
+
+$50 
+
+$0  
+$254  
+
+$40 
+$161 
+$10 
+
+$52 
+
+$0  
+$263  
+
+$219 
+$874 
+$56 
+
+$340 
+
+$0  
+$1,489  
+
+$566 
+$2,261.0 
+
+$588 
+$2,352.0 
+
+$612 
+$2,446.0 
+
+$636 
+$2,543.0 
+
+$3,414 
+$13,562.0 
+
+ 
+
+Page 25 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Industry 
+
+Dentists  
+Health Plans and 
+Government 
+Health Plans 
+Clearinghouses 
+Total 
+Total Benefits 
+ 
+
+2010  2011 
+$0  
+
+$0  
+
+2012 
+$58 
+
+2013 
+$122 
+
+2014 
+
+2015 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+Total 
+
+$193 
+
+$272 
+
+$360 
+
+$374 
+
+$389 
+
+$405 
+
+$2,173 
+
+$0  
+
+$0  
+
+$367 
+
+$777 
+
+$1,233.0 
+
+$1,740.0 
+
+$2,300.0 
+
+$2,392.0 
+
+$2,488.0 
+
+$2,587.0 
+
+$13,884.0 
+
+$0  
+$0  
+$0  
+
+$0  
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+$876  
+$1,855   $2,852  
+$2,056   $3,123   $4,215  
+
+$0  
+$4,151  
+$5,604  
+
+$0  
+$5,487  
+$7,035  
+
+$0  
+$5,706  
+$7,316  
+
+$0  
+$5,935  
+$7,609  
+
+$0  
+$6,171  
+$7,911  
+
+$0  
+$33,033  
+$44,869  
+
+Industry 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+2016 
+
+2017 
+
+2018 
+
+2019 
+
+Total 
+
+Table 38.  5010 Net Impact (minimum) in Millions 
+
+Costs 
+System 
+Implementation 
+Costs 
+Transition Costs 
+Total Costs 
+Benefits 
+Operational 
+Savings  
+Cost Savings  
+Operational 
+Savings  
+Total Benefits 
+Net Impact  
+ 
+
+ 
+
+$2,362  
+
+$2,361  
+
+$0  
+
+$0  
+$2,362  
+
+$0  
+$2,361  
+
+$831  
+$831  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$4,723  
+
+$831  
+$5,554  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$418  
+
+$435  
+
+$451  
+
+$470  
+
+$489  
+
+$508  
+
+$528  
+
+$550  
+
+$3,849  
+
+$20  
+
+$36  
+
+$51  
+
+$66  
+
+$80  
+
+$84  
+
+$88  
+
+$91  
+
+$516  
+
+$339  
+
+$717  
+
+$1,137  
+
+$1,603  
+
+$2,119  
+
+$2,203  
+
+$2,292  
+
+$2,384  
+
+$12,794  
+
+$0  
+($2,362) 
+
+$0  
+($2,361)
+
+$777  
+($54) 
+
+$1,188  $1,639  
+$1,188  $1,639  
+
+$2,139  
+$2,139  
+
+$2,688  
+$2,688  
+
+$2,795  
+$2,795  
+
+$2,908  
+$2,908  
+
+$3,025  
+$3,025  
+
+$17,159  
+$11,605  
+
+Page 26 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+Industry 
+
+2010 
+
+2011 
+
+Table 39.  5010 Net Impact (maximum) in Millions 
+2012 
+
+2014 
+
+2013 
+
+2015 
+
+2016 
+
+ 
+ 
+ 
+
+2017 
+
+2018 
+
+2019 
+
+Total 
+
+Costs 
+System 
+Implementation 
+Costs 
+Transition Costs 
+Total Costs 
+Benefits 
+Operational 
+Savings  
+Cost Savings  
+Operational 
+Savings  
+Total Benefits 
+Net Impact  
+
+$4,702  
+
+$4,701  
+
+$0  
+
+$0  
+
+$0  
+$4,702  
+
+$0  
+$4,701  
+
+$1,657   $0  
+$1,657   $0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$0  
+
+$0  
+$0  
+
+$9,403  
+
+$1,657  
+$11,060  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$0  
+
+$1,123   $1,168   $1,215  
+
+$1,264  
+
+$1,314  
+
+$1,366  
+
+$1,420  
+
+$1,477  
+
+$10,347  
+
+$57  
+
+$100  
+
+$148  
+
+$189  
+
+$234  
+
+$244  
+
+$254  
+
+$263  
+
+$1,489  
+
+$876  
+
+$1,855   $2,852  
+
+$4,151  
+
+$5,487  
+
+$5,706  
+
+$5,935  
+
+$6,171  
+
+$33,033  
+
+$0  
+($4,702) 
+
+$0  
+($4,701) 
+
+$2,056   $3,123   $4,215  
+$3,123   $4,215  
+$399  
+
+$5,604  
+$5,604  
+
+$7,035  
+$7,035  
+
+$7,316  
+$7,316  
+
+$7,609  
+$7,609  
+
+$7,911  
+$7,911  
+
+$44,869  
+$33,809  
+
+ 
+
+Page 27 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Attachment 1 – Listing of Assumptions  
+
+ 
+Cost Assumptions 
+ 
+Cost Assumption 1:  For each Healthcare segment, there was a determination of how many 
+entities would be impacted.  For example, The Healthcare providers segment is broken down 
+into three sub-segments: 400+ bed, 100-400 beds and < 100 beds. The costs were different for 
+each segment and sub-segment.  Costs varied by each sub-segment based on a variety of 
+different factors such as current configuration of systems, complexity of testing with trading 
+partners, and transaction volumes.  
+Cost Assumption 2:  Developed an estimate of Version 4010/4010A implementation costs 
+incurred by each Healthcare entity in the sub-segment. The estimate is based on data gathered 
+from primary research and secondary research. 
+Cost Assumption 3:  The Version 5010 implementation costs were estimated to be 20% to 40% 
+of Version 4010/4010A implementation costs. This range was established by the interviewees 
+for each respective sub-segment. 
+Cost Assumption 4:  Table 29 outlines average costs incurred by Medicare to implement the 
+5010 proposed rule. The estimate is based on data gathered from primary research.  
+Cost Assumption 5:  Table 30 outlines average costs incurred by Other Government Programs 
+(DoD, VA etc.) to implement the 5010 proposed rule. The estimate is based on data gathered 
+from primary research and secondary research. 
+Cost Assumption 6:  Table 32 outlines total costs incurred by clearinghouses for implementing 
+Version 4010/4010A.  
+ 
+Benefit Assumptions 
+ 
+Benefit Assumption 1:  Based on the data provided in a recent AHIP report5 the percentage of 
+pended claims was assumed to be 14% of total claims.  
+Benefit Assumption 2:  Pended claims will be reduced by 0.28% (minimum) to 0.7% (maximum). 
+Using the research and interviews, it was assumed that the pended claim percentage, currently 
+14% (Benefit Assumption 1), would be reduced through standardization.  
+Benefit Assumption 3:  As illustrated in Table 6, it is assumed that the cost for manual 
+intervention will be reduced for providers and for plans by the designated amounts per call. 
+Manual intervention is required to resolve pended claims and both Healthcare providers and 
+Health Plans incur these operational costs. 
+Benefit Assumption 4:  Based on the AHIP report assumed the percentage of non auto-
+adjudicated claims is 29% of total claims.  
+
+                                                 
+5 AHIP Report: An Updated Survey of Health Care Claims Receipt and Processing Times, May 2006 is 
+available at http://www.ahipresearch.org/pdfs/PromptPayFinalDraft.pdf  
+
+ 
+
+Page 28 
+
+CMS 5010 Regulatory Impact Analysis Supplement  
+
+ 
+ 
+ 
+
+Benefit Assumption 5:  Non auto-adjudicated claims will be reduced by 1.45% (minimum) to 
+2.9% (maximum). Using the research and interviews, it was assumed that the non auto-
+adjudicated claims, currently 29% (Benefit Assumption 4), would be reduced through 
+standardization. 
+Benefit Assumption 6:  As illustrated in Table 7, it is assumed that the cost for manual 
+intervention will be reduced for providers and for plans by the designated amounts per call.  
+Manual intervention is required to resolve the non auto-adjudicated claims—Healthcare 
+providers and Health Plans both incur these operational costs.  
+Benefit Assumption 7:  Cost savings for Healthcare Provider segment is $0.55 and cost savings 
+for Health Plan is $0.18. According to AHIP report1 the cost savings from using an electronic 
+transaction versus using paper transaction is $0.73.  This estimate is used as the basis for cost 
+savings due to increase in EDI for claims transactions and $0.55 cost savings is allocated for 
+Healthcare Provider and $0.18 cost savings is allocated for Health Plan 
+Benefit Assumption 8:  The uptake of the electronic claim transactions based on proposed rule 
+is assumed between 2% (minimum) and 5% (maximum). 
+Benefit Assumption 9:  The following uptake of auxiliary electronic claim transactions is 
+assumed: 
+
+•  278 (Referral request & response) between 10% (minimum) and 20% (maximum) 
+•  276/277 (Claims status request & response) between 10% (minimum) and 20% 
+
+(maximum) 
+
+•  270/271 (Eligibility request and response) between 10% (minimum) and 20% 
+
+(maximum) 
+
+Benefit Assumption 10:  As illustrated in Tables 8 and 9, it is assumed that the cost for manual 
+intervention related to supporting claim processing will be reduced for providers and for plans by 
+the designated amounts per call 
+Benefit Assumption 11:  Table 12 outlines the total estimated claims by year for Hospitals.   
+Benefit Assumption 12:  Table 16 outlines the total estimated claims by year for Physicians.   
+Benefit Assumption 13:  Table 20 outlines the total estimated claims by year for Dentists. 
+Benefit Assumption 14:  Table 24 outlines the total estimated claims by year for Institutions, 
+Physicians, & Dentists. 
+Benefit Assumption 15:  Table 25 outlines the benefit allocation for Private and Government 
+Health Plans based on the % claims handled by each sub-segment. 
+ 
+
+ 
+
+Page 29 
+
+

@@ -1,0 +1,2207 @@
+ 
+
+ 
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES  
+
+Food and Drug Administration 
+
+Food Labeling: 
+
+Machines NPRM 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Calorie Labeling of Articles of Food in Vending 
+
+Preliminary Regulatory Impact Analysis 
+
+Docket No. FDA-2011-F 0171  
+
+Office of Regulations Policy and Social Sciences 
+
+Center for Food Safety and Applied Nutrition 
+
+March 2011 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ii 
+
+SUMMARY:  The Food and Drug Administration (FDA) is proposing requirements for 
+
+providing calorie information for certain articles of food sold from vending machines to 
+
+implement the vending machine labeling provisions of the Patient Protection and Affordable 
+
+Care Act of 2010 (Affordable Care Act).  The Affordable Care Act, in part, amended the Federal 
+
+Food, Drug and Cosmetic Act (FD&C Act) to, among other things, require that for an article of 
+
+food sold from a vending machine that does not permit a prospective purchaser to examine the 
+
+Nutrition Facts Panel before purchasing the article, or does not otherwise provide visible 
+
+nutrition information at the point of purchase, and is operated by a person engaged in the 
+
+business of owning or operating 20 or more vending machines, the vending machine operator 
+
+must disclose the number of calories for the article of food.  Vending machine operators not 
+
+subject to the requirements of the Affordable Care Act may elect to be subject to the Federal 
+
+requirements by registering with FDA.  Providing calorie disclosures for food sold from vending 
+
+machines would assist consumers in making healthier dietary choices. The analysis of benefits 
+
+and costs included in this document is the basis for the summary analysis included in the 
+
+Proposed Rule:  Food Labeling; Calorie Labeling of Articles of Food in Vending Machines 
+
+[Docket No. FDA-2011-F 0171]. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii 
+
+ 
+
+Table of Contents 
+
+iv 
+
+I. Introduction ................................................................................................................................. 0 
+A. Need for This Regulation....................................................................................................... 1 
+B. Summary of Costs and Benefits of the Proposed Requirements and Regulatory Options .... 4 
+C. Regulatory Options .............................................................................................................. 10 
+II. Costs and Benefits of Regulatory Options: Detailed Analysis ................................................ 12 
+A. Baseline No New Regulatory Action................................................................................... 12 
+B.  Option 1:  Proposed Rule .................................................................................................... 13 
+C.  Option 2:  Similar to the Proposed Rule, But Estimating the Cost of Individual Signs for 
+Each Article of Food or Selection Button................................................................................. 26 
+D.  Option 3:  Similar to the Proposed Rule, But With an Additional Year of Compliance Time 
+for Firms With Less Than $500,000 in Annual Revenue. ........................................................ 27 
+E.  Option 4:  Similar to the Proposed Rule, But With Coverage Extended to All Bulk Vending 
+Machines................................................................................................................................... 29 
+III. References............................................................................................................................... 30 
+ 
+
+ 
+
+ 
+
+ 
+
+I. Introduction 
+
+FDA has examined the impacts of the proposed rule under Executive Orders 13563 and 
+
+12866, the Regulatory Flexibility Act (5 U.S.C. 601-612), and the Unfunded Mandates Reform 
+
+Act of 1995 (Public Law 104-4).  Executive Orders 13563 and 12866 direct agencies to assess all 
+
+costs and benefits of available regulatory alternatives and, if regulation is necessary, to select 
+
+regulatory approaches that maximize net benefits (including potential economic, environmental, 
+
+public health and safety effects, distributive impacts, and equity). Executive Order 13563 
+
+emphasizes the importance of quantifying both costs and benefits, of reducing costs, of 
+
+harmonizing rules, and of promoting flexibility. This proposed rule has been designated an 
+
+“economically” significant rule, under section 3(f)(1) of Executive Order 12866.  Accordingly, 
+
+the proposed rule has been reviewed by the Office of Management and Budget (OMB). 
+
+The Regulatory Flexibility Act requires agencies to analyze regulatory options that would 
+
+minimize any significant impact of a rule on small entities. Using the Small Business 
+
+Administration (SBA) definition of small vending machine operators as classified by the North 
+
+American Industry Classification System (NAICS 45421), FDA estimates that a significant 
+
+number of operators impacted by this proposed rule are small businesses. As directed by statute, 
+
+the requirements of the proposed rule only apply to vending machine operators that own or 
+
+operate 20 or more vending machines.  However, according to data from the Vending Times 
+
+Census and from the National Automatic Merchandising Association (NAMA), the average 
+
+annual revenue per machine is less than $7,000 (Refs. 1 and 2).  An operator with only 20 
+
+machines may have vending machine revenue of less than $140,000.  In order to exceed the 
+
+SBA’s definition of a small vending machine operator, a firm would need at least $10 million in 
+
+annual revenue (Ref. 3).  This suggests that a firm with revenue exclusively from vending 
+
+ 
+
+ 
+
+ 
+
+1
+
+machine sales would need more than 1,400 machines to exceed the definition of small business.  
+
+Based on the latest available U.S. Economic Census data that breaks down establishments by 
+
+revenue, we project that 97 percent of firms selling covered vending machine food, as that term 
+
+is used in this document, that identify primarily as vending machine operators that are engaged in 
+
+the business of owning or operating 20 or more vending machines would be small businesses as 
+
+defined by SBA.  Therefore, the Agency believes that the proposed rule would have a significant 
+
+economic impact on a substantial number of small entities.  This impact is discussed further in 
+
+section V of this document. 
+
+Section 202(a) of the Unfunded Mandates Reform Act of 1995 requires that agencies 
+
+prepare a written statement, which includes an assessment of anticipated costs and benefits, 
+
+before proposing “any rule that includes any Federal mandate that may result in the expenditure 
+
+by State, local, and tribal governments, in the aggregate, or by the private sector, of 
+
+$100,000,000 or more (adjusted annually for inflation) in any one year.”  The current threshold 
+
+after adjustment for inflation is $135 million, using the most current (2009) Implicit Price 
+
+Deflator for the Gross Domestic Product.  FDA does not expect this proposed rule to result in 
+
+any 1-year expenditure that would meet or exceed this amount. 
+
+    
+
+A. Need for This Regulation 
+
+This proposed rule is necessary to implement section 4205 of the Affordable Care Act, 
+
+which principally amends sections 403 and 403A of the FD&C Act, and requires  operators of 20 
+
+or more vending machines to disclose calorie information for covered vending machine food. 
+
+The provision of calorie information for covered vending machine food may help consumers 
+
+make better informed dietary choices.    
+
+ 
+
+ 
+
+2
+
+Economic justifications for regulatory interventions in private markets rely on the 
+
+presence of some market failure.  In the case of food sold from a vending machine, the private 
+
+market is particularly robust and competitive.  Thousands of individual firms vie for consumer 
+
+dollars in millions of vending machines across the United States (Ref. 1). Low entry costs for 
+
+firms and low switching costs for customers suggest that if a sizable fraction of consumers were 
+
+willing to pay for--and discriminate based on--the visible calorie information at the point of 
+
+purchase then the industry would provide it to them.  In fact, some vending machine operators 
+
+are voluntarily providing more healthful choices and additional information on machines (Refs. 2 
+
+and 6).   
+
+Although many of the usual market failures that justify regulatory action, such as the 
+
+existence of market power or of ill-defined property rights, do not apply here (Refs. 5 and 6), the 
+
+primary support for regulatory intervention is that there are systematic biases in how consumers 
+
+process information and weigh current benefits (from consuming higher calorie foods) against 
+
+future costs (higher probability of obesity and its comorbidities).  
+
+The bias is more directly related to the requirements of this proposed rule: Consumer 
+
+demand for calorie information does not create incentives for the provision of calorie 
+
+information at the vending machine. This market failure occurs because at the time of purchase, 
+
+consumers do not value calorie information as much as they do later, when the effects of excess 
+
+calorie consumption are evident. Studies have shown that consumers have present-based 
+
+preferences, meaning that they are continually optimistic about the healthfulness of their future 
+
+choices (Refs. 7, 8 and 9).   
+
+These studies suggest that calorie information often lacks salience, or relevance, for 
+
+consumers at the time of purchase and consumption, even though they may experience regret 
+
+ 
+
+ 
+
+3
+
+about their decisions at a later date. This tendency may explain why consumers have not 
+
+generally demanded calorie and other nutrition information for food sold from vending machines 
+
+before, or at, the point of purchase, even if they may, at a later point in time, value that 
+
+information.  Because of competition for consumer time and attention vending machine 
+
+operators have limited time and space in which to convey information to consumers. These limits 
+
+mean that there is a substantial opportunity cost to the operator of providing calorie information. 
+
+That is, just as an operator may have to decide which possible foods to leave out of a vending 
+
+machine with limited space (thus giving up the opportunity to sell those items), it must choose 
+
+which pieces of information about its foods it wants to convey.  Adding an additional piece of 
+
+information means that an operator may need to downplay or remove some other piece of 
+
+information. This opportunity cost of information holds true whether the calorie information is 
+
+displayed on the machine or, as with an increasing number of packaged foods, on the principal 
+
+display panel of the package.  
+
+The proposed requirements mitigate the apparent market failure in information provision 
+
+stemming from present-biased preferences, although not necessarily the tendency of consumers 
+
+to underutilize that information.  Specifically, for a covered vending machine food, this proposed 
+
+rule requires that the vending machine operator provide a sign in close proximity to the food or 
+
+the selection button, i.e. in, on, or adjacent to the vending machine, but not necessarily attached 
+
+to the vending machine, so long as the sign is visible at the same time as the food, its name, 
+
+price, or selection number is visible. This information must be presented in a color that is 
+
+sufficiently contrasted with the background, must be in close proximity to the vignette or name 
+
+or in close proximity to the selection button when a name or vignette is displayed, and, for 
+
+electronic vending machines, the calorie information may be displayed when the selection 
+
+ 
+
+ 
+
+4
+
+numbers are entered but before the selection is confirmed. These requirements are designed so 
+
+that the calorie information is made available to consumers before they purchase such food.  
+
+Providing the information will likely increase consumer awareness regarding the calorie content 
+
+in covered vending machine food and increase the perceived relevance of that information to 
+
+their decision making. Providing the information may serve to highlight the potential future costs 
+
+of additional calorie consumption. This increased attention to the caloric content of covered 
+
+vending machine food may then result in an increased availability of lower calorie options, and 
+
+an increased demand for these options. 
+
+B. Summary of Costs and Benefits of the Proposed Requirements and Regulatory Options 
+
+In this section FDA describes the bases of benefits and costs of the proposed 
+
+requirements and summarizes the results of the detailed Preliminary Regulatory Impact Analysis 
+
+(PRIA). 
+
+Benefits in response to the proposed requirements.  Obesity is a major public health 
+
+concern in the United States and one of the top leading health indicators addressed by the United 
+
+States Healthy People 2020 goals.  Nationally representative data indicate an increase in the 
+
+prevalence of obesity over the past three decades (Ref. 10).  The 2007-2008 National Health and 
+
+Nutrition Examination Survey (NHANES) data showed that 34 percent of the adult U.S. 
+
+population is obese and 34 percent are overweight (Ref. 11).  
+
+ 
+
+Excess body weight has many health (Ref. 12), social (Refs. 13 and 14), psychological 
+
+(Refs. 15 and 16), and economic consequences (Ref. 17) for the affected individuals.  Lower life 
+
+expectancy, elevated risk of diabetes, hypertension, stroke and other cardiovascular diseases 
+
+have been documented to rise simultaneously with the increased prevalence of obesity (Ref. 12).  
+
+The economic impact is especially evident in health-care costs in terms of greater health-care 
+
+ 
+
+ 
+
+5
+
+utilization and higher medical expenditures (Ref. 18).  More specifically, medical expenditures 
+
+attributable to overweight and obesity accounted for more than 9 percent of the total U.S. 
+
+medical expenditures in 1998, or between $85.7 billion and $147 billion (Ref. 18). Researchers 
+
+have proposed various factors to explain this dramatic rise in obesity including declining food 
+
+prices and physical requirements of labor (Refs. 19 and 20), declining time costs of food 
+
+preparation (Ref. 21), fast-food restaurant density (Ref. 22) and social interactions (Refs. 23).  
+
+Although the relationship between obesity and poor dietary choices is multi-faceted, there 
+
+is a general agreement in the literature that reduction in excess calories is helpful in preventing or 
+
+delaying the onset of excess weight gain (Ref. 24).  Vending machines are a likely source of 
+
+high-calorie snack or discretionary foods, as well as some high-calorie meal items.  Industry data 
+
+indicate that there is approximately one vending machine for every 40 adults in the United 
+
+States, and that up to 5 percent of the money consumers spend on food away from home is spent 
+
+on vending machine food (Ref. 25).  This suggests that providing calorie information for covered 
+
+vending machine food to consumers may have a significant effect on calorie intake, the 
+
+prevalence of obesity, and thus the cost of health care and lost productivity.  
+
+To the extent that the proposed requirements mitigate the increase in the prevalence of 
+
+obesity and the prevalence of these costly co-morbidities such as hypertension and diabetes, 
+
+society gains the opportunity cost of the averted medical expenditures and an increase in 
+
+productivity from averted debilitation and death.  In addition to educating consumers about 
+
+calorie content, major predicted elements of the consumer and industry response to this proposed 
+
+rule are: 
+
+ 
+
+ 
+
+6
+
+1.  Increased awareness regarding the caloric content in covered vending machine foods, 
+
+and the perceived relevance of that information to decision making, which may help reduce the 
+
+present-bias in preferences, and thus encourage the consumption of lower calorie options. 
+
+2.  Increased consumer interest in lower calorie options, and greater transparency in the 
+
+caloric content of foods sold in vending machines, which may give manufacturers an incentive 
+
+to: 
+
+a. Reduce the calorie content of foods sold in vending machines through reformulation or 
+
+by decreasing portion size. 
+
+b. Provide additional items with lower calorie formulations. 
+
+These changes may reduce consumers’ caloric intake from food sold in vending machines.  Note 
+
+that any reduction in calorie intake in these settings may be at least partially offset by increases 
+
+in calorie intake during other meals or snacks.  Because FDA lacks data on how consumers will 
+
+substitute among caloric sources, the benefit estimations given here may be higher or lower than 
+
+those that will be realized if the rule is finalized as proposed.  
+
+Coverage of the proposed rule and industry overview.  The proposed rule covers 
+
+certain vending machine operators that are engaged in the business of owning or operating 20 or 
+
+more vending machines and those vending machine operators that voluntarily register with FDA 
+
+to become subject to the Federal requirements.  The proposed rule does not cover vending 
+
+machines without a selection button, including bulk vending machines that dispense gum, candy 
+
+and nuts. Vending machines are operated both by food service firms and by firms in other 
+
+businesses that operate machines for the benefit of their customers or employees and do not 
+
+identify as vending machine operators.  Because this latter group cannot be accurately counted, 
+
+published estimates of the number of vending machine operators will generally undercount the 
+
+ 
+
+ 
+
+7
+
+number of covered operators under the proposed rule. For the purposes of this preliminary 
+
+regulatory impact analysis, we will use the term “covered operators” or “covered vending 
+
+machines” to refer to operators or machines that sell covered vending machine foods.   
+
+According to the NAMA, there are approximately 13,500 companies that operate vending 
+
+machines in the United States (Ref. 2). Other estimates put the total closer to 10,000 (Ref. 1).  
+
+This total includes 5,000 firms whose primary business identification is as vending machine 
+
+operators (NAICS 4542), plus a variety of other firms that operate vending machines, but do not 
+
+primarily identify as such.  These other companies include, for example, beverage manufacturers 
+
+and food service contractors.  Because of the difficulty in determining which firms are covered, 
+
+and because FDA has no data on the potentially significant number of covered vending machine 
+
+operators that self-identify as businesses outside the food industry, we take NAMA’s higher 
+
+estimate of 13,500 firms as the number of covered firms. 
+
+FDA estimates that 97 percent of firms selling covered vending machine food that 
+
+identify primarily as vending machine operators that are engaged in the business of owning or 
+
+operating 20 or more vending machines are small businesses as defined by the SBA. Other 
+
+estimates indicate that more than 90 percent of the firms covered by the proposed rule are 
+
+defined as small businesses (Ref. 1). This percentage may be lower for firms that have primary 
+
+business identification other than as vending machine operators, but the majority of covered 
+
+businesses will likely still be defined as small businesses. Because very small, informal 
+
+businesses that are not captured by economic census data might operate 20 or more machines, 
+
+these figures may underestimate the number of affected small businesses.  Conversely, 
+
+approximately 72 percent of industry revenue--and thus a comparably large fraction of 
+
+ 
+
+ 
+
+8
+
+consumption--comes from firms with more than $10 million in annual sales, and 85 percent 
+
+comes from firms with more than $5 million in revenue (Ref. 1). 
+
+Vending machine operators together operate an estimated 5 to 7 million machines (Refs. 
+
+1 and 2) in at least 1.5 million locations (Ref. 1).  Approximately 70 percent of these machines 
+
+sell packaged food, including beverages, that are required to bear nutrition labeling under section 
+
+403(q)(1) of the FD&C Act and FDA regulations at § 101.9, and thus have Nutrition Facts.  This 
+
+70 percent is comprised mostly of packaged beverage machines, which account for more than 50 
+
+percent of all vending machines, with the remainder--approximately 20 percent of all machines--
+
+selling packaged confections or snacks. Ten percent sell a variety of hot and cold cup beverages, 
+
+frozen or fresh food products and miscellaneous other food products. The final 20 percent of 
+
+machines are bulk candy, nut or gum machines that are not covered by section 403(q)(5)(H)(viii) 
+
+and the proposed requirements because they lack selection buttons. While these bulk machines 
+
+form a large percentage of vending machines, they account for less than 0.5 percent of vending 
+
+machine sales (Ref. 2). 
+
+Summary of costs and benefits of the proposed rule and regulatory options.  In this 
+
+section we briefly summarize the costs and benefits of the proposed rule that are analyzed in the 
+
+detailed PRIA. These estimates are collected in table 1.  Costs of complying with the proposed 
+
+requirements have been estimated for three major areas:  Cost of nutrition analysis, cost of new 
+
+signs or posters, and labor costs. In the case of the proposed rule, FDA estimates that there would 
+
+be approximately 10,800 operators under the proposed requirements, controlling between 4 
+
+million and 5.6 million machines that sell covered vending machine foods. The initial mean 
+
+estimated cost of complying with the proposed requirements is $25.8 million, with an estimated 
+
+mean ongoing cost of $24.0 million. Mean annualized costs are $24.5 million at a 7 percent 
+
+ 
+
+ 
+
+9
+
+discount rate, and $24.2 million at 3 percent discount rate. Per operator costs are estimated to be 
+
+$2,400. FDA estimates that average per machine costs are less than $10 annually.   
+
+ 
+
+FDA has not estimated the actual benefits associated with proposed requirements.  Food 
+
+choice and consumption decisions are complex and FDA is unaware of any comprehensive data 
+
+allowing accurate predictions of the effect of the proposed requirements on consumer choice and 
+
+vended foods. Therefore, FDA has constructed a plausible individual effect of the proposed rule, 
+
+and has conducted a break-even analysis in order to determine the proportion of the U.S. obese 
+
+adult population that would need to attain this minimal response in order for the proposed 
+
+requirement to yield a positive net benefit. Using a 100 calorie per week reduction in intake as 
+
+the benchmark effect, FDA estimates that at least 0.02 percent of the adult obese population 
+
+would need to reach this benchmark in order for the rule to break even on the initial total cost.  
+
+On an ongoing basis, again, at least 0.02 percent of the adult obese population would need to 
+
+reach this benchmark in order for the rule to break even on the recurring annual costs. These 
+
+effects are summarized in table 1 of this document. 
+
+ 
+
+Finally, although registration by firms wishing to register with FDA in order to come 
+
+under the proposed requirements and the associated preemption from State or local regulations is 
+
+voluntary, and will only occur to the extent that the costs of registration and compliance with 
+
+Federal regulation is lower than that of State or local laws, this registration constitutes a 
+
+collection of information under the Paperwork Reduction Act of 1995. 
+
+ 
+
+ 
+
+ 
+
+  10
+
+Table 1a.  Accounting Statement: Annualized Cost and Break-Even Benefit Point for the 
+
+Proposed Requirements 
+
+Primary 
+Estimate 
+
+Low 
+Estimate 
+
+High 
+Estimate 
+
+Year 
+Dollar 
+
+Discount 
+Rate 
+
+Period 
+Covered
+
+Not Quantified 
+
+Benefits 
+Annualized  Monetized 
+($millions/year) 
+Annualized Quantified:  
+Qualitative:  FDA estimates that at least 0.02 percent of the adult obese population would need to reduce 
+caloric intake by at least 100 calories per week in order for benefits from the proposed requirements to 
+reach a break even point on annualized costs (at either 3% or 7%) 
+Costs 
+Annualized Monetized 
+($millions/year) 
+ 
+
+$39.8 
+$39.6 
+
+$24.5 
+$24.2 
+
+$12.5 
+$12.1 
+
+2009 
+2009 
+
+7% 
+3% 
+
+10
+10
+
+ 
+
+C. Regulatory Options   
+
+In addition to a baseline, FDA has identified four regulatory options for this proposed 
+
+rule. The costs and benefits of these options are summarized in table 1b of this document.  
+
+(0)  Baseline for the purpose of analysis--No new Federal regulatory 
+
+action.  
+
+(1)  Option 1, the proposed rule, allowing a sign in close proximity to the article of food 
+
+or selection button, i.e. in, on, or adjacent to the vending machine, but not necessarily attached to 
+
+the vending machine, so long as the sign is visible at the same time as the food, its name, price, 
+
+or selection number is visible, and with an effective date of 1 year after publication of the final 
+
+rule.  
+
+(2)  Option 2, similar to the proposed rule, but requiring that calorie declarations be 
+
+immediately adjacent to the article of food or selection button for all calorie disclosures. For this 
+
+option, FDA estimates the cost of individual signs for each article of food or selection button. 
+
+ 
+
+  11
+
+(3)  Option 3, Similar to the proposed rule, but with an additional year in compliance 
+
+period for vendors with less than $500,000 in annual revenue from vending machines. 
+
+(4)  Option 4, similar to the proposed rule, but with coverage extended to bulk vending 
+
+machines without selection buttons. 
+
+Table 1b: Summary of Estimated Annualized Compliance Costs for Each Option 
+
+Summary Of 
+Options 
+
+(Baseline) 
+Option 1: the 
+Proposed Rule  
+Option 2: 
+Individual Signs  
+Option 3: 
+Longer 
+Compliance 
+Time for Small 
+Businesses 
+Option 4: 
+Extended Scope 
+to Include Bulk 
+Machines 
+ 
+
+Primary 
+Estimate 
+
+(in 
+
+millions) 
+
+Low 
+
+Estimate 
+
+(in 
+
+High 
+
+Estimate 
+
+(in 
+
+Percent 
+Discount 
+Rate (10 
+
+year 
+
+horizon) 
+
+millions) 
+
+millions) 
+
+N/A 
+
+N/A 
+
+$24.2 
+$24.5 
+$81.8 
+$82.5 
+
+$24.2 
+
+$24.5 
+
+$30.2 
+
+$31.0 
+
+$12.1 
+$12.5 
+$36.1 
+$36.6 
+
+$12.1 
+
+$12.5 
+
+$15.1 
+
+$15.8 
+
+N/A 
+
+$39.6 
+$39.8 
+$140.4 
+$141.1 
+
+$39.6 
+
+$39.8 
+
+$49.4 
+
+$50.3 
+
+N/A 
+3% 
+7% 
+3% 
+7% 
+3% 
+
+7% 
+
+3% 
+
+7% 
+
+Proportional 
+Cost Relative 
+to Primary 
+Estimate of 
+the Proposed 
+Requirements 
+
+N/A 
+
+0.0% 
+
++229.2% 
+
+Proportional 
+Dollar Sales of 
+
+Restaurant 
+Food Relative 
+to Primary 
+Estimate of 
+the Proposed 
+Requirements 
+
+ 
+
+0.0% 
+
+0.0% 
+
+0.0% 
+
+0.0% 
+
++25.6% 
+
++0.5% 
+
+FDA estimates that Option 2, which would require individual signs or labels for each 
+
+covered vended food, has a ten-year annualized costs of between $36.1 million per year and 
+
+$140.4 million per year at a 3 percent discount rate, with a primary estimate of $81.8 million. 
+
+Averaged over primary, low and high estimates, the costs of Option 2 are 229.2 percent higher 
+
+than those of the proposed requirements. These changes are discussed more fully in the detailed 
+
+analysis. 
+
+Option 3 which considers a longer compliance time for small businesses represents only a 
+
+delay in the costs. This delay has a small positive impact on the annualized cost, but one that 
+
+ 
+
+  12
+
+does not change the (rounded) estimate of costs for Option 3 from the estimate, of costs for 
+
+Option 1.  Option 4, expands the scope of the requirements to include foods in bulk vending 
+
+machines without selection buttons, has costs that are 25.6 percent higher than the proposed 
+
+option, and covers an additional 0.5 percent of sales of vended foods. 
+
+ 
+
+ 
+
+II. Costs and Benefits of Regulatory Options: Detailed Analysis 
+
+This section describes the costs and benefits for the proposed rule and the regulatory 
+
+options. 
+
+A. Baseline No New Regulatory Action  
+
+Imposing no new nutrition labeling requirements for covered vending machine food is the 
+
+baseline for our analysis.  Section 4205 of the Affordable Care Act requires that FDA issue 
+
+regulations to carry out section 403(q)(5)(H) of the FD&C Act, which includes nutrition labeling 
+
+requirements for covered vending machine food.  Therefore, this is not a legally viable option.  
+
+However, OMB cost-benefit analysis guidelines recommend discussing statutory requirements 
+
+that affect the selection of regulatory approaches.  These guidelines also recommend analyzing 
+
+the opportunity cost of legal constraints that prevent the selection of the regulatory action that 
+
+best satisfies the philosophy and principles of the Executive Order 12866.  This option will serve 
+
+as the baseline against which other options will be measured for assessing costs and benefits.    
+
+Section 4205 of the Affordable Care Act established the first Federal nutrition labeling 
+
+requirements related to vending machines.  We are not aware of any State or local nutrition 
+
+labeling requirements related to vending machines.  Because there is increasing attention on and 
+
+concern for the role that foods from vending machines play in the obesity epidemic, some 
+
+ 
+
+  13
+
+vending machine operators have voluntarily provided more healthful options and additional 
+
+information on the outside of machines (Refs. 2 and 4).  
+
+ 
+
+Because efforts to reduce the prevalence of obesity in the United States will likely 
+
+continue to grow, FDA expects some State and local jurisdictions to begin requiring nutrition 
+
+information disclosure on vending machines.  If this were to occur, in the absence of the 
+
+enactment of section 4205 of the Affordable Care Act, costs to industry could be several times 
+
+the cost of this proposed rule, and the benefit to consumers may be lower because of incomplete 
+
+coverage and fragmented presentation of nutrition information. 
+
+B.  Option 1:  Proposed Rule 
+
+  Under this option FDA proposes the following requirements for the placement of calorie 
+
+declarations for covered vending machine food: 
+
+ 
+
+(A)  This calorie information may be placed (1) On a sign in close proximity to each 
+
+article of food in the vending machine or the selection button or (2) On a sign, such as a poster 
+
+in, on, or adjacent to the vending machine, but not necessarily attached to the vending machine, 
+
+so long as the sign is visible at the same time as the food, its description name, price, or selection 
+
+button number is visible.   
+
+(B)  This information must be presented in a color that is sufficiently contrasted with the 
+
+background. 
+
+(C)  Where the vending machine only displays a vignette or name of the food item, the 
+
+calorie information must be in close proximity to the vignette or name or in close proximity to 
+
+the selection button. 
+
+ 
+
+  14
+
+(D)  For electronic vending machines (e.g., machines with digital or electronic or LCD 
+
+displays), the calorie information may be displayed when the selection numbers are entered but 
+
+before the selection is confirmed.  
+
+For vending machine operators that are not subject to the requirements of section 
+
+403(q)(5)(H) of the FD&C Act, the proposed rule specifies the terms and conditions for how 
+
+these operators can voluntarily become subject to the proposed requirements by registering with 
+
+FDA. Because this registration is voluntary, only operators that see a positive net benefit to 
+
+themselves will choose to register, therefore, FDA estimates that the registration provision by 
+
+itself will have no net cost.  
+
+i.  Costs.  In order to comply with the proposed rule, each affected operator will need to 
+
+have or acquire calorie content data for its covered vending machine food.  Because almost all 
+
+vending machines sell food that is manufactured and packaged, calorie analysis and the design 
+
+and printing of calorie analysis displays will be most efficiently done by manufacturers rather 
+
+than vending machine operators. Furthermore, most package food sold from vending machines 
+
+are subject to the nutrition labeling requirements of section 403(q) of the FD&C Act and § 101.9, 
+
+which means that calorie information is already on the labels of these foods and collected and 
+
+available for these foods.  
+
+Because section 403(q)(5)(H) of the FD&C Act and the proposed rule does not cover 
+
+vending machines without selection buttons, including certain bulk vending machines or vending 
+
+machines that are not operated by a person who is engaged in the business of owing or operating 
+
+20 or more vending machines, FDA estimates that the approximately 80 percent of all vending 
+
+machines, or between 4 million and 5.6 million machines will be covered for the purposes of this 
+
+analysis. Note that some of these vending machines may permit consumers to examine the 
+
+ 
+
+  15
+
+Nutrition Facts Panels for the food sold in the machines before purchasing the food or otherwise 
+
+provide visible nutrition information for the food sold in the machines at the point of purchase, 
+
+and therefore might not contribute to the costs analyzed for this proposed rule because these are 
+
+not covered vending machine foods. FDA lacks data that breaks down vending machine firms by 
+
+the kinds of machines that they operate; therefore, FDA uses the proportion of generally covered 
+
+machines as the estimate for the proportion of covered firms, yielding approximately 10,800 
+
+covered firms. To the extent that vending machines do permit consumers to examine the 
+
+Nutrition Facts Panels for the food sold in the machines before purchasing the food or otherwise 
+
+provide visible nutrition information for the food sold in the machines, at the point of purchase, 
+
+this analysis may overestimate the costs of the proposed rule. 
+
+FDA estimates that approximately 10 percent of all vending machines, or between 
+
+500,000 and 700,000 machines, sell products that might not already have calorie information on 
+
+their packages.  The manufacturer of these foods (mostly hot and cold cup beverages) would not 
+
+necessarily have calorie information if the products were not otherwise subject to some nutrition 
+
+labeling requirements.  In addition, there are operators providing fresh or frozen foods for a 
+
+relatively small number of machines, and these foods may also lack nutrition labeling.  FDA 
+
+tentatively estimates that between 5 and 10 percent of all affected firms, or between 540 and 
+
+1,080 firms will need to acquire nutrition information for at least some of their products.  FDA 
+
+tentatively estimates that each vending machine operator within these groups sells approximately 
+
+5 to 10 covered vending machine foods that do not have nutrition labeling.  Thus the range of 
+
+possible calorie estimates that would need to be made in order to comply with this proposed rule,  
+
+if finalized, would be between roughly 2,700 items (5 items/firm x 540 firms) and 10,800 items 
+
+ 
+
+  16
+
+(10 items/firm x 1,080 firms), with a mean estimate of 6,800 items.  FDA requests comment on 
+
+these estimates. 
+
+Cost estimates for nutrition analyses vary widely: By complexity of the item, 
+
+sophistication and accuracy of the analysis, detail of the nutrition report, and by whether the 
+
+analysis is based on existing databases or on item-specific laboratory testing.  However, because 
+
+of the small profit margins in the vending industry (Ref. 1), we expect firms to use cheaper 
+
+database nutrition analysis.  One database nutrition analysis service quotes prices starting at $25 
+
+per item, going up to $100 per item for more complicated items (Ref. 26).  Another service offers 
+
+flat rates of $49 for ten items where the purchaser enters the recipe into a calculator (Ref. 27).  A 
+
+senior dietician or nutritionist earns $35.91 per hour (Ref. 28). Taking into account 50 percent 
+
+overhead costs, the labor cost to the firm of 1 hour to enter a recipe is approximately $54. The 
+
+total cost per item at this Web site would be approximately $59 per item (and potentially lower 
+
+with high volume discounts).  
+
+Based on data from FDA’s Recordkeeping Cost Model (Ref. 29), we estimate 
+
+approximately 4 hours as the time per analyzed food for creating and administering the record of 
+
+nutritional information.  Although the proposed rule does not mandate recordkeeping, vending 
+
+machine operators will likely need to be able to ensure that calorie disclosures for covered 
+
+vending machine foods are accurate and consistent without needing to re-analyze these foods. 
+
+Again using the hourly wage plus overhead for dietitians and nutritionists of $54 per hour, we 
+
+estimate the costs for administering the records of nutritional analysis to be $216 per item (4 
+
+hours/item x $54/hour).  We estimate that the per-item estimated cost of calorie analysis for 
+
+covered vending machine food will be approximately $275 per item ($59 database +$216 
+
+administration). The total estimated cost for calorie analysis for covered vending machine food is 
+
+ 
+
+  17
+
+between $0.7 million (2,700 items x $275/item) and $3 million (10,800 items x $275/item), with 
+
+a mean estimate of $1.7 million.  
+
+ 
+
+Because the market for unpackaged food sold from vending machines is small and 
+
+appeared to decline over the period from 2005 to 2008 (Ref. 1), FDA estimates that very few 
+
+new products will be introduced that will need calorie analysis solely as a result of the proposed 
+
+requirements, if finalized.  In addition, because new vending machine operators likely would use 
+
+existing suppliers, growth in the vending machine industry likely would not create the need for 
+
+new calorie analysis.  
+
+Labeling Costs. The primary cost of the proposed rule will be in affixing and 
+
+maintaining calorie information for covered vending machine food on, in or adjacent to vending 
+
+machines.  Because there is wide variation in the kinds of vending machines used--in materials, 
+
+display, and mechanism--there will likely be a variety of methods used for compliance.  On the 
+
+high end, a calorie or nutrition display that is integrated with the graphics on the machine would 
+
+require a new front display, and thus may cost several hundred dollars, or more.  On the low end, 
+
+a sign, including a poster  that could be affixed to the front of the machine could cost 
+
+significantly less than $1 per year.  Given the low profit margins in the vending machine 
+
+industry, and given that most of the regulated vending machine operators will be small 
+
+businesses, FDA anticipates that almost all operators will, at least initially, choose to include 
+
+calorie information on signs, including posters adjacent to vending machines.  In the long run, 
+
+the manufacturers of vending machines, and the larger vending machine operators, such as the 
+
+soft drink companies, may use more integrated signs, and thus more expensive, methods as part 
+
+of regular updates and replacement of machines.  
+
+ 
+
+ 
+
+  18
+
+If  total calories  were included on the label for a food sold from a vending machine and 
+
+the calorie information met the requirements for visible, , that food would not be subject to the 
+
+nutrition labeling requirements under section 403(q)(5)(H)(viii)(I) of the FD&C Act.  Therefore, 
+
+vending machine operators that operate glass front machines, or other kinds of vending machines 
+
+that displays food products with visible nutrition information would not have to provide the 
+
+calorie information described in section 403(q)(5)(H)(viii)(I) of the FD&C Act and § 
+
+101.8(c)(2)of this proposed rule. In other cases, operators may not need  to comply with the 
+
+proposed requirements by placing the products in a way that permits the consumer to examine 
+
+the Nutrition Facts Panels for the products prior to purchase.  
+
+In addition, the increased use of electronic displays on vending machines will reduce the 
+
+need for physical signs.  As a conservative estimate, with between 4 million and 5.6 million 
+
+machines, FDA estimates that the sign cost will between $4 million and $5.6 million annually.  
+
+However, we expect this amount to fall over time as manufacturers continue to add the required 
+
+calorie information to of the principal display panel of the package. 
+
+ 
+
+Because signs would not always need to be updated every time a machine’s product mix 
+
+changed, FDA estimates an average recurring burden of between 5 and 15 minutes per machine 
+
+per year to install or refresh the calorie displays.  FDA requests comment on this estimate.  The 
+
+U.S. Bureau of Labor Statistics gives the average hourly wage of a nonsupervisory employee of 
+
+a vending machine operator as $16 per hour.  Including a 50 percent increase for overhead costs, 
+
+the average hourly cost of an employee in this sector is approximately $24 per hour. 
+
+ 
+
+Using the estimate of between 4 million and 5.6 million machines, and between 0.08 
+
+hours (5 minutes/60 minutes/hour) and 0.25 hours (15 minutes/60 minutes/hour) per machine, 
+
+the annual cost of labeling vending machines is between $8 million (0.08 hours/machine x 
+
+ 
+
+  19
+
+$24/hour x 4,000,000 machines) and $33.6 million (0.25 hour/machine x 4/year x $24/hour x 
+
+5,600,000 machines), with a mean estimate of $19.2 million.  As with the cost of signs 
+
+themselves, we expect this cost to fall over time as more products introduce principal display 
+
+panels with calorie and other nutrition information and as vending machines integrate signs that 
+
+are electronic displays.  Because estimates of the number of machines have not shown consistent 
+
+growth in the last few years, FDA takes the number of machines as constant.  
+
+ 
+
+The estimated costs of calorie disclosure using this option are given in table 2 of this 
+
+document. As noted above, initial, non-recurring costs are limited to calorie analysis, given the 
+
+products covered.  All other costs will be ongoing. 
+
+Table 2.--Costs of the Proposed Rule 
+
+Cost 
+
+Initial Calorie Analysis 
+Sign Costs 
+Sign Labor Costs 
+Total First Year Costs 
+Total Recurring Costs 
+Annualized Costs, 3% 
+Annualized Costs 7% 
+
+ 
+
+Low Estimate 
+
+$0.7 million 
+$4.0 million 
+$8.0 million 
+$12.7 million 
+$12.0 million 
+$12.1 million 
+$12.5 million 
+
+Mean Estimate 
+
+$1.8 million 
+$4.8 million 
+$19.2 million 
+$25.8 million 
+$24.0 million 
+$24.2 million 
+$24.5 million 
+
+High Estimate 
+
+$3.0 million 
+$5.6 million 
+$33.6 million 
+$42.2 million 
+$39.2 million 
+$39.6 million 
+$39.8 million 
+
+ii.  Benefits.  The potential benefit from the proposed rule stems from the effect that 
+
+decreasing the consumption of calories from vended food may have on mitigating obesity rates 
+
+and growth in the U.S. population. The literature on access to vending machines and its relation 
+
+to body weight to date is very limited and has focused mostly on soft drink consumption, with a 
+
+particular emphasis on how soda taxes impact the demand for such beverages.  However, this 
+
+literature provides evidence that shows that consumption of sugar-sweetened beverages as well 
+
+as other common types of vended foods, such as candies, cookies, and chips is associated with 
+
+higher energy intake, lower nutrient intake, and increased weight gain and risk for obesity among 
+
+the U.S. population (Refs. 30 through 33).      
+
+ 
+
+  20
+
+Kakarala and colleagues (Ref. 34) estimate that the consumption of sugar-sweetened 
+
+beverages and snack items contributes about an additional 250 calories per day among the 
+
+overweight and obese population, and Krebs-Smith (Ref. 35) estimates that about 20 percent of 
+
+that extra calorie intake is attributable to items purchased from vending machines. Twenty 
+
+percent of 250 calories amounts to 50 calories per day from items purchased from vending 
+
+machines. However, it is important to note that these studies were not based on a representative 
+
+sample of the U.S. population and thus might over- or under-estimate the amount of calorie 
+
+intake from food sold from vending machines. In addition, many potential substitutes to sugar-
+
+sweetened beverages and snack items typically have a similar number of calories per serving.  
+
+For example, 12 ounces (oz) of fruit juice or reduced-fat 2-percent milk contain a similar number 
+
+of calories as 12 oz of sugar-sweetened beverage (140 calories).  In other words, calorie labeling 
+
+may not necessarily drive substitution toward lower calorie items.  
+
+Because FDA does not have comprehensive data on how consumption patterns would 
+
+change in the long run due to the proposed requirements, and because FDA does not have data 
+
+on how vending machine operators would respond to the proposed requirements, FDA estimates 
+
+a benchmark response by the adult obese population that would be needed for the proposed 
+
+requirements to have a positive net benefit. This benchmark is not an estimate of the real effect 
+
+of the implementation of the proposed requirements, but an exercise to illustrate the magnitude 
+
+of the response needed. The benchmark benefits are calculated by summing Quality Adjusted 
+
+Life Years (QALYs) gained and medical costs averted from the benchmark decline in obesity. 
+
+QALYs  One approach to estimating health benefits involves the use of QALYs. QALYs 
+
+can be used to measure the loss of well-being that an individual suffers due to a disease or 
+
+condition.  QALYs do not include the value of health expenditures caused by the condition in 
+
+ 
+
+  21
+
+question; we estimate health expenditures separately.  QALYs range from 0 to 1 where 0 is 
+
+equivalent to death and 1 is equivalent to perfect health for 1 year. A number of methods have 
+
+been constructed to measure QALYs. In this analysis we rely on estimates of the obesity related 
+
+QALYs by Jia and Lubetkin that use a statistical method developed by Cutler and Richardson 
+
+(Refs. 36, 37, 38).  In this context, the method uses regression analysis to estimate the effect of 
+
+particular conditions on overall health status (Ref. 38).  The study finds that the QALYs lost by 
+
+the U.S. adult population due to annual obesity related illness and lost quality adjusted life 
+
+expectancy based on 2005 through 2008 data are 0.0410 per adult, with approximately 57 
+
+percent of this burden coming from disability and activity limitations rather than premature death 
+
+(Refs. 37 and 38).  Based on the U.S. Census Bureau Statistical Abstract of the United States: 
+
+2011, the 18 and over population of the United States in 2009 was 232,458,000 (Ref. 39). The 
+
+total estimate of lost QALYs from obesity for adults in the United States is then 9,530,778 
+
+QALYs.  FDA notes in section I.A. of this document that 34 percent of the adult population is 
+
+obese.  Therefore, approximately 79,035,720 adults (232,458,000 x 34%) are obese, and the lost 
+
+QALY per obese adult is 0.121 QALY.  
+
+FDA uses a range to estimate the value of an additional year of life to reflect the 
+
+uncertainty in the literature on valuation. Beginning with an estimate of the value of a statistical 
+
+life year (VSLY) of $7.9 million, we annualize this estimate to yield a value of an additional year 
+
+of life of $106,000, $213,000, $319,000 and $532,000. Calculations for estimated benefits will 
+
+reflect these four estimates of the VSLY. Using these values and the estimate of 0.121 QALY 
+
+per obese adult, the annualized cost per obese adult of lost QALYs, including both disability and 
+
+premature death due to obesity is estimated as in the range of $13,000 ($106,000 x 0.121), 
+
+$26,000 ($213,000 x 0.121), $38,000 ($319,000 x 0.121) and $64,000 ($532,000 x 0.121). The 
+
+ 
+
+  22
+
+corresponding total burdens from lost QALYs associated with obesity in the U.S. adult 
+
+population are then $1.028 trillion, $2.055 trillion, $3.003 trillion and $5.058 trillion. Note that 
+
+these estimates are for the annual lost QALYs of all obese adults and are not estimates of the 
+
+benefits of the proposed requirements. 
+
+Medical Costs. The estimated medical expense reduction is calculated using data from 
+
+the Medical Expenditure Panel Survey (MEPS). MEPS is a nationally representative survey of 
+
+the civilian non-institutionalized population. MEPS contain detailed information on the 
+
+respondents’ medical expenditures, such as total annual medical expense by type of service and 
+
+source of payment. In addition, the data also include demographic information (age, race, gender 
+
+etc.) along with individual’s body mass index (BMI) based on self-reported measure of height 
+
+and weight.  
+
+Using 2006 MEPS data, Finkelstein and colleagues found that the annual obesity 
+
+attributable medical costs for obese adults (BMI greater or equal to 30) relative to normal weight 
+
+adults (BMI greater than or equal to 18.5 and less than 25) was between $85,739,000 and 
+
+$146,624,000 in 2008 dollars. From Flegal and colleagues, 34 percent of adults were obese in 
+
+2006. With an adult population in 2006 of 224,583,000, the number of obese adults in 2006 was 
+
+approximately 76,358,220 (224,583,000 x 34%), yielding a per-obese cost of between $1.14 and 
+
+$1.94 per obese adult in 2010 dollars (Ref. 18).  Using the previous estimate of 79,035,720 obese 
+
+adults, this translates into between $89.9 billion and $153.7 billion in medical costs associated 
+
+obesity, and a mean estimate of $121.8 billion.  Note that these estimates are additional medical 
+
+costs for all obese adults and are not estimates of the benefits of the proposed requirements. 
+
+Calorie reduction. Based on 2003 through 2004 NHANES data, Mancino and 
+
+colleagues estimate that consuming a meal not prepared at home added an extra 239 calories to 
+
+ 
+
+  23
+
+the diet of obese individuals when compared to consuming a meal prepared at home (Ref. 40). 
+
+NHANES data shows an estimated four meals eaten away from home per week (Ref. 40). This 
+
+translates to an average of roughly 140 extra calories per day (239 cal/meal x 4 meals/week /7 
+
+days/week).  
+
+Studies of consumer response to vending machine calorie disclosure have been difficult 
+
+to find. Restaurant menus studies of calorie disclosure have found that responses were often 
+
+small or insignificant, but varied widely across different subgroups, ranging from increases in 
+
+calorie intake for some populations to reductions of up to approximately 50 calories per meal for 
+
+other groups (Refs. 41 through 46). Consumer response to reformulations and menu changes are 
+
+also likely to be highly diverse. Taking a rough, unweighted average of the range of observed 
+
+consumer responses for restaurant menus suggests that a 10-percent reduction in the additional 
+
+calories consumed may be possible. For this proposed rule, we use a 10-percent reduction of the 
+
+calories from vended food as a benchmark. This reduction may be possible for at least some 
+
+populations, and may be supported by additional changes to the calorie amounts in the foods 
+
+offered in vending machines. We therefore base our benchmark on an average decrease in calorie 
+
+intake of 24 calories per meal (240 calories per meal x 10%), or 14 calories per day (140 calories 
+
+per day x 10%) or 100 per week (14 calories per day x 7 days/week) by obese adults. We will 
+
+further reduce this amount relative to the fraction of calories from vended food versus all 
+
+restaurant and restaurant-type food.  
+
+Weight and BMI reduction. In order to convert this benchmark calorie reduction to U.S. 
+
+population weight and BMI reductions we use a non-linear steady state model developed by Hall 
+
+and Jordan for the calculation of individual weight loss using daily calorie reduction, height, 
+
+initial weight, age, gender, fat mass, and physical activity level, (Ref. 47).  In order to calculate 
+
+ 
+
+  24
+
+weight loss using NHANES U.S. population we implemented this model in symbolic algebra 
+
+software which can solve nonlinear systems involving large matrices of data.   
+
+On the advice of Hall and Jordan, we use 2003 through 2004 NHANES data rather than 
+
+the most recent (2007 through 2008) NHANES data in order to be able to use the dual energy x-
+
+ray absorptiometry data file. This data measures total fat mass for individuals, allowing for a 
+
+much more accurate calculation of weight reduction than would be possible without this data. 
+
+We do not use the MEPS data because height and weight are needed for calculating weight loss, 
+
+and are not given in the public dataset. Furthermore, height and weight are self reported in 
+
+MEPS, and may therefore be biased. 
+
+In addition to the NHANES dual x-ray data file, we use demography, body measurement 
+
+and physical activity questionnaire data. The physical activity data is converted into physical 
+
+activity level/metabolic equivalent of task, or PAL/MET scores using the recommended values 
+
+given in the NHANES documentation.  For missing values (approximately 1/3 of the 
+
+observations), we assume the lowest level of activity (1.4).  Given that individuals with lower 
+
+levels of background activity lose more weight, this assumption means that the calculated weight 
+
+reductions may be slightly higher than if all scores were known. 
+
+Using the weight reduction calculator and NHANES data, we estimate that a 14 calorie 
+
+per day or 100 calorie per week reduction translates to a mean weight loss of 1.2 kilograms, from 
+
+a range of 0.5 to 1.8 kilograms for U.S. adults over the age of 18. This decrease in weight 
+
+translates to a mean decline in BMI of 0.455 BMI per obese adult from a range of 0.14 to 0.73. 
+
+We contextualize this drop against the decline in BMI needed to bring the average obese adult 
+
+BMI down to the average non-obese BMI. From NHANES 2003 through 2004 data the mean 
+
+non-obese BMI is 24.7 and the mean obese BMI is 35.4, for a difference of 10.7 BMI points. We 
+
+ 
+
+  25
+
+can then characterize the 0.455 drop in BMI as a 4.3 percent drop in obesity as measured by 
+
+excess BMI relative to the non-obese. Summing the estimates of QALY gains and medical cost 
+
+abatement for all obese adults and taking 4.3 percent yields a range of $91 billion to $222 billion, 
+
+with an intermediate estimate of $133 billion for the total cost of obesity in adults. Note that this 
+
+is not an estimate of the benefit of the proposed requirements. 
+
+Benchmark fraction of obese adults. Owing to the complexity of the causes of the 
+
+obesity problem, and the complexity of the choices involved in choosing food away from home, 
+
+we do not expect the proposed rule to reduce calories by this amount.  However, we illustrate 
+
+benefits by using a benchmark response that would be needed to create a positive net benefit 
+
+from the rule. As a benchmark only, and not as an estimate of the actual benefits associated with 
+
+the proposed rule, we consider the benefit associated with a 4.3 percent reduction in excess BMI. 
+
+In particular, we calculate the minimum percentage of obese consumers that would need to 
+
+reduce calorie intake in order for the proposed requirements to have positive net benefits.    
+
+Given the estimated mean cost for the proposed requirements of approximately $25.8 
+
+million, and the estimated intermediate benefit of $133 billion for all obese adults, if at least 0.02 
+
+percent ($25.8 million/$133 billion) of the adult obese population responded to the calorie 
+
+disclosure, then the proposed requirements would have a positive net benefit.  
+
+It is important to note here that these benchmark figures were drawn from data that was 
+
+restricted to obese adults only (age greater than 18).  As such, the estimated reductions in 
+
+medical expenses may be conservative estimates (Ref. 48). Conversely, this research suggests 
+
+that weight-reducing behavior in one person might spread to others as well, and thus policies 
+
+designed to bring about a reduction in body weight might be more cost effective than estimated.   
+
+ 
+
+  26
+
+We did not account for the benefit that might be accrued by children in our analysis.  
+
+Reduction in childhood obesity has been linked with many dimensions of human capital 
+
+formation such as better educational and labor market outcomes (Ref. 48). It is reasonable to 
+
+expect that the reduction in calorie consumption due to nutrition labeling of food sold in vending 
+
+machines will not be limited to adults, but may also benefit children and adolescents in terms of 
+
+healthier eating choices.  Eighty-seven percent of all junior high and middle schools and 25 
+
+percent of all elementary schools have vending machines where children can buy foods, 
+
+including drinks (Refs. 49).  
+
+C.  Option 2:  Similar to the Proposed Rule, But Estimating the Cost of Individual Signs for 
+
+Each Article of Food or Selection Button. 
+
+i. Costs.  This option would substantially increase the cost of disclosing calories.  
+
+Because firms would need to manage signs for each covered vending machine food (or small 
+
+groups of covered vending machine food) under this option, the displayed calorie information 
+
+would potentially need to be changed every time a machine was filled.  FDA estimates that 
+
+displays would need to be changed an average of four times per year, under this option. FDA 
+
+requests comment on this estimate.  Workers would have to sort, affix, and change signs as the 
+
+product mix changed. Therefore, FDA estimates that this approach would increase the labor 
+
+costs of the proposed option to between $32 million and $134.4 million. Total initial costs for 
+
+this option are between $36.5 million and $142.2 million. FDA requests comment on this 
+
+estimate. The total costs of this option are provided in table 3 of this document. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost 
+
+Initial Calorie Analysis  
+Sign Costs 
+Signage Labor Costs 
+Total First Year Costs 
+Total Recurring Costs 
+Annualized Costs, 3% 
+Annualized Costs 7% 
+
+  27
+
+Table 3.--Option 2 Costs 
+
+Low Estimate 
+
+$0.7 million 
+$4.0 million 
+$32.0 million 
+$36.7 million 
+$36.0 million 
+$36.1 million 
+$36.6 million 
+
+Mean Estimate 
+
+$1.8 million 
+$4.8 million 
+$76.8 million 
+$83.4 million 
+$81.6 million 
+$81.8 million 
+$82.5 million 
+
+High Estimate 
+
+$3.0 million 
+$5.6 million 
+$134.4 million 
+$143.0 million 
+$140.0 million 
+$140.4 million 
+$141.1 million 
+
+ ii.  Benefits.  Because calorie information would likely be more prominently displayed 
+
+under this option, consumers are more likely to absorb and respond to the information.  
+
+Therefore, this option makes a higher response scenario more likely. However, because FDA 
+
+does not have the data on how consumers’ consumption pattern would change due to this 
+
+proposed option, it is not possible to estimate the probability with which a response might occur. 
+
+The substantially higher costs for this option would require a greater effect in order to break 
+
+even. In this case, given the estimated mean cost for the proposed requirements of approximately 
+
+$82.9 million, and the estimated intermediate benefit of $133 billion for all obese adults, if at 
+
+least 0.06 percent ($82.9 million/$133 billion) of the adult obese population responded to the 
+
+calorie disclosure, then the proposed requirements would have a positive net benefit over the 
+
+initial costs.   
+
+ 
+
+D.  Option 3:  Similar to the Proposed Rule, But With an Additional Year of Compliance 
+
+Time for Firms With Less Than $500,000 in Annual Revenue. 
+
+i.  Costs.  This option would give smaller firms more time to comply with the proposed 
+
+requirements.  Given the recurring nature of the costs, giving these firms more time to come into 
+
+compliance would, in effect, relieve these firms from the costs of compliance for an additional 
+
+year.  From the 2007 Economic Census, more than 50 percent of vending machine operators and 
+
+ 
+
+  28
+
+food service contractors had sales less than $500,000.  If this figure holds for all operators of 
+
+vending machines selling covered vending machine food, then at least 6,750 operators would 
+
+have extra time to comply. Based on the share of sales, FDA estimates that the vending machine 
+
+operators with sales below $500,000 account for approximately 13 percent of vending machines.  
+
+Taking a 13 percent reduction in the costs of labeling yields a first-year cost of between $11.7 
+
+million and $38.4 million, with a mean estimate of $23.5 million.  It is important to note, that the 
+
+lower costs in this option are simply avoided costs for the additional year for small firms rather 
+
+than a reduction in the initial or ongoing costs of compliance. FDA believes that the compliance 
+
+time given in the proposed rule is adequate to prevent additional costs of compliance from 
+
+additional staff, overtime or expedited analysis and printing jobs that would disproportionally 
+
+affect smaller entities. 
+
+ii.  Benefits.  Under this option, consumers would see calorie declarations for some food 
+
+sold in vending machines later and in a more piecemeal fashion than under the proposed rule. 
+
+This delay may lower the initial health impact of the proposed rule, and delay the expected 
+
+increase in consumer awareness of calorie intake from vending machine food. This may, in turn, 
+
+lower, or at least delay, the overall benefit of requiring calorie disclosures for covered vending 
+
+machine food in proportion to the number of machines that would fall into the delayed 
+
+compliance period. In general, however, the benefits associated with calorie reduction are long 
+
+term, and therefore relatively unaffected by a 1-year delay in compliance for small businesses. 
+
+FDA estimates that the benefits associated with Option 3 are not different from the benefits 
+
+associated with the proposed rule.  
+
+ 
+
+ 
+
+ 
+
+  29
+
+E.  Option 4:  Similar to the Proposed Rule, But With Coverage Extended to All Bulk 
+
+Vending Machines. 
+
+ 
+
+Under this option, coverage would extend to bulk vending machines without selection 
+
+buttons.  
+
+i. Costs.  Under this option, between 5 million and 7 million machines and approximately 
+
+13,500 firms would be covered. This means that all costs would increase by approximately 
+
+20 percent over the costs of the proposed rule. Although the average cost per covered bulk 
+
+machine would be under $5 (($31.7 million-$25.3 million)/1.3 million), this represents a 
+
+significantly higher proportion of per machine annual revenue, approximately 3 percent per 
+
+machine ($5 average cost /$147 average annual revenue) (Ref. 2). For machines covered 
+
+under the proposed rule, this ratio of cost to revenue is less than one-tenth of 1 percent of 
+
+average annual revenue ($5 average cost /$6,722 annual revenue) (Ref. 2). The costs of 
+
+Option 4 are given in table 4 of this document. 
+
+Table 4.--Total Costs, Option 4 
+
+Cost 
+
+Initial calorie analysis  
+Sign costs 
+Signage adjustment costs 
+Total first year costs 
+Total recurring costs 
+Annualized Costs, 3% 
+Annualized Costs 7% 
+
+ 
+
+Low Estimate 
+
+$0.7 million 
+$5.0 million 
+$10.0 million 
+$15.7 million 
+$15.0 million 
+$15.1 million 
+$15.8 million 
+
+Mean Estimate 
+
+$1.8 million 
+$6.0 million 
+$24.0 million 
+$31.8 million 
+$30.0 million 
+$30.2 million 
+$31.0 million 
+
+High Estimate 
+
+$3.0 million 
+$7.0 million 
+$42.0 million 
+$52.0 million 
+$49.0 million 
+$49.4 million 
+$50.3 million 
+
+ii. Benefits. Because consumer spending on foods sold from bulk vended machines with 
+
+no selection buttons comprises less than 0.5 percent of all vending expenditure, FDA uses the 
+
+same estimate of benefits for this option as for the proposed rule. With total initial costs of $31.7, 
+
+the break-even point for this option is 0.02 percent of obese adults.  
+
+ 
+
+ 
+
+  30
+
+III. References 
+
+1.  Automatic Merchandiser. “2010 State of the Vending Industry Report.” 
+
+http://www.vendingmarketwatch.com/content/reports/ accessed, November 09, 2010. 
+
+2.  National Automatic Merchandising Association. “Comments of: The National 
+
+Automatic Merchandising Association.” Docket No. FDA-2010-N-0298 2010. 
+
+3.  U.S. Small Business Administration. “Table of Small Business Size Standards 
+
+Matched to North American Industry Classification System Codes,” Effective November 5, 
+
+2010. 
+
+http://www.sba.gov/idc/groups/public/documents/sba_homepage/serv_sstd_tablepdf.pdf, 
+
+accessed 12/10/2010. 
+
+4. 
+
+Jed, E. “Operators Find Today's Patrons Favor 'Better-For-You' Food Selections            
+
+In Vending,” Vending Times, 41:8, 2001. 
+
+5. 
+
+ Finkelstein, E.A.and K.L. Strombotne. “The Economics of Obesity.” American 
+
+Journal of Clinical Nutrition, 91(5): 1520S-1524S, May 2010. 
+
+6. 
+
+Philipson, T. and R. Posner. “Is the Obesity Epidemic a Public Health Problem? A 
+
+Decade of Research on the Economics of Obesity.” NBER Working Paper Series, 14010, 
+
+May 2008. 
+
+7.  Downs, J.S., G. Loewenstein and J. Wisdom. “Strategies for Promoting Healthier 
+
+Food Choices.” American Economic Review: Papers and Proceedings, 99(2): 1-10, 2009. 
+
+8.  O’Donoghue, T. and M. Rabin. “The Economics of Immediate Gratification.” Journal 
+
+of Behavioral Decision Making, 13(2): 233-250, 2000. 
+
+9. 
+
+ O’Donoghue, T. and M. Rabin. “Doing it Now or Later.” American Economic 
+
+Review, 89(1): 103-124, 1999. 
+
+ 
+
+  31
+
+10.  Wang, Y., M.A. Beydoun, L. Liang,  B. Cabellero and S.K. Kumanyika,  “Will all 
+
+Americans Become Overweight or Obese? Estimating the Progression and Cost of the US 
+
+Obesity Epidemic.” Obesity, 16(10): 2323 – 2330, 2008.  
+
+11.  Ogden, C.L. and M.D. Carroll. “Prevalence of Overweight, Obesity, and Extreme 
+
+Obesity Among Adults: United States, Trends 1976–1980 Through 2007–2008.” National 
+
+Center for Health Statistics, June 2010. 
+
+12.  Sullivan, P.W., V. Ghusheyan, and R.H. Ben-Joseph. “The Effect of Obesity and 
+
+Cardiometabolic Risk Factor on Expenditures and Productivity in the US.” Obesity, 16: 
+
+2155 – 2162, 2008.  
+
+13.  Ali, M.M., A. Amialchuk, and F. Renna.. “Social Network and Weight Misperception 
+
+Among Adolescents”. Southern Economic Journal, Forthcoming, (2010a).   
+
+14.  Cawley, J., K. Joyner, and J. Sobal. “Size Matters: The Influence of Adolescent’s 
+
+Weight and Height on Dating and Sex.” Rationality and Society, 18(1): 67 – 94, 2006. 
+
+15.  Ali, M.M., H. Fang, and J. Rizzo. (2010b). “Body Weight, Self-Perception and 
+
+Mental Health among Adolescents.” Journal of Mental Health Policy and Economics, 
+
+13(2): 53 – 63 (2010b). 
+
+16.  Puhl, R., and K.D. Brownell. “Bias, Discrimination, and Obesity.” Obesity Research, 
+
+9(12): 788-805, 2001 
+
+17.  Cawley, J. “The Impact of Obesity on Wages.” Journal of Human Resources, 39(2): 
+
+451 – 474, 2004.  
+
+18.  Finkelstein, E.A., J.G. Trogdon, J.W. Cohen and W. Dietz. “Annual Medical 
+
+Spending Attributable to Obesity: Payer- and Service-Specific Estimates.” Health Affairs, 
+
+28(5): w822-w831, 2009. 
+
+ 
+
+  32
+
+19.  Lakdawalla, D. and T.J. Philipson. “The Growth of Obesity and Technological 
+
+Change: A Theoretical and Empirical Examination,” NBER Working Paper No. 8946, 
+
+2002. 
+
+20.  Philipson, T. J. and R.A. Posner, . “The Long-Run Growth in Obesity as a Function 
+
+of Technological Change.” NBER Working Paper No. 7423, 1999. 
+
+21.  Cutler, D. M., E. L. Glaeser, and J.M. Shapiro, “Why Have Americans Become More 
+
+Obese?” Journal of Economic Perspectives, 17: 93-118, 2003.  
+
+22.  Chou, S-Y., M. Grossman, and H. Saffer.. “An Economic Analysis of Adult Obesity: 
+
+Results from the Behavioral Risk Factor Surveillance System.” Journal of Health 
+
+Economics, 23: 565-587, 2004. 
+
+23.  Burke, M. and F. Heiland). “Social Dynamics of Obesity.”  Economic Inquiry, 45(3), 
+
+571-591, 2007. 
+
+24.  French, S.A., R.W. Jeffery, M. Story,  P. Hannan,  and P. Snyder. “A Pricing Strategy 
+
+to Promote Low-Fat Snack Choices through Vending Machines”. American Journal of 
+
+Public Health, 87: 849 – 851, 1997. 
+
+25.  U.S. Department of Agriculture Economic Research Service. “Table 15: Sales of 
+
+meals and snacks away from home by type of outlet.” Food CPI and Expenditures: Food 
+
+Expenditure Tables. http://www.ers.usda.gov/Briefing/CPIFoodAndExpenditures/Data/ 
+
+Accessed 10/8/2010. 
+
+26.  RL Food Testing Laboratory. “Quality Nutrition Analysis.” 
+
+http://www.rlfoodtestinglaboratory.com/services.asp, accessed September 23, 2010. 
+
+27.  FoodCalc LLC. “Menucalc Plans.” 
+
+http://www.menucalc.com/recipeanalysisplans.aspx, accessed September 23, 2010. 
+
+ 
+
+  33
+
+28.  Bureau of Labor Statistics, U.S. Department of Labor, Occupational Employment 
+
+Statistics, http://www.bls.gov/oes/current/oes_nat.htm, accessed September 23, 2010. 
+
+29.  Eastern Research Group, Inc.  “Evaluation of Recordkeeping Costs for Food   
+
+Manufacturers, Final Report.”  Prepared for Andy Estrin and Cristina McLaughlin of 
+
+FDA's Center for Food Safety and Applied Nutrition. Prepared by Aylin Sertkaya, Ayesha 
+
+Berlind and Seda Erdem. Contract No. 223-01-2461, Task Order Number 5, February 
+
+2007. 
+
+30.  New York Times, 1920. City’s Soda Cost Millions Monthly: Tax on Soft Drinks in 
+
+Manhattan and Bronx in February and March is $465,445. New York Times, May 23, 
+
+1920. 
+
+31.  Caraher, M. and G. Cowburn. “Taxing Food: Implications for Public Health 
+
+Nutrition.” Public Health Nutrition 8 (8), 1242–1249, 2005. 
+
+32.  Brownell, K.D. and T.R. Frieden.  “Ounces of Prevention — The Public Policy Case 
+
+for Taxes on Sugared Beverages.” New England Journal of Medicine 360, 18, 2009.  
+
+33.  Fletcher, J.M., D. Frisvold and N. Tefft. “The Effects of Soft Drink Taxes on Child 
+
+and Adolescent Consumption and Weight Outcomes.” Journal of Public Economics, 
+
+94:967—974, 2010. 
+
+34.  Kakarala, M., D.R. Keast, and S. Hoerr. “Schoolchildren’s Consumption of 
+
+Competitive Foods and Beverages, Excluding à la Carte.” Journal of School Health, 80(9): 
+
+429 – 435, 2010. 
+
+35.  Krebs-Smith S.M. “Choose Beverages and Foods to Moderate your Intake of Sugars: 
+
+Measurement Requires Quantification. Journal of Nutrition, 131:527S-535S, 2001. 
+
+ 
+
+  34
+
+36.  Cutler, D.M. and E. Richardson, “Measuring the Health of the U.S. Population,” 
+
+Brookings Paper, Microeconomics, 217–271, 1997. 
+
+37.  Jia, H. and E. Lubetkin. “Obesity-Related Quality-Adusted Life Years Lost in the 
+
+U.S. from 1993-2008,” American Journal of Preventive Medicine, 39(3):220-227, 2010. 
+
+38.  Jia, H. and E. Lubetkin. “Trends in Quality-Adjusted Life-Years Lost Contributed by 
+
+Smoking and Obesity,” American Journal of Preventive Medicine, 38(2):138-144, 2010. 
+
+39.  U.S. Census Bureau, Statistical Abstract of the United States: 2011 (130th Edition) 
+
+Washington, DC, 2010; < http://www.census.gov/compendia/statab/>. 
+
+40.  Mancino, L., J. Todd, and B.H. Lin.  “Separating what We Eat from where: 
+
+Measuring the Effect of Food Away from Home on Diet.” Food Policy, 34: 557 – 562, 
+
+2009. 
+
+41.  Elbel, B., R. Kersh, V.L. Brescoll, and L.B. Dixon. "Calorie Labeling And Food 
+
+Choices: A First Look At The Effects On Low-Income People In New York City." Health 
+
+Affairs, 28(6):W1110-W1121, 2009. 
+
+42.  Yamamoto, J.A., J.B. Yamamoto, B.E. Yamamoto, and L.G. Yamamoto, “Adolescent 
+
+Fast Food and Restaurant Ordering Behavior with and without Calorie and Fat Content 
+
+Menu Information.” Journal of Adolescent Health, 37: 397-402, 2005. 
+
+43.  Variyam, JN. “Do Nutrition Labels Improve Dietary Outcomes? Health Economics, 
+
+17: 695 – 708, 2008. 
+
+44.  Finkelstein, E.A., K. L. Strombotne, N. L. Chan and J. Krieger. “Mandatory Menu 
+
+Labeling in One Fast-Food Chain in King County, Washington,” American Journal of 
+
+Preventive Medicine, 40(2):122-127 2011. 
+
+ 
+
+  35
+
+45.  Elbel, B,, J Gyamfi and R Kersh. “Child and Adolescent Fast-Food Choice and the 
+
+Influence of Calorie Labeling: A Natural Experiment,” International Journal of Obesity,  
+
+Advance online publication, February 15, 2011 
+
+http://www.nature.com/ijo/journal/vaop/ncurrent/pdf/ijo20114a.pdf, Accessed February 16, 
+
+2011. 
+
+46.  Tandon, P. S., J. Wright, C. Zhou, C. B. Rogers, and D. A. Christakis. "Nutrition 
+
+Menu Labeling May Lead to Lower-Calorie Restaurant Meal Choices for Children." 
+
+Pediatrics, 125(2):244-48, 2010. 
+
+47.  Hall, K. and P. Jordan. Modeling weight-loss maintenance to help prevent body 
+
+weight regain,” American Journal of Clinical Nutrition, 88:1495-1503, 2008. 
+
+48.  Cawley, J. . “The Economics of Childhood Obesity.” Health Affairs 29(3): 364 – 371, 
+
+2010.  
+
+49.  Wiecha, J.L., D. Finkelstein, P.J. Troped, M.Fragala, and K.E.Peterson, KE.  “School 
+
+Vending Machine Use and Fast-Food Restaurant Use Are Associated with Sugar 
+
+Sweetened Beverage Intake in Youth.” American Journal of Dietetic Association, 
+
+106:1624-1630, 2006. 
+
+

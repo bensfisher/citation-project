@@ -1,0 +1,5001 @@
+Friday, 
+April 24, 2009 
+Part IV 
+Department of 
+Health and Human 
+Services 
+Centers for Medicare & Medicaid Services 
+42 CFR Parts 405 and 418 
+Medicare Program; Proposed Hospice 
+Wage Index for Fiscal Year 2010; 
+Proposed Rule 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00001 Fmt 4717 Sfmt 4717 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18912 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+DEPARTMENT OF HEALTH AND 
+HUMAN SERVICES 
+Centers for Medicare & Medicaid 
+Services 
+42 CFR Parts 405 and 418 
+[CMS–1420–P] 
+RIN 0938–AP45 
+Medicare Program; Proposed Hospice 
+Wage Index for Fiscal Year 2010 
+AGENCY: Centers for Medicare & 
+Medicaid Services (CMS), HHS. 
+ACTION: Proposed rule; request for 
+comments. 
+SUMMARY: This proposed rule would set 
+forth the hospice wage index for fiscal 
+year 2010. The proposed rule would 
+adopt a MedPAC recommendation 
+regarding a process for certification and 
+recertification of terminal illness. This 
+proposed rule would also continue the 
+phase-out of the wage index budget 
+neutrality adjustment factor (BNAF), 
+which will conclude in 2011. In 
+addition, we are requesting comments 
+on a suggestion to require recertification 
+visits by physicians or advanced 
+practice nurses, and on issues of 
+payment reform for use in possible 
+future policy development. Finally, the 
+proposed rule would make several 
+technical and clarifying changes to the 
+regulatory text. 
+DATES: To be assured consideration, 
+comments must be received at one of 
+the addresses provided below, no later 
+than 5 p.m. on June 22, 2009. 
+ADDRESSES: In commenting, please refer 
+to file code CMS–1420–P. Because of 
+staff and resource limitations, we cannot 
+accept comments by facsimile (FAX) 
+transmission. 
+You may submit comments in one of 
+four ways (please choose only one of the 
+ways listed): 
+1. Electronically. You may submit 
+electronic comments on this regulation 
+to http://www.regulations.gov. Follow 
+the instructions under the ‘‘More Search 
+Options’’ tab. 
+2. By regular mail. You may mail 
+written comments to the following 
+address ONLY: Centers for Medicare & 
+Medicaid Services, Department of 
+Health and Human Services, Attention: 
+CMS–1420–P, P.O. Box 8012, Baltimore, 
+MD 21244–8012. 
+Please allow sufficient time for mailed 
+comments to be received before the 
+close of the comment period. 
+3. By express or overnight mail. You 
+may send written comments (one 
+original and two copies) to the following 
+address ONLY: Centers for Medicare & 
+Medicaid Services, Department of 
+Health and Human Services, Attention: 
+CMS–1420–P, Mail Stop C4–26–05, 
+7500 Security Boulevard, Baltimore, MD 
+21244–1850. 
+4. By hand or courier. If you prefer, 
+you may deliver (by hand or courier) 
+your written comments before the close 
+of the comment period to either of the 
+following addresses: 
+a. For delivery in Washington, DC— 
+Centers for Medicare & Medicaid 
+Services, Department of Health and 
+Human Services, Room 445–G, Hubert 
+H. Humphrey Building, 200 
+Independence Avenue, SW., 
+Washington, DC 20201. 
+(Because access to the interior of the 
+Hubert H. Humphrey Building is not 
+readily available to persons without 
+Federal Government identification, 
+commenters are encouraged to leave 
+their comments in the CMS drop slots 
+located in the main lobby of the 
+building. A stamp in clock is available 
+for persons wishing to retain a proof of 
+filing by stamping in and retaining an 
+extra copy of the comments being filed.) 
+b. For delivery in Baltimore, MD— 
+7500 Security Boulevard, Baltimore, MD 
+21244–1850. 
+If you intend to deliver your 
+comments to the Baltimore address, 
+please call telephone number (410) 786– 
+9994 in advance to schedule your 
+arrival with one of our staff members. 
+Comments mailed to the addresses 
+indicated as appropriate for hand or 
+courier delivery may be delayed and 
+received after the comment period. 
+Submission of comments on 
+paperwork requirements. You may 
+submit comments on this document’s 
+paperwork requirements by following 
+the instructions at the end of the 
+‘‘Collection of Information 
+Requirements’’ section in this 
+document. 
+For information on viewing public 
+comments, see the beginning of the 
+SUPPLEMENTARY INFORMATION section. 
+FOR FURTHER INFORMATION CONTACT: 
+Randy Throndset (410) 786–0131. 
+Katie Lucas (410) 786–7723. 
+SUPPLEMENTARY INFORMATION: 
+Inspection of Public Comments: All 
+comments received before the close of 
+the comment period are available for 
+viewing by the public, including any 
+personally identifiable or confidential 
+business information that is included in 
+a comment. We post all comments 
+received before the close of the 
+comment period on the following Web 
+site as soon as possible after they have 
+been received: http:// 
+www.regulations.gov. Follow the search 
+instructions on that Web site to view 
+public comments. 
+Comments received timely will also 
+be available for public inspection as 
+they are received, generally beginning 
+approximately 3 weeks after publication 
+of a document, at the headquarters of 
+the Centers for Medicare & Medicaid 
+Services, 7500 Security Boulevard, 
+Baltimore, Maryland 21244, Monday 
+through Friday of each week from 8:30 
+a.m. to 4 p.m. To schedule an 
+appointment to view public comments, 
+phone 1–800–743–3951. 
+Table of Contents 
+I. Background 
+A. General 
+1. Hospice Care 
+2. Medicare Payment for Hospice Care 
+B. Hospice Wage Index 
+1. Raw Wage Index Values (Pre-Floor, Pre- 
+Reclassified Hospital Wage Index) 
+2. Changes to Core-Based Statistical Area 
+(CBSA) Designations 
+3. Definition of Urban and Rural Areas 
+4. Areas Without Hospital Wage Data 
+5. CBSA Nomenclature Changes 
+6. Wage Data for Multi-Campus Hospitals 
+7. Hospice Payment Rates 
+II. Provisions of the Proposed Rule 
+A. FY 2010 Proposed Hospice Wage Index 
+1. Background 
+2. Areas Without Hospital Wage Data 
+3. FY 2010 Wage Index With 75% Reduced 
+Budget Neutrality Adjustment Factor 
+(BNAF) 
+4. Effects of Phasing Out the BNAF 
+B. Proposed Change to the Physician 
+Certification and Recertification Process, 
+§ 418.22 
+C. Proposed Update of Covered Services, 
+§ 418.202(f) 
+D. Proposed Clarification of Payment 
+Procedures for Hospice Care, § 418.302 
+E. Proposed Clarification of Intermediary 
+Determination and Notice of Amount of 
+Program Reimbursement, § 405.1803 
+F. Proposed Technical and Clarifying 
+Changes 
+III. Requests for Comments on Other Policy 
+Issues 
+A. Recertification Visits, § 418.22 
+B. Hospice Aggregate Calculation 
+C. Hospice Payment Reform 
+IV. Update on Additional Hospice Data 
+Collection 
+V. Collection of Information Requirements 
+VI. Regulatory Impact Analysis 
+I. Background 
+A. General 
+1. Hospice Care 
+Hospice care is an approach to 
+treatment that recognizes that the 
+impending death of an individual 
+warrants a change in the focus from 
+curative care to palliative care for relief 
+of pain and for symptom management. 
+The goal of hospice care is to help 
+terminally ill individuals continue life 
+with minimal disruption to normal 
+activities while remaining primarily in 
+the home environment. A hospice uses 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18913 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+an interdisciplinary approach to deliver 
+medical, nursing, social, psychological, 
+emotional, and spiritual services 
+through use of a broad spectrum of 
+professional and other caregivers, with 
+the goal of making the individual as 
+physically and emotionally comfortable 
+as possible. Counseling services and 
+inpatient respite services are available 
+to the family of the hospice patient. 
+Hospice programs consider both the 
+patient and the family as a unit of care. 
+Section 1861(dd) of the Social Security 
+Act (the Act) provides for coverage of 
+hospice care for terminally ill Medicare 
+beneficiaries who elect to receive care 
+from a participating hospice. Section 
+1814(i) of the Act provides payment for 
+Medicare participating hospices. 
+2. Medicare Payment for Hospice Care 
+Our regulations at 42 CFR part 418 
+establish eligibility requirements, 
+payment standards and procedures, 
+define covered services, and delineate 
+the conditions a hospice must meet to 
+be approved for participation in the 
+Medicare program. Part 418, subpart G 
+provides for payment in one of four 
+prospectively-determined rate categories 
+(routine home care, continuous home 
+care, inpatient respite care, and general 
+inpatient care) to hospices based on 
+each day a qualified Medicare 
+beneficiary is under a hospice election. 
+B. Hospice Wage Index 
+Our regulations at § 418.306(c) require 
+that the wage index for all labor markets 
+in which Medicare-participating 
+hospices do business be established 
+using the most current hospital wage 
+data available, including any changes by 
+Office of Management and Budget 
+(OMB) to the Metropolitan Statistical 
+Areas (MSAs) definitions. OMB revised 
+the MSA definitions beginning in 2003 
+with new designations called the Core 
+Based Statistical Areas (CBSAs). For the 
+purposes of the hospice benefit, the 
+term ‘‘MSA-based’’ refers to wage index 
+values and designations based on the 
+previous MSA designations before 2003. 
+Conversely, the term ‘‘CBSA-based’’ 
+refers to wage index values and 
+designations based on the OMB revised 
+MSA designations in 2003, which now 
+include CBSAs. In the August 11, 2004 
+IPPS final rule (69 FR 49026), the 
+revised labor market area definitions 
+were adopted at § 412.64(b), which were 
+effective October 1, 2004 for acute care 
+hospitals. We also revised the labor 
+market areas for hospices using the new 
+OMB standards that included CBSAs. In 
+the FY 2006 hospice wage index final 
+rule (70 FR 45130), we implemented a 
+1-year transition policy using a 50/50 
+blend of the CBSA-based wage index 
+values and the MSA-based wage index 
+values for FY 2006. The one-year 
+transition policy ended on September 
+30, 2006. For FY 2007, FY 2008, and FY 
+2009, we used wage index values based 
+on CBSA designations. 
+The hospice wage index is used to 
+adjust payment rates for hospice 
+agencies under the Medicare program to 
+reflect local differences in area wage 
+levels. The original hospice wage index 
+was based on the 1981 Bureau of Labor 
+Statistics hospital data and had not been 
+updated since 1983. In 1994, because of 
+disparity in wages from one 
+geographical location to another, a 
+committee was formulated to negotiate 
+a wage index methodology that could be 
+accepted by the industry and the 
+government. This committee, 
+functioning under a process established 
+by the Negotiated Rulemaking Act of 
+1990, was comprised of national 
+hospice associations; rural, urban, large 
+and small hospices; multi-site hospices; 
+consumer groups; and a government 
+representative. On April 13, 1995, the 
+Hospice Wage Index Negotiated 
+Rulemaking Committee signed an 
+agreement for the methodology to be 
+used for updating the hospice wage 
+index. 
+In the August 8, 1997 Federal 
+Register (62 FR 42860), we published a 
+final rule implementing a new 
+methodology for calculating the hospice 
+wage index based on the 
+recommendations of the negotiated 
+rulemaking Committee, using a hospital 
+wage index rather than continuing to 
+use the Bureau of Labor Statistics (BLS) 
+data. The committee statement was 
+included in the appendix of that final 
+rule (62 FR 42883). The reduction in 
+overall Medicare payments if a new 
+wage index were adopted was noted in 
+the November 29, 1995 notice 
+transmitting the recommendations of 
+the negotiated rulemaking committee 
+(60 FR 61264). Therefore, the Committee 
+also decided that for each year in 
+updating the hospice wage index, 
+aggregate Medicare payments to 
+hospices would remain budget neutral 
+to payments as if the 1983 wage index 
+had been used. 
+As decided upon by the Committee, 
+budget neutrality means that, in a given 
+year, estimated aggregate payments for 
+Medicare hospice services using the 
+updated hospice values will equal 
+estimated payments that would have 
+been made for these services if the 1983 
+hospice wage index values had 
+remained in effect. Although payments 
+to individual hospice programs may 
+change each year, the total payments 
+each year to hospices would not be 
+affected by using the updated hospice 
+wage index because total payments 
+would be budget neutral as if the 1983 
+wage index had been used. To 
+implement this policy, a BNAF would 
+be computed and applied annually to 
+the pre-floor, pre-reclassified hospital 
+wage index, when deriving the hospice 
+wage index. 
+The BNAF is calculated by computing 
+estimated payments using the most 
+recent completed year of hospice claims 
+data. The units (days or hours) from 
+those claims are multiplied by the 
+updated hospice payment rates to 
+calculate estimated payments. For this 
+proposed rule, that means estimating 
+payments for FY 2010 using FY 2007 
+hospice claims data, and applying the 
+estimated FY 2010 hospice payment 
+rates (updating the FY 2009 rates by the 
+FY 2010 estimated hospital market 
+basket update). The FY 2010 hospice 
+wage index values are then applied to 
+the labor portion of the payment rates 
+only. The procedure is repeated using 
+the same claims data and payment rates, 
+but using the 1983 BLS-based wage 
+index instead of the updated raw pre- 
+floor, pre-reclassified hospital wage 
+index (note that both wage indices 
+include their respective floor 
+adjustments). The total payments are 
+then compared, and the adjustment 
+required to make total payments equal 
+is computed; that adjustment factor is 
+the BNAF. 
+The hospice wage index is updated 
+annually. Our most recent update, 
+published in the Federal Register (73 
+FR 46464) on August 8, 2008, set forth 
+updates to the hospice wage index for 
+FY 2009. That update also finalized a 
+provision for a 3-year phase-out of the 
+BNAF, which was applied to the wage 
+index values. As discussed in detail 
+below, the update was later revised with 
+the February 17, 2009 passage of the 
+American Recovery and Reinvestment 
+Act (ARRA), which eliminated the 
+BNAF phase-out for FY 2009. 
+1. Raw Wage Index Values (Pre-Floor, 
+Pre-Reclassified Hospital Wage Index) 
+As described in the August 8, 1997 
+hospice wage index final rule (62 FR 
+42860), the pre-floor and pre- 
+reclassified hospital wage index is used 
+as the raw wage index for the hospice 
+benefit. These raw wage index values 
+are then subject to either a BNAF or 
+application of the hospice floor 
+calculation to compute the hospice 
+wage index used to determine payments 
+to hospices. 
+Pre-floor, pre-reclassified hospital 
+wage index values of 0.8 or greater are 
+adjusted by the BNAF. Pre-floor, pre- 
+reclassified hospital wage index values 
+below 0.8 are adjusted by the greater of: 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18914 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+(1) The hospice BNAF; or (2) the 
+hospice 15 percent floor adjustment, 
+which is a 15 percent increase subject 
+to a maximum wage index value of 0.8. 
+For example, if County A has a pre- 
+floor, pre-reclassified hospital wage 
+index (raw wage index) value of 0.4000, 
+we would perform the following 
+calculations using the BNAF (which for 
+this example is 0.060988; we added 1 to 
+simplify the calculation) and the 
+hospice floor to determine County A’s 
+hospice wage index: 
+Pre-floor, pre-reclassified hospital 
+wage index value below 0.8 multiplied 
+by the BNAF: (0.4000 × 1.060988 = 
+0.4244) 
+Pre-floor, pre-reclassified hospital 
+wage index value below 0.8 multiplied 
+by the hospice 15 percent floor 
+adjustment: (0.4000 × 1.15 = 0.4600). 
+Based on these calculations, County 
+A’s hospice wage index would be 
+0.4600. 
+The BNAF has been computed and 
+applied annually to the labor portion of 
+the hospice payment. Currently, the 
+labor portion of the payment rates is as 
+follows: For Routine Home Care, 68.71 
+percent; for Continuous Home Care, 
+68.71 percent; for General Inpatient 
+Care, 64.01 percent; and for Respite 
+Care, 54.13 percent. The non-labor 
+portion is equal to 100 percent minus 
+the labor portion for each level of care. 
+Therefore the non-labor portion of the 
+payment rates is as follows: for Routine 
+Home Care, 31.29 percent; for 
+Continuous Home Care, 31.29 percent; 
+for General Inpatient Care, 35.99 
+percent; and for Respite Care, 45.87 
+percent. 
+The August 8, 2008 FY 2009 Hospice 
+Wage Index final rule (73 FR 46464) 
+implemented a phase-out of the hospice 
+BNAF over 3 years, beginning with a 25 
+percent reduction in the BNAF in FY 
+2009, an additional 50 percent 
+reduction for a total of 75 percent in FY 
+2010, and complete phase out of the 
+BNAF in FY 2011. However, subsequent 
+to the publication of the above rule, the 
+American Recovery and Reinvestment 
+Act of 2009 (Pub. L. 111–5) (ARRA) 
+eliminated the BNAF phase-out for FY 
+2009. Specifically, division B, section 
+4301(a) of ARRA prohibited the 
+Secretary from phasing out or 
+eliminating the BNAF in the Medicare 
+hospice wage index before October 1, 
+2009, and instructed the Secretary to 
+recompute and apply the final Medicare 
+hospice wage index for FY 2009 as if 
+there had been no reduction in the 
+BNAF. We have done so in an 
+administrative instruction to our 
+intermediaries, which was issued as 
+Change Request (CR) #6418 (Transmittal 
+#1701, dated 3/13/2009). 
+While ARRA eliminated the BNAF 
+phase-out for FY 2009, it neither 
+changed the 75 percent reduction in the 
+BNAF for FY 2010, nor prohibited the 
+elimination of the BNAF in FY 2011 
+that were previously implemented in 
+the August 8, 2008 Hospice Wage Index 
+final rule. The provision in the ARRA 
+that eliminated the FY 2009 BNAF 
+reduction provided the hospice industry 
+additional time to prepare for the FY 
+2010 75 percent BNAF reduction and 
+the FY 2011 BNAF elimination. 
+Therefore, in accordance with the 
+August 8, 2008 FY 2009 Hospice Wage 
+Index final rule, the rationale presented 
+in that final rule, and consistent with 
+section 4301(a) of ARRA, CMS plans to 
+reduce the BNAF by 75 percent in FY 
+2010 and ultimately eliminate the BNAF 
+in 2011. We are accepting comments on 
+the BNAF reductions. 
+2. Changes to Core Based Statistical 
+Area (CBSA) Designations 
+The annual update to the hospice 
+wage index is published in the Federal 
+Register and is based on the most 
+current available hospital wage data, as 
+well as any changes by OMB to the 
+definitions of MSAs, which now 
+include CBSA designations. The August 
+4, 2005 hospice wage index final rule 
+(70 FR 45130) set forth the adoption of 
+the changes discussed in the OMB 
+Bulletin No. 03–04 (June 6, 2003), 
+which announced revised definitions 
+for Micropolitan Statistical Areas and 
+the creation of MSAs and Combined 
+Statistical Areas. In adopting the OMB 
+CBSA geographic designations, we 
+provided for a 1-year transition with a 
+blended hospice wage index for all 
+hospices for FY 2006. Subsequent fiscal 
+years have used the full CBSA-based 
+hospice wage index. 
+3. Definition of Rural and Urban Areas 
+Each hospice’s labor market is 
+determined based on definitions of 
+MSAs issued by OMB. In general, an 
+urban area is defined as an MSA or New 
+England County Metropolitan Area 
+(NECMA) as defined by OMB. Under 
+§ 412.64(b)(1)(ii)(C), a rural area is 
+defined as any area outside of the urban 
+area. The urban and rural area 
+geographic classifications are defined in 
+§ 412.64(b)(1)(ii)(A) through (C), and 
+have been used for the Medicare 
+hospice benefit since implementation. 
+In the August 22, 2007 FY 2008 
+Inpatient Prospective Payment System 
+(IPPS) final rule with comment period 
+(72 FR 47130), § 412.64(b)(1)(ii)(B) was 
+revised such that the two ‘‘New England 
+deemed Counties’’ that had been 
+considered rural under the OMB 
+definitions (Litchfield County, CT and 
+Merrimack County, NH) but deemed 
+urban, were no longer considered urban 
+effective for discharges occurring on or 
+after October 1, 2007. Therefore, these 
+two counties are considered rural in 
+accordance with § 412.64(b)(1)(ii)(C). 
+The recommendations to adjust 
+payments to reflect local differences in 
+wages are codified in § 418.306(c) of our 
+regulations; however there had been no 
+explicit reference to § 412.64 in 
+§ 418.306(c) before implementation of 
+the August 8, 2008 FY 2009 Hospice 
+Wage Index final rule. Although 
+§ 412.64 had not been explicitly referred 
+to, the hospice program has used the 
+definition of urban in 
+§ 412.64(b)(1)(ii)(A) and (b)(1)(ii)(B), and 
+the definition of rural as any area 
+outside of an urban area in 
+§ 412.64(b)(1)(ii)(C). With the 
+implementation of the August 8, 2008 
+FY 2009 Wage Index final rule, we now 
+explicitly refer to those provisions in 
+§ 412.64 to make it absolutely clear how 
+we define urban and rural for purposes 
+of the hospice wage index. 
+Litchfield County, CT and Merrimack 
+County, NH are considered rural areas 
+for hospital IPPS purposes in 
+accordance with § 412.64. Effective 
+October 1, 2008, Litchfield County, CT 
+was no longer considered part of urban 
+CBSA 25540 (Hartford-West Hartford- 
+East Hartford, CT), and Merrimack 
+County, NH was no longer considered 
+part of urban CBSA 31700 (Manchester- 
+Nashua, NH). Rather, these counties are 
+now considered to be rural areas within 
+their respective States under the hospice 
+payment system. When the raw pre- 
+floor, pre-reclassified hospital wage 
+index was adopted for use in deriving 
+the hospice wage index, it was decided 
+not to take into account IPPS geographic 
+reclassifications. This policy of 
+following OMB designations of rural or 
+urban, rather than considering some 
+counties to be ‘‘deemed’’ urban, is 
+consistent with our policy of not taking 
+into account IPPS geographic 
+reclassifications in determining 
+payments under the hospice wage 
+index. 
+4. Areas Without Hospital Wage Data 
+When adopting OMB’s new labor 
+market designations in FY 2006, we 
+identified some geographic areas where 
+there were no hospitals, and thus, no 
+hospital wage index data on which to 
+base the calculation of the hospice wage 
+index. Beginning in FY 2006, we 
+adopted a policy to use the FY 2005 pre- 
+floor, pre-reclassified hospital wage 
+index value for rural areas when no 
+hospital wage data were available. We 
+also adopted the policy that for urban 
+labor markets without a hospital from 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00004 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18915 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+which hospital wage index data could 
+be derived, all of the CBSAs within the 
+State would be used to calculate a 
+Statewide urban average pre-floor, pre- 
+reclassified hospital wage index value to 
+use as a reasonable proxy for these 
+areas. Consequently, in subsequent 
+fiscal years, we applied the average pre- 
+floor, pre-reclassified hospital wage 
+index data from all urban areas in that 
+state, to urban areas without a hospital. 
+The only affected CBSA is 25980, 
+Hinesville-Fort Stewart, Georgia. 
+Under the CBSA labor market areas, 
+there are no hospitals in rural locations 
+in Massachusetts and Puerto Rico. Since 
+there was no rural proxy for more recent 
+rural data within those areas, in the FY 
+2006 hospice wage index proposed rule 
+(70 FR 22394, 22398), we proposed 
+applying the FY 2005 pre-floor, pre- 
+reclassified hospital wage index value to 
+rural areas where no hospital wage data 
+were available. In the FY 2006 final rule 
+and in the FY 2007 update notice, we 
+applied the FY 2005 pre-floor, pre- 
+reclassified hospital wage index data to 
+areas lacking hospital wage data in rural 
+Massachusetts and rural Puerto Rico. 
+In the FY 2008 hospice wage index 
+final rule (72 FR 50217), we considered 
+alternatives to our methodology to 
+update the pre-floor, pre-reclassified 
+hospital wage index for rural areas 
+without hospital wage data. We 
+indicated that we believed that the best 
+imputed proxy for rural areas would— 
+(1) use pre-floor, pre-reclassified 
+hospital data; (2) use the most local data 
+available to impute a rural pre-floor, 
+pre-reclassified hospital wage index; (3) 
+be easy to evaluate; and (4) be easy to 
+update from year-to-year. 
+Therefore, in FY 2008, and again in 
+FY 2009, in cases where there was a 
+rural area without rural hospital wage 
+data, we used the average pre-floor, pre- 
+reclassified hospital wage index data 
+from all contiguous CBSAs to represent 
+a reasonable proxy for the rural area. 
+This approach does not use rural data, 
+however, the approach uses pre-floor, 
+pre-reclassified hospital wage data, is 
+easy to evaluate, is easy to update from 
+year-to-year, and uses the most local 
+data available. In the FY 2008 hospice 
+wage index final rule (72 FR 50217), we 
+noted that in determining an imputed 
+rural pre-floor, pre-reclassified hospital 
+wage index, we interpret the term 
+‘‘contiguous’’ to mean sharing a border. 
+For example, in the case of 
+Massachusetts, the entire rural area 
+consists of Dukes and Nantucket 
+Counties. We determined that the 
+borders of Dukes and Nantucket 
+Counties are contiguous with Barnstable 
+and Bristol Counties. Under the adopted 
+methodology, the pre-floor, pre- 
+reclassified hospital wage index values 
+for the Counties of Barnstable (CBSA 
+12700, Barnstable Town, MA) and 
+Bristol (CBSA 39300, Providence-New 
+Bedford-Fall River, RI–MA) would be 
+averaged resulting in an imputed pre- 
+floor, pre-reclassified rural hospital 
+wage index for FY 2008. We noted in 
+the FY 2008 final hospice wage index 
+rule that while we believe that this 
+policy could be readily applied to other 
+rural areas that lack hospital wage data 
+(possibly due to hospitals converting to 
+a different provider type, such as a 
+Critical Access Hospital, that does not 
+submit the appropriate wage data), if a 
+similar situation arose in the future, we 
+would re-examine this policy. 
+We also noted that we do not believe 
+that this policy would be appropriate for 
+Puerto Rico, as there are sufficient 
+economic differences between hospitals 
+in the United States and those in Puerto 
+Rico, including the payment of hospitals 
+in Puerto Rico using blended Federal/ 
+Commonwealth-specific rates. 
+Therefore, we believe that a separate 
+and distinct policy for Puerto Rico is 
+necessary. Any alternative methodology 
+for imputing a pre-floor, pre-reclassified 
+hospital wage index for rural Puerto 
+Rico would need to take into account 
+the economic differences between 
+hospitals in the United States and those 
+in Puerto Rico. Our policy of imputing 
+a rural pre-floor, pre-reclassified 
+hospital wage index based on the pre- 
+floor, pre-reclassified hospital wage 
+index(es) of CBSAs contiguous to the 
+rural area in question does not recognize 
+the unique circumstances of Puerto 
+Rico. While we have not yet identified 
+an alternative methodology for imputing 
+a pre-floor, pre-reclassified hospital 
+wage index for rural Puerto Rico, we 
+will continue to evaluate the feasibility 
+of using existing hospital wage data and, 
+possibly, wage data from other sources. 
+For FY 2008 and FY 2009, we used the 
+most recent pre-floor, pre-reclassified 
+hospital wage index available for Puerto 
+Rico, which is 0.4047. 
+5. CBSA Nomenclature Changes 
+The Office of Management and Budget 
+(OMB) regularly publishes a bulletin 
+that updates the titles of certain CBSAs. 
+In the FY 2008 hospice wage index final 
+rule (72 FR 50218) we noted that the FY 
+2008 rule and all subsequent hospice 
+wage index rules and notices would 
+incorporate CBSA changes from the 
+most recent OMB bulletins. The OMB 
+bulletins may be accessed at http:// 
+www.whitehouse.gov/omb/bulletins/ 
+index.html. 
+6. Wage Data From Multi-Campus 
+Hospitals 
+Historically, under the Medicare 
+hospice benefit, we have established 
+hospice wage index values calculated 
+from the raw pre-floor, pre-reclassified 
+hospital wage data (also called the IPPS 
+wage index) without taking into account 
+geographic reclassification under 
+sections 1886(d)(8) and (d)(10) of the 
+Act. The wage adjustment established 
+under the Medicare hospice benefit is 
+based on the location where services are 
+furnished without any reclassification. 
+For FY 2010, the data collected from 
+cost reports submitted by hospitals for 
+cost reporting periods beginning during 
+FY 2005 were used to compute the 2009 
+raw pre-floor, pre-reclassified hospital 
+wage index data without taking into 
+account geographic reclassification 
+under sections 1886(d)(8) and (d)(10) of 
+the Act. This 2009 raw pre-floor, pre- 
+reclassified hospital wage index was 
+used to derive the applicable wage 
+index values for the hospice wage index 
+because these data (FY 2005) are the 
+most recent complete cost data. 
+Beginning in FY 2008, the IPPS 
+apportioned the wage data for multi- 
+campus hospitals located in different 
+labor market areas (CBSAs) to each 
+CBSA where the campuses are located 
+(see the FY 2008 IPPS final rule with 
+comment period 72 FR 47317 through 
+47320). We are continuing to use the 
+raw pre-floor, pre-reclassified hospital 
+wage data as a basis to determine the 
+hospice wage index values for FY 2010 
+because hospitals and hospices both 
+compete in the same labor markets, and 
+therefore, experience similar wage- 
+related costs. We note that the use of 
+raw pre-floor, pre-reclassified hospital 
+(IPPS) wage data, used to derive the FY 
+2010 hospice wage index values, reflects 
+the application of our policy to use that 
+data to establish the hospice wage 
+index. The FY 2010 hospice wage index 
+values presented in this notice were 
+computed consistent with our raw pre- 
+floor, pre-reclassified hospital (IPPS) 
+wage index policy (that is, our historical 
+policy of not taking into account IPPS 
+geographic reclassifications in 
+determining payments for hospice). As 
+implemented in the August 8, 2008 FY 
+2009 Hospice Wage Index final rule, for 
+the FY 2009 Medicare hospice benefit, 
+the hospice wage index was computed 
+from IPPS wage data (submitted by 
+hospitals for cost reporting periods 
+beginning in FY 2004 (as was the FY 
+2008 IPPS wage index)), which 
+allocated salaries and hours to the 
+campuses of two multi-campus 
+hospitals with campuses that are located 
+in different labor areas, one in 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00005 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18916 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+Massachusetts and another in Illinois. 
+Thus, the FY 2009 hospice wage index 
+values for the following CBSAs were 
+affected by this policy: Boston-Quincy, 
+MA (CBSA 14484), Providence-New 
+Bedford-Falls River, RI–MA (CBSA 
+39300), Chicago-Naperville-Joliet, IL 
+(CBSA 16974), and Lake County- 
+Kenosha County, IL–WI (CBSA 29404). 
+7. Hospice Payment Rates 
+Section 4441(a) of the Balanced 
+Budget Act of 1997 (BBA) amended 
+section 1814(i)(1)(C)(ii) of the Act to 
+establish updates to hospice rates for 
+FYs 1998 through 2002. Hospice rates 
+were to be updated by a factor equal to 
+the hospital market basket index, minus 
+1 percentage point. However, neither 
+the BBA nor subsequent legislation 
+specified alteration to the hospital 
+market basket adjustment to be used to 
+compute hospice payment for fiscal 
+years beyond 2002. Payment rates for 
+FYs since 2002 have been updated 
+according to section 1814(i)(1)(C)(ii)(VII) 
+of the Act, which states that the update 
+to the payment rates for subsequent 
+fiscal years will be the market basket 
+percentage for the fiscal year. It has been 
+longstanding practice to use the 
+inpatient hospital market basket as a 
+proxy for a hospice market basket. 
+Historically, the rate update has been 
+published through a separate 
+administrative instruction issued 
+annually, in the summer, to provide 
+adequate time to implement system 
+change requirements. Hospices 
+determine their payments by applying 
+the hospice wage index in this proposed 
+rule to the labor portion of the 
+published hospice rates. 
+II. Provisions of the Proposed Rule 
+A. FY 2010 Proposed Hospice Wage 
+Index 
+1. Background 
+The hospice final rule published in 
+the Federal Register on December 16, 
+1983 (48 FR 56008) provided for 
+adjustment to hospice payment rates to 
+reflect differences in area wage levels. 
+We apply the appropriate hospice wage 
+index value to the labor portion of the 
+hospice payment rates based on the 
+geographic area where hospice care was 
+furnished. As noted earlier, each 
+hospice’s labor market area is based on 
+definitions of MSAs issued by the OMB. 
+For this proposed rule, we will use the 
+pre-floor, pre-reclassified hospital wage 
+index, based solely on the CBSA 
+designations, as the basis for 
+determining wage index values for the 
+proposed FY 2010 hospice wage index. 
+As noted above, our hospice payment 
+rules utilize the wage adjustment factors 
+used by the Secretary for purposes of 
+section 1886(d)(3)(E) of the Act for 
+hospital wage adjustments. We are 
+proposing again to use the pre-floor and 
+pre-reclassified hospital wage index 
+data as the basis to determine the 
+hospice wage index, which is then used 
+to adjust the labor portion of the hospice 
+payment rates based on the geographic 
+area where the beneficiary receives 
+hospice care. We believe the use of the 
+pre-floor, pre-reclassified hospital wage 
+index data, as a basis for the hospice 
+wage index, results in the appropriate 
+adjustment to the labor portion of the 
+costs. For the FY 2010 update to the 
+hospice wage index, we propose to 
+continue to use the most recent pre- 
+floor, pre-reclassified hospital wage 
+index available at the time of 
+publication. 
+2. Areas Without Hospital Wage Data 
+In adopting the CBSA designations, 
+we identified some geographic areas 
+where there are no hospitals, and no 
+hospital wage data on which to base the 
+calculation of the hospice wage index. 
+These areas are described in section 
+I.B.4 of this proposed rule. Beginning in 
+FY 2006, we adopted a policy that, for 
+urban labor markets without an urban 
+hospital from which a pre-floor, pre- 
+reclassified hospital wage index can be 
+derived, all of the urban CBSA pre-floor, 
+pre-reclassified hospital wage index 
+values within the State would be used 
+to calculate a statewide urban average 
+pre-floor, pre-reclassified hospital wage 
+index to use as a reasonable proxy for 
+these areas. Currently, the only CBSA 
+that would be affected by this policy is 
+CBSA 25980, Hinesville, Georgia. We 
+propose to continue this policy for FY 
+2010. 
+Currently, the only rural areas where 
+there are no hospitals from which to 
+calculate a pre-floor, pre-reclassified 
+hospital wage index are Massachusetts 
+and Puerto Rico. In August 2007 (72 FR 
+50217) we adopted a methodology for 
+imputing rural pre-floor, pre-reclassified 
+hospital wage index values for areas 
+where no hospital wage data are 
+available as an acceptable proxy; that 
+methodology is also described in section 
+I.B.4 of this proposed rule. In FY 2010, 
+Dukes and Nantucket Counties are the 
+only areas in rural Massachusetts which 
+are affected. We are again proposing to 
+apply this methodology for imputing a 
+rural pre-floor, pre-reclassified hospital 
+wage index for those rural areas without 
+rural hospital wage data in FY 2010. 
+However, as we noted in section I.B.4 
+of this proposed rule, we do not believe 
+that this policy is appropriate for Puerto 
+Rico. For FY 2010, we again propose to 
+continue to use the most recent pre- 
+floor, pre-reclassified hospital wage 
+index value available for Puerto Rico, 
+which is 0.4047. This pre-floor, pre- 
+reclassified hospital wage index value 
+will then be adjusted upward by the 
+hospice 15 percent floor adjustment in 
+the computing of the proposed FY 2010 
+hospice wage index. 
+3. FY 2010 Wage Index With 75 Percent 
+Reduced Budget Neutrality Adjustment 
+Factor (BNAF) 
+The hospice wage index set forth in 
+this proposed rule would be effective 
+October 1, 2009 through September 30, 
+2010. We are not proposing any 
+modifications to the hospice wage index 
+methodology. In accordance with our 
+regulations and the agreement signed 
+with other members of the Hospice 
+Wage Index Negotiated Rulemaking 
+Committee, we are using the most 
+current hospital data available. For this 
+proposed rule, the FY 2009 hospital 
+wage index was the most current 
+hospital wage data available for 
+calculating the FY 2010 hospice wage 
+index values. We used the FY 2009 pre- 
+floor, pre-reclassified hospital wage 
+index data for this calculation. 
+As noted above, for FY 2010, the 
+hospice wage index values will be based 
+solely on the adoption of the CBSA- 
+based labor market definitions and the 
+hospital wage index. We continue to use 
+the most recent pre-floor and pre- 
+reclassified hospital wage index data 
+available (based on FY 2005 hospital 
+cost report wage data). A detailed 
+description of the methodology used to 
+compute the hospice wage index is 
+contained in the September 4, 1996 
+hospice wage index proposed rule (61 
+FR 46579), the August 8, 1997 hospice 
+wage index final rule (62 FR 42860), and 
+the August 8, 2008 FY 2009 Hospice 
+Wage Index final rule (73 FR 46464). 
+The August 8, 2008 FY 2009 Hospice 
+Wage Index final rule finalized a 
+provision to phase out the BNAF over 
+3 years, with a 25 percent reduction in 
+the BNAF in FY 2009, an additional 50 
+percent reduction for a total of a 75 
+percent reduction in FY 2010, and 
+complete phase out in FY 2011. 
+However, on February 17, 2009, the 
+President signed ARRA (P.L. 111–5); 
+Section 4301(a) of ARRA eliminated the 
+BNAF phase-out for FY 2009. Therefore, 
+in an administrative instruction (Change 
+Request 6418, Transmittal 1701, dated 
+3/13/2009) entitled ‘‘Revision of the 
+Hospice Wage Index and the Hospice 
+Pricer for FY 2009,’’ we instructed CMS 
+contractors to use the revised FY 2009 
+hospice Pricer, which included a 
+revised hospice wage index to reflect a 
+full (unreduced) BNAF rather than the 
+25 percent reduced BNAF set forth in 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18917 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+the August 8, 2008 FY 2009 Hospice 
+Wage Index final rule. 
+While ARRA eliminated the BNAF 
+phase-out for FY 2009, it did not change 
+the 75 percent reduction in the BNAF 
+for FY 2010, or the elimination of the 
+BNAF in FY 2011 that was previously 
+implemented in the August 8, 2008 FY 
+2009 Hospice Wage Index final rule. 
+The provision in ARRA that eliminated 
+the FY 2009 BNAF reduction provided 
+the hospice industry additional time to 
+prepare for the FY 2010 75 percent 
+BNAF reduction and the FY 2011 BNAF 
+elimination. Therefore, in accordance 
+with the August 8, 2008 FY 2009 
+Hospice Wage Index final rule (73 FR 
+46464), the rationale presented in that 
+final rule, and consistent with the 
+section 4301(a) of ARRA, we plan to 
+reduce the BNAF for FY 2010 by 75 
+percent, and ultimately eliminate the 
+BNAF in FY 2011. We are accepting 
+comments on the BNAF reductions. 
+An unreduced BNAF for FY 2010 is 
+computed to be 0.067845 (or 6.7845 
+percent). A 75 percent reduced BNAF, 
+which is subsequently applied to the 
+pre-floor, pre-reclassified hospital wage 
+index values greater than or equal to 0.8, 
+is computed to be 0.016961 (or 1.6961 
+percent). Pre-floor, pre-reclassified 
+hospital wage index values, which are 
+less than 0.8, are subject to the hospice 
+floor calculation; that calculation is 
+described in section I.B.1. 
+The proposed hospice wage index for 
+FY 2010 is shown in Addenda A and B. 
+Specifically, Addendum A reflects the 
+proposed FY 2010 wage index values for 
+urban areas under the CBSA 
+designations. Addendum B reflects the 
+proposed FY 2010 wage index values for 
+rural areas under the CBSA 
+designations. 
+4. Effects of Phasing Out the BNAF 
+The full (unreduced) BNAF calculated 
+for FY 2010 is 6.7845 percent. As 
+implemented in the August 8, 2008 FY 
+2009 Hospice Wage Index final rule (73 
+FR 46464), we are reducing the BNAF 
+by 75 percent for FY 2010, and 
+eliminating it altogether for FY 2011 
+and beyond. 
+For FY 2010, this is mathematically 
+equivalent to taking 25 percent of the 
+full BNAF value, or multiplying 
+0.067845 by 0.25, which equals 
+0.016961 (1.6961 percent). The BNAF of 
+1.6961 percent reflects a 75 percent 
+reduction in the BNAF. The 75 percent 
+reduced BNAF (1.6961 percent) would 
+be applied to the pre-floor, pre- 
+reclassified hospital wage index values 
+of 0.8 or greater in the proposed FY 
+2010 hospice wage index. 
+The hospice floor calculation would 
+still apply to any pre-floor, pre- 
+reclassified hospital wage index values 
+less than 0.8. Currently, the hospice 
+floor calculation has 4 steps. First, pre- 
+floor, pre-reclassified hospital wage 
+index values that are less than 0.8 are 
+multiplied by 1.15. Second, the 
+minimum of 0.8 or the pre-floor, pre- 
+reclassified hospital wage index value 
+times 1.15 is chosen as the preliminary 
+hospice wage index value. Steps 1 and 
+2 are referred to in this proposed rule 
+as the hospice 15 percent floor 
+adjustment. Third, the pre-floor, pre- 
+reclassified hospital wage index value is 
+multiplied by the BNAF. Finally, the 
+greater result of either step 2 or step 3 
+is chosen as the final hospice wage 
+index value. The hospice floor 
+calculation is unchanged by the BNAF 
+reduction. We note that steps 3 and 4 
+will become unnecessary once the 
+BNAF is eliminated. 
+We examined the effects of a 75 
+percent reduction in the BNAF versus 
+using the full BNAF of 6.7845 percent 
+on the proposed FY 2010 hospice wage 
+index. The FY 2010 BNAF reduction of 
+75 percent resulted in approximately a 
+4.76 to 4.77 percent reduction in most 
+hospice wage index values. The 
+elimination of the BNAF in FY 2011 
+would result in an estimated final 
+reduction of the FY 2011 hospice wage 
+index values of approximately 1.66 to 
+1.67 percent compared to FY 2010 
+hospice wage index values. 
+Those CBSAs whose pre-floor, pre- 
+reclassified hospital wage index values 
+had the hospice 15 percent floor 
+adjustment applied before the BNAF 
+reduction would not be affected by this 
+proposed phase out of the BNAF. These 
+CBSAs, which typically include rural 
+areas, are protected by the hospice 15 
+percent floor adjustment. We have 
+estimated that 17 CBSAs are already 
+protected by the hospice 15 percent 
+floor adjustment, and are therefore 
+completely unaffected by the BNAF 
+reduction. There are over 100 hospices 
+in these 17 CBSAs. 
+Additionally, some CBSAs with pre- 
+floor, pre-reclassified wage index values 
+less than 0.8 will become newly eligible 
+for the hospice 15 percent floor 
+adjustment as a result of the 75 percent 
+reduced BNAF. Areas where the hospice 
+floor calculation would have yielded a 
+wage index value greater than 0.8 if the 
+full BNAF were applied, but which will 
+have a final wage index value less than 
+0.8 after the 75 percent reduced BNAF 
+is applied, will now be eligible for the 
+hospice 15 percent floor adjustment. 
+These CBSAs will see a smaller 
+reduction in their hospice wage index 
+values since the hospice 15 percent 
+floor adjustment will apply. We have 
+estimated that 18 CBSAs will have their 
+pre-floor, pre-reclassified hospital wage 
+index value become newly protected by 
+the hospice 15 percent floor adjustment 
+due to the 75 percent reduction in the 
+BNAF. Because of the protection given 
+by the hospice 15 percent floor 
+adjustment, these CBSAs will see 
+smaller percentage decreases in their 
+hospice wage index values than those 
+CBSAs that are not eligible for the 
+hospice 15 percent floor adjustment. 
+This will affect those hospices with 
+lower hospice wage index values, which 
+are typically in rural areas. There are 
+over 300 hospices located in these 18 
+CBSAs. 
+Finally, the hospice wage index 
+values only apply to the labor portion of 
+the payment rates; the labor portion is 
+described in section I.B.1 of this 
+proposed rule. Therefore the projected 
+reduction in payments due to the 75 
+percent reduction of the BNAF will be 
+an estimated 3.2 percent, as described in 
+column 4 of Table 1 in section VI of this 
+proposed rule. In addition, the 
+estimated effects of the phase-out of the 
+BNAF will be mitigated by any hospital 
+market basket updates in payments. We 
+will not have the final market basket 
+update for FY 2010 until the summer. 
+However, the current estimate of the 
+hospital market basket update for FY 
+2010 is 2.1 percent. The final update 
+will be communicated through an 
+administrative instruction. The 
+combined effects of a 75 percent 
+reduction of the BNAF and an estimated 
+hospital market basket update of 2.1 
+percent for FY 2010 is an overall 
+estimated decrease in payments to 
+hospices in FY 2010 of 1.1 percent 
+(column 5 of Table 1 in section VI of 
+this proposed rule). 
+B. Proposed Change to the Physician 
+Certification and Recertification 
+Process, § 418.22 
+The Medicare Payment Advisory 
+Commission (MedPAC) has noted an 
+increasing proportion of hospice 
+patients with stays exceeding 180 days, 
+and significant variation in hospice 
+length of stay. MedPAC has questioned 
+whether there is sufficient 
+accountability and enforcement related 
+to certification and recertification of 
+Medicare hospice patients. Currently, 
+our policy requires the hospice medical 
+director or physician member of the 
+interdisciplinary group and the patient’s 
+attending physician (if any) to certify 
+the patient as having a terminal illness 
+for the initial 90-day period of hospice 
+care. Subsequent benefit periods only 
+require recertification by the hospice 
+medical director or by the physician 
+member of the hospice interdisciplinary 
+group. These certifications must 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18918 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+indicate that the patient’s life 
+expectancy is 6 months or less if the 
+illness runs its normal course, and must 
+be signed by the physician. The medical 
+record must include documentation that 
+supports the terminal prognosis. 
+At their November 6, 2008 public 
+meeting, MedPAC presented the 
+findings of an expert panel of hospice 
+providers convened in October 2008; 
+that panel noted that while many 
+hospices comply with the Medicare 
+eligibility criteria, some are enrolling 
+and recertifying patients who are not 
+eligible. 
+The expert panel noted that there 
+were several reasons for the variation in 
+compliance. First, they noted that in 
+some cases there was limited medical 
+director engagement in the certification 
+or recertification process. Physicians 
+had delegated this responsibility to the 
+staff involved with patients’ day-to-day 
+care, and simply signed off on the 
+paperwork. Second, inadequate charting 
+of the patient’s condition or a lack of 
+staff training had led some physicians to 
+certify patients who were not truly 
+eligible for Medicare’s hospice benefit. 
+Finally, some panelists cited financial 
+incentives associated with long-stay 
+patients. The panelists mentioned 
+anecdotal reports of hospices using 
+questionable marketing strategies to 
+recruit patients without mentioning the 
+terminal illness requirement, and of 
+hospices failing to discharge patients 
+who had improved or enrolling patients 
+who had already been discharged or 
+turned away from other hospices. 
+Consensus emerged among the panelists 
+that more accountability and oversight 
+of certification and recertification are 
+needed. See, http://www.medpac.gov/ 
+transcripts/ 
+20081104_Hospice_final_public.pdf and 
+http://www.medpac.gov/transcripts/ 
+1106–1107MedPAC%20final.pdf. 
+We believe that those physicians that 
+are certifying a hospice patient’s 
+continued eligibility can reasonably be 
+expected to synthesize in a few 
+sentences the clinical aspects of the 
+patient’s condition that support the 
+prognosis. We believe that such a 
+requirement, as suggested by the expert 
+panel and by MedPAC, would 
+encourage greater physician engagement 
+in the certification and recertification 
+process by focusing attention on the 
+physician’s responsibility to set out the 
+clinical basis for the terminal prognosis 
+indicated in the patient’s medical 
+record. 
+To increase accountability related to 
+the physician certification and 
+recertification process, we are proposing 
+a change to § 418.22. Specifically, we 
+propose to add a new paragraph (b)(3) 
+to § 418.22 to require that physicians 
+that certify or recertify hospice patients 
+as being terminally ill include a brief 
+narrative explanation of the clinical 
+findings that support a life expectancy 
+of 6 months or less. This brief narrative 
+should be written or typed on the 
+certification form itself. We do not 
+believe that an attachment should be 
+permissible because an attachment 
+could easily be prepared by someone 
+other than the physician. We seek 
+comments on whether this proposed 
+requirement would increase physician 
+engagement in the certification and 
+recertification process. 
+C. Proposed Update of Covered Services, 
+§ 418.202 
+In Part 418, subpart F, we describe 
+covered hospice services. In § 418.200, 
+Requirements for Coverage, we note that 
+covered services must be reasonable and 
+necessary for the palliation or 
+management of the terminal illness as 
+well as related conditions. We also note 
+that services provided must be 
+consistent with the plan of care. The 
+language at § 418.202, Covered services, 
+describes specific types of hospices 
+services that are covered. Section 
+418.202(f) describes the coverage of 
+medical appliances and supplies, 
+including drugs and biologicals. The 
+last sentence of § 418.202(f) states that 
+covered ‘‘Medical supplies include 
+those that are part of the written plan of 
+care.’’ 
+The updated CoPs, which were 
+effective as of December 2008, require 
+that hospices include all comorbidities 
+in the plan of care, even if those 
+comorbidities are not related to the 
+terminal diagnosis. In § 418.54(c)(2) we 
+refer to assessing the patient for 
+complications and risk factors that affect 
+care planning. Comorbidities that are 
+unrelated to the terminal illness need to 
+be addressed in the comprehensive 
+assessment and should be on the plan 
+of care, clearly marked as comorbidities 
+unrelated to the terminal illness. The 
+hospice is not responsible for providing 
+care for the unrelated comorbidities. 
+Because these unrelated comorbidities 
+must be included in the plan of care, 
+and the hospice is not responsible for 
+providing the care for these unrelated 
+comorbidities, we propose revising 
+§ 418.202(f) to state that medical 
+supplies covered by the Medicare 
+hospice benefit include only those that 
+are part of the plan of care and that are 
+for the palliation or management of the 
+terminal illness or related conditions. 
+D. Proposed Clarification of Payment 
+Procedures for Hospice Care, § 418.302 
+Section 1861(dd) of the Act limits 
+coverage of and payment for inpatient 
+days for hospice patients. There are 
+sometimes situations when a hospice 
+patient receives inpatient care but is 
+unable to return home, even though the 
+medical situation no longer warrants 
+general impatient care (GIP), or even 
+though 5 days of respite have ended. In 
+computing the inpatient cap, the 
+hospice should only count inpatient 
+days in which GIP or respite care is 
+provided and billed as GIP or respite 
+days. For example, assume a patient 
+received 5 days of respite care while a 
+caregiver was out of town, but the 
+caregiver’s return was delayed for a day 
+due to circumstances beyond her 
+control. The patient had to remain as an 
+inpatient for a 6th day, but was no 
+longer eligible for respite care. 
+According to § 418.302(e)(5), the 
+hospice should switch from billing for 
+respite care to billing for routine home 
+care on the 6th day. The hospice should 
+only count 5 days toward the inpatient 
+cap, not 6 days, since only 5 inpatient 
+days were provided and billed as respite 
+days. 
+Because we have received several 
+inquiries about how to count inpatient 
+days that are provided and billed as 
+routine home care, we propose to revise 
+§ 418.302(f)(2) to clarify that only 
+inpatient days in which GIP or respite 
+care is provided and billed are counted 
+as inpatient days when computing the 
+inpatient cap. 
+E. Proposed Clarification of 
+Intermediary Determination and Notice 
+of Amount of Program Reimbursement, 
+§ 405.1803 
+Currently, hospices that exceed either 
+the inpatient cap or the aggregate cap 
+are sent a letter by their contractor 
+(regional home health and hospice 
+intermediary (RHHI) or fiscal 
+intermediary (FI)), detailing the cap 
+results, along with a demand for 
+repayment. As described in an 
+administrative instruction (CR 6400, 
+Transmittal 1708, issued April 3, 2009) 
+effective July 1, 2009, this letter of 
+determination of program 
+reimbursement will be sent to every 
+hospice provider, regardless of whether 
+or not the hospice has exceeded the cap. 
+A demand for repayment will be 
+included for those hospices which have 
+exceeded either cap. If a hospice 
+disagrees with the contractor’s cap 
+calculations, the hospice has appeal 
+rights which are set out at 42 CFR 
+§ 418.311 and Part 405, Subpart R. The 
+letter of determination of program 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00008 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18919 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+reimbursement shall include language 
+describing the hospice’s appeal rights. 
+We are proposing to clarify the language 
+at § 405.1803(a) to note that for the 
+purposes of hospice, the determination 
+of program reimbursement letter sent by 
+the contractors serves as the written 
+notice reflecting the intermediary’s 
+determination of the total amount of 
+reimbursement due the hospice, which 
+is commonly called a Notice of Program 
+Reimbursement or NPR. Additionally, 
+we are proposing to clarify 
+§ 405.1803(a)(1)(i) to note that in the 
+case of hospice, the reporting period 
+covered by the determination of 
+program reimbursement letter is the 
+hospice cap year and the bases for the 
+letter are the cap calculations rather 
+than reasonable cost from cost report 
+data. 
+F. Proposed Technical and Clarifying 
+Changes 
+In addition to the proposals and 
+solicitation of comments discussed 
+above, we are proposing to make the 
+following technical changes to clarify 
+existing regulations text, correct errors 
+that we have identified in the 
+regulations, remove obsolete cross 
+references, or to ensure consistent use of 
+terminology in our regulations. 
+1. Proposed Clarification of the 
+Statutory Basis for Hospice Regulation, 
+§ 418.1 
+Currently, the statutory basis for the 
+hospice regulations is described at 
+§ 418.1, and notes that Part 418 
+implements section 1861(dd) of the Act. 
+The regulation describes section 
+1861(dd) of the Act as specifying 
+covered hospice services and the 
+conditions that a hospice program must 
+meet to participate in the Medicare 
+program. While that is correct, section 
+1861(dd) of the Act also specifies some 
+limitations on coverage and payment for 
+inpatient hospice care. We propose to 
+clarify § 418.1 by adding a sentence 
+noting that section 1861(dd) of the Act 
+limits coverage and payment for 
+inpatient hospice care. 
+2. Proposed Update of the Scope of Part, 
+§ 418.2 
+The current regulations at § 418.2 
+(‘‘Scope of part.’’) describe each of the 
+subparts in Part 418. Some of these 
+subparts have been revised or removed 
+with the update of the hospice 
+conditions of participation (CoPs) in 
+2008. Specifically, subpart B specifies 
+the eligibility and election 
+requirements, along with the duration of 
+benefits. Subparts C and D specify the 
+Conditions of Participation, with 
+subpart C now entitled ‘‘Patient Care’’ 
+rather than ‘‘General Provisions and 
+Administration’’, and subpart D now 
+entitled ‘‘Organizational Environment’’ 
+rather than ‘‘Core Services’’. Subpart E, 
+which is currently described as 
+specifying reimbursement methods and 
+procedures, was removed and reserved 
+with the update of the CoPs. Subparts F 
+and G relate to payment policy, 
+including covered services and hospice 
+payment; currently subpart F is 
+described in § 418.2 as specifying 
+coinsurance amounts. Finally, subpart H 
+specifies coinsurance amounts 
+applicable to hospice care, rather than 
+subpart F as the regulation currently 
+reads. Accordingly, we propose to 
+update section § 418.2 to reflect the 
+current organization and scope of Part 
+418. 
+3. Proposed Revision of Hospice Aide 
+and Homemaker Services, § 418.76 
+We are proposing a technical 
+correction at § 418.76(f)(1) to clarify that 
+home health agencies that have been 
+found out of compliance with 
+paragraphs (a) or (b) of § 484.36, 
+regarding home health aide 
+qualifications, are prohibited from 
+providing hospice aide training. The 
+word ‘‘out’’ was inadvertently omitted 
+from the regulation text in the June 5, 
+2008 hospice final rule. 
+4. Proposed Clarification of Hospice 
+Multiple Location, § 418.100 
+For the sake of clarity, we propose to 
+delete the word ‘‘that’’ from 
+§ 418.100(f)(1)(iii), regarding multiple 
+locations. The revised element would 
+require that the lines of authority and 
+professional and administrative control 
+must be clearly delineated in the 
+hospice’s organizational structure and 
+in practice, and must be traced to the 
+location issued the certification number. 
+5. Proposed Revision to Short Term 
+Inpatient Care, § 418.108 
+We propose to correct in 
+§ 418.108(b)(1)(ii) an erroneous 
+reference to § 418.110(f), Patient rooms. 
+This section, which addresses facilities 
+that are considered acceptable for the 
+provision of respite care to hospice 
+patients, was intended to reference the 
+standard at § 418.110(e), Patient areas. 
+The published reference to standard (f) 
+was a typographic error, and we propose 
+to correct it by changing the reference to 
+standard (e). 
+6. Proposed Clarification of the 
+Requirements for Coverage, § 418.200 
+Section 418.200 describes the 
+requirements for coverage for Medicare 
+hospice services, and references 
+§ 418.58 (‘‘Conditions of Participation 
+plan of care’’). This cross reference is no 
+longer accurate as § 418.58 was updated 
+with the publication of the new CoPs in 
+2008. We propose to detail the 
+requirements for coverage related to the 
+plan of care rather than cross refer to the 
+CoPs regulations. This revision would 
+avoid the need to make updates to this 
+section each time the CoPs are changed. 
+The statute specifies requirements for 
+hospice coverage in section 
+1814(a)(7)(A) through (C) of the Act. The 
+Act requires that the hospice medical 
+director and the patient’s attending 
+physician certify the terminal illness for 
+the initial period of hospice care and 
+that the medical director recertify the 
+terminal illness for each subsequent 
+benefit period. Additionally, the Act 
+requires that a plan of care exist before 
+care is provided; that the plan of care be 
+reviewed periodically by the attending 
+physician, the medical director, and the 
+interdisciplinary group; and that care be 
+provided in accordance with the plan of 
+care. We propose to clarify § 418.200 to 
+incorporate these requirements for 
+coverage, rather than cross reference 
+CoP requirements in CoP regulations. 
+7. Proposed Incorporation of the Term 
+‘‘Hospice Aide,’’ § 418.202, § 418.204, 
+and § 418.302 
+Over the last several years, we have 
+worked with the industry to update the 
+hospice CoPs. These efforts culminated 
+in publication of a final rule in 2008, 
+which was effective December 2, 2008. 
+The revised CoPs redesignated the 
+‘‘home health aide’’ who works in 
+hospice as a ‘‘hospice aide’’. We 
+propose to revise § 418.202(g), 
+§ 418.204(a), and § 418.302 to include 
+the new terminology. 
+8. Proposed Clarification of 
+Administrative Appeals, § 418.311 
+A hospice that does not believe its 
+payments have been properly 
+determined may request a review from 
+the intermediary or from the Provider 
+Reimbursement Review Board (PRRB), 
+depending on the amount in 
+controversy. Section 418.311 details the 
+procedures for appealing a payment 
+decision and also refers to Part 405, 
+Subpart R. 
+We propose to clarify the last 
+sentence of this section, which currently 
+notes that ‘‘the methods and standards 
+for the calculation of the payment rates 
+by CMS are not subject to appeal.’’ The 
+payment rates referred to are the 
+national rates which are set by statute, 
+and updated according to the statute 
+using the hospital market basket (unless 
+Congress has instructed us to update the 
+rates differently). To ensure better 
+understanding of what is not subject to 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00009 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18920 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+appeal, we propose to revise § 418.311 
+to provide that methods and standards 
+for the calculation of the statutorily 
+defined payment rates by CMS are not 
+subject to appeal. 
+III. Request for Comments on Other 
+Policy Issues 
+A. Recertification Visits, § 418.22 
+As noted earlier, MedPAC convened 
+an expert panel from the hospice 
+industry in late 2008. That panel noted 
+that some hospices are enrolling and 
+recertifying patients who are not eligible 
+for hospice care under the Medicare 
+benefit, and consensus emerged that 
+greater accountability and oversight are 
+needed in the certification and 
+recertification process. To further 
+increase accountability in the 
+recertification process, several of the 
+panelists suggested to MedPAC that an 
+additional policy change be made to the 
+recertification process. Several panelists 
+supported a requirement that a hospice 
+physician or advanced practice nurse 
+visit the patient at the time of the 180- 
+day recertification to assess continued 
+eligibility, and at every certification 
+thereafter. MedPAC recommended that 
+the physician or advanced practice 
+nurse be required to attest that the visit 
+took place. See, http:// 
+www.medpac.gov/transcripts/ 
+20081104_Hospice_final_public.pdf and 
+http://www.medpac.gov/transcripts/ 
+1106-1107MedPAC%20final.pdf. 
+At this time, we are not proposing any 
+policy change requiring visits by 
+physicians or advanced practice nurses 
+in order to recertify patients. We note 
+that the statute requires a physician to 
+certify and recertify terminal illness for 
+hospice patients, and specifically 
+precludes nurse practitioners from 
+doing so at 1814(a)(7)(A) of the Act. A 
+recertification visit to a hospice patient 
+by a nurse practitioner would not 
+relieve the physician of his or her legal 
+responsibility to recertify the terminal 
+illness of such hospice patient. The 
+physician is ultimately responsible for 
+the recertification determination. 
+However, the visit, if performed by a 
+nurse practitioner, could potentially 
+serve as an additional, objective source 
+of information for the physician in the 
+recertification of terminal illness 
+decision. We are also considering other 
+options related to a nurse practitioner 
+making recertification visits. For 
+example, a nurse practitioner who is 
+involved in a patient’s day-to-day care 
+may not be as objective in assessing 
+eligibility for recertification as a nurse 
+practitioner who is not caring for that 
+patient regularly. One option to better 
+ensure that a nurse practitioner visit 
+results in additional, objective clinical 
+assessment of the patient’s condition 
+might be to require that such nurse 
+practitioner not be involved in the 
+hospice patient’s day-to-day care. Also, 
+there are different possible approaches 
+regarding the timeframe for making 
+visits. Visits by a physician or nurse 
+practitioner could be made within a 
+timeframe close to the recertification 
+deadline, such as the 2-week period 
+centered around the recertification date, 
+thereby allowing a window of time 
+surrounding the recertification 
+timeframe for a visit to occur. 
+While we are not proposing a policy 
+change regarding recertification visits at 
+this time, we are soliciting comments on 
+the suggestion to require physician or 
+nurse practitioner visits for hospice 
+recertifications at or around 180 days 
+and for every benefit period thereafter. 
+We are seeking comments on all aspects 
+of this suggestion, including practical 
+issues of implementation. We will 
+analyze and consider the comments 
+received in possible future policy 
+development. 
+B. Hospice Aggregate Cap Calculation 
+As described in section 1814(i)(2)(A) 
+through (C) of the Act, when the 
+Medicare hospice benefit was 
+implemented, the Congress included an 
+aggregate cap on hospice payments. The 
+hospice aggregate cap limits the total 
+aggregate payment any individual 
+hospice can receive in a year. The 
+Congress stipulated that a ‘‘cap amount’’ 
+be computed each year. The cap amount 
+was set at $6,500 per beneficiary when 
+first enacted in 1983 and is adjusted 
+annually by the change in the medical 
+care expenditure category of the 
+consumer price index for urban 
+consumers from March 1984 to March of 
+the cap year. The cap year is defined as 
+the period from November 1st to 
+October 31st, and was set in place in the 
+December 16, 1983 hospice final rule 
+(48 FR 56022). This timeframe was 
+chosen as the cap year since the 
+Medicare hospice program began on 
+November 1, 1983 (48 FR 56022). For 
+the 2008 cap year, the cap amount was 
+$22,386.15 per beneficiary. This cap 
+amount is multiplied by the number of 
+Medicare beneficiaries who received 
+hospice care in a particular hospice 
+during the year, resulting in its hospice 
+aggregate cap, which is the allowable 
+amount of total Medicare payments that 
+hospice can receive for that cap year. A 
+hospice’s total reimbursement for the 
+cap year cannot exceed the hospice 
+aggregate cap. If its hospice aggregate 
+cap is exceeded, then the hospice must 
+repay the excess back to Medicare. 
+Using the most recent (2008) payment 
+rates before wage adjustment, the 2008 
+cap amount ($22,386.15) is roughly 
+equal to the cost of providing routine 
+home care for 166 days. Because the 
+hospice aggregate cap is computed in 
+the aggregate for the entire hospice, 
+rather than on a per beneficiary basis, 
+hospices that admit a mix of short-stay 
+and long stay Medicare beneficiaries 
+will rarely exceed the cap. On average, 
+lower expenditures made on behalf of 
+Medicare beneficiaries with shorter 
+hospice stays offset the expenditures 
+made on behalf of Medicare 
+beneficiaries with longer stays such that 
+in the aggregate, the majority of 
+hospices do not exceed the calculated 
+aggregate cap. 
+Until recently, hospices rarely 
+exceeded the aggregate cap. The 
+Government Accountability Office 
+(GAO) found that between 1999 and 
+2002, less than 2 percent of hospices 
+exceeded the aggregate cap [United 
+States Government Accountability 
+Office, ‘‘Medicare Hospice Care. 
+Modifications to Payment Methodology 
+May Be Warranted’’. October 2004, 
+Washington, DC. p. 18]. MedPAC 
+reported that the number of hospices 
+that exceeded the aggregate cap has 
+grown steadily between 2002 and 2005, 
+but remains just under 8 percent as of 
+2005 [Medicare Payment Advisory 
+Commission, ‘‘Report to the Congress: 
+Reforming the Delivery System’’. June 
+2008. Washington, DC. p. 212.]. We do 
+not believe that hospices are exceeding 
+the aggregate cap due to our 
+intermediaries’ method of calculating 
+the aggregate cap. Rather, MedPAC’s 
+analyses suggest that certain hospices 
+exceed the aggregate cap due to 
+‘‘significantly longer lengths of stay’’ 
+than hospices that do not exceed the cap 
+[MedPAC, p. 214–15]. MedPAC suggests 
+that longer average lengths of stay at 
+certain hospices could be due, in part, 
+to a change in their patient case-mix 
+that has brought in more patients with 
+less predictable disease trajectories 
+[MedPAC, p. 213–14]. However, patient 
+case mix was not found to account for 
+all of the discrepancy in length of stay 
+[MedPAC, p. 214–15]. MedPAC also 
+found that for-profit ownership, smaller 
+patient loads, and being a freestanding 
+facility were correlated with longer 
+lengths of stay and the consequent 
+likelihood of exceeding the aggregate 
+cap [MedPAC, p. 212–215]. 
+As stated above, in our current 
+hospice aggregate cap calculation 
+methodology, the intermediary 
+calculates each hospice’s aggregate cap 
+amount by multiplying the per- 
+beneficiary cap amount by the number 
+of Medicare beneficiaries counted in 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00010 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18921 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+each cap year. Patients who receive 
+hospice care in more than one cap year 
+are counted so that, in the aggregate, the 
+‘‘number of Medicare beneficiaries’’ for 
+each year is reduced to reflect the 
+proportion of time patients receive in 
+other years. Hospices are currently 
+required to submit a report of their 
+Medicare beneficiary unduplicated 
+census to their intermediary within 30 
+days of the end of the cap year. Our 
+current methodology also apportions the 
+beneficiary across multiple hospices if 
+the beneficiary receives care from more 
+than one hospice during the cap year, 
+with the proportional shares summing 
+to 1. The intermediary reduces each 
+hospice’s Medicare beneficiary count by 
+that fraction which represents 
+proportional days of care the beneficiary 
+received in another hospice during the 
+year, with all the proportional shares 
+summing to 1. 
+In counting the Medicare beneficiaries 
+for the unduplicated census report, we 
+instruct hospices to use a slightly 
+different timeframe from the cap year 
+used to count payments. When 
+determining a hospice’s expenditures 
+during a cap year, the intermediary 
+sums all claims submitted by the 
+hospice for services performed during 
+the cap year, which begins on November 
+1st of each year and ends on the October 
+31st of the following year. However, we 
+instruct hospices to include those 
+beneficiaries who elect the benefit 
+between September 28th of each year 
+and September 27th of the following 
+year, rather than following the 
+November 1st to October 31st cap year. 
+CMS (then HCFA) used mean length of 
+stay from demonstration project data to 
+determine the point at which to include 
+a beneficiary in calculating the hospice 
+cap. Using half of the mean length of 
+stay, or 70 days/2 = 35 days, CMS 
+implemented a timeframe for counting 
+beneficiaries that began less than 35 
+days from the end of the cap year. 
+Therefore, the timeframe for counting 
+beneficiaries was set as September 28th 
+through September 27th (48 FR 56022). 
+This method of reducing the number of 
+Medicare beneficiaries counted in a cap 
+year to reflect time spent in other years 
+was implemented because it allows for 
+counting the beneficiary in the reporting 
+period where he or she used most of the 
+days of covered hospice care (48 FR 
+38158). We believe that the regulation 
+complies with the statutory 
+requirements without being unduly 
+burdensome. This approach has the 
+major advantage of allowing each 
+hospice to estimate its aggregate cap 
+calculation within a short period of time 
+after the close of a cap year. While we 
+believe that the current hospice 
+aggregate cap methodology equitably 
+meets the statutory requirements for 
+calculating the hospice aggregate cap set 
+out at section 1814(i)(2) of the Act, the 
+availability of more sophisticated 
+databases and data systems provides us 
+with an opportunity to incorporate 
+efficiencies in the cap calculation 
+process. The lack of sophisticated data 
+systems in place in the 1980’s limited 
+our options for how to efficiently 
+compute the hospice aggregate cap. In 
+the 1980’s access to claims data was 
+very slow, and searchable claims 
+databases were virtually non-existent. 
+While the current system still has 
+limitations, the advancement of 
+technology has brought with it provider 
+access to benefit period information in 
+the Common Working File (CWF), 
+which was created in the 1990’s, and 
+faster processing speeds, which allow 
+contractors and hospices easier access to 
+claims information for hospice aggregate 
+cap calculation purposes. Therefore, we 
+are now able to consider more efficient 
+approaches to calculating the aggregate 
+cap. 
+The time required for intermediaries 
+to compute each hospice’s aggregate cap 
+and send demand letters when 
+overpayments exist delays our recovery 
+of those overpayments and may also 
+contribute to some hospices exceeding 
+the cap in subsequent years. Hospices 
+have described receiving demands for 
+cap overpayments more than a year after 
+the end of the cap year, and have 
+expressed concern that they are not 
+timely notified about their cap 
+overpayments. Hospices which don’t 
+closely monitor compliance with their 
+aggregate cap may not have anticipated 
+an overpayment, and the lag in 
+notification may contribute to the risk of 
+a hospice exceeding its aggregate cap in 
+the subsequent year. More timely 
+notification of overpayments would 
+enable hospices to more quickly review 
+their admissions practices, and make 
+necessary changes to ensure that all 
+their patients meet the eligibility 
+requirements for hospice care. 
+We are exploring a number of 
+different hospice aggregate cap 
+implementation methodology changes 
+to address these issues, and to take 
+advantage of the technological 
+efficiencies available. Specifically, we 
+are exploring enhancements to our 
+current methodology which will 
+improve the timeliness of hospices’ 
+notification of cap overpayments, will 
+enable such overpayments to be 
+collected more quickly, and which will 
+encourage hospices to be more 
+proactively involved in managing their 
+admissions practices such that they do 
+not exceed their hospice aggregate cap. 
+We are considering several changes to 
+the annual hospice aggregate cap 
+calculation implementation 
+methodology which could help hospices 
+avoid exceeding the aggregate cap. 
+If a beneficiary receives hospice care 
+for an extended period of time, or elects 
+hospice toward the end of a cap year, he 
+or she is more likely to cross into more 
+than 1 cap year, or to receive care from 
+more than 1 hospice. If we made a 
+mathematically precise determination of 
+the proportion of time each patient 
+spent in each cap year at each hospice 
+from which they received care, in order 
+for a given cap year report to be final, 
+adjustments to that cap year report 
+would have to continue until the 
+beneficiary actually died. Only then 
+could a final determination of the 
+aggregate cap be made for a given year 
+for each hospice that had treated the 
+beneficiary. Such an approach could be 
+viewed as particularly burdensome to 
+the hospice as a hospice’s financial 
+system would likely need to be able to 
+continually react to subsequent hospice 
+aggregate cap calculations, readjusting 
+payments to Medicare to account for an 
+overpayment amount that is ever- 
+changing, that is, until the beneficiary 
+dies. 
+A variation of this approach would 
+allow apportioning of beneficiaries who 
+receive care in more than 1 cap period 
+over 2 consecutive years. This approach 
+would minimize, but not completely 
+eliminate, the adjustments required to 
+prior year cap calculations. This method 
+still has the effect of delaying the final 
+cap determination. However, it raises 
+questions about scenarios where a 
+beneficiary received hospice care in his 
+first and second cap year, either revoked 
+or was discharged from the benefit, and 
+returned to a different hospice at a 
+much later date, such as in the third cap 
+year. We would like public input from 
+hospices, patient groups, other provider 
+types, academics, and members of the 
+general public on how to best handle 
+this or similar scenarios. 
+Besides considering different 
+approaches to counting beneficiaries, 
+another option is to require hospices to 
+compute their own hospice aggregate 
+cap and submit a certified cap report to 
+their contractors, along with any 
+overpayment, 7 months after the end of 
+the cap year. The information used for 
+the hospice aggregate cap calculation 
+originates with hospices, and is 
+available to them through the CWF or 
+through their own accounting records. 
+Requiring hospices to compute and 
+report their own hospice aggregate cap 
+would result in hospices being proactive 
+in managing their cap calculations. In 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00011 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18922 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+this approach, contractors would still 
+verify the reported cap. 
+We are soliciting comments on these 
+and other policy options in an effort to 
+gather more information on this issue, 
+and any other possible underlying 
+issues that may exist. 
+C. Hospice Payment Reform 
+Since the inception of the hospice 
+benefit in 1983, the amount that the 
+Medicare program has spent on this 
+benefit has grown considerably. The 
+number of unduplicated hospice 
+Medicare beneficiaries has increased 
+from 401,140 in FY 1998 to 986,435 in 
+FY 2007, which represents a 146 
+percent increase. Additionally, at the 
+inception of the benefit, most hospice 
+patients elected hospice care due to 
+terminal cancer. The profile of the 
+hospice patient has changed in recent 
+years such that hospices now provide 
+care to beneficiaries with a wide range 
+of terminal conditions. In calendar year 
+(CY) 1998, 54 percent of hospice 
+patients had terminal cancer diagnoses. 
+In CY 2007, only 28 percent of hospice 
+patients had terminal cancer diagnoses. 
+With the diversity of diagnoses, hospice 
+stays began to increase. The national 
+average length of stay for patients in 
+hospice has risen from 48 days per 
+patient in CY 1998 to 73 days per 
+patient in CY 2006. Additionally, long 
+hospice stays have grown even longer 
+by about 50 percent. Between 2000 and 
+2005, hospices in the 90th percentile for 
+average length of stay increased their 
+average length of stay from 144 to 212 
+days. 
+MedPAC has performed extensive 
+analysis of the hospice benefit over the 
+past few years, and has recommended 
+that CMS reform the hospice payment 
+structure to ensure greater 
+accountability in the hospice benefit. 
+MedPAC believes that the current 
+hospice payment system contains 
+incentives that make long hospice stays 
+more profitable, which may result in 
+misuse of the benefit. 
+Medicare spending for hospice is 
+rapidly growing, more than tripling 
+between 2000 and 2007. In fiscal year 
+(FY) 1998, expenditures for the 
+Medicare hospice benefit were $2.2 
+billion, while in FY 2007, expenditures 
+for the Medicare hospice benefit were 
+$10.6 billion, more than the Medicare 
+program spends on inpatient 
+rehabilitation hospitals, critical access 
+hospitals, long term care hospitals, or 
+psychiatric hospitals. Medicare hospice 
+spending is expected to more than 
+double in the next 10 years and will 
+account for roughly 2.3 percent of 
+overall Medicare spending in FY 2009. 
+The number of hospice agencies has 
+also grown by over 70 percent since 
+1997. The growth is overwhelmingly in 
+the for-profit category. In 1997, there 
+were 1,834 hospices, about 20 percent of 
+which were for-profit and 80 percent 
+were non-profit. In 2008, there were 
+over 3,200 hospices, and 51 percent of 
+these are for-profit entities. Since 2000, 
+nearly all hospices newly participating 
+in Medicare are for-profit entities. 
+MedPAC reports that the newly 
+participating hospices have margins five 
+to six times higher than more 
+established hospices. MedPAC estimates 
+that, on average, hospice Medicare 
+margins were approximately 3.4 percent 
+in 2005. However, the for-profit 
+hospices are estimated to have margins 
+ranging from 15.9 percent in 2003 to 
+11.8 percent in 2005. 
+In their analyses of the hospice 
+benefit in their June 2008 ‘‘Report to the 
+Congress,’’ MedPAC found that hospice 
+care is more costly at the beginning and 
+end of an episode of hospice care, 
+because of the intensity of services 
+provided during those times. Hospices 
+provide more visits to a patient right 
+after a patient elects hospice and in the 
+time shortly before death, than they 
+provide during the middle of the 
+episode. In its November 6, 2008 public 
+meeting, MedPAC suggested that 
+payments to hospices should decline as 
+the beneficiary’s length of stay 
+increases, thus better reflecting intensity 
+and frequency of the hospice services 
+provided over the course of treatment. 
+MedPAC also suggested that payment to 
+hospices should increase during the 
+period just prior to the patient’s death 
+to reflect the higher resource usage 
+during this time [see, http:// 
+www.medpac.gov/transcripts/ 
+20081104_Hospice_final_public.pdf and 
+http://www.medpac.gov/transcripts/ 
+1106-1107MedPAC%20final.pdf.]. 
+MedPAC believes this payment 
+structure would better reflect hospice 
+patient resource usage and hospice 
+costs, and would encourage hospices to 
+admit patients at the time in their 
+illness which provides the most benefit 
+to the patient. 
+We are soliciting comments regarding 
+MedPAC’s suggestions on reforming the 
+hospice payment system, as well as 
+broader comments and suggestions 
+regarding hospice payment reform. We 
+note that MedPAC’s suggested payment 
+reforms would require Congressional 
+action to change the statute. 
+IV. Update on Additional Hospice Data 
+Collection 
+Over the past several years MedPAC, 
+the GAO, and the Office of the Inspector 
+General have all recommended that 
+CMS collect more comprehensive data 
+in order to better evaluate trends in 
+utilization of the Medicare hospice 
+benefit. We have been phasing in this 
+process to collect more comprehensive 
+data on hospice claims. We also began 
+collecting additional data on hospice 
+claims beginning in January 2007 
+through an administrative instruction 
+(CR 5245, Transmittal 1011, issued July 
+28, 2006), when we started required 
+reporting of a HCPCS code on the claim 
+to describe the location where services 
+were provided (Phase 1). In addition, we 
+issued an administrative instruction (CR 
+5567, Transmittal 1494, issued April 29, 
+2008) requiring Medicare hospices to 
+provide detail on their claims about the 
+number of physician, nurse, aide, and 
+social worker visits provided to 
+beneficiaries. The start date of this 
+mandatory CR 5567 reporting 
+requirement was July 2008 (Phase 2). 
+On several occasions, industry 
+representatives have communicated to 
+CMS that the newly required claims 
+information was not comprehensive 
+enough to accurately reflect hospice 
+care. A major concern was that CMS 
+was not requiring reporting of the visit 
+intensity. As a result of these concerns, 
+we committed to working with the 
+industry to expand the data collection 
+requirements. In October 2008, we 
+solicited comments via a posting on 
+CMS’ hospice center Web site (http:// 
+www.cms.hhs.gov/center/hospice.asp) 
+on an approach to collecting additional 
+data about hospice resource use. We 
+asked about data collection using 
+hospice claims, along with data 
+collection using hospice cost reports. 
+This proposed rule provides an update 
+on the additional data collection which 
+is in process. 
+Based on the feedback received from 
+our October 2008 web posting, we have 
+revised our plans for Phase 3 of the 
+claims data collection. Those plans are 
+currently being developed and will be 
+implemented through an administrative 
+instruction. 
+Phase 3 will involve collecting new 
+data on hospice claims. In addition to 
+the existing visit reporting requirement, 
+we anticipate requiring visit time 
+reporting in 15 minute increments for 
+nurses, social workers, and aides. We 
+anticipate requiring visit and visit time 
+reporting in 15 minute increments from 
+physical therapists, occupational 
+therapists, and speech language 
+therapists. We also anticipate requiring 
+reporting of some social worker phone 
+calls and their associated time, within 
+certain limits. Specifically, we 
+anticipate requiring the reporting of 
+social worker calls that are necessary for 
+the palliation and management of the 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18923 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+terminal illness and related conditions 
+as described in the patient’s plan of care 
+(for example, counseling, speaking with 
+a patient’s family, or arranging for a 
+placement). Furthermore, we anticipate 
+that only social worker phone calls 
+related to providing and/or coordinating 
+care to the patient and family, and 
+documented as such in the clinical 
+records, would be reported. We 
+anticipate that visit and time data 
+collection for respite and general 
+inpatient care provided by non-hospice 
+staff in contract facilities would be 
+exempt from the reporting requirement. 
+Finally, we anticipate that travel time, 
+documentation time, and 
+interdisciplinary group time would not 
+be included in the time reporting. These 
+changes would necessitate line-item 
+billing on hospice claims. 
+While other Medicare provider types 
+(for example, home health agencies) 
+have had to provide similar information 
+on their claims, hospices have 
+historically not had been required to 
+provide this information. This 
+additional data collection would bring 
+the requirements for hospice claims 
+more in line with the claim 
+requirements of other Medicare benefits, 
+and provide valuable information about 
+services provided to Medicare 
+beneficiaries. 
+We also note that this additional data 
+collection uses existing revenue codes 
+and existing UB–04 and 837I claim 
+forms. Those claims forms were 
+previously approved by the OMB under 
+control number #0938–0997. 
+As stated above, these changes will be 
+forthcoming through an administrative 
+instruction, and are not to be considered 
+as proposals in this rule; that instruction 
+will be issued some time this spring or 
+summer. 
+Additionally, we are developing plans 
+to revise the hospice cost reports to 
+include additional sources of revenue, 
+and to gather more detailed data on 
+services provided by volunteers, by 
+chaplains, by counselors, and by 
+pharmacists. We will continue to work 
+with the industry to seek out the best 
+approach to these and any other changes 
+we may make in order to collect useful 
+information on hospice services. 
+V. Collection of Information 
+Requirements 
+Under the Paperwork Reduction Act 
+of 1995, we are required to provide 60- 
+day notice in the Federal Register and 
+solicit public comment before a 
+collection of information requirement is 
+submitted to the Office of Management 
+and Budget (OMB) for review and 
+approval. In order to fairly evaluate 
+whether an information collection 
+should be approved by OMB, section 
+3506(c)(2)(A) of the Paperwork 
+Reduction Act of 1995 requires that we 
+solicit comment on the following issues: 
+• The need for the information 
+collection and its usefulness in carrying 
+out the proper functions of our agency. 
+• The accuracy of our estimate of the 
+information collection burden. 
+• The quality, utility, and clarity of 
+the information to be collected. 
+• Recommendations to minimize the 
+information collection burden on the 
+affected public, including automated 
+collection techniques. 
+We are soliciting public comment on 
+the issue for the following section of 
+this document that contains information 
+collection requirements. 
+Section 418.22 Certification of 
+terminal illness. 
+Section 418.22 requires the physician 
+to include on or with the certification a 
+brief narrative explanation of the 
+clinical findings that support a life 
+expectancy of 6 months or less. 
+The burden associated with this 
+requirement is the time and effort put 
+forth by the physician to include a brief 
+narrative explanation of the clinical 
+findings that support a life expectancy 
+of 6 months or less. We estimate it 
+would take a physician 5 minutes to 
+meet this requirement. We also estimate 
+that a narrative would be provided on 
+1,534,388 certifications or 
+recertifications annually. Therefore, the 
+total annual burden associated with this 
+requirement is 127,866 hours. The 
+current requirements for § 418.22 are 
+approved under OMB# 0938–0302 with 
+an expiration date of 8/31/2009. We will 
+revise the currently approved PRA 
+package to reflect any changes in 
+burden. 
+If you comment on these information 
+collection and recordkeeping 
+requirements, please do either of the 
+following: 
+1. Submit your comments 
+electronically as specified in the 
+ADDRESSES section of this proposed rule; 
+or 
+2. Submit your comments to the 
+Office of Information and Regulatory 
+Affairs, Office of Management and 
+Budget, 
+Attention: CMS Desk Officer, 
+Fax: (202) 395–7245; or 
+E-mail: 
+OIRA_submission@omb.eop.gov. 
+VI. Regulatory Impact Analysis 
+A. Overall Impact 
+We have examined the impacts of this 
+rule as required by Executive Order 
+12866 (September 1993, Regulatory 
+Planning and Review), the Regulatory 
+Flexibility Act (RFA) (September 19, 
+1980, Pub. L. 96–354), section 1102(b) of 
+the Social Security Act, the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 
+104–4), Executive Order 13132 on 
+Federalism, and the Congressional 
+Review Act (5 U.S.C. 804(2)). We 
+estimated the impact on hospices, as a 
+result of the changes to the proposed FY 
+2010 hospice wage index and of 
+reducing the BNAF by 75 percent. 
+As discussed previously, the 
+methodology for computing the hospice 
+wage index was determined through a 
+negotiated rulemaking committee and 
+implemented in the August 8, 1997 
+hospice wage index final rule (62 FR 
+42860). The BNAF, which was 
+implemented in the August 8, 1997 rule, 
+is being phased out. This rule proposes 
+updates to the hospice wage index in 
+accordance with the August 8, 2008 FY 
+2009 Hospice Wage Index final rule (73 
+FR 46464), which originally 
+implemented a 75 percent reduced 
+BNAF for FY 2010 as the second year 
+of a 3-year phase-out of the BNAF. 
+Executive Order 12866 directs 
+agencies to assess all costs and benefits 
+of available regulatory alternatives and, 
+if regulation is necessary, to select 
+regulatory approaches that maximize 
+net benefits including potential 
+economic, environmental, public health 
+and safety effects, distributive impacts, 
+and equity. A regulatory impact analysis 
+(RIA) must be prepared for major rules 
+with economically significant effects 
+($100 million or more in any 1 year). We 
+have determined that this proposed rule 
+is an economically significant rule 
+under this Executive Order. 
+Column 4 of Table 1 shows the 
+combined effects of the 75 percent 
+reduction in the BNAF and of the 
+updated wage data, comparing 
+estimated payments for FY 2010 to 
+estimated payments for FY 2009. In 
+keeping with the American Recovery 
+and Reinvestment Act (ARRA) 
+mentioned earlier in this proposed rule, 
+the FY 2009 payments used for 
+comparison have a full (unreduced) 
+BNAF applied. We estimate that the 
+total hospice payments for FY 2010 will 
+decrease by $340 million as a result of 
+the application of the 75 percent 
+reduction in the BNAF and the updated 
+wage data. This estimate does not take 
+into account any hospital market basket 
+update, which is currently estimated to 
+be about 2.1 percent for FY 2010. The 
+final hospital market basket update will 
+not be available until sometime later 
+this year and will be communicated 
+through an administrative instruction. 
+The effect of an estimated 2.1 percent 
+hospital market basket update on 
+payments to hospices is approximately 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18924 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+$240 million. Taking into account an 
+estimated 2.1 percent hospital market 
+basket update, in addition to the 75 
+percent reduction in the BNAF and the 
+updated wage data, it is estimated that 
+hospice payments would decrease by 
+$100 million in FY 2010 ($340 million 
+¥ $240 million = $100 million). The 
+percent change in payments to hospices 
+due to the combined effects of the 75 
+percent reduction in the BNAF, the 
+updated wage data, and the estimated 
+hospital market basket update of 2.1 
+percent is reflected in column 5 of the 
+impact table (Table 1). 
+The RFA requires agencies to analyze 
+options for regulatory relief of small 
+businesses if a rule has a significant 
+impact on a substantial number of small 
+entities. The majority of hospices and 
+most other providers and suppliers are 
+small entities, either by nonprofit status 
+or by having revenues of less than $7 
+million to $34.5 million in any 1 year 
+(for details, see http://www.sba.gov/ 
+contractingopportunities/officials/size/ 
+index.html). While the Small Business 
+Administration (SBA) does not define a 
+size threshold in terms of annual 
+revenues for hospices, they do define 
+one for home health agencies ($13.5 
+million; see http://www.sba.gov/idc/ 
+groups/public/documents/ 
+sba_homepage/serv_sstd_tablepdf.pdf). 
+For the purposes of this proposed rule, 
+because the hospice benefit is a home- 
+based benefit, we are applying the SBA 
+definition of ‘‘small’’ for home health 
+agencies to hospices; we will use this 
+definition of ‘‘small’’ in determining if 
+this proposed rule has a significant 
+impact on a substantial number of small 
+entities (for example, hospices). Using 
+2007 claims data, we estimate that 96 
+percent of hospices have revenues 
+below $13.5 million. 
+As indicated in Table 1 below, there 
+are 3,206 hospices as of January 29, 
+2009. Approximately 49.8 percent of 
+Medicare certified hospices are 
+identified as voluntary or government 
+agencies and, therefore, are considered 
+small entities. Most of these and most of 
+the remainder are also small hospice 
+entities because, as noted above, their 
+revenues fall below the SBA size 
+thresholds. 
+We note that the hospice wage index 
+methodology was previously guided by 
+consensus, through a negotiated 
+rulemaking committee that included 
+representatives of national hospice 
+associations, rural, urban, large and 
+small hospices, multi-site hospices, and 
+consumer groups. Based on all of the 
+options considered, the committee 
+agreed on the methodology described in 
+the committee statement, and after 
+notice and comment, it was adopted 
+into regulation in the August 8, 1997 
+final rule. In developing the process for 
+updating the hospice wage index in the 
+1997 final rule, we considered the 
+impact of this methodology on small 
+hospice entities and attempted to 
+mitigate any potential negative effects. 
+Small hospice entities are more likely to 
+be in rural areas, which are less affected 
+by the BNAF reduction than entities in 
+urban areas. Generally, hospices in rural 
+areas are protected by the hospice floor 
+adjustment, which mitigates the effect of 
+the BNAF reduction. 
+The effects of this rule on hospices are 
+shown in Table 1. Overall, Medicare 
+payments to all hospices will decrease 
+by an estimated 3.2 percent, reflecting 
+the combined effects of the 75 percent 
+reduction in the BNAF and the updated 
+wage data. However, when we consider 
+the combined effects of the 75 percent 
+reduction to the BNAF and the updated 
+wage data on small or medium sized 
+hospices, as defined by routine home 
+care days rather than by the SBA 
+definition, the effect is –2.9 percent. 
+Furthermore, when including the 
+estimated hospital market basket update 
+of 2.1 percent into these estimates, the 
+combined effects on Medicare payment 
+to all hospices would result in an 
+estimated decrease of approximately 1.1 
+percent. For small to medium hospices 
+(as defined by routine home care days), 
+the effects on revenue when accounting 
+for the updated wage data, the 75 
+percent BNAF reduction, and the 
+estimated hospital market basket update 
+are –0.8 percent and –0.9 percent, 
+respectively. Overall average hospice 
+revenue effects will be slightly less than 
+these estimates since according the 
+National Hospice and Palliative Care 
+Organization, about 16 percent of 
+hospice patients are non-Medicare. HHS 
+practice in interpreting the RFA is to 
+consider effects economically 
+‘‘significant’’ only if they reach a 
+threshold of 3 to 5 percent or more of 
+total revenue or total costs. As noted 
+above, the combined effect of only the 
+updated wage data and the 75 percent 
+reduced BNAF for all hospices (large 
+and small) is 3.2 percent. Since, by 
+SBA’s definition of ‘‘small’’ (when 
+applied to hospices), nearly all hospices 
+are considered to be small entities, the 
+combined effect of only the updated 
+wage data and the 75 percent reduced 
+BNAF (3.2 percent) exceeds HHS’ 3.0 
+percent minimum threshold. However, 
+HHS’ practice in determining 
+‘‘significant economic impact’’ has 
+considered either total revenue or total 
+costs. Total hospice revenues include 
+the effect of the market basket update. 
+When we consider the combined effect 
+of the updated wage data, the 75 percent 
+BNAF reduction, and the estimated 2.1 
+percent 2009 market basket update, the 
+overall impact is a decrease in hospice 
+payments of 1.1 percent for FY 2010. 
+Therefore, the Secretary has determined 
+that this proposed rule does not create 
+a significant economic impact on a 
+substantial number of small entities. 
+In the August 8, 2008 FY 2009 
+Hospice Wage Index final rule, we 
+implemented a 3-year phase-out of the 
+BNAF. The BNAF was to be reduced by 
+25 percent in FY 2009, by an additional 
+50 percent for a total of 75 percent in 
+FY 2010, and by a final 25 percent, for 
+complete elimination in FY 2011. This 
+phased approach to eliminating the 
+BNAF was estimated to reduce 
+payments by 1.1 percent in FY 2009, an 
+additional 2 percent in FY 2010, and an 
+additional 1 percent in FY 2011. As 
+originally implemented, the phase out 
+of the BNAF would not have a 
+significant economic impact on small 
+entities because in any of the 3 fiscal 
+years, the estimated reduction in 
+payments was less than 3 percent. 
+However, on February 17, 2009, ARRA 
+eliminated the phase-out for FY 2009, 
+but left intact the BNAF reductions 
+implemented in the August 8, 2008 FY 
+2009 Hospice Wage Index final rule for 
+FY 2010 and FY 2011. While we are still 
+using a phased approach to eliminating 
+the BNAF, the phase-out is now 
+occurring over 2 years rather than over 
+3 years. There is a greater impact on 
+hospices in FY 2010 since hospices 
+move from having a full (unreduced) 
+BNAF in FY 2009 to a 75 percent 
+reduced BNAF in FY 2010. 
+The hospice floor calculation gives 
+some relief to hospices with pre-floor, 
+pre-reclassified wage index values less 
+than 0.8. Hospices which are eligible for 
+the hospice floor calculation will either 
+be totally unaffected by the BNAF 
+phase-out, or will be less affected by the 
+phase-out. As noted in section II.A.4 of 
+this proposed rule, there are just over 
+100 hospices that will be totally 
+unaffected by the BNAF phase-out and 
+just over 300 hospices which will be 
+less affected by the BNAF phase-out, 
+due to the hospice floor calculation. 
+Hospices do not need to take any 
+action for the BNAF phase-out to be 
+effective. The FY 2010 wage index 
+includes the 75 percent reduced BNAF, 
+and that wage index is applied to 
+hospice payments automatically by the 
+claims processing contractors, thereby 
+relieving hospices of the responsibility 
+of having to implement the change. 
+We are taking a number of actions to 
+provide information to hospices to help 
+them prepare for the BNAF phase-out. 
+First, this phase-out was originally 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00014 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18925 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+implemented in the August 8, 2008 FY 
+2009 Hospice Wage Index final rule. 
+With the passage of ARRA, hospices 
+have been given additional time to 
+prepare for the FY 2010 BNAF 
+reduction, and the ultimate elimination 
+of the BNAF in FY 2011. Second, we 
+continue to publicize information about 
+the BNAF phase-out on our hospice 
+Web site. The hospice center page at 
+http://www.cms.hhs.gov/center/ 
+hospice.asp provides information about 
+the BNAF phase-out and links to related 
+documents. Third, we are publicizing 
+the information about the BNAF phase- 
+out through other avenues (for example, 
+through Open Door Forums). All of 
+these efforts should provide information 
+to hospices to help them prepare for the 
+BNAF phase-out. 
+In addition, section 1102(b) of the Act 
+requires us to prepare a regulatory 
+impact analysis if a rule may have a 
+significant impact on the operations of 
+a substantial number of small rural 
+hospitals. This analysis must conform to 
+the provisions of section 603 of the 
+RFA. For purposes of section 1102(b) of 
+the Act, we define a small rural hospital 
+as a hospital that is located outside a 
+metropolitan statistical area and has 
+fewer than 100 beds. Therefore, the 
+Secretary has determined that this 
+proposed rule will not have a significant 
+impact on the operations of a substantial 
+number of small rural hospitals. 
+Section 202 of the Unfunded 
+Mandates Reform Act of 1995 (UMRA) 
+also requires that agencies assess 
+anticipated costs and benefits before 
+issuing any rule whose mandates 
+require spending in any 1 year of about 
+$100 million or more in 1995 dollars, 
+updated for inflation. That threshold is 
+currently approximately $133 million in 
+2009. This proposed rule is not 
+anticipated to have an effect on State, 
+local, or tribal governments or on the 
+private sector of $133 million or more. 
+Executive Order 13132 establishes 
+certain requirements that an agency 
+must meet when it promulgates a 
+proposed rule (and subsequent final 
+rule) that imposes substantial direct 
+requirement costs on State and local 
+governments, preempts State law, or 
+otherwise has Federalism implications. 
+We have reviewed this proposed rule 
+under the threshold criteria of Executive 
+Order 13132, Federalism, and have 
+determined that it will not have an 
+impact on the rights, roles, and 
+responsibilities of State, local, or tribal 
+governments. 
+B. Anticipated Effects 
+This section discusses the impact of 
+the projected effects of the proposed 
+hospice wage index, including the 
+effects of an estimated 2.1 percent 
+hospital market basket update that will 
+be communicated separately through an 
+administrative instruction. The 
+proposed provisions include continuing 
+to use the CBSA-based pre-floor, pre- 
+reclassified hospital wage index as a 
+basis for the hospice wage index and 
+continuing to use the same policies for 
+treatment of areas (rural and urban) 
+without hospital wage data. In FY 2010, 
+we are continuing with the 75 percent 
+reduction of the BNAF which, in the 
+August 8, 2008 FY 2009 Hospice Wage 
+Index final rule (73 FR 46464), was 
+originally implemented as the second 
+year of a 3-year phase-out of the BNAF. 
+The proposed FY 2010 hospice wage 
+index is based upon the 2009 pre-floor, 
+pre-reclassified hospital wage index and 
+the most complete claims data available 
+(FY 2007) with a 75 percent reduction 
+in the BNAF. 
+For the purposes of our impacts, our 
+baseline is estimated FY 2009 payments 
+(without any BNAF reduction) using the 
+2008 pre-floor, pre-reclassified hospital 
+wage index. Our first comparison 
+(column 3, Table 1) compares our 
+baseline to estimated FY 2010 payments 
+(holding payment rates constant) using 
+the updated wage data (2009 pre-floor, 
+pre-reclassified hospital wage index). 
+Consequently, the estimated effects 
+illustrated in column 3 of Table 1 show 
+the distributional effects of the updated 
+wage data only. The effects of using the 
+updated pre-floor, pre-reclassified 
+hospital wage index data combined with 
+the 75 percent reduction in the BNAF 
+are illustrated in column 4 of Table 1. 
+We have included a comparison of the 
+combined effects of the 75 percent 
+BNAF reduction, the updated pre-floor, 
+pre-reclassified hospital wage index, 
+and an estimated 2.1 percent hospital 
+market basket increase for FY 2010 
+(Table 1, column 5). Presenting these 
+data gives the hospice industry a more 
+complete picture of the effects on their 
+total revenue of the proposed hospice 
+wage index discussed in this rule, the 
+BNAF phase-out, and the estimated FY 
+2010 hospital market basket update. 
+Certain events may limit the scope or 
+accuracy of our impact analysis, because 
+such an analysis is susceptible to 
+forecasting errors due to other changes 
+in the forecasted impact time period. 
+The nature of the Medicare program is 
+such that the changes may interact, and 
+the complexity of the interaction of 
+these changes could make it difficult to 
+predict accurately the full scope of the 
+impact upon hospices. 
+TABLE 1—ANTICIPATED IMPACT ON MEDICARE HOSPICE PAYMENTS OF UPDATING THE PRE-FLOOR, PRE-RECLASSIFIED 
+HOSPITAL WAGE INDEX DATA, REDUCING THE BNAF BY 75 PERCENT AND APPLYING AN ESTIMATED 2.1 PERCENT 
+HOSPITAL MARKET BASKET UPDATE FOR THE FY 2010 PROPOSED HOSPICE WAGE INDEX, COMPARED TO THE FY 
+2009 HOSPICE WAGE INDEX WITH NO BNAF REDUCTION 
+Number of 
+hospices * 
+Number of 
+routine 
+home care 
+days in 
+thousands 
+Percent 
+change in 
+hospice 
+payments 
+due to FY 
+2010 wage 
+index 
+change 
+Percent 
+change in 
+hospice 
+payments 
+due to wage 
+index 
+change and 
+75% reduc-
+tion in 
+BNAF 
+Percent 
+change in 
+hospice 
+payments 
+due to wage 
+index 
+change, 
+75% reduc-
+tion in 
+BNAF and 
+estimated 
+hospital 
+market bas-
+ket update 
+(1) (2) (3) (4) (5) 
+ALL HOSPICES ....................................................................................... 3,206 67,763 (0.0) (3.2) (1.1) 
+URBAN HOSPICES .......................................................................... 2,184 58,428 (0.1) (3.3) (1.2) 
+RURAL HOSPICES .......................................................................... 1,022 9,336 0.1 (2.3) (0.3) 
+BY REGION—URBAN: 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00015 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18926 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+TABLE 1—ANTICIPATED IMPACT ON MEDICARE HOSPICE PAYMENTS OF UPDATING THE PRE-FLOOR, PRE-RECLASSIFIED 
+HOSPITAL WAGE INDEX DATA, REDUCING THE BNAF BY 75 PERCENT AND APPLYING AN ESTIMATED 2.1 PERCENT 
+HOSPITAL MARKET BASKET UPDATE FOR THE FY 2010 PROPOSED HOSPICE WAGE INDEX, COMPARED TO THE FY 
+2009 HOSPICE WAGE INDEX WITH NO BNAF REDUCTION—Continued 
+Number of 
+hospices * 
+Number of 
+routine 
+home care 
+days in 
+thousands 
+Percent 
+change in 
+hospice 
+payments 
+due to FY 
+2010 wage 
+index 
+change 
+Percent 
+change in 
+hospice 
+payments 
+due to wage 
+index 
+change and 
+75% reduc-
+tion in 
+BNAF 
+Percent 
+change in 
+hospice 
+payments 
+due to wage 
+index 
+change, 
+75% reduc-
+tion in 
+BNAF and 
+estimated 
+hospital 
+market bas-
+ket update 
+(1) (2) (3) (4) (5) 
+NEW ENGLAND ............................................................................... 121 2,092 0.0 (3.4) (1.4) 
+MIDDLE ATLANTIC .......................................................................... 209 5,971 (0.1) (3.4) (1.4) 
+SOUTH ATLANTIC ........................................................................... 314 12,988 (0.8) (4.0) (1.9) 
+EAST NORTH CENTRAL ................................................................. 307 8,318 (0.5) (3.7) (1.7) 
+EAST SOUTH CENTRAL ................................................................. 171 4,512 (0.0) (2.9) (0.9) 
+WEST NORTH CENTRAL ................................................................ 169 3,860 0.4 (2.9) (0.8) 
+WEST SOUTH CENTRAL ................................................................ 410 7,949 0.0 (3.1) (1.1) 
+MOUNTAIN ....................................................................................... 203 5,065 0.1 (3.2) (1.2) 
+PACIFIC ............................................................................................ 245 6,702 1.6 (2.0) 0.1 
+OUTLYING ** .................................................................................... 35 972 (1.2) (1.2) 0.9 
+BY REGION—RURAL: 
+NEW ENGLAND ............................................................................... 26 175 0.6 (2.7) (0.7) 
+MIDDLE ATLANTIC .......................................................................... 44 462 (0.4) (3.5) (1.5) 
+SOUTH ATLANTIC ........................................................................... 128 1,915 (0.1) (2.7) (0.7) 
+EAST NORTH CENTRAL ................................................................. 145 1,354 (0.6) (3.8) (1.8) 
+EAST SOUTH CENTRAL ................................................................. 152 2,051 (0.1) (1.3) 0.8 
+WEST NORTH CENTRAL ................................................................ 192 965 0.7 (2.4) (0.4) 
+WEST SOUTH CENTRAL ................................................................ 176 1,406 0.9 (0.9) 1.2 
+MOUNTAIN ....................................................................................... 106 601 (0.4) (3.2) (1.2) 
+PACIFIC ............................................................................................ 52 397 1.7 (1.7) 0.3 
+OUTLYING ........................................................................................ 1 9 0.0 0.0 2.1 
+ROUTINE HOME CARE DAYS: 
+0–3499 DAYS (small) ....................................................................... 663 1,103 0.1 (2.9) (0.8) 
+3500–19,999 DAYS (medium) .......................................................... 1,537 15,311 0.1 (2.9) (0.9) 
+20,000+ DAYS (large) ...................................................................... 1,006 51,350 (0.1) (3.2) (1.2) 
+TYPE OF OWNERSHIP: † 
+VOLUNTARY (Non-Profit) ................................................................ 1,187 29,043 (0.1) (3.3) (1.3) 
+PROPRIETARY (For Profit) .............................................................. 1,608 33,275 0.1 (3.0) (1.0) 
+GOVERNMENT ................................................................................ 411 5,446 (0.1) (3.3) (1.3) 
+HOSPICE BASE: 
+FREESTANDING .............................................................................. 2,028 51,413 (0.1) (3.2) (1.2) 
+HOME HEALTH AGENCY ............................................................... 601 9,509 0.2 (3.1) (1.1) 
+HOSPITAL ........................................................................................ 561 6,627 0.2 (3.0) (0.9) 
+SKILLED NURSING FACILITY ........................................................ 16 214 (0.1) (3.5) (1.5) 
+BNAF = Budget Neutrality Adjustment Factor. 
+* As of January 29, 2009; Source: OSCAR database. 
+** Guam, Puerto Rico, Virgin Islands. 
+† In previous years, there was also a category labeled ‘‘Other’’; these were Other Government hospices, and have been combined with the 
+‘‘Government’’ category. 
+Note: Comparison is to FY 2009 estimated payments from the August 8, 2008 FY 2009 Hospice Wage Index final rule (73 FR 46464), but with 
+no BNAF reduction. 
+Table 1 shows the results of our 
+analysis. In column 1, we indicate the 
+number of hospices included in our 
+analysis as of January 29, 2009. In 
+column 2, we indicate the number of 
+routine home care days that were 
+included in our analysis, although the 
+analysis was performed on all types of 
+hospice care. Columns 3, 4, and 5 
+compare FY 2010 estimated payments 
+with those estimated for FY 2009. The 
+estimated FY 2009 payments 
+incorporate a BNAF which has not been 
+reduced. Column 3 shows the 
+percentage change in estimated 
+Medicare payments from FY 2009 to FY 
+2010 due to the effects of the updated 
+wage data only, with estimated FY 2009 
+payments. Column 4 shows the 
+percentage change in estimated hospice 
+payments from FY 2009 to FY 2010 due 
+to the combined effects of using the 
+2009 pre-floor, pre-reclassified hospital 
+wage index and reducing the BNAF by 
+75 percent. Column 5 shows the 
+percentage change in estimated hospice 
+payments from FY 2009 to FY 2010 due 
+to the combined effects of using updated 
+wage data, a 75 percent BNAF 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00016 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18927 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+reduction, and a 2.1 percent estimated 
+hospital market basket update. 
+Table 1 also categorizes hospices by 
+various geographic and hospice 
+characteristics. The first row of data 
+displays the aggregate result of the 
+impact for all Medicare-certified 
+hospices. The second and third rows of 
+the table categorize hospices according 
+to their geographic location (urban and 
+rural). Our analysis indicated that there 
+are 2,184 hospices located in urban 
+areas and 1,022 hospices located in 
+rural areas. The next two row groupings 
+in the table indicate the number of 
+hospices by census region, also broken 
+down by urban and rural hospices. The 
+next grouping shows the impact on 
+hospices based on the size of the 
+hospice’s program. We determined that 
+the majority of hospice payments are 
+made at the routine home care rate. 
+Therefore, we based the size of each 
+individual hospice’s program on the 
+number of routine home care days 
+provided in FY 2007. The next grouping 
+shows the impact on hospices by type 
+of ownership. The final grouping shows 
+the impact on hospices defined by 
+whether they are provider-based or 
+freestanding. 
+As indicated in Table 1, there are 
+3,206 hospices. Approximately 49.8 
+percent of Medicare-certified hospices 
+are identified as voluntary (non-profit) 
+or government agencies. Because the 
+National Hospice and Palliative Care 
+Organization estimates that 
+approximately 83.6 percent of hospice 
+patients in 2007 were Medicare 
+beneficiaries, we have not considered 
+other sources of revenue in this 
+analysis. 
+As stated previously, the following 
+discussions are limited to demonstrating 
+trends rather than projected dollars. We 
+used the pre-floor, pre-reclassified 
+hospital wage indexes as well as the 
+most complete claims data available (FY 
+2007) in developing the impact analysis. 
+The FY 2010 payment rates will be 
+adjusted to reflect the full hospital 
+market basket, as required by section 
+1814(i)(1)(C)(ii)(VII) of the Act. As 
+previously noted, we publish these rates 
+through administrative instructions 
+rather than in a proposed rule. Currently 
+the FY 2010 hospital market basket 
+update is estimated to be 2.1 percent; 
+however this figure is subject to change. 
+Since the inclusion of the effect of an 
+estimated hospital market basket 
+increase provides a more complete 
+picture of projected total hospice 
+payments for FY 2010, the last column 
+of Table 1 shows the combined impacts 
+of the updated wage index, the 75 
+percent BNAF reduction, and an 
+estimated 2.1 percent hospital market 
+basket update factor. 
+As discussed in the FY 2006 hospice 
+wage index final rule (70 FR 45129), 
+hospice agencies may use multiple 
+hospice wage index values to compute 
+their payments based on potentially 
+different geographic locations. Before 
+January 1, 2008, the location of the 
+beneficiary was used to determine the 
+CBSA for routine and continuous home 
+care and the location of the hospice 
+agency was used to determine the CBSA 
+for respite and general inpatient care. 
+Beginning January 1, 2008, the hospice 
+wage index utilized is based on the 
+location of the site of service. As the 
+location of the beneficiary’s home and 
+the location of the facility may vary, 
+there will still be variability in 
+geographic location for an individual 
+hospice. We anticipate that the location 
+of the various sites will usually 
+correspond with the geographic location 
+of the hospice, and thus we will 
+continue to use the location of the 
+hospice for our analyses of the impact 
+of the proposed changes to the hospice 
+wage index in this rule. For this 
+analysis, we use payments to the 
+hospice in the aggregate based on the 
+location of the hospice. 
+The impact of hospice wage index 
+changes has been analyzed according to 
+the type of hospice, geographic location, 
+type of ownership, hospice base, and 
+size. Our analysis shows that most 
+hospices are in urban areas and provide 
+the vast majority of routine home care 
+days. Most hospices are medium-sized 
+followed by large hospices. Hospices are 
+almost equal in numbers by ownership 
+with 1,598 designated as non-profit and 
+1,608 as proprietary. The vast majority 
+of hospices are freestanding. 
+1. Hospice Size 
+Under the Medicare hospice benefit, 
+hospices can provide four different 
+levels of care days. The majority of the 
+days provided by a hospice are routine 
+home care (RHC) days, representing 
+about 97 percent of the services 
+provided by a hospice. Therefore, the 
+number of RHC days can be used as a 
+proxy for the size of the hospice, that is, 
+the more days of care provided, the 
+larger the hospice. As discussed in the 
+August 4, 2005 final rule, we currently 
+use three size designations to present 
+the impact analyses. The three 
+categories are: (1) Small agencies having 
+0 to 3,499 RHC days; (2) medium 
+agencies having 3,500 to 19,999 RHC 
+days; and (3) large agencies having 
+20,000 or more RHC days. The updated 
+FY 2010 wage index values without any 
+BNAF reduction are anticipated to 
+increase payments to small and medium 
+hospices by 0.1 percent, and to decrease 
+payments to large hospices by 0.1 
+percent (column 3); the FY 2010 wage 
+index values using the updated wage 
+data and the 75 percent BNAF reduction 
+that was finalized in the FY 2009 final 
+rule, published August 2008 (73 FR 
+46464), are anticipated to decrease 
+estimated payments to small and to 
+medium hospices by 2.9 percent each, 
+and to large hospices by 3.2 percent 
+(column 4); and finally, the FY 2010 
+wage index values with the updated 
+wage data, the 75 percent BNAF 
+reduction which was finalized in the FY 
+2009 final rule, published in August 
+2008 (73 FR 46464), and the estimated 
+2.1 percent hospital market basket 
+update are projected to decrease 
+estimated payments by 0.8 percent for 
+small hospices, by 0.9 percent for 
+medium hospices, and to decrease 
+estimated payments by 1.2 percent for 
+large hospices (column 5). 
+2. Geographic Location 
+Column 3 of Table 1 shows that FY 
+2010 wage index values without the 
+BNAF reduction would result in little 
+change in estimated payments. Urban 
+hospices are anticipated to experience a 
+slight decrease of 0.1 percent while 
+rural hospices are anticipated to have a 
+slight increase of 0.1 percent. For urban 
+hospices, the greatest increase of 1.6 
+percent is anticipated to be experienced 
+by the Pacific regions, followed by an 
+increase for West North Central regions 
+of 0.4 percent, an increase for Mountain 
+regions of 0.1 percent, and no change for 
+the West South Central or New England 
+regions. The remaining urban regions 
+are anticipated to experience a decrease 
+ranging from 0.1 percent in the Middle 
+Atlantic region to a 1.2 percent decrease 
+for Outlying regions. East South Central 
+is anticipated to see a slight decrease 
+which rounds to a 0.0 percent change. 
+Column 3 shows that for rural 
+hospices, Outlying regions are 
+anticipated to experience no change. 
+Five regions are anticipated to 
+experience a decrease ranging from 0.1 
+percent for the South Atlantic and East 
+South Central regions to 0.6 percent for 
+the East North Central region. The 
+remaining regions are anticipated to 
+experience an increase ranging from 0.6 
+percent for the New England region to 
+1.7 percent for the Pacific region. 
+Column 4 shows the combined effect 
+of the 75 percent BNAF reduction and 
+the updated pre-floor, pre-reclassified 
+hospital wage index values on estimated 
+payments, as compared to the FY 2009 
+estimated payments using a BNAF with 
+no reduction. Overall urban hospices 
+are anticipated to experience a 3.3 
+percent decrease in payments, while 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00017 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18928 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+rural hospices expect a 2.3 percent 
+decrease. The estimated percent 
+decrease in payment for urban hospices 
+ranged from 1.2 percent for Outlying 
+hospices to 4.0 percent for South 
+Atlantic hospices. 
+The estimated percent decrease in 
+payment for rural hospices ranged from 
+0.9 percent for West South Central 
+hospices to 3.8 percent for East North 
+Central hospices. Rural Outlying 
+estimated payments were unaffected. 
+Column 5 shows the combined effects 
+of the proposed FY 2010 wage index 
+values with the updated wage data, the 
+75 percent BNAF reduction which was 
+finalized in the FY 2009 final rule, 
+published in August 2008 (73 FR 
+46464), and the estimated 2.1 percent 
+hospital market basket update on 
+estimated payments as compared to the 
+estimated FY 2009 payments. Note that 
+the FY 2009 payments had no BNAF 
+reduction applied to them. Overall, 
+urban hospices are anticipated to 
+experience a 1.2 percent decrease in 
+payments while rural hospices should 
+experience a 0.3 percent decrease in 
+payments. Urban hospices are 
+anticipated to experience a decrease in 
+estimated payments in 8 regions, 
+ranging from a 0.8 percent decrease for 
+the West North Central region to a 1.9 
+percent decrease for South Atlantic 
+hospices. Urban hospices in 2 regions 
+are anticipated to see an increase in 
+estimated payments of 0.1 percent for 
+the Pacific region and 0.9 percent for 
+Outlying regions. Rural hospices in 6 
+regions are estimated to see a decrease 
+in payments ranging from 0.4 percent 
+for the West North Central region to 1.8 
+percent for the East North Central 
+region. Rural hospices in 4 regions are 
+anticipated to see an increase in 
+payments ranging from 0.3 percent for 
+the Pacific region to 2.1 percent for the 
+Outlying regions. 
+3. Type of Ownership 
+Column 3 demonstrates the effect of 
+the updated pre-floor, pre-reclassified 
+hospital wage index on FY 2010 
+estimated payments versus FY 2009 
+estimated payments with no BNAF 
+reduction applied to them. We 
+anticipate that using the updated pre- 
+floor, pre-reclassified hospital wage 
+index data would increase estimated 
+payments to proprietary (for-profit) 
+hospices by 0.1 percent. We estimate a 
+slight decrease in payments for 
+voluntary (non-profit) and government 
+hospices of 0.1 percent each. 
+Column 4 demonstrates the combined 
+effects of using updated pre-floor, pre- 
+reclassified hospital wage index data 
+and of incorporating a 75 percent BNAF 
+reduction. Estimated payments to 
+proprietary (for-profit) hospices are 
+anticipated to decrease by 3.0 percent, 
+while voluntary (non-profit) and 
+government hospices are each 
+anticipated to experience decreases of 
+3.3 percent. 
+Column 5 shows the combined effects 
+of the updated pre-floor, pre-reclassified 
+hospital wage index values with the 
+updated wage data, the 75 percent 
+BNAF reduction, and the estimated 2.1 
+percent hospital market basket update 
+on estimated payments, comparing FY 
+2010 to FY 2009 (using a BNAF with no 
+reduction). Estimated FY 2010 
+payments are anticipated to decrease by 
+1.0 percent for proprietary (for-profit) 
+hospices, and by 1.3 percent for both 
+voluntary (non-profit) and government 
+hospices. 
+4. Hospice Base 
+Column 3 demonstrates the effect of 
+using the updated pre-floor, pre- 
+reclassified hospital wage index values, 
+comparing estimated payments for FY 
+2010 to FY 2009 (using a BNAF with no 
+reduction). Estimated payments are 
+anticipated to decrease by 0.1 percent 
+each for freestanding facilities and for 
+hospices based out of skilled nursing 
+facilities. Home health and hospital 
+based facilities are anticipated to 
+experience a 0.2 percent increase in 
+estimated payments. 
+Column 4 shows the combined effects 
+of updating the pre-floor, pre- 
+reclassified hospital wage index values 
+and reducing the BNAF by 75 percent 
+(as finalized in the FY 2009 final rule, 
+published August 2008, 73 FR 46464), 
+comparing FY 2010 to FY 2009 (using 
+a BNAF with no reduction) estimated 
+payments. Skilled nursing facility based 
+hospices are estimated to see a 3.5 
+percent decrease, freestanding hospices 
+are estimated to see a 3.2 percent 
+decrease, home health agency based 
+hospices are anticipated to experience a 
+3.1 percent decrease in payments, and 
+hospital-based hospices are anticipated 
+to experience a 3.0 percent decrease in 
+payments. 
+Column 5 shows the combined effects 
+of the updated pre-floor, pre-reclassified 
+hospital wage index, the 75 percent 
+BNAF reduction which was finalized in 
+FY 2009 hospice wage index final rule 
+(73 FR 46464), and the estimated 2.1 
+percent hospital market basket update 
+on estimated payments, comparing FY 
+2010 to FY 2009 (using a BNAF with no 
+reduction). Estimated payments are 
+anticipated to decrease by 0.9 percent 
+for hospital based hospices, by 1.1 
+percent for home health agency based 
+hospices, and by 1.2 percent and by 1.5 
+percent for freestanding hospices and 
+skilled nursing facility based hospices, 
+respectively. 
+C. Accounting Statement 
+As required by OMB Circular A–4 
+(available at http:// 
+www.whitehouse.gov/omb/circulars/ 
+a004/a-4.pdf), in Table 2 below, we 
+have prepared an accounting statement 
+showing the classification of the 
+expenditures associated with the 
+proposed provisions of this rule. This 
+table provides our best estimate of the 
+decrease in Medicare payments under 
+the hospice benefit as a result of the 
+changes presented in this proposed rule 
+on data for 3,206 hospices in our 
+database. All expenditures are classified 
+as transfers to Medicare providers (that 
+is, hospices). 
+TABLE 2—ACCOUNTING STATEMENT: 
+CLASSIFICATION OF ESTIMATED EX-
+PENDITURES, FROM FY 2009 TO FY 
+2010 
+[In millions] 
+Category Transfers 
+Annualized Monetized 
+Transfers.
+$¥340. 
+From Whom to Whom Federal Government 
+to Hospices. 
+Note: The $340 million reduction in 
+transfers includes the 75 percent reduction in 
+the BNAF and the updated wage data. It does 
+not include the estimated hospital market 
+basket update, which is currently forecast to 
+be about 2.1 percent. 
+In accordance with the provisions of 
+Executive Order 12866, this regulation 
+was reviewed by the Office of 
+Management and Budget. 
+List of Subjects 
+42 CFR Part 405 
+Administrative practice and 
+procedure, Health facilities, Health 
+professions, Kidney diseases, Medical 
+devices, Medicare, Reporting and 
+recordkeeping requirements, Rural 
+areas, X-rays. 
+42 CFR Part 418 
+Health facilities, Hospice care, 
+Medicare, Reporting and recordkeeping 
+requirements. 
+For the reasons set forth in the 
+preamble, the Centers for Medicare and 
+Medicare Services propose to amend 42 
+CFR chapter IV as set forth below: 
+PART 405—FEDERAL HEALTH 
+INSURANCE FOR THE AGED AND 
+DISABLED 
+1. The authority citation for part 405 
+subpart R continues to read as follows: 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18929 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+Authority: Secs. 205, 1102, 1814(b), 
+1815(a), 1833, 1861(v), 1871, 1872, 1878, and 
+1886 of the Social Security Act (42 U.S.C. 
+405, 1302, 1395f(b), 1395g(a), 1395l, 
+1395x(v), 1395hh, 1395ii, 1395oo, and 
+1395ww). 
+Subpart R—Provider Reimbursement 
+Determinations and Appeals 
+2. Section 405.1803 is amended by 
+revising paragraph (a) introductory text 
+and paragraph (a)(1) to read as follows: 
+§ 405.1803 Intermediary determination and 
+notice of amount of program 
+reimbursement. 
+(a) General requirement. Upon receipt 
+of a provider’s cost report, or amended 
+cost report where permitted or required, 
+the intermediary must within a 
+reasonable period of time (as described 
+in § 405.1835(a)(3)(ii)), furnish the 
+provider and other parties as 
+appropriate (see § 405.1805) a written 
+notice reflecting the intermediary’s 
+determination of the total amount of 
+reimbursement due the provider. For 
+the purposes of hospice, the 
+intermediaries’ determination of 
+program reimbursement letter, which 
+provides the results of the inpatient and 
+aggregate cap calculations, shall serve as 
+a notice of program reimbursement. The 
+intermediary must include the following 
+information in the notice, as 
+appropriate: 
+(1) Reasonable cost. The notice 
+must—(i) Explain the intermediary’s 
+determination of total program 
+reimbursement due the provider on the 
+basis of reasonable cost for the reporting 
+period covered by the cost report or 
+amended cost report, or in the case of 
+hospice, on the basis of the cap 
+calculations for the reporting period that 
+is the cap year; and 
+(ii) Relate this determination to the 
+provider’s claimed total program 
+reimbursement due the provider for this 
+period. 
+* * * * * 
+PART 418—HOSPICE CARE 
+3. The authority citation for part 418 
+continues to read as follows: 
+Authority: Secs. 1102 and 1871 of the 
+Social Security Act (42 U.S.C. 1302 and 
+1395hh). 
+Subpart A—General Provision and 
+Definitions 
+4. Section 418.1 is amended by 
+revising the introductory text to read as 
+follows: 
+§ 418.1 Statutory basis. 
+This part implements section 
+1861(dd) of the Social Security Act (the 
+Act). Section 1861(dd) of the Act 
+specifies services covered as hospice 
+care and the conditions that a hospice 
+program must meet in order to 
+participate in the Medicare program. 
+Section 1861(dd) also specifies 
+limitations on coverage of, and payment 
+for, inpatient hospice care. The 
+following sections of the Act are also 
+pertinent: 
+* * * * * 
+5. Section 418.2 is revised to read as 
+follows: 
+§ 418.2 Scope of part. 
+Subpart A of this part sets forth the 
+statutory basis and scope and defines 
+terms used in this Part. Subpart B 
+specifies the eligibility and election 
+requirements and the benefit periods. 
+Subparts C and D specify the conditions 
+of participation for hospices. Subpart E 
+is reserved for future use. Subparts F 
+and G specify coverage and payment 
+policy. Subpart H specifies coinsurance 
+amounts applicable to hospice care. 
+Subpart B—Eligibility, Election and 
+Duration of Benefits 
+6. Section 418.22 is amended by 
+adding a new paragraph (b)(3) to read as 
+follows: 
+§ 418.22 Certification of terminal illness. 
+* * * * * 
+(b) * * * 
+(3) The physician must include on the 
+certification a brief narrative 
+explanation of the clinical findings that 
+supports a life expectancy of 6 months 
+or less. 
+* * * * * 
+Subpart C—Conditions of 
+Participation: Patient Care 
+7. Section 418.76 is amended by 
+revising paragraph (f)(1) to read as 
+follows: 
+§ 418.76 Condition of participation: 
+Hospice aide and homemaker services. 
+* * * * * 
+(f) * * * 
+(1) Had been out of compliance with 
+the requirements of § 484.36(a) and 
+§ 484.36(b) of this chapter. 
+* * * * * 
+Subpart D—Conditions of 
+Participation: Organizational 
+Environment 
+8. Section 418.100 is amended by 
+revising paragraph (f)(1)(iii) to read as 
+follows: 
+§ 418.100 Condition of participation: 
+Organization and administration of service. 
+* * * * * 
+(f) * * * 
+(1) * * * 
+(iii) The lines of authority and 
+professional and administrative control 
+must be clearly delineated in the 
+hospice’s organizational structure and 
+in practice, and must be traced to the 
+location that issued the certification 
+number. 
+* * * * * 
+§ 418.108 [Amended] 
+9. In paragraph (b)(1)(ii), the cross 
+reference to ‘‘§ 418.110(f)’’ is revised to 
+read ‘‘§ 418.110(e).’’ 
+Subpart F—Covered Services 
+10. Section 418.200 is revised to read 
+as follows: 
+§ 418.200 Requirements for coverage. 
+To be covered, hospice services must 
+meet the following requirements. They 
+must be reasonable and necessary for 
+the palliation and management of the 
+terminal illness as well as related 
+conditions. The individual must elect 
+hospice care in accordance with 
+§ 418.24. A plan of care must be 
+established and periodically reviewed 
+by the attending physician, the medical 
+director, and the interdisciplinary group 
+of the hospice program. That plan of 
+care must be established before hospice 
+care is provided. The services provided 
+must be consistent with the plan of care. 
+A certification that the individual is 
+terminally ill must be completed as set 
+forth in section § 418.22. 
+11. Section § 418.202 is amended by 
+revising paragraphs (f) and (g) to read as 
+follows: 
+§ 418.202 Covered Services. 
+* * * * * 
+(f) Medical appliances and supplies, 
+including drugs and biologicals. Only 
+drugs as defined in section 1861(t) of 
+the Act and which are used primarily 
+for the relief of pain and symptom 
+control related to the individual’s 
+terminal illness are covered. Appliances 
+may include covered durable medical 
+equipment as described in § 410.38 of 
+this chapter as well as other self-help 
+and personal comfort items related to 
+the palliation or management of the 
+patient’s terminal illness. Equipment is 
+provided by the hospice for use in the 
+patient’s home while he or she is under 
+hospice care. Medical supplies include 
+those that are part of the written plan of 
+care and that are for palliation and 
+management of the terminal or related 
+conditions. 
+(g) Home health or hospice aide 
+services furnished by qualified aides as 
+designated in § 418.94 and homemaker 
+services. Home health aides (also known 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18930 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+as hospice aides) may provide personal 
+care services as defined in § 409.45(b) of 
+this chapter. Aides may perform 
+household services to maintain a safe 
+and sanitary environment in areas of the 
+home used by the patients, such as 
+changing bed linens or light cleaning 
+and laundering essential to the comfort 
+and cleanliness of the patient. Aide 
+services may include assistance in 
+maintenance of a safe and healthy 
+environment and services to enable the 
+individual to carry out the treatment 
+plan. 
+* * * * * 
+12. Section § 418.204 is amended by 
+revising paragraph (a) to read as follows: 
+§ 418.204 Special coverage requirements. 
+(a) Periods of crisis. Nursing care may 
+be covered on a continuous basis for as 
+much as 24 hours a day during periods 
+of crisis as necessary to maintain an 
+individual at home. Either homemaker 
+or home health aide (also known as 
+hospice aide) services or both may be 
+covered on a 24-hour continuous basis 
+during periods of crisis but care during 
+these periods must be predominantly 
+nursing care. A period of crisis is a 
+period in which the individual requires 
+continuous care to achieve palliation 
+and management of acute medical 
+symptoms. 
+* * * * * 
+Subpart G—Payment for Hospice Care 
+13. Section 418.302 is amended by 
+revising paragraphs (b)(2) and (f)(2) to 
+read as follows: 
+§ 418.302 Payment procedures for hospice 
+care. 
+* * * * * 
+(b) * * * 
+(2) Continuous home care day. A 
+continuous home care day is a day on 
+which an individual who has elected to 
+receive hospice care is not in an 
+inpatient facility and receives hospice 
+care consisting predominantly of 
+nursing care on a continuous basis at 
+home. Home health aide (also known as 
+a hospice aide) or homemaker services 
+or both may also be provided on a 
+continuous basis. Continuous home care 
+is only furnished during brief periods of 
+crisis as described in § 418.204(a) and 
+only as necessary to maintain the 
+terminally ill patient at home. 
+* * * * * 
+(f) * * * 
+(2) At the end of a cap period, the 
+intermediary calculates a limitation on 
+payment for inpatient care to ensure 
+that Medicare payment is not made for 
+days of inpatient care in excess of 20 
+percent of the total number of days of 
+hospice care furnished to Medicare 
+patients. Only inpatient days that were 
+provided and billed as general inpatient 
+or respite days are counted as inpatient 
+days when computing the inpatient cap. 
+* * * * * 
+14. Section 418.311 is revised to read 
+as follows: 
+§ 418.311 Administrative appeals. 
+A hospice that believes its payments 
+have not been properly determined in 
+accordance with these regulations may 
+request a review from the intermediary 
+or the Provider Reimbursement Review 
+Board (PRRB) if the amount in 
+controversy is at least $1,000 or $10,000, 
+respectively. In such a case, the 
+procedure in 42 CFR part 405, subpart 
+R, will be followed to the extent that it 
+is applicable. The PRRB, subject to 
+review by the Secretary under 
+§ 405.1874 of this chapter, shall have 
+the authority to determine the issues 
+raised. The methods and standards for 
+the calculation of the statutorily defined 
+payment rates by CMS are not subject to 
+appeal. 
+(Catalog of Federal Domestic Assistance 
+Program No. 93.773, Medicare—Hospital 
+Insurance; and Program No. 93.774, 
+Medicare-Supplementary Medical Insurance 
+Program) 
+Dated: March 30, 2009. 
+Charlene Frizzera, 
+Acting Administrator, Centers for Medicare 
+& Medicaid Services. 
+Approved: April 15, 2009. 
+Charles E. Johnson, 
+Acting Secretary. 
+BILLING CODE 4120–01–P 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18931 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00021 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+54
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18932 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00022 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+55
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18933 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00023 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+56
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18934 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00024 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+57
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18935 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00025 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+58
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18936 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00026 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+59
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18937 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00027 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+60
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18938 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00028 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+61
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18939 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00029 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+62
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18940 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00030 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+63
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18941 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00031 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+64
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18942 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00032 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+65
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18943 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00033 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+66
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18944 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00034 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+67
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18945 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00035 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+68
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18946 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00036 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+69
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18947 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00037 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+70
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18948 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00038 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+71
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18949 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00039 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+72
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18950 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00040 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+73
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18951 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00041 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+74
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18952 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00042 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+75
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18953 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00043 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+76
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18954 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00044 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+77
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18955 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00045 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+78
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18956 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00046 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+79
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18957 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00047 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+80
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18958 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00048 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+81
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18959 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00049 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+82
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18960 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00050 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+83
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18961 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00051 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+84
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18962 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00052 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+85
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18963 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00053 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+86
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18964 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00054 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+87
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18965 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00055 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+88
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18966 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00056 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+89
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18967 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00057 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+90
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18968 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00058 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+91
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18969 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00059 Fmt 4701 Sfmt 4725 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+92
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3
+18970 Federal Register / Vol. 74, No. 78 / Friday, April 24, 2009 / Proposed Rules 
+[FR Doc. E9–9417 Filed 4–21–09; 4:15 pm] 
+BILLING CODE 4120–01–C 
+VerDate Nov<24>2008 14:42 Apr 23, 2009 Jkt 217001 PO 00000 Frm 00060 Fmt 4701 Sfmt 4702 E:\FR\FM\24APP3.SGM 24APP3 EP
+24
+AP
+09
+.0
+93
+</
+G
+PH
+>
+tja
+me
+s o
+n P
+RO
+DP
+C7
+5 w
+ith
+ P
+RO
+PO
+SA
+LS
+3

@@ -1,0 +1,3492 @@
+DEPT. OF TRANSPORT/WON
+DOCKETS
+m APR i b A <* u i
+U.S. Department of Transportation
+FEDERAL AVIATION ADMINISTRATION
+Office of Aviation Policy and Plans
+Washington, D.C 20591
+INITIAL REGULATORY EVALUATION
+CONGESTION MANAGEMENT RULE FOR
+NEW YORK LAGUARDIA AIRPORT
+Office of Aviation Policy and Plans
+Operations Regulatory Analysis Branch
+April 11,2008
+TABLE OF CONTENTS
+Executive summary iii
+Total Costs and Benefits of This Rulemaking iv
+Who Is Potentially Affected By This Rulemaking v
+Key Assumptions v
+Other Important Assumptions v
+Alternatives We Have Considered vi
+Benefits of This Rulemakmg vii
+Costs of This Rulemaking vii
+REGULATORY EVALUATION 8
+Introduction 8
+Background 10
+Summary of the Proposed Rule 14
+Operational Cap and Slots 17
+Initial Grandfathering of Slots 18
+Fair Allocation of Slot Life 19
+Small Communities 20
+Use-or-Lose Requirements 20
+Perimeter Rule 21
+Auction 21
+Property Rights 24
+Secondary Market and Swaps ...25
+Re-Assignment of Returned Slots 26
+DISCUSSION OF BENEFITS AND COSTS OF THE RULE 27
+Delay Consequences in the Absence of a Cap 30
+Longer Term Costs of Instituting a Cap 34
+Option Cases for the Present: Regulation 35
+Economic Efficiency 36
+Baseline Allocation of LGA Slots 39
+Slot Auctions and Economic Efficiency 42
+Economic Efficiency of Options 1 and 2: A Comparison 45
+Characterizing Benefits from Reallocation 47
+The Benefits of Reduced Delays and Cancellations in Option 1 50
+Costs of the Proposed Rulemaking 51
+Summary of the Benefits and Costs of the Rule 54
+Distributional Impacts of the Proposed Rule 58
+Airlines 58
+Slot Values 62
+Small Communities 65
+Consumers 69
+Airport Operators 70
+APPENDIX A 72
+Updating Estimates of Net Surplus Due to a Cap 72
+Estimating Illustrative Benefits and Costs of Different Types of Flying 74
+Estimating Schedule Delay 79
+Estimating Carrier Impacts 81
+Estimating Impacts on Non-Scheduled Operators 82
+Illustrative Estimates of Surplus for Different Types of Operations at LGA 83
+Sample Calculations 85
+TABLE OF EXHIBITS
+Exhibit 1: Options 1 and 2 of Proposed Long-Term Regulation for LaGuardia 16
+Exhibit 2: UMD Sample Days: LaGuardia 31
+Exhibit 3: UMD Delay Simulation Runs for LaGuardia 31
+Exhibit 4: UMD Cancellation Simulation Runs for LaGuardia 32
+Exhibit 5: Air Service Characterisics at LaGuardia in January 2007 47
+Exhibit 6: Indicative Average Surplus to Society Produced by a Flight at LGA 49
+Exhibit 7: Estimated Resource Cost of Auction Over Five Years 53
+Exhibit 8: Costs and Benefits of the Rulemaking 56
+Exhibit 9: LaGuardia Opeating Authorizations and Implications of Options 1 and 2....59
+Exhibit 10: Indicative Slot Lease Values and Implied Auction Proceeds 63
+Exhibit 11: Value of a Slot per Seat Offered per Day 64
+Exhibit 12: Changes in Small Community Air Service Pattern at LGA: January 2007 vs.
+2008 67
+Exhibit 13: Small Community Operations at LGA by Fleet Type January 2008 68
+Exhibit 14: Adjusted Net Benefits of a Cap at LaGuardia 74
+Exhibit 15: Equation Estimates of Schedule Delay (minutes) 81
+Exhibit 16: Illustrative Estimates of Surplus for Different Types of Flying at LGA 83
+Exhibit 17: Annual Effect of Proposed Slot Retirements in Option 1 84
+Exhibit 18: Sample Calculations of Surplus at the Segment Level 86
+EXECUTIVE SUMMARY
+Executive Order 12866 directs that each Federal agency shall propose or adopt a
+regulation only upon a reasoned determination that the benefits of the intended
+regulation justify its costs. In conducting this analysis, FAA has determined this
+proposed rule has benefits that justify its costs, is a "significant regulatory action" as
+defined in section 3(f)(l) of Executive Order 12866, which is also known as an
+"economically significant" regulatory action and is "significant" as defined in DOT's
+Regulatory Policies and Procedures. The analysis detailed in this document is
+summarized below.
+The need for this regulation is driven by a market failure with regard to
+congestion at New York area airports. Properly functioning markets are the most
+efficient method of allocating scarce goods and services. In some instances, however,
+markets can fail to produce an efficient outcome, as when an externality exists. A
+"negative externality" arises when producers are able to avoid some of the costs of
+production attributable to their actions while continuing to capture the full benefits of
+their activities. Without a cap on operations at LaGuardia Airport, an air carrier can
+over-schedule operations in a manner that creates delays for all other airport users, but
+incurs costs only for delays to its own aircraft. The costs to society in aggregate of such
+practices exceed the total of the benefits to individual air carriers. The existence of
+externalities often requires some type of governmental intervention, as in the caps and
+auctions proposed in this rulemaking, to prevent overuse and enable markets to
+efficiently allocate resources.
+Total Costs and Benefits of This Rulemaking
+Through implementation of an auction, FAA estimates that this proposed rule
+would result in a long-term improvement in the allocation of scarce slot resources at
+LaGuardia Airport in New York (LGA). The estimated present value of net benefits of
+improved slot allocation is between $65 and $197 million from 2009-2019. The costs of
+the rule/ with a present value between $12 and $23 million, are due to the design,
+implementation and participation in an auction of slots.1
+This regulatory impact analysis also assumes as a baseline that in the absence of
+this rulemaking, FAA would not otherwise impose a cap on aircraft operations at LGA.
+Therefore, consistent with trie Initial Regulatory Evaluation undertaken for the agency's
+2006 notice of proposed rulemaking for LGA, the FAA estimates that, through the long
+term implementation of a cap on aircraft operations, this proposed rule would result in
+about a 32% reduction in the average delay per operation at LGA relative to a situation
+with no cap. This reduction in average delay generates present value net benefits of
+about $2.02 billion from 2009-2019.2 The benefits are estimated by comparing the no-
+rule scenario (similar to the situation at LGA in 2000) with the proposed cap.
+1
+ Present value costs and benefits are based on a 7% discount rate. At a 3% disount rate, the estimated
+present value of net benefits of improved slot allocation is between $86 and $251 million from 2009-2019.
+Since the costs of the rule are low, the present value of costs at 3% is about the same when rounded.
+2
+ Estimate based on a 7% discount rate. The net present value of benefits this reduction in avarege delay is
+$2.49 billion based on a 3% discount rate.
+IV
+Who Is Potentially Affected By This Rulemaking
++ Operators of scheduled and non-scheduled, domestic and international flights,
+and new entrants who do not yet operate at LGA.
+•>• All communities, including small communities with air service to LGA.
+•> Passengers of scheduled flights to LGA.
+>> The Port Authority of New York and New Jersey, which operates the airport.
+Key Assumptions
++ Base Case: no operating authorizations or caps
++ Cap on operations provides additional delay improvement
+• Option 1:100 percent of slots3 held by carriers with fewer than 21 slots
+would be reassigned to the carrier with 10 years of life; for holders with 21
+or more slots, 90 percent of slots would be reassigned to the carrier with
+leases of 10 years, two percent retired and eight percent with shorter
+leases auctioned over five years.
+o Delay improvement in Option 1 due to reduction of approximately
+one minute per average operation,
+• Option 2: Identical to Option 1 except no retirement of slots, and for
+holders with 21 or more slots, 80 percent grandfathered with 10-year
+leases and 20 percent with shorter leases auctioned over five years.
+-> For the purposes of this evaluation, the effective date is (11/1/08).
+Other Important Assumptions
++ Discount Rates - 7% and 3%
+* Period of Analysis - 2009 through 2019
+->- Assumes 2008 Constant Year Dollars
+•f Passenger Value of Travel Time ~ $30.86 per hour4
+3
+ A "slot" is defined as the right to land or depart {not both) in IFR conditions in a 30-minute time window.
+4
+ GRA, Incorporated "Economic Values for FAA Investment and Regulatory Decisions, A Guide", prepared
+for FAA Office of Aviation Policy and Plans, (October 3,2007). Value weighted using LaGuardia shares of
+55% leisure and 45% business travel.
+Alternatives We Have Considered
+•> No caps (no action): This alternative would let the High Density Rule order
+expire on January 1, 2007 without replacing it. Based on history, FAA expected
+operators would most likely continue to expand operations/ and hence further
+worsen airport delays.
+•> 2006 NPRM: Our 2006 proposed rule would have instituted caps, provided for
+mandatory upgauging, and withdrawn slots for periodic reallocation; we are
+amending this proposal in favor of the one proposed here.
+^- Caps: This alternative would permanently impose caps at 75 scheduled
+operations plus three unscheduled operations per hour; it would grandfather
+current holders of operating authorizations to operate at the airport.
+^ Option 1 + Caps: This alternative would institute caps as above, retire
+approximately two percent of eligible5 slots in the interest of reducing delays and
+reallocate eight percent of eligible capacity via an auction over five years.
+^- Option 2 + Caps: This alternative would institute caps as above, and reallocate
+twenty percent of eligible slots, via auction, over five years.
+We are requesting comment from industry on the alternatives considered.
+5
+ Slots may be retired from a pool consisting of all slots held by individual holders above 20 slots.
+VI
+Benefits of This Rulemaking
+The primary benefits of this rulemaking would be due to the delay reduction
+from the caps on operations and an improvement in the allocation of scarce slot
+resources through the use of an auction mechanism. Under Option 1 of the proposed
+rulemaking, there would also be some additional benefits due to delay reduction
+associated with retiring approximately 18 slots.
+Costs of This Rulemaking
+The major costs of this proposed rule are the costs to the public and private
+sectors of designing, implementing and participating in the auction. Under this
+rulemaking there will be a reduction in flights into LGA compared to what would occur
+without caps. The 2006 Regulatory Evaluation estimated the value of these flight
+reductions and deducted them from the delay benefits of the caps to calculate overall
+net benefits.6 FAA requests comment on all possible costs of the rule.
+6
+ See Appendix A for more information.
+VII
+REGULATORY EVALUATION
+Introduction
+The purpose of this proposed rule is to provide a long-term solution to address
+the expiration of the High Density Rule (HDR) at New York's LaGuardia Airport
+(LaGuardiaorLGA). The HDR expired at LGA on January 1,2007. In the past,
+demand has exceeded available capacity at LGA and is expected to remain high.
+Accordingly, on December 26, 2006, the Federal Aviation Administration (FAA) placed
+temporary limitations on the flight operations at LGA pending development of a long-
+term solution.
+The FAA and the Office of the Secretary of Transportation (OST) have been
+researching congestion management solutions that could be implemented at the airport.
+We intend to make a long-term commitment to caps at LGA by replacing the temporary
+Operating Authorizations with slots based on holdings of record as of January 2007.8
+There are two options that the FAA is seeking comment on. Both would feature
+the following provisions:
++ Slot leases which define FAA and operator property rights,
+->• Grandfathering of 100 percent of the first 20 slots held by incumbents,
+^ An auction of either eight or twenty percent of slot holdings above 20 slots over
+five years,
+>> A regulatory term through March 2019,
+7
+ This regulatory evaluation was prepared by GRA, Incorporated of Jenkintown, PA www.gra-inc.com
+8
+ While the main thrust of today's proposal concerns the implementation of an auction, for reasons
+described below, a no cap scenario is technically the base case for the regulatory evaluation.
+^- Protections for Canadian slot holders,
+^ Continued application of the 80 percent use/lose rule for grandfathered slots
+(not subject to auction),
+-)• Allowance for carriers to make logistical swaps of slots,
++ A secondary market where all carriers are notified that a holder wishes to
+sublease slots.
+There are two main distinctions between Option 1 and Option 2. In Option 1,
+two percent of each carrier's current portfolio above 20 slots would be retired from
+service in order to improve delay performance at the airport. Because we recognize that
+under the cap we could retire some slots without instituting an auction, we present the
+economic impacts related to slot retirements separately from those related to the auction
+in Option 1. Under Option 2, no slots would be retired.
+Another major distinction is eight percent of slots in Option 1 would have initial
+lease terms of less than or equal to four years after which they would be auctioned off to
+the highest airline bidder with the proceeds going to FAA to offset the cost of the
+auction and for capacity enhancing programs (including NextGen) at New York
+airports. In Option 2, 20 percent of slots would have initial lease terms of less than or
+equal to four years after which they would be auctioned off to the highest airline bidder
+with the proceeds going to the incumbent holder and incumbents would not be
+permitted to bid on their former slot holdings but may bid on all other slots. Under
+both Options, the FAA would recoup the costs associated with conducting the auction.
+Background and Need for the Regulation
+LGA is one of the most congested airports in the United States. Given its
+proximity to mid-town Manhattan, LGA experiences a heavy flow of arrivals and
+departures throughout the day. This flow of traffic, when unconstrained, has
+historically created inefficient levels of congestion and delay that affect the entire
+National Airspace System.
+The need for this regulation is driven by a market failure with regard to
+congestion at New York area airports, Properly functioning markets are the most
+efficient method of allocating scarce goods and services. In some instances, however,
+markets can fail to produce an efficient outcome, as when an externality exists. A
+"negative externality" arises when producers are able to avoid some of the costs of
+production attributable to their actions while continuing to capture the full benefits of
+their activities. Without a cap on operations at LaGuardia Airport, an air carrier can
+over-schedule operations in a manner that creates delays for all other airport users, but
+incurs costs only for delays to its own aircraft. The costs to society in aggregate of such
+practices exceed the total of the benefits to individual air carriers. The existence of
+externalities often requires some type of governmental intervention, as in the caps and
+auctions proposed in this rulemaking, to prevent overuse and enable markets to
+efficiently allocate resources.
+The FAA also believes recent congestion in the summer of 2007 serves as a stark
+reminder that the demand for access to New York City is exceptional. New York City is
+10
+served by three major airports; however, while LaGuardia remained a constrained
+airport last summer, JFK and Newark were not constrained and carriers were allowed
+to add flights at will. As a result, the New York City area airports experienced nearly
+unprecedented delays last summer, which affected the National Airspace System. The
+delay numbers at JFK were so high that the FAA initiated a Scheduling Reduction
+Meeting in October 2007 and announced a cap at the airport in January of this year.
+Concerned that those carriers that could not obtain desired access at JFK would quickly
+oversubscribe Newark, the FAA proposed a cap there in March. Looking forward/ FAA
+expects that maintaining a cap on all three major airports in the New York City area will
+be necessary.
+In 1969, to address congestion and delay at LGA and several other capacity-
+constrained airports, the FAA limited access to these airports by promulgating the High
+Density Rule (HDR). In 1985, the agency published a rule that grandfathered most
+HDR slots to the incumbent air carriers and created a lottery mechanism, with a
+preference for new entrants, to reallocate slots that came back to FAA over time, and
+that permitted slots to be bought and sold. The 1985 rule is generally referred to as the
+"buy-sell" rule.
+In 2000, Congress enacted the Aviation Investment and Reform Act for the 21st
+Century (AIR-21), which loosened the slot restrictions at Chicago O'Hare International
+Airport (ORD), John F. Kennedy Airport (JFK), and LGA. The Act essentially allowed
+more operations by authorizing non-marketable slot exemptions for new entrant
+airlines and carriers serving small hub and non-hub airports with certain size aircraft.
+11
+This legislation also provided for the ultimate phase-out of slot controls at O'Hare by
+July 2002 and at LGA and JFK on January 1, 2007. Given the opportunity to increase
+their presence at LGA, air carriers requested over 600 new slot exemptions. Delays
+soared as a result and by September 2000, 25 percent of flight delays in the U.S. were
+attributed to the congestion at LGA.
+In response to the delays at LGA, the FAA capped the number of scheduled
+operations at LGA at 75 per hour plus six unscheduled operations per hour between
+7:00 a.m. and 10:00 p.m. This level of operations includes the limited number of slot
+exemptions (159 per day) that were awarded to air carriers by means of a lottery. As a
+result of these actions, the average number of aircraft delays fell from 330 per day in
+October 2000 to 98 delays per day in April 2001. Had FAA taken no action after the
+HDR expired on December 31,2006, we believe it is likely that the very high levels of
+congestion and delay would have reappeared as carriers rushed in to gain access that
+has been limited since 1969.
+Accordingly, the agency proposed for comment in the August, 2006 Notice of
+Proposed Rulemaking (NPRM) and then issued a temporary order (the "2006
+LaGuardia order") that created operating authorizations that replaced slots;
+grandfathered holders (or operators if the holder was not an airline) as of December 31,
+2006; retained the 80 percent use/lose rule; permitted short term leasing of operating
+authorizations (since the temporary order term was correlated to the issuance of a
+longer-term regulation); and permitted carriers to continue making logistical swaps.
+Since the order does not permit the buying and selling of operating authorizations and
+12
+anticipated its replacement by a long-term regulation/ all operating authorizations were
+to be assigned again by the F A A when the order expired and upon the adoption of a
+longer-term regulation.9 Finally/ the temporary 2006 order did not set-aside operating
+authorizations for small communities.
+The FAA and the Office of the Secretary of Transportation (OST) have for the
+past four years contracted with the National Center of Excellence for Aviation
+Operations Research (NEXTOR) to conduct research on various proposals to implement
+congestion management at LGA upon the expiration of the HDR. As part of the
+research, NEXTOR has conducted a number of strategic simulations with industry in an
+effort to design and assess the potential effectiveness of various allocation mechanisms
+including: (1) auctions, (2) congestion pricing, and (3) various administrative measures
+at LGA. The NEXTOR congestion management project was initiated in anticipation of
+the termination of the HDR at LGA in January 2007.
+In November 2004, NEXTOR conducted a 2-day simulation of congestion pricing
+and various administrative measures at LGA. FAA/ OST, several industry stakeholders
+and airlines attended the workshop. The simulation measured airline responses to a
+variety of congestion pricing fees and administrative rules. Subsequently, on February
+24 - 25, 2005 NEXTOR conducted a second strategic simulation in which they
+demonstrated how an auction model could be used to allocate capacity. The simulation
+9
+ Under the temporary order, any operating authorizations withdrawn for failing to meet the minimum
+usage requirements would be redistributed via lottery under procedured defined in 14 CFR para 93.225; if a
+new entrant or limited incumbent wins an operating authorization in the lottery, it would not revert to its
+original holder at the end of the temporary regulation.
+13
+was structured around a mock auction for arrival and departure slots at LGA. The
+purpose of this simulation was to familiarize the relevant industry and government
+communities with auction processes and the specifics of slot auction design. The
+exercise also brought in views from industry and government on the overall policy of
+using auctions to allocate arrival and departure capacity.
+Some of the concepts developed in the NEXTOR research have been included in
+the present regulatory proposal.
+Summary of the Proposed Rule
+This proposed rule would replace the temporary order governing airspace access
+at LGA. The FAA intends to address congestion at LGA by replacing the temporary
+Operating Authorizations with slot leases based on holdings of record as of January
+2007.
+The impact of either the NPRM or today's proposal on demand at LGA is difficult
+to judge because of many reasons. The 2006 LaGuardia Order has kept operations from
+growing since the expiration of the HDR; however, that order is by design temporary. In
+addition, although we continue to believe potential demand at LaGuardia is significantly
+greater than the supply afforded by the 2006 LaGuardia Order, airline operations have
+continued to evolve since the last experience of unconstrained LaGaurdia demand. Since
+the 2006 LaGuardia order was temporary, however, we feel the appropriate baseline to
+compare this rule against is an unconstrained airport, which is the baseline we used in the
+14
+2006 NPRM. The last time the airport was close to unconstrained was in 2000, which is
+why the FAA relied on its 2000 experience to inform this analysis.
+There are two options being proposed for this 10-year rule, as summarized below
+in Exhibit 1. A discussion of the two options begins immediately below the table.
+15
+Exhibit 1: Options 1 and 2 of Proposed Long-Term Regulation for LaGuardia
+Feature
+Base Schedule
+Slot
+Number of Slots
+Slot Definitions
+Slot Time of Day
+Mechanics
+Auction
+Auction Proceeds
+Use/Lose
+Term
+Bidders
+Holders
+New or returned capacity
+Secondary market
+Logistical swaps of slots
+Option 1
+Week 2 January 2007
+Defined as right to land or depart
+(not both) in a 30-minute time
+window;
+75/hour •>• 3 unscheduled less 2%
+retired and not redistributed
+Common Slots: The Baseline (up
+to 20 slots per carrier) plus 90%
+of slots above 20 have 10 year
+leases; Limited Slots: 8% above
+the Baseline would have shorter
+leases and be auctioned over five
+years (1 .6% each) (after which
+they convert to Unrestricted
+Slots); and 2% would have
+shorter leases & then be retired
+over 5 years (0.4%/yr)
+6:00 a.m. through 9:59 p.m.,
+Monday through Friday and
+Sunday from 12 noon through
+9:59 p.m.; no more than 75 in
+anyone hour or 38 in any half-
+hour
+"Fair" initial distribution with half of
+slots with less than 10 years life
+selected by carriers; the other half
+selected by FAA according to
+specified rules
+For slots returned to FAA
+because life has expired, an
+ascending clock auction among
+air carriers
+Auction funds to FAA to defray
+costs of auction, then to NY
+capacity / projects
+Only on grandfathered slots as
+consideration for slots
+Program is through March 2019;
+slot lives are whatever proportion
+of 10 years remain upon
+reallocation
+Airlines
+Holders of record (not marketing
+carrier)
+Auctioned
+Transparent not blind: carrier
+notifies FAA of intent to sell; FAA
+makes slot availability known;
+bilateral negotiations; final terms
+disclosed to OST for monitoring
+Permitted
+Option 2
+Same
+Same
+75/hour + 3 unscheduled
+Common Slots: The Baseline (up
+to 20 slots per carrier) plus 80%
+of slots above 20 would have 1 0
+year leases; Limited Slots 20%
+would have shorter leases and
+then be reallocated via auction
+over five years (4%/yr)
+Same
+Same
+Same
+Auction funds (net of auction
+costs) to incumbent holder;
+incumbent cannot bid on own
+slots
+Same
+Same
+Same
+Same
+Same
+Same
+Same
+16
+Operational Cap and SUots
+On the effective date of the rule, an operational cap for the airport would become
+effective (Monday through Fridays, and Sunday after 12 P.M.); this cap would replace
+the temporary operating authorizations at the airport on a one-for-one basis. Both
+arrival and departure slots would be distributed in half-hour time windows. There
+would be three unscheduled operations per hour and 75 slots per hour for scheduled
+operations.
+For a scheduled operator, a slot would be required to operate at LGA; a slot
+would be defined as the right to land or depart (not both) in a 30-minute time window.
+Each slot would have an initial-lease term of 10, 4, 3, 2, or 1 years.10 Any slot with less
+than 10 years of life would be subject to reallocation via an auction operated under the
+authority of the FAA (discussed below), or in Option 1 may be retired.
+Slots would not be allocated to carriers on Saturdays since there is a significant
+drop in traffic on that day. However, the rulemaking contains similar provisions that
+would enable the FAA to cap operations on those days if traffic and delays become
+unacceptable in the future.
+With regard to unscheduled operations at the airport, up to three unscheduled
+fixed wing operations would be permitted per hour at the airport
+10
+ Some slots currently held by incumbents would be Limited Slots subject to immediate reallocation in the
+first auction to be conducted in January 2009. Thus, there will be five auctions.
+17
+Initial Grandfathering of Slots
+The initial allocation of slots would be grandfathered to each slot holder at LGA
+based on schedules as of January 2007. Where an operating carrier conducts flights
+solely under the control of another carrier, the carrier that "holds" the slot would
+receive it.
+With regard to a carrier's initial allocation, under Option 1 of the proposed rule,
+the "baseline" would consist of up to20 slots that would have leases of 10 years; 90
+percent of its remaining holdings above the baseline would also have 10-year leases.
+These slots would be designated as Common Slots and would not be subject to
+reallocation during the term of the rule (10 years). Ten percent of the slots above the
+baseline would be termed Limited Slots; two percent would be retired in even
+increments for five years beginning in the summer of 2009 and would not be
+reallocated. This retirement should improve the delay performance of the airport,
+although the airlines will have fewer opportunities for flying into LGA. The remaining
+eight percent would be evenly divided into portions, which would have leases ranging
+from about one to four years. These shorter-lived slots would be auctioned after the
+expiry of their initial lives, with the proceeds going to the FAA to offset the cost of the
+auction and to provide incremental funding for New York capacity programs, including
+the early implementation of NextGen technologies. The first auction would be held in
+January 2009. Upon their reallocation, these slots would be termed Unrestricted Slots
+18
+and have whatever life is left until the rule expires - up to ten years. Other auctioned
+slots would be treated similarly.
+Under Option 2, many of the features would be the same, except that Common
+Slots would comprise eighty percent of the slots of portfolios above 20 slots/ none of the
+slots would be retired, and twenty percent of the capacity (above the baseline) would be
+Limited Slots evenly divided into portions of four percent. The first portion would be
+immediately subject to reallocation in the first auction to be conducted in January 2009.
+The remaining portions would have lives of about one to four years and would be
+auctioned after the expiration of their initial terms. The proceeds of these auctions would
+go to the initial slot holder after the FAA recouped its costs. However, the initial slot
+holder would not be permitted to bid on any of its own slots. Upon their reallocation,
+these slots would become Unrestricted and have whatever life is left until the rule
+expires.
+Fair Allocation of Slot Life
+NEXTOR has developed a methodology for the initial allocation of slot leases
+based on different lives. For all operators of more than. 20 slots (except those holding
+slots under international obligations), either 10% (Option 1) or 20% (Option 2) of their
+slot leases would be Limited Slots and have less than 10 year terms. The number of
+years of lease duration for Limited Slots would be distributed in a manner that fairly
+distributes the relative length of lease durations among carriers in proportion to their
+initial holdings. Carriers would be asked to identify one-half of their short-lived slots
+19
+by hour of the day; FAA would then choose the remaining fifty percent to fairly
+distribute the total across the day. Thereafter, the slot lives would be assigned. The
+details of the process will be published in the docket in a separate paper being
+developed by NEXTOR.
+Small Communities
+The temporary order did not designate operating authorities for specific uses
+(small community, commuter or exemptions, etc.). We propose to continue with this
+policy to allow carriers the greatest flexibility in the use of scarce slot resources.
+Therefore, there is no difference between the current temporary operating
+authorizations and the proposed rules.
+Use-or-Lose Requirements
+The FAA proposes to continue application of the Minimum Use Requirements
+that are part of the temporary rule and were traditionally applied under the HDR.
+Scheduled operators would continue to be required to use their grandfathered Common
+Slots (not subject to auction) 80 percent of the time in rolling two-month intervals.
+However, Unrestricted Slots would be exempt under this proposal.
+Slots returned to the FAA for failure to meet the Minimum Use Requirements
+would be auctioned under the proposed rule.
+20
+Perimeter Rule
+For purposes of this regulatory evaluation, it is assumed that the Port Authority
+of New York and New Jersey will continue to keep its 1,500-mile perimeter rule in
+effect. This traffic distribution policy prohibits commercial flights to and from LGA
+beyond 1,500 miles, except on Saturdays.11
+Auction
+The proposed auction mechanism would apply in both Option 1 and Option 2.
+The primary differences are the number of slots up for auction and the rule in the
+second option preventing current holders from bidding on their own slots whose lives
+have expired. The FAA is in the process of acquiring auction services and cannot at this
+time provide complete details of the auction. However, the following discussion
+generally explains auction features that the FAA expects any acceptable auction services
+would include.
+The auction is defined as a market-based process by which the FAA would lease
+the exclusive right to use a slot during a given time window. The leaseholder of that
+slot would be given the right to trade or sublease this slot for any portion of the leasing
+period in a secondary market. The auction is designed to improve economic efficiency,
+meaning that the slots put up for bid would be put to their highest and best use, as
+revealed by the winner's willingness to pay for them. Given that the FAA also intends
+to have a cap at LGA for next 10 years, the over-riding objective of the auction is to
+11
+ Denver is exempt from the rule.
+21
+improve economic efficiency by having holders confront the opportunity cost of some
+of their holdings, defined as what someone else would pay for them.
+FAA proposes that the auction under both options would be structured as an
+ascending clock auction with package bidding, in which a bidder submits bids for packages
+of slots. Allowing users to submit package bids would reduce the likelihood that a
+bidder ends up with a bundle of slots it cannot use; furthermore, the FAA anticipates
+that the bidding process would result in some level of price discovery more likely to
+reveal preferences and increase the economic efficiency associated with the reallocation
+of slots.
+The clock auction is a simple iterative auction procedure where the bidders
+specify the number of slots they desire in each time period at the prices announced by
+the auctioneer. The design allows bidders to specify a collection of slots (i.e., a business
+plan) and know that they can win the entire package if they are the high bidder.
+Enabling bids on packages of slots protects a bidder against the risk of winning only a
+portion of the slots needed for its business plan. The prices provided in each round
+allow bidders to understand the cost of competition and limit their evaluation to
+packages that they consider most profitable and/or essential to their business.
+Prior to the auction, the auctioneer announces the slots to be auctioned, and
+provides all of the rules of the auction as well as any requirements (e.g., up-front
+payments) that may be required of the bidders. The auction begins with the auctioneer
+announcing the number of slots available in each time window and a starring price for
+each slot. Given that the value of any particular slot is likely to be dependent on
+22
+whether the bidder is also able to obtain complementary slots, bids are structured as
+package bids. Bidders (air carriers) submit bids for the package of slots they desire
+where a package consists of detailing the number of slots that the bidder wishes to
+procure for each time window, at the announced prices. Bidders are given a specific
+period of time to submit all such bid packages.
+Once the bidding period has ended, the auctioneer examines the number of bids
+submitted on each of the available slots. Whenever there are more bids (demand) than
+the available slots (supply) in that time period, the price of slots in that time is
+increased. Bidders review the new price schedule, and submit new bids. The
+auctioneer again reviews the bids to determine whether demand for slots exceeds
+available capacity, and, if so, a new price schedule is again published.
+Rounds of bidding (with prices being raised on those slots which experience
+excess demand) continue until overall demand is satisfied (i.e., the market clears) or if
+the auctioneer determines that no additional efficiency gains are possible. By utilizing
+package bids, this design it minimizes buyers' remorse by ensuring that no bidder can
+end up with only a part of what it needs for its business plan.
+No slots are awarded until the auction has ended. As the prices of some slots
+increase more than others, a bidder may choose to move to a different time window or
+reduce the demand for slots in a given time period, or both. Thus, the bidder has the
+opportunity to react to changes in prices throughout the auction, by varying the slot
+packages and bid prices. The auction includes an activity rule that requires the bidder
+to remain active throughout the auction, thereby providing accurate aggregate demand
+23
+information at given prices. The auction rules also include serious default penalties for
+any bidder who reneges on a bid.
+This auction design generalizes the auction to accommodate multiple items and
+it utilizes methods to prevent last minute "bid sniping/'12 The auction proceeds in
+rounds. No item is "won" until the end of the auction. Since more than one slot would
+be auctioned in a given time period, a bidder specifies the number of slots desired in
+each time period at the specified price.
+Among the important features of the proposed auction are the following:
+1. Enabling bids on packages of slots protects bidders against the risk of
+winning only a portion of the slots needed for their businesses.
+2. The auction design limits the amount of non-essential information provided
+to the bidders, thereby reducing potential problems of collusion and
+retaliatory bidding. Price and demand information are provided to the
+bidders after each round, but information about the specific behavior of
+particular bidders is not provided.
+3. After each auction, the auctioneer and FAA would review the outcome and
+process and invite comments on design from the bidders. The intent of this
+review would be to adjust future auction designs to improve the economic
+efficiency of the outcomes.
+Property Rights
+One of the most important features of the proposed rules is to define more
+precisely the property rights of the FAA and slot holders. Both options make it clear
+12
+ The FAA believes bid-sniping, where an interested bidder remains silent until the end of the bidding
+process and then outbids the highest bidder by a nominal amount, contorts the bidding process. Bid-
+sniping may also result in undervalued awards because an active bidder has no idea that there is another
+bidder who is willing to engage in the auction.
+24
+that the slots are the property of the FAA, which would lease them to carriers over a 10-
+year period. Some observers have noted that in the past the indeterminate nature of
+slot property rights may have adversely affected the secondary market under the HDR.
+Slot holders may have been reluctant to sell slots for fear of never having an
+opportunity to regain them in the future if their business prospects changed. For the
+same reasons, those carriers seeking additional slots may have been frustrated.
+Under both proposals offered in the rulemaking, the FAA would cause some
+slots to be eligible for reallocation among carriers. In addition, because carriers would
+have to pay for at least some slots, the opportunity cost of holding them would become
+clearer. Finally, all parties would recognize that FAA would revisit the entire issue by
+March 2019 and make appropriate adjustments to the slot program; this should reduce
+the risk some carriers may currently face of being permanently denied slot access.
+Under both options, slot leases would be allocated for the summer season of 2009
+and would finally expire in March 2019. During the 10-year life of the rule, some slot
+leases would have interim expiration dates and would be eligible for reallocation via
+auction (or retirement in Option 1).
+Secondary Market and Swaps
+The main objective of this rulemaking is to assure good allocation of scarce slots
+among carriers and potential uses. To accomplish this goal, it is important that there be
+a well-functioning secondary market and that holders are free to swap slots for
+25
+logistical reasons. Both activities help to ensure that slots are put to their highest and
+best use.
+Under both options, carriers may sublease slots to other carriers. The carrier
+wishing to sublease would give the FAA notice of its intention, together with
+information about the slot(s) available and the duration of the sublease; the carrier may
+also set a minimum reservation price. The FAA would then post the information on its
+website including times when opening and closing bids must be received. Carriers
+would be free to negotiate bilaterally. Upon consummation of a sublease, the holder
+must provide information to OST regarding all bids received (either directly or via the
+FAA website posting), the names of the parties to the transaction, the duration of the
+sublease and the consideration received (cash or in-kind). In addition, the FAA has
+proposed no changes to the swapping of slots on a one for one basis.
+Re-Assignment of Returned Slots
+Slots returned to the FAA for failure to meet the Minimum Use Requirements
+would be auctioned under the proposed rule. The objective would be to use the auction
+to reallocate the slots to the highest and best use.
+26
+DISCUSSION OF BENEFITS AND COSTS OF THE RULE
+There are several benefit and cost categories discussed in detail below, including the
+following:
+*f The current temporary Operating Authorizations expire upon the final
+adoption of a rule in the present proceeding. Therefore, the final action in the
+rulemaking would be to implement a cap at LGA, with the alternative being
+no caps. We provide some estimates of the delay consequences for LGA in
+the absence of a cap.
+*> Assuming a cap at the airport, there are two alternatives designated above as
+Options 1 and 2. Both involve leasing of some shorter-lived leases using an
+auction. Option 1 also includes some slot retirements in order to reduce
+delays.
+*> The primary purpose of the proposed rule is to improve the allocation of slots
+among alternative uses and carriers. Option 1 would also serve to more
+broadly allocate the benefits generated with respect to slot quantity
+restrictions. In particular, FAA would use the net proceeds of the auction
+under Option 1 to fund capacity improvements in New York, which would
+reduce costs to carriers and passengers and potentially create more capacity
+for additional services.
+27
+No one knows the extent to which slots would be reallocated as a result of the
+rule; below we characterize the current alternative uses to give some measure
+of the economic consequences if there is some reallocation.
+We are confident that the allocation of slots should improve if at least some of
+them are available to all carriers during the ten-year tenure of the rule. Slots
+do not need to change hands to improve the use of slots; for example, when
+confronted with a cash cost of carrying slots, an airline might choose to
+sublease it or find a higher and better use for it,
+The proposed program would reduce uncertainty in the market for slots by
+making clear the property rights of the FAA and air carrier slot holders; this
+change in property rights should stimulate the secondary market. All slot
+leases would be for ten or fewer years. Slots should be available more
+frequently than in the past. Some slots would be available in the primary
+auction in each of the first four years; all carriers would be made aware of
+sublease opportunities in the secondary market Thus, the incentives should
+be reduced for incumbents to overvalue and hold slots because of the
+difficulty of ever replacing them. Similarly, incumbents would be less
+inclined to overbid for slots that have limited tenure rights or to charge
+excessive rents for them. New entrant incentives to undervalue slots should
+be reduced because they would have no expectation that slots can be acquired
+for free. By improving property rights definitions, the secondary market
+28
+should become more active. The FAA does not have an independent estimate
+of these benefits.
+The proposed slot program replaces the temporary cap, except that in Option
+I, two percent of slots are retired; this would result in some delay savings
+relative to the current temporary order. Estimates of the net benefits of these
+delay reductions are provided below.
+The FAA estimates the direct costs of the rulemaking relate to the
+administrative effort that the FAA and carriers would have to undertake to
+create, operate and participate in the auction. Below we estimate the costs to
+all parties due to the auction.
+General aviation and public charter operators currently must acquire
+reservations at LGA. This rule limits the number of operations available for
+these operators to three per hour. Reservation requirements are not new costs
+for these operators.
+There would be potential distributional impacts among airlines, communities
+and the general public that would result from the rule; we describe these
+below. However, we anticipate these effects would not likely be significant
+because few slots are involved.
+Provided below are some rough estimates of potential slot values in the
+auction based upon past slot lease transactions. The actual values realized in
+the auctions may be different. The money cost of purchasing a slot is a
+29
+transfer of an asset from one party to another and thus does not constitute an
+economic cost of the proposed rule.
+Delay Consequences in the Absence of a Cap
+In the regulatory evaluation conducted for the 2006 NPRM, FAA provided
+estimates of expected delays if a cap did not exist at LGA, These estimates have been
+updated in the present regulatory evaluation. For the purposes of this analysis, airport
+delay and cancellations results developed by the University of Maryland (UMD) have
+been applied. The team at UMD collected a significant sample of delay experience from
+the ASPM-analysis database maintained by the FAA. The levels of operations observed
+on those days were meant to correspond to a range of operations that have been
+observed historically at LGA. The delay and cancellation experience over the sample
+was then computed for each level of operations.
+To model the higher level of operations that would likely take place in the
+absence of the rule, a queuing simulation model was applied. The UMD study assumed
+that approximately 1,400 operations would take place at LGA in the absence of the High
+Density Rule. This relatively high level of operations would not be experienced in
+either the base or scenario cases for this rule, but the resulting delay functions provide
+background information on the consequences of not having at cap at LGA. A summary
+of the UMD delay and cancellation analysis is shown in Exhibit 2.13 The exhibit shows
+13
+ Because there has been no change in the physical layout of the airport nor an appreciable change in the
+characteristics of service there since this study was done, we believe it adequately represents the capacity
+and delays at the airport under different demand levels.
+30
+the average delay per operation and the percent of scheduled flights cancelled at
+different levels of operations.
+Exhibit 2: UMD Delay Minutes and Cancellation Probability
+by Different Operation Levels: LaGuardia
+Operations per Day
+1,100
+1,160
+1,220
+1,300
+1,350
+1,400
+Average Delay Minutes
+12.5
+14.9
+16.6
+24.0
+35.7
+47.8
+Cancellation Probabilty
+4.8%
+4.4%
+6.8%
+7.3%
+9.2%
+13.0%
+Source: Mukherjee, A., Lovell, D., Ball, M., Odoni A. and Zertoib, G. "Modeling Delays and Cancelllation
+Probilities to Support Strategic Simulations" from proceedings of 6th USA/Europe Air Traffic
+Management R&D Seminar, 2005
+To facilitate the present analysis, exponential functions were fit to the UMD
+simulation results for both delays and cancellations. These results are shown in
+Exhibits 3 and 4, which include the functional form of the equations.
+Exhibits: UMD Delay Simulation Runs for LaGuardia
+60.0
+S 50.0
+_
+•§• 40.0
+0.0
+delay minutes per operation = o.07eoow6dll*0fw
+R2 = 0.9605
+*47.8
+1000 1100 1200 1300
+Operations
+1400 1500
+31
+Exhibit 4: UMD Cancellation Simulation Runs for LaGuardia
+0.140
+0.120
+i1 0.100
+o 0.080
+0040
+0.020
+0.000
+Prob. of cancellation = 0.001 •
+R2 * 0.9088
+1000 11 OH 1200 1300
+Operations
+1400 1500
+To estimate likely delays in the absence of a cap, the total number of operations
+at LGA on a sample day was developed, consisting of:
+Scheduled Commercial Operations
+- Less cancellations (estimated using the relationship in Exhibit 4 between
+the probability of cancellation and the number of scheduled flights).
+- In addition, the expected number of unscheduled operations, according to
+the FAA Slot Office, is 48 per day.
+In the preliminary regulatory evaluation, FAA examined exemption requests
+filed by the carriers after AIR 21 relaxed the cap for regional jet flying in the fall of 2000.
+Exemption requests for more than 600 flights at LGA were filed with the Department of
+Transportation and approved. By September 2000, air carriers had added nearly 200
+new scheduled flights at LGA with plans to operate more than 300 new flights by the
+32
+end of January 2001. Since no new airport infrastructure or air traffic control
+procedures were created or implemented/ capacity remained the same while the
+number of aircraft operations and delays soared. By analyzing these requests and the
+infrastructure of the airport, we concluded that approximately 1,340 operations would
+be scheduled at LGA. Using the cancellation rates from the schedule shown above, we
+concluded that on the average day about 9.5% (or 129) of these operations would be
+cancelled resulting in 1,211 flown commercial flights. Add to these the 48 average
+unscheduled operations at the airport, and the typical day at LGA would find 1,259
+operations, which on average would be delayed approximately 23 minutes. In contrast,
+at today's level of operations, average delays are estimated to average 15.7 minutes
+(almost 32 percent less). Note that these delay estimates are net of cancellations and
+also do not take account of the additional time incorporated into carrier schedule
+times.14 In our August 29, 2006 Initial Regulatory Evaluation we provided estimates of
+the benefits of a cap at LGA. While our original proposal included an upgauging
+provision that is not part of this supplemental proposal, in the initial year there was no
+effective upgauging. We have updated that year's estimate of benefits to reflect the
+limited inflation that has ensued since that estimate was made. We have also adjusted
+our estimate downwards to exclude the downstream costs of delay that are avoided due
+the cap; we are in the process of revising our methodology on these types of costs and
+prefer to exclude them pending completion of our work in this area.
+14
+ Average block times at LaGuardia, like most US airports, have increased over time as carriers "pad"
+schedules to better reflect actual travel tunes; this has the effect of lowering reported delays, which are
+incorporated into the scheduled block times.
+33
+Using the adjusted one-year net benefit estimate over the time horizon of the
+proposed rule, we conclude that the cap provides discounted benefits of approximately
+$2.02 billion.J5 The details of these calculations can be found in Appendix A.
+Longer Term Costs of Instituting a Cap
+Under this rulemaking, there will be a reduction in flights into LGA compared to
+what would occur without caps. The 2006 Initial Regulatory Evaluation estimated the
+value of these flight reductions and deducted them from the delay benefits of the caps
+to calculate overall net benefits.16
+The net benefits of a cap in the 2006 evaluation were based on a snapshot of the
+market for air service at LGA and what is known about the 600 flight offers made by
+carriers in the brief period after AIR 21,17 These additional flight offers would increase
+the average frequency, average number of seats offered, costs, revenues, delays and
+cancellations incurred at LGA. The 2006 evaluation estimated the net change in
+consumer and producer surplus due to the additional flying. The results suggested that
+operations beyond the cap impose a net cost to society, even though some consumers
+and producers might benefit from them.
+Some have observed that there are some longer-term costs of a cap unless there
+are provisions made to create opportunities for entry. If, as was the case under the
+15
+ Estimate based on a 7% discount rate. The net present value of benefits this reduction in avarege delay is
+$2.49 billion based on a 3% discount rate.
+16
+ See Appendix A for more information.
+17
+ See the "Background and Need for the Regulation" section of this Regulatory Evaluation for additional
+information on carrier filings of proposed flights under AIR-21.
+34
+HDR, slots are allocated on a semi-permanent basis to carriers, then adverse incentives
+may come into play. Incumbents tend to overvalue slots because incentives exist to
+hold them for competitive reasons (to prevent entry) and because they are so difficult to
+replace. New entrants tend to undervalue slots if, because there is no other way to
+acquire them, the government grants exemptions to the cap. In the long run, air service
+at the airport is hindered because potential entry is slowed or halted entirely. There is
+little basis for exchange between slot holders and those who want to increase their slot
+holdings. These matters are discussed in detail below.
+In this SNPRM, FAA hopes to avoid at least some of these longer-term costs by
+instituting a periodic auction of some slots. The intent is to better define the property
+rights to remove some of the adverse incentives and make at least some slots leases
+available periodically to allow for potential entry and changes in air service. In
+addition, holders of Limited Slots may find it advantageous to sublease them knowing
+that these assets will be subject to reallocation via auction.
+Option Cases for the Present Regulation
+In addition to the cap, the FAA is proposing to institute a longer-term slot
+program featuring an auction mechanism. With the exception of the retirement of two
+percent of eligible slots in Option 1 (discussed below), the delay experience should be
+identical in the option cases. The main objective of the auction is to improve the
+allocation of resources; economists measure such improvements in terms of economic
+efficiency, which we discuss in detail below. The costs of the rule are likely to be
+35
+isolated to the resource cost of conducting the auction for both the FAA and the carrier
+participants, and the opportunity cost of the slot retirement under option 1. Finally,
+there are important distributional effects that may result from the reallocation of slots.
+Economic Efficiency
+Implementing either of the two proposed options for auctioning slots at LGA
+would likely result in some reallocation of scarce resources at the airport. The economic
+efficiency resulting from this reallocation is an important consideration in assessing the
+desirability of slot auctions. A reallocation of resources improves economic efficiency if
+society prefers the goods and services produced under the new allocation to those
+produced under the initial allocation. Typically, we measure society's preferences for
+alternative bundles of goods and services by estimating the total surplus (consumers' as
+willingness-to-pay for the good or services minus their production cost) they generate
+for society. Thus, a change in resource allocation improves economic efficiency if, net of
+costs, society as a whole is willing to pay more for the new bundle of goods and services
+than it was for the bundle produced at the baseline allocation of resources.
+Air carriers and their customers (i.e., consumers of passenger and cargo services)
+are two of the principal stakeholders involved in slot use at LGA. While increasing
+total welfare, a change in slot use at the airport is also likely to improve the welfare of
+some of these stakeholders at the expense of others. For example, the slot auctions are
+likely to result in some new air transport services and the termination of some existing
+services. As a result, consumers of the new transport services are likely to benefit from
+36
+the new resource allocation, partly at the expense of consumers of terminated services.
+Similarly, some air carriers who acquire slot rights during the auctions are likely to
+benefit from the new regime, while carriers who lose slots would likely suffer losses. In
+short, the change in resource allocation resulting from the slot auctions is likely to
+benefit some members of society while others would likely suffer welfare losses.
+The airport authority, the New York area and outlying communities are also
+stakeholders in slot use but would not directly participate in the auction. Their welfare
+may also be affected by the change in air service patterns that result from slot
+reallocation.
+The scenario described above is typical of most public policies affecting resource
+use; some members of society benefit, others are made worse-off, while (hopefully) the
+total social welfare of society increases. There is a commonly adopted standard for
+economic efficiency in these cases. Specifically, a change in resource allocation is said to
+improve economic efficiency if the beneficiaries can potentially compensate the losers for
+loses and still be better off.18
+The remainder of this section assesses qualitatively the likely effects of the
+proposed slot auctions on the relative economic efficiency of resource allocation, as
+defined above. A brief summary of conclusions is as follows:
+18
+ A different, arguably stricter standard states that a reallocation of resources improves efficiency if the
+welfare of at least one member of society is made better-off, and no member of society is made worse-off.
+However, because losers are rarely compensated for losses, this strict standard would almost never be
+satisfied in any regulation, which often by definition is an attempt by the government to use its power to
+impose costs on one group for the benefit of others. As a result, most policy evaluations adopt the standard
+of potential compensation, and then describe how benefits and costs are distributed among various
+members of society. We describe the distributional impacts of the proposed slot auctions elsewhere in this
+report.
+37
+The current slot allocation has evolved from administrative and regulatory
+controls and a slot exemption lottery. These allocation methods are unlikely
+to have resulted in the best use of the limited slots at LGA. The secondary
+slot market has probably resulted in an improved slot allocation relative to a
+pure administrative program. However, this market has not been robust, in
+part because property rights have not been well defined. In addition, because
+slots have been granted for free as exemptions in the past some potential new
+entrants may undervalue them now. Furthermore, incumbents may have
+incentives to strategically hold slots for competitive reasons and they may
+have been reluctant to part with slots having quasi-permanent lives, which
+are not easily replaced.
+Slot auctions may improve economic efficiency because carriers with the best
+slot uses are likely to submit winning bids during the auctions. Slot turnover
+should reduce barriers to entry at LGA and promote efficiency by allowing
+carriers to better respond to changing market conditions.
+The two proposed options for slot auctions are similar in most respects.
+Option 2 calls for more slots to be auctioned during the first five years of the
+program; however, Option 1 should also generate benefits. Other differences
+between the two options are discussed below.
+38
+Baseline Allocation of LGA Slots
+It is apparent from the LGA history that the existing slot allocations at the airport
+have evolved from several layers of regulatory and administrative controls including
+the initial allocation of slots in 1968, the redistribution of slots via scheduling committee
+until 1985, the granting of slot exemptions in the 1990's, the further granting of
+exemptions in 2000 resulting from the rush to enter in the wake of AIR 21 legislation,
+and the temporary cap we imposed at the end of 2006. It is highly unlikely that these
+regulatory and administrative controls have resulted in economically efficient uses of
+scarce LGA slots. The market for commercial airline services is simply too dynamic to
+expect a quasi-permanent allocation of criticaly limited LaGuardia slots to have resulted
+in economically efficient outcomes over time.
+FAA believes the presence of a secondary slot market has improved allocations
+resulting from regulatory and administrative controls. The secondary market has
+included buy/sell and sub-leasing arrangements. In theory, a well-functioning
+secondary market can redress many misallocations in the primary market.
+Unfortunately, in the past the secondary market for carriers seeking to increase their
+holdings of LGA slots has not been robust The FAA has seldom observed more than a
+few slots available in the secondary market, except in cases when one carrier is buying
+another. Carriers desiring to add slots to their portfolios have frequently been unable to
+find sellers.
+39
+FAA believes the lack of robustness in the secondary market is likely a symptom
+of a larger problem shared by the HDR and the current temporary order. First, the
+property rights to slots have not been well defined. Second, in part to address the lack
+of robustness in the market, some slots have been granted to new entrant carriers via
+exemptions in an attempt to increase competition at the airport. New entrants may
+have become conditioned to expect that this process would continue. At the same time,
+incumbents may expect that the government was unlikely to grant them additional slots
+via exemptions and so have an incentive to hold on to them, knowing that there might
+be little opportunity to increase their holdings in the future.
+Moreover, incumbents who are potential sellers may fear that relinquishing slots
+would result in increased network competition from potential slot buyers. Each
+incumbent knows that there may be at least some alternative uses of slots that could be
+more profitably exploited by another carrier, and that they may be able to sell some of
+their slots in the secondary market in such a circumstance and increase (at least
+temporarily) the value of their firm. However, the incumbent cannot be sure of the
+future use and so is reluctant to relinquish control of an asset that could be used to
+compete against them. In other words the "value" of the slot to the incumbent firm
+may include the loss in their own profitability. For example, if in the future a new
+entrant was able to assemble a number of slots and use them to fly to its hub, the result
+could be increased competition across much of the incumbent's network.
+Thus, incumbent slot holders have incentives to hold slots. This behavior,
+although individually rational, likely results in sub-optima! use of some slots at LGA, and
+40
+has prevented the secondary market from completely addressing inefficient slot
+assignments that have evolved from regulatory and administrative controls.
+In extreme cases, the slots may be little used for landings, but held simply for
+strategic purposes, leading to a very inefficient utilization of LGA. One of the defenses
+against this has been the "use-it or lose-it rule/' which mandates that carriers use their
+slots 80 percent of the time. This rule increases the cost to carriers of this type of strategic
+behavior; however, the incentive to hold onto a slot higher valued by a competitor may
+still exist even if that slot were being utilized.
+Carriers have shown a greater willingness to "sublease" slots to another carrier
+than to sell them. One reason is that by leasing to another carrier rather than selling, the
+incumbent carrier retains "title" to the slots. This allows the carrier to preserve its
+potential use while realizing lease payments from the slot that, in theory, should exceed
+the owning carrier's own short-term profits from using the slot. Another benefit is the
+ability to secure financing by the slot owner, using the slot as collateral, even though it
+may be leased out. In a lease transaction, one might expect the incumbent carrier to
+prefer and select a leaseholder that will not use slots in ways that negatively affect the
+incumbent's network profitability. Incumbents can write provisions in the lease allowing
+them to recapture the leased-out slots on short notice, perhaps to fulfill their own needs
+or if they find that the lesee's service has caused greater than expected network harm (of
+course, this may lower the value of the lease). Incumbents might also use slot leasing to
+gain other in-kind services (e.g., handling, access to software) from another firm. Seen
+from this perspective, leasing does provide a mechanism for greater use of under-utilized
+41
+slot assets, but does not necessarily result in the best or most efficient use of slots. Those
+carriers with the highest potential use of the slots could easily be shut out of the market
+entirely.
+FAA is not alone in our observations about ill-defined property rights and the
+consequent problems in the secondary market. In a recent paper by the Economic
+Analysis Group of the U.S. Department of Justice, the authors note that:
+A lack of clear property rights could have contributed to the apparent problems in
+the secondary market. Under FAA regulations, slots are operating authorizations,
+not property rights, and the FAA retains the right to repossess them at any time.
+This uncertainty can impose substantial transactions costs because parties to a slot
+transaction may have to specify a variety of contingencies to the transaction and it
+may reduce the economic value of a slot.. .The structure of the slot system may
+also have led incumbents and potential entrants to systematically value slots
+differently, preventing what otherwise would be efficient transactions.19
+Improving property rights in the proposed rulemaking should improve the workings of
+the secondary market.
+Slot Auctions and Economic Efficiency
+Slot auctions are a market-based solution to the slot allocation problem. The
+notion that auctions will improve the economic efficiency of slot use is straightforward.
+Those carriers with the best uses for slots will have the highest wiliingness-to-pay and
+should submit winning bids during the auctions. Winning bidders would be conveyed
+a well-defined property right to schedule operations at LGA over the life of the lease.
+19
+ Whalen, Carlton, Heyer, Richard: "Proposal for a Market-Based Solution to Airport Delays" Economic
+Analysis Group, US Department of Justice (October, 2007) page 8.
+42
+Note that this result, allocation by willingness-to-pay, is consistent with our earlier
+criterion for the preferred or most economically efficient resource allocation.
+Air carriers and their customers, consumers of air transport services, are
+principal stakeholders in how slots are allocated and used. During the auctions,
+however, only the air carriers would be active participants. Accordingly, air carriers
+would act as economic agents for consumers during the auctions. It is reasonable to
+assume that air carriers' bids on slots would be motivated primarily by profit potential.
+Consumers, on the other hand, benefit primarily from a higher valued level of flights
+arriving in LaGuardia. This higher value could manifest itself in many ways: service
+and schedule quality, reduced travel times, lower prices, etc. While the motives of air
+carriers and their customers are not perfectly aligned, FAA believes they coincide
+closely in this case. The demand for slots is ultimately derived from the demand for air
+travel. The best uses of the slots are likely to be the most profitable among the set of
+alternative slot uses, at least in part because they are valued the most highly or are
+demanded by the most potential air travelers. As a result, if air carriers submit bids on
+slots motivated by their own profits, they would serve as efficient economic agents for
+their customers.
+Carriers may still have incentives to hold slots to prevent competitive entry.
+However, under an auction, carriers would have to pay cash to preserve this strategy
+(although in Option 2 the net cash outlay for incumbents may be small). When a slot
+lease expires, if a holding carrier's potential loss of network profits exceeds the
+willingness of the next highest bidder to pay for a slot, then the holding carrier may
+43
+succeed in preserving its position. However, at a minimum, the proposed rule should
+increase the cost of holding slots to prevent entry.
+In addition to causing a reallocation of slots among uses and/or air carriers
+currently serving LGA, the auctions are also likely to afford new carriers opportunities
+for entry at the airport. While there are some differences in details, both of the
+proposed slot auctions prescribe defined lives (about one to four years) for some slots,
+which then would be reallocated via auctions. This turnover of slots should create
+opportunities for actual or potential entry by new carriers, thus reducing barriers to
+entry and stimulating competition in markets served by LGA carriers. Slot turnover
+would also promote efficiency as it accommodates market dynamics. As markets for air
+transport services change over time, the best or most efficient uses of slots change
+accordingly. The auctions create opportunities for carriers to react to fluid markets.
+Both of the proposed options for slot auctions stipulate a finite life on all LGA
+slot leases, a maximum of ten years. This arrangement contrasts sharply with the quasi-
+permanent lives of slots under the HDR. The finite slot lives under the proposed
+options should increase the ability of the market for LGA air carriers' services to
+accommodate entry by new carriers and overall market dynamics. Also, it is
+anticipated that finite slot lives may create more fluidity and efficiency in secondary slot
+markets.2o The quasi- permanent slot life under the HDR may have made carriers with
+marginal uses for some slots reluctant to offer them in secondary markets for fear that
+they may have better uses for these slots in the future. The lack of robustness in
+20
+ Both of the proposed options allow for secondary slot markets including, sub-leasing and slot swaps.
+44
+secondary slot markets is likely to compound this fear. The finite slot lives under the
+proposed options may reduce this motive for holding onto slots with marginal uses and
+create more robust secondary slot markets.
+Economic Efficiency of Options 1 and 2: A Comparison
+The two proposed slot options are similar in most respects. There are, however,
+some differences between the two options that could affect economic efficiency.21
+Option 1 grandfathers 90 percent of the LGA slots with ten-year lives, and 10 percent
+with Limited Slots that have shorter leases. Of the ten percent with shorter lives, 8
+percent would be reallocated via five annual auctions beginning in January 2009, and
+the remaining 2 percent would be retired. Option 2 grandfathers 80 percent of the LGA
+slots, also with ten-year lives. The remaining 20 percent would be Limited Slots with
+have shorter leases and be reallocated via auction. No slots would be retired under
+Option 2.22
+Option 2 prescribes a more rapid pace for more slot turnover during the first five
+years of the program. To the extent that the auction improves economic efficiency, we
+might expect Option 2 to produce larger benefits, although incumbents will have the
+21
+ The FA A recognizes that the percentage of slots the agency proposes to reallocate represents a relatively
+small percentage of the total number of slots at the airport particularly since up to 20 of each carrier's slot
+will not be subject to reversion. Accordingly, we do not know the extent to which the percentages proposed
+under either option are sufficient to ensure the opportunity for new entry and an efficient allocation of slots
+among all carriers at the airport, such that each slot is allocated to the user who values it the most highly. In
+addition, the agency would consider other percentages of slots available for auction (both in total and
+annually) sufficient to assure an efficient allocation of this scarce resource.
+22
+ Both options provide a "protected" base. If a carrier holds 20 or fewer slots, then those slots would have
+ten year lives. Also, 42 Canadian slots will be protected under both options.
+45
+benefit of some offsetting auction receipts in this option, and therefore may retain many
+of their slots.
+Eventually, two percent of the existing LGA slots would be retired under Option
+1, while none would be retired under Option 2. Eliminating some slots is likely to
+produce the benefits of reduced delays at LGA, but at the same time, affected carriers
+and their customers would lose the benefits associated with the foregone flights. Thus,
+the net effect of this feature of Option 1 would depend on the magnitude of the benefits
+of reduced delay relative to the adverse impacts associated with reduced air transport
+services.
+Under Option 1, revenues generated by the auctions would be used to defray
+auction costs and to fund capacity expansion projects at the airport. Under Option 2,
+after the FAA recoups the cost of the auction, auction revenues would go to incumbent
+slot holders. Also, under Option 2, incumbents may not bid on their own slots. The
+disposition of auction revenues involves transfer payments, and would not directly
+affect economic efficiency. However, denying incumbents the right to bid on their own
+slots could reduce the efficiency of auctions if incumbent slot holders have the most
+efficient use of their slots, or if, because of small numbers, incumbents find that there
+are no one-for-one replacements of their slots to bid on. On the other hand, incumbents
+would be compensated for any slots reallocated in the auction, and would have in-
+coming funds to use in bidding for other slots available. The net cash cost to
+incumbents of participating in the Option 2 auction would thus likely to be muted,
+while new entrants would have to face cash outlays without any corresponding offsets.
+46
+Characterizing Benefits from Reallocation
+No one can say for sure how many slots would change hands and what the net
+effects would be from the auction. However, for the reasons just discussed, there
+would be some improvements in economic efficiency. Exhibit 5 shows the
+characteristics of commercial air service at LGA during the base period defined for this
+rulemaking - January 2007. Operations at the airport are dominated by legacy carriers
+(flying standard jets) and their code share regional partners (operating turboprops—
+props-and regional jets —RJs). Legacy, prop and RJ operators offer more frequency in
+markets than do low cost carriers (LCCs), which have a relatively small share of
+scheduled operations (seven percent), when compared with national trends. Standard
+jet operations by legacy and LCCs produce more seats and passengers per slot-use, fly
+longer distances and have lower costs per seat-hour than either prop or RJ operators.
+Load factors for all operations at LGA were relatively low in January of 2007.
+Exhibit 5: Air Service Characterises at LaGuardia in January 2007
+Weekday Scheduled Flights
+Pet of Daily Schedule
+Total Seats Offered (roundtrip)
+Pet of Seats Offered
+Number of Markets
+Pet of Markets
+Avg. Roundtnps
+Avg Passengers per Operation
+Total Passengers per day
+Pet of Total Passengers
+Avg. Block Time
+Avg, Variable Cost per Blk Hour
+Avg. Segment Fare
+Avg Load Factor (January 2007)
+Avg. Seat Size
+Avg. Cost per Seat Hour
+Legacy
+506
+42%
+71306
+64%
+29
+29%
+8.72
+91
+45850
+67%
+2.27
+$3,428
+$155
+64%
+141
+$24.33
+Prop
+164
+14%
+5612
+5%
+16
+16%
+5.13
+11
+1863
+3%
+1.45
+$1,027
+$68
+33%
+34
+$30.02
+RJ
+442
+37%
+21842
+20%
+44
+44%
+5.02
+25
+11074
+16%
+1.82
+$1,482
+$131
+51%
+49
+$29.99
+LCC
+88
+7%
+12826
+11%
+11
+11%
+4.00
+104
+9145
+13%
+2.57
+$3,075
+$117
+71%
+146
+$21.10
+Source: OAG, DB1a third quarter 2007, Form 41 reports by carrier
+47
+Because this service pattern is largely a product of the regulatory and
+administrative allocation of slots, it is likely to change when some access rights are
+auctioned off. Carriers would have to pay cash for some portion of LGA capacity and
+make their business cases work in competition with other bidders. The auction should
+encourage the most efficient use of the slots made available, resulting in an increase in
+societal benefits.
+To give some dimension to the potential size of these benefits, Exhibit 6 shows
+the average surplus (consumer and producer) for operations at LGA in January of 2007
+using the methodology applied in the regulatory evaluation of our earlier proposal
+published August 29,2006.23 These estimates are offered only as indicative of the
+relative value to society of different types of air services at LGA. Any one service may
+be far different than the average. Details on the methodology are available in that
+document and in Appendix A below. The method accounts for delay and cancellation
+costs, cash outlays and time expended by both consumers and operators at LGA in the
+average markets described in Exhibit 5 in a so-called full price of travel framework.24
+The exact values of the estimates are less important than their relative size. What
+we are interested in is whether the reallocation of even a few slots is likely to offset the
+costs to society of running the auction. Given the estimates of the costs of the rule
+(discussed below), FAA estimates that the answer is yes. On average, a reallocation of
+23
+ 2006 Initital Regulatory Evaluation, Initial Regulatory Fkxibility Determination, Trade Impact Assessment and
+Unfunded Mandate Reform Act Assessment, Congestion Management Rule for LaGuardia Airport. Prepared by GRA
+Incorporated. There are some differences in approach discussed in Appendix A.
+24
+ Please see Appendix A for a discussion of the full price of travel.
+48
+one operation from lower valued flying to higher valued flying results in net benefits to
+society of $3.3 million annually.
+This analysis is simply meant to be illustrative of the potential efficiency gains of
+an auction. There is no way to be sure how slots would be reallocated; indeed, the
+whole point of the auction is to unleash market forces in the pursuit of a better
+allocation for society. The market should cause the scarce slot resources to go to the
+highest valued users, regardless of the size of aircraft.
+Exhibit 6: Indicative Average Surplus to Society Produced by a Flight at LGA
+TOTAL SURPLUS per Operation
+Annual Surplus per Operation
+LOG
+$9,936
+$3,626,646
+LEGACY JET
+$10,798
+$3,941,202
+PROP
+$115
+$42,052
+RJ
+$2,491
+$909,369
+Reallocation Example
+Annual
+Surplus Change
+From
+RJ
+RJ
+Turboprop
+Turboprop
+To
+Legacy
+LCC
+Legacy
+LCC
+$3,031,813
+$2,717,257
+$3,899,150
+$3,584,594
+Average $3,308,204
+Of course, Exhibit 6 shows average, not marginal, values. Some small aircraft
+operations are doubtless extremely valuable and will compete well for the scarce slot
+assets (see our discussion of small community service below). However, the values do
+give some dimension to the possible benefits of reallocation that result from higher
+valued flying at LGA. If only a few slots move from lower valued to higher valued
+flying, the benefits to society are likely to exceed the costs of the rule (discussed below).
+49
+Higher valued users should acquire some slots in the auction and our numerical
+estimates in Exhibit 6 can be used to illustrate the benefits of this process. Whether
+those higher valued operations would be with larger or smaller aircraft is not known.
+At LGA, a carrier's current slot portfolio may or may not be big enough to fully
+implement its best business plan; our intent is also to give carriers the opportunity to
+adjust their slot portfolios and to allow the market to test the associated business case via
+the auction, thus improving the allocation of resources.
+The Benefits of Reduced Delays and Cancellations in Option 1
+FAA has developed an estimate of the costs saved by consumers and operators
+under Option 1 after two percent of eligible slots are retired. In Option 1, slots held by
+operators with fewer than 20 slots and Canadian and non-scheduled operators are not
+subject to retirement. As a result, approximately 1.5 percent of scheduled slots (18)
+would be retired. Nevertheless, the retirement would result in a noticeable (almost one
+minute) reduction in average delay, according to the UMD model described previously.
+To estimate annual benefits of the delay savings including the lost surplus from
+reduced flights, the surplus model was reevaluated at lower levels of flying. Details of
+the analysis are shown in Appendix A. Once they are fully implemented in year five of
+the rule, the annual estimated net benefits due to delay reductions are approximately
+$23.1 million (net of lost surplus).25
+25
+ This estimate assumes that airlines delete some or all of the service in low operating profit markets, which
+may include one or more round-trips per day to the same airport. We also assume that carriers delete an
+even number of operations so that a total of 22 operations are deleted if 18 slots are retired. The number of
+50
+Costs of the Proposed Rulemaking
+The only economic costs of the rule relate to the public and private sectors costs
+of creating, operating and participating in the auction. Many of the features of the
+proposed rulemaking in terms of reporting requirements for carriers and administrative
+overheads for the FAA are little changed from today's environment.
+The price paid for a slot in an auction is not an economic cost of the rule, but
+rather is a transfer payment from the buyer either to the FAA (in Option 1) or, after
+FAA recoups the cost of the auction, to the incumbent holder (in Option 2). The auction
+itself does not create slots or provide other services. It is merely a reallocation
+mechanism, which is by definition a transfer process. The proposed rule would
+substitute a market mechanism for an administrative/regulatory one. The only
+resource costs are related to the cost of the auction itself, and in option 1, the foregone
+surplus of the slots that are retired26
+Regarding the cost of the auction, the FAA is in the process of undertaking a
+market survey of potential contractors capable of designing and implementing an
+auction by December 2008. We intend to issue an RFP for such services in the near
+term. The agency also recognizes that carriers would incur some costs in preparing for
+and participating in an auction of LGA slots. Our preliminary view is that the costs to
+slots retired and the number of operations reduced for each airline is as follows: American (5 slots; 6
+operations), Delta (4,4), Northwest (1,2), United (1,2), US Airways (7,8). In the cost-benefit analysis, these
+benefits are phased-in over five years.
+26
+ There is a requirement for GA operators to acquire a reservation (beyond any flight plan they might file)
+at LGA; this process is already automated and should not add appreciably to either private or public sector
+costs. The costs to private charter operators of acquiring a reservation in advance should be little changed
+from today.
+51
+the FAA and the carriers to participate in the auction would not vary appreciably when
+comparing Options 1 and 2; the absolute number of slots available in the auction would
+not change the amount of work involved in designing the software, acquiring the secure
+communications links, designing other features of the auction, or the amount of work
+carriers need undertake to prepare for the mock and actual auctions.
+Based on past experience, the FAA believes there would be few if any slots
+returned to the FAA under the use/lose provisions of the rule; carriers would be better
+off subleasing slots in the secondary market. Therefore, the agency has not made
+provisions for reallocating returned slots in years six through ten in the cost estimates.
+However, even if the costs were identical to those in years one through five, the
+rulemaking would be more than justified (see below).
+Exhibit 7 summarizes the estimated costs of the proposed rule. The preliminary
+estimate of the cost to the government is that the first year cost including design of the
+auction would require between $2.4 and $6.3 million, and that the annual cost of each
+auction would be on the order of $975,000 to $1.45 million. These relatively wide ranges
+reflect in part the FAA's intent to contract out virtually all aspects of the auction, save
+its role in supervising the overall process. The FAA has included $0.1 to $0.2 million for
+the one-time "fair allocation" of slot lives discussed earlier. To manage the auction
+process, the agency has assumed that FAA would devote two full person-years of effort
+in each of the auction years, assuming GS-14, totaling $0.5 million in costs annually.
+Finally, the FAA has assumed that the private sector costs of participating in the auction
+would equal those of the government. These participation costs will likely vary
+52
+substantially from carrier to carrier. Some carriers may choose to build elaborate
+valuation tools to assist them in the auction process; others may simply establish a
+"business case" and a "not to exceed" figure and allow their representatives to bid as
+they see fit.
+The agency notes that in the NEXTOR mock auction, carriers understood the
+auction process and how to bid in their own best interest. Both incumbents and
+potential new entrants have data and information available to them from their route
+profitability systems and from market planning tools to help them establish bidding
+strategies in the auction.
+With respect to the private sector costs, some carriers currently engaged in trying
+to acquire slots may be expending resources contacting holders and/or making special
+pleadings to government for access. Some of these costs would be avoided once the
+auction and secondary market features are implemented.
+Exhibit 7: Estimated Resource Cost of Auction Over Five Years
+Estimated Resource Cost of the Auction
+Low High
+Fixed Costs
+Recurring Cost First Year
+Total First Year Costs
+Cost: Auctions 2-5
+Total Government Costs
+Estimated Private Sector Costs
+TOTAL RESOURCE COSTS
+1,450,000
+975.000
+4,800,000
+1.450.000
+2,425,000 6,250,000
+3.900.000 5.800.000
+6,325,000 12,050,000
+6,325,000 12,050,000
+12,650,000 24,100,000
+Estimates are very preliminary and subject to change
+53
+Summary of the Benefits and Costs of the Proposed Rule
+Through implementation of an auction, FAA estimates that this proposed rule
+would result in a long-term improvement in the allocation of scarce slot resources at
+LaGuardia Airport in New York (LGA). As shown in Exhibit 8, the estimated present
+value of net benefits of improved slot allocation is between $65 and $197 million from
+2009-2019. The costs of the rule, with a present value between $12 and $23 million, are
+due to the design, implementation and participation in an auction of slots.27
+This regulatory impact analysis also assumes as a baseline that in the absence of
+this rulemaking, FAA would not otherwise impose a cap on aircraft operations at LGA.
+Therefore, consistent with the Initial Regulatory Evaluation undertaken for the agency's
+2006 notice of proposed rulemaking for LGA, the FAA estimates that, through the long
+term implementation of a cap on aircraft operations, this proposed rule would result in
+about a 32% reduction in the average delay per operation at LGA relative to a situation
+with no cap. This reduction in average delay generates present value net benefits of
+about $2.02 billion from 2009-2019.28
+Previously the FAA has noted that the main objective of the present rulemaking
+is to promote an efficient allocation of slots at LGA. The FAA does not know what the
+outcome of the auction would be, but has suggested that all other things being equal,
+larger aircraft service should have advantages simply because there would be more
+27
+ Present value costs and benefits are based on a 7% discount rate. At a 3% disount rate, the estimated
+present value of net benefits of improved slot allocation is between $86 and $251 million from 2009-2019.
+Since the costs of the rule are low, the present value of costs at 3% is about the same when rounded.
+28
+ Estimate based on a 7% discount rate. The net present value of benefits this reduction in avarege delay is
+$2.49 billion based on a 3% discount rate.
+54
+revenue and potential profit to cover the cash payment for a slot. We have provided
+some indicative values for different types of service at LGA and the implications if one
+is substituted for another. However, some very high valued operations with smaller
+aircraft may also be made possible by the proposed rule, but these are hard to
+anticipate. Furthermore, some operations with small aircraft would likely be preserved
+because carriers would look at network contribution of a service. Finally, incumbent
+carriers may continue to have incentives to hold slots and would be particularly
+advantaged in Option 2 where auction proceeds would tend to offset their bids for slots.
+As noted above, in Option 1, there would be delay reductions of a bit more than
+a minute per operation (on average) that would result from the retirement of
+approximately 1.5 percent of slot capacity at LGA; with an additional cost of the surplus
+foregone from these retired slots.
+On net, it would not take much in terms of benefits from reallocation to offset the
+costs of this rulemaking. Only a few slots need to be reallocated to higher use to justify
+the rule, as shown in Exhibit 8, where it is assumed that only one slot is reallocated
+from smaller to standard jet aircraft in each year the auction is held. This means that
+over the five years of the auction, seven percent of the slots available in Option 1 would
+be reallocated (5/71) or three percent of the slots in Option 2 (5/179). However, more
+broadly, the agency believes that an improved market mechanism will always provide
+greater net benefits to society than an allocation process that is primarily administrative
+and regulatory. This is the key economic justification for this rulemaking.
+55
+Exhibits: Benefits and Costs of the Rulemaking
+Net Benefits of Option 1 ($ mil)
+Option 1
+Option 1
+Benefit of Reallocatkxi Delay Benefit Total Benefits
+1 Slot in ea of 5 years
+$
+$ 3.3
+$ 6.6
+$ 9.9
+S 13.2
+J 16.5
+$ 16.5
+S 16.5
+S 16.5
+$ 16.5
+$ 16.5
+S
+S 4.6
+S 9.2
+$ 13.6
+S 18.5
+$ 23.1
+S 23.1
+$ 23.1
+S 23.1
+S 23,1
+S 23.1
+$
+$ 7.9
+$ 15-8
+$ 23.8
+$ 31.7
+$ 39.6
+$ 39.6
+$ 39.6
+$ 39.6
+S 39.6
+S 39.6
+Discounted Present Value 121.7 $ 206.9
+Option 1 Option 1
+Net Benefits NPV of Net Benefits
+High Low High Low
+$ (12.5)
+S 5.0
+S 12.9
+$ 20.9
+$ 28.8
+$ 39.6
+$ 39.6
+t 39.6
+S 39.6
+S 39.6
+£ 39.6
+I (4.9)
+$ 6.0
+$ 13.9
+S 21.8
+$ 29.7
+$ 39.B
+$ 39.6
+S 39.8
+S 39.6
+S 396
+J 396
+$ (12.5)
+$ 4.7
+S 11.3
+S 17.0
+$ 22.0
+S 28.2
+S 26.4
+J 24.7
+S 23.1
+$ 21.5
+S 20.1
+S (4.9)
+S 5.6
+5 12.1
+S 17.8
+S 22.7
+S 28.2
+S 26.4
+S 24.7
+S 23.1
+J 21.5
+$ 20.1
+Discounted Present Value S 196 5 S 197.4
+Net Benefit* of Option 2 ($ mil)
+Option 2
+| Option 2
+Benefit of Realiocation Delay Benefit Total Benefits
+1 Stol in ea of 5 years
+-
+3.3
+6.6
+9.9
+13.2
+16.5
+$ 16.5
+$ 16.5
+$ 16.5
+S 16.5
+$ 16.5
+S
+5
+$
+$
+$
+*$
+S
+S$
+J
+*S 3.3
+S 6.6
+S 9.9
+$ 13.2
+S 16.5
+$ 16.5
+$ 16.5
+S 16.5
+I 16.5
+S 16.5
+Discounted Present Value $ 87.2
+Option 2
+Net Benefits
+High
+$ (12.5)
+J 0.4
+S 3.7
+$ 7.0
+$ 10.3
+S 18.5
+S 16.5
+S 16.5
+S 16.5
+S 16.5
+$ 16.5
+[ Option 2
+NPV of Net Benefits
+Low High Low
+S (4.9)
+S 1.4
+£ 4.7
+$ 8.0
+S 11.3
+S 16.5
+S 16.5
+5 16.5
+S 16.5
+$ 16.5
+$ 16.5
+* (12.5)
+$ 0.4
+S 3.2
+$ 5.7
+$ 7.9
+S 11.8
+$ 11.0
+S 10.3
+S 9.6
+$ 9,0
+S 8.4
+$ (4.9)
+S 1.3
+$ 4.1
+$ 6.5
+$ 8.6
+J 11.8
+S 11.0
+$ 10.3
+$ 9.6
+$ 9.0
+$ 8.4
+Discounted Present Value $ 64.9 $ 75.8
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Costs of the Rulemaking ($ mil)
+Auction Costs to the Gov1! Auction Costs to Airlines Total Costs
+High Low High Low High Low
+$ 6.3
+$ 1.5
+$ 1.5
+$ 1.5
+$ 1.5
+$
+$
+$
+$
+$
+$
+$ 2.4
+$ 1.0
+$ 1.0
+$ 1.0
+$ 1.0$$$$$
+£
+$ 6.3
+$ 1.5
+$ 1.5
+$ 1.5
+$ 1.5
+$
+$
+$
+$
+$
+$
+$ 2.4
+$ 1.0
+$ 1.0
+$ 1.0
+$ 1,0$$
+S$
+$$
+$ 12.5
+$ 2.9
+$ 2.9
+$ 2.9
+$ 2.9
+$
+$
+$
+$
+$
+$
+$ 4.9
+$ 2.0
+$ 2.0
+$ 2.0
+$ 2.0
+$
+$
+$
+$
+$
+$
+Discounted Present Value of Costs $ 22.3 $ 11.5
+56
+These estimates suggest that very little reallocation needs to take place for there
+to be net benefits. However/ the FAA's decision to go forward with the rule depends
+more importantly on the increased reliance on the market to allocate scarce resources
+than on any exact estimate of benefits.
+One feature of Option 1, the retirement of slots, could be undertaken without the
+auction. Given the assumptions stated previously, the discounted net benefits of
+Option 1 would then be identical to those for Option 2: $65 to $76 million over ten
+years. This suggests that the retirement of 1.5 percent of slots increases benefits to
+society over ten years by $121 million.
+In developing our estimates/ the FAA has:
+>•>- Assumed that the cost of the auction does not vary from Option 1 to Option 2;
+one could argue that the cost to airlines would increase in Option 2 because
+more slots would be involved. However/ once carriers are involved in an
+auction, their annual costs should not vary greatly between Option 1 (14
+slots) and Option 2 (36 slots).
+*f Assumed that only one slot is reallocated in each of five years from turboprop
+or RJ services to standard jet (LCC or legacy); the agency has used the
+average difference in estimated annual surplus in these calculations.29
+^ Estimated for Option 1 the value of delay benefits net of surplus losses as
+indicated in our earlier discussion.
+>> Expressed all values in 2008 dollars.
+29
+ To estimate net benefits of a reallocation, the change in surplus would be approximately equal to the
+average for standard jets versus the average for RJ's and turboprops; this is indicative of the value of
+reallocation although it is not meant to be an precise estimate.
+57
+Distributional Impacts of the Proposed Rule
+This section discusses the distributional consequences of the rule for airlines,
+small communities, the consumer and the airport operator.
+Airlines
+In discussing the distributional impacts of today's proposals, it is important to
+state from the outset that the number of slots available for auction in both Options 1 and
+2 have been established in full recognition of the historic investments made by
+incumbent airlines at LGA and the public interest served by that investment. At LGA,
+there are unit terminals in which incumbent carriers have rights and valuable
+investments. The FAA also recognizes that any carrier that is a net acquirer of slots
+would either already have surplus gate capacity at the right times of day or would need
+to acquire it.
+Since incumbent airlines have rights to gates, it was important to set the number
+of slots available at a level that could be feasibly accommodated each year. In Option 1,
+there would be about 14 slots available in each of the first five years of the proposed
+program. If each slot requires about one hour of gate time, the 14 annual slots represent
+about 1.1 percent of airport gate capacity - 14 slots versus 1200 gate hours (75 gates x 16
+hours) to accommodate them. In Option 2, there would be 36 slots in the auction, or
+about three percent of gate capacity. Of course, not all of the acquired slots would be
+short of gates, so the actual need for incremental accommodation is less than the
+58
+numbers above suggest. The FAA estimates that at most, there would be 1 or 2 slots per
+hour where a carrier might need a gate.
+There are other important potential distributional issues that would affect
+airlines; some would gain and some would lose. Exhibit 9 provides a summary of the
+current operating authorities held by carriers, their base allocation (up to 20) under the
+proposed rule, and the number of slots that would be retired (Option 1 only) or subject
+to auction under the two options. Because carriers must think of slots in pairs — one
+gate turn equals one arrival and one departure — for each carrier, the table summarizes
+the number of slot pairs (one arrival and one departure) that would be subject to
+auction and the average annual number of slot pairs in the auction in years 1-5.
+Exhibit 9: LaGuardia Operating Authorizations and Implications of
+Options 1 and 2
+LaGuirdli Operating Authorization* and Implications of Options 1 and Z
+Carrier
+Air Canada
+Air Iran Airways
+Am en can/Am encan Eagle
+ATA Airlines
+Colgan Airways
+Continental Ai dines
+Dalta Air Lines/Com air
+Frontier A id in as
+JetBlue Airways
+Midwest Ai Mines
+Northwest Airlines
+Spirit Airlines
+Untied Airlines
+US Airways/Piedmont
+Total
+Annual Auction
+Unallocated'
+600
+1200
+1-400
+2000
+2100
+OA's Base
+43
+22
+249
+15
+14
+34
+230
+6
+15
+18
+50
+22
+60
+390
+1168
+42
+20
+20
+15
+14
+20
+20
+6
+15
+18
+20
+20
+20
+20
+270
+18
+1
+1
+5
+7
+I
+Remaining
+Slots after
+tuicline
+removed 2% Retired
+1
+2
+229
+0
+0
+14
+210
+0
+0
+0
+30
+2
+40
+370
+696
+0
+0
+5
+0
+0
+0
+4
+0
+0
+0
+1
+0
+1
+7
+16
+Option 1
+Auction
+8% with
+Age Less
+than 10
+Years
+0
+0
+18
+0
+0
+1
+17
+0
+0
+0
+2
+0
+3
+30
+71
+14
+Average
+Slots
+Auctioned
+Annually
+Yrs. 1-5
+0
+0
+36
+0
+0
+0.2
+3.4
+0
+0
+0
+0.4
+0
+0.6
+6
+Aver.ige
+Slot Pairs
+Auctioned Auction 20%
+Annually win Age Less
+Yrs. 1-5 than 10 Years
+0
+0
+18
+0
+0
+0.1
+1.7
+0
+0
+0
+02
+0
+0.3
+3
+I
+0
+0
+46
+0
+0
+3
+42
+0
+0
+0
+6
+0
+9
+74
+179
+Option 2
+Average
+Slots
+Auctioned
+Annually
+Yrs 1-5
+0
+0
+9.2
+0
+0
+0.6
+8,4
+0
+0
+0
+1 2
+0
+1.6
+148
+Aveiage Slot
+Pairs
+Auctioned
+Annually
+Yra- 1-5
+0
+0
+4.6
+0
+0
+03
+4.2
+0
+0
+0
+0.6
+0
+08
+7.4
+36
+[TOOL 1200 Z2.S* 74 6% 1.5% 59* 1.2% 3.0%
+59
+There are 1200 operating authorizations at LGA today of which 1168 are
+allocated to carriers. There are 14 holders of slots. Under the proposed rule, a carrier
+must have more than 20 slots before any would be subject to auction; the exception is
+the 42 Canadian slots noted previously. Thus, there are 898 slots above the baseline. In
+Option I, two percent of the slots above the baseline would be retired. These slots
+would potentially come from six carriers: American, Continental, Delta, Northwest,
+United and US Airways.
+The same carriers would have a total of 71 slots subject to auction over five years,
+representing 5.9 percent of total capacity. On average 14 slots would be auctioned in
+Option 1 in each of the first five years of the proposed program. Only one carrier
+would have as many as six slots or three pairs auctioned in any one-year. Depending
+on the city served, this is approximately equivalent to one airplane's worth of flying per
+day. No other carrier has more than about half this much exposure, on average. Thus,
+the exposure of any one carrier in the auction is relatively modest. At most, a carrier
+might have to reallocate the equivalent of one airplane's worth of activity if it lost all
+three pairs of its slots up for bid in a year. Of course, in Option 1, the incumbent holder
+is free to bid on its own slots and has the advantage of an established service pattern to
+support its efforts. Seen from this perspective, the distributional consequences of
+Option 1 for incumbent holders should be relatively benign.
+For those carriers seeking to enter LGA or increase levels of service at the airport,
+Option 1 would provide an opportunity to buy the equivalent of two city pairs worth of
+the same modest service levels described above (7 slots pairs available/3 slot pairs per
+60
+city). The package-bidding feature of the auction would allow all carriers to bid on slot
+pairs that work logistically with their business plans. The package bidding feature
+would be particularly important for new entrants who would need to assemble services
+that are both attractive and work logistically. As a result, there should be opportunities
+for new entrants and expanding carriers to acquire slots that would otherwise be
+unavailable under the current rules.
+Option 2 provides for almost fifteen percent of LGA capacity to be auctioned
+over five years (three percent per year). The same six incumbent holders would have
+slots subject to auction in both Options 1 and 2. However, it is important to consider
+the consequences of the proposed rule that incumbents would face in Option 2 that
+prohibits them from bidding on their own slots. The FAA's intent in this is to preclude
+carriers from bidding up the prices on their own slots to foreclose other bidders and
+then "paying themselves." Recall that the proceeds of the auction in Option 2 go to the
+incumbent holders. Returning to Exhibit 9, note that that there would be 36 slots (18
+pairs) up for auction each year; if no carrier has say more than eight pairs that it cannot
+bid on (on average US Airways has 7.4 annually), there should be an adequate number
+of slots to bid on so that incumbents would have the opportunity to replace their slots
+even with our proposed bidding procedures.30
+The opportunities for new entrant and expanding carriers is greater in Option 2
+than in Option 1. Option 2 would provide these carriers with an opportunity in each of
+30
+ The FAA will attempt to auction an even number of slots during each hour to provide an opportunity for
+a carrier to replace a slot that it is required to auction with a similar slot another carrier is required to
+auction. Such replacements may not always be available.
+61
+the first five years of the program to acquire as much as 6 city-pairs worth of service
+(assuming three round-trips per day). This is more than double the opportunity in
+Option 1. At the same time, it is likely that incumbents would have an advantage in the
+Option 2 auction because they can use proceeds from slot sales to finance purchases of
+slots; new entrants or carriers seeking to add to their portfolios would be net cash
+payers. However, the FAA anticipates that the amount of net proceeds would be small
+from slot purchases given the extent of the proposed auctions.
+Slot Values
+Carriers would also be affected by the payments made for auctioned slots. In
+Option 1, funds would be collected by the FAA to offset the cost of the auction and to
+undertake capacity enhancements in New York. After the FAA has recouped its costs
+associated with conducting the auction, in Option 2, auction proceeds would be
+collected by incumbent holders of shorter-lived slots. In Option 1, funds would be
+transferred from carriers to the FAA; in Option 2, funds would be transferred primarily
+among carriers. The net revenue impacts on individual carriers would depend on the
+outcome of the auction.
+No one knows how much slot leases would trade for in the auction. It is the
+FAA's understanding that slot leases have traded in the range of $3,000 to $20,000 per
+month at LGA under the HDR. Slots have been sold in the range of $230,000 to over $1
+million at LGA. Of course, historically HDR slots were treated as quasi-permanent
+assets with indefinite lives whereas under the proposed rule. One of the most
+62
+important features of the proposed rule is to define more precisely the property rights
+of the FAA and slot holders. Some observers have noted that in the past the
+indeterminate nature of slot property rights may have adversely affected the secondary
+market under the HDR. Slot holders may have been reluctant to sell slots for fear of
+never having an opportunity to regain them in the future if their business prospects
+changed.
+The most recent lease transactions of which we are aware were in the range of
+about $7500 per month. Using a 12 percent cost of capital over the slot lives ranging
+from 6 to 10 years provides one way to estimate potential slot values in an auction.31
+Exhibit 10 summarizes these values and the implied auction proceeds. We stress that
+these are indicative values and the actual values in an auction may be different.
+Exhibit 10: Indicative Slot Lease Values and Implied Auction Proceeds
+Indicative Slot Lease Values and Implied Auction Proceeds
+Average Monthly Value of a Slot $ 7,500
+Cost of capital 12%
+Lease
+Year Value
+Slot Life
+2009 10 $ 522,754
+2010 9 $ 493,933
+2011 8 $ 461,458
+2012 7 $ 424,863
+2013 6 $ 383,628
+Option 1
+Slots Traded Value
+14 $ 7,318,555
+14 $ 6,915,068
+14 $ 6,460,409
+14 $ 5,948,088
+14 $ 5,370,791
+Total' $ 32,012,910
+Option 2
+Slots Traded Value
+36 $ 18,819,141
+36 $ 17,781,603
+36 $ 16,612,480
+36 $ 15,295,082
+36 $ 13,810,606
+Total" $ 82,318,912
+* Funds collected by FAA
+** Funds transferred among carriers
+31
+ This cost of capital is based on information from GRA Incorporated, the preparer of this Regulatory
+Evaluation. The 12 percent cost of capital is used to estimate what an airline would pay for a slot; the airline
+will look at its own weighted cost of capital (not the average for the economy in the long run). This is not
+used to discount the benefits and costs of the proposed rule. It is used to make an average valuation of a
+private asset based on other valuations of slots that have used rates approximtedly equal to 12 percent, It
+might be argued that this is low given the cost of capital in today's aviation environment.
+63
+One way to gauge the effect of slot-related cash outlays on carriers is to compute
+the slot value on a per seat-day basis. This is the amount that carriers would have to
+amortize per seat offered in the marketplace. Clearly operators of larger aircraft are
+advantaged in this comparison.
+Exhibit 11: Value of a Slot per Seat Offered per Day
+Average Monthly Value of a Slot $ 7,500
+Seat Configuration
+200
+150
+135
+100
+70
+50
+35
+19
+Value per Seat Day
+$ 1.25
+$ 1.67
+$ 1.85
+$ 2.50
+$ 3.57
+$ 5.00
+$ 7.14
+$ 13.16
+Assumes 30 day month
+The FAA recognizes however that carriers would look at the cost of a slot on a
+network basis, and as part of the cost of their entire service offer in New York; given the
+modest number of slots in the auction, the resulting costs for incumbents, who are well-
+positioned at LGA and in many cases the other New York airports, are more modest
+than one might conclude from Exhibit 11.
+Finally, it is not clear who would incur the cost of a slot. In Option 1 where slot
+proceeds flow to FAA, there is a net cash outlay by the industry. If markets were
+relatively inelastic, consumers would pay a greater share of these costs; if markets were
+more elastic, airlines would pay a larger share. Any conclusions are made more
+difficult by the fact that the auction proceeds are likely to be a very small percentage of
+64
+total revenues for commercial service at LGA and therefore have a small impact in any
+case.
+In Option 2, after FAA recoups the cost of the auction, proceeds are transferred
+among the carriers. While there may be net payers and net receivers of funds, there
+would be no cash outlay from the industry from auction proceeds except to defray the
+cost of conducting the auction. Some carriers may face higher net cash outlays to
+operate at LGA while others may see cash inflows. The FAA cannot be sure until the
+auction is done. However, even in Option 2, only 15 percent of total capacity would be
+auctioned over five years and the netting out of cash among the carriers would tend to
+mute the impacts on the incumbents. The carriers most likely to have net cash outlays
+are new entrants and carriers with 20 or fewer slots who would not have any cash
+flowing in from the auction to offset costs of their slot purchases.
+Small Communities
+As noted previously, the number of slots that would be reallocated in each of the
+five years under either Option 1 or Option 2 is relatively modest—the equivalent of two
+to six city pairs worth of flying per day (assuming daily frequency of three round-trips
+per day). Nevertheless, there may be some changes in service to small communities as a
+result of the auction. Here small communities are defined as being served by FAA non-
+or small-hubs.
+During the base week in January 2007, there were approximately 244 operations
+(122 flights) per day to and from small communities - or about 10 percent of the
+65
+airport's scheduled capacity. Since our implementation of a temporary cap in that
+month, there has been some change in the composition of flights among small cities, but
+the total number has not changed appreciably; in January 2008 (on a weekday) there
+were 121 roundtrips to small communities. FAA believes this is significant: under the
+temporary order there is no carve-out for small communities, therefore airlines appear
+to continue to see flights to these small cities as a profitable service worth continuing. A
+summary of the service pattern for small communities at LG A in January of 2007 and
+208 is shown in Exhibit 12.
+66
+Exhibit 12: Changes in Small Community Air Service Pattern at LGA:
+January 2007 vs. 2008
+ARRLOC JARRNAME
+$Gflfc3&a NANTUCKET, MASSACHUSETTS
+WPtgk*" ALBANY, NEW YORK
+H
+! I
+Oft
+I
+Ii
+N3ift£ BANGOR, MAINE
+fey« BIRMINGHAM, ALABAMA
+1^;^  BURLINGTON, VERMONT
+: WJ COLUMBIA, SOUTH CAROLINA
+: ggj, AKRON/CANTON, OHIO
+^gE CHARLOTTESVILLE, VIRGINIA
+**jf CHARLESTON, SOUTH CAROLINA
+DAYTON. OHIO
+! giff1:.'-^  DES M01NES. IOWA
+•Hg
+1
+'&&£ FLINT, MICHIGAN
+I '•&--'. GREENSBORO/H.PT/WIN SALEM, N.C.
+•'ISI^ 1- ''''*• GREENVILLE/SPARTANBURG. S-C.
+WW1"^-^ HUNTSVILLE/DECATUR. ALABAMA
+n-f. , WILMINGTON, NORTH CAROLINAITHACA, NEW YORK
+Lgfc' ' ' .:- LEBANON. NEW HAMPSHIRE
+^-'_ ; LEXINGTON, KENTUCKY
+SSyri-Y HARRISBURG, PENNSYLVANIA
+;
+. i$N;'i.. ' MADISON, WISCONSIN
+•X8U :'•* MYRTLE BEACH, SOUTH CAROLINA
+PjHP'&i--': NEWPORT NEWS/WILLIAMSBURG, VA.
+1 WEt?* PORTLAND, MAINE
+| :.. jjjJL. RICHMOND/WMBG.. VIRGINIA
+ROI H? ROANOKE, VIRGINIA
+•-•I ?S ROCHESTER, NEW YORK
+SW^^^M SAVANNAH, GEORGIA
+LOUISVILLE. KENTUCKY
+Mt^&T- SYRACUSE, NEW YORK
+£%••-• -•-. KNOXVILLE. TENNESSEE
+FAYETTEVILLE NORTHWEST, ARKANSAS
+NWflMV^k^ '^tWa^
+2007 2008
+2 1
+3 4
+3 3
+6 5
+4 3
+3 3
+KOgg i^
+2007 2008
+5 4
+8 6
+3
+2 2
+9 5
+12 10
+8 8
+10 9
+M^^^^w
+2007 2008
+1
+3 2
+2 2
+2 2
+5 6
+4 4
+1 2
+2
+2 1
+9 9
+5 4
+1
+1 1
+1 2
+2 3
+3 4
+3 6
+1 2
+2 2
+Nevertheless, all other things being equal, the FAA expects that in the auction
+carriers with business plans that utilize standard jets may derive an advantage from
+having more passengers on board over which to amortize the cost of a slot. To the
+extent that small community service depends on smaller aircraft, this service may be
+relatively disadvantaged. Exhibit 13 shows that in January of 2008, virtually all small
+community service at LGA was performed by RJs and turboprops.
+67
+Exhibit 13: Small Community Operations at LGA by Fleet Type
+January 2008
+Small Community Operations at LGA by Fleet Type January 2008
+^vE^^ i^
+ACK
+ALB
+BHM
+BTV
+CAE
+CAK
+CHO
+CHS
+DAY
+DSM
+FNT
+GRR
+GSO
+GSP
+HSV
+ILM
+ITH
+LEB
+LEX
+MDT
+MSN
+MYR
+PHF
+PWM
+RIC
+ROA
+ROC
+SAV
+SDF
+SYR
+TYS
+XNA
+Totals
+Pet
+*w^M /^:&&& '^^ mmmmgw&£m
+NANTUCKET, MASSACHUSETTS
+ALBANY, NEW YORK
+BIRMINGHAM, ALABAMA
+BURLINGTON, VERMONT
+COLUMBIA, SOUTH CAROLINA
+AKRON/CANTON, OHIO
+CHARLOTTESVILLE, VIRGINIA
+CHARLESTON, SOUTH CAROLINA
+DAYTON, OHIO
+DES MOINES, IOWA
+FLINT, MICHIGAN
+GRAND RAPIDS, MICHIGAN
+GREENSBORO/H .FT/WIN SALEM, N.C.
+GREENVILLE/SPARTANBURG, S.C.
+HUNTSVILLEVDECATUR, ALABAMA
+WILMINGTON, NORTH CAROLINA
+ITHACA, NEW YORK
+LEBANON, NEW HAMPSHIRE
+LEXINGTON, KENTUCKY
+HARRISBURG, PENNSYLVANIA
+MADISON, WISCONSIN
+MYRTLE BEACH, SOUTH CAROLINA
+NEWPORT NEWS/WILLIAMSBURG, VA.
+PORTLAND, MAINE
+RICHMOND/WMBG., VIRGINIA
+ROANOKE, VIRGINIA
+ROCHESTER, NEW YORK
+SAVANNAH, GEORGIA
+LOUISVILLE, KENTUCKY
+SYRACUSE, NEW YORK
+KNOXVILLE, TENNESSEE
+FAYETTEVILLE NORTHWEST, ARKANSAS
+'-C~S TjRjpl
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+5.8%
+ft&ffiSQttl
+0
+0
+2
+0
+2
+0
+0
+6
+4
+2
+2
+1
+9
+4
+1
+3
+0
+0
+1
+0
+2
+0
+0
+4
+10
+0
+1
+4
+6
+1
+2
+2
+69
+57.0%
+1
+4
+0
+6
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+3
+0
+3
+0
+0
+0
+1
+0
+3
+7
+0
+0
+8
+0
+0
+45
+37.2%
+However, carrier decisions on schedules would depend on network profitability
+before and after the auction. As shown earlier, using other indicative slot value of
+$7500 per month, to cover the cover the price of a slot, operators of 135 seat standard
+68
+aircraft may be amortizing about $1.85 per seat-day offered. The value is two to six
+times higher for RJs and turboprops. However, it is important to note that carriers
+would view the amount paid for slots on a network basis. Carriers would view the
+auction as a cost of doing business at LGA; all incumbents would have between eight
+and nine times more slots that they would hold over ten years without any incremental
+payments. Seen this way, the established service patterns to small communities may be
+able to compete effectively for scarce slots holdings. In contrast, new entrants would
+have to amortize the full value per seat over the life of their slot, and would have
+important incentives to fly larger aircraft. The market would sort out winners and
+losers, but in this environment small community service may not be appreciably
+disadvantaged. Regardless, under each Option under consideration, only a small
+percentage of capacity would be allocated by auction; therefore, airlines would
+maintain considerable capacity to continue small community air service using non-
+auctioned slots, which is the case today.
+Consumers
+As noted above, there will likely be some changes in the service pattern at LGA
+as a result of the auction. Some consumers would gain in this process and others would
+lose. For example, consumers in small communities may lose some service. However,
+there is little doubt that an auction would result in better outcome for consumers as a
+group; the allocation of slots would be determined by airline willingness to pay, which
+should be closely linked to consumer demand. The greater the demand, the higher
+69
+should be the bid for a slot. As a result the slots available in the auction should tend to
+go to those with the highest and best use as measured by consumer demand.
+Airport Operators
+The Port Authority has been an active participant in the NEXTOR process and in
+many other forums that have focused on the application of the markets to slot allocation
+at New York airports, including the recently concluded New York Congestion Aviation
+Rulemaking Committee. Throughout, the Port has emphasized its concerns that (1) a
+slot auction could result in difficulties because some acquiring carriers might not be
+able to find gates at the right times of day; (2) the auction itself might draw money
+away from carriers, some of which are financially struggling and (3) the auction could
+cause a reallocation that would result in reduced small community service, which is
+important to the Port Authority.
+The FAA has taken these concerns into account in the design of Options 1 and 2.
+Although the FAA believes the Port Authority would be able to accommodate a
+different mix of airlines operating the same number of slots at existing gates,
+nevertheless, the proposed rule limits the number of slots that would be auctioned in
+part to facilitate accommodation. Indeed, the Port Authority should see reduced
+administrative costs since any needs for new slots would come at relatively predictable
+intervals and in small batches. This same limitation on the number of slots subject to
+auction should reduce the burden on air carriers who make net cash outlays for slots.
+This should be particularly the case in Option 2 where incumbent net outlays should be
+70
+offset to some extent by proceeds they receive. In Option 1, some of the funds would be
+targeted for capacity improvements in New York, which would reduce costs to the
+carriers and potentially create more capacity for additional services.
+Finally, we have noted that small community service may be affected by our
+proposal but that it may not be appreciably disadvantaged, because carriers have
+continued these services in the current temporary HDR environment where there are
+not small community carve-outs, and because carriers would view the cash outlays for
+slots in the context of their overall service to LGA and New York. To the extent small
+community service makes an important network contribution, the value in such uses
+may be high and compete effectively in the auction.
+71
+APPENDIX A
+A complete discussion of the methodology for estimating net benefits to society
+of the cap provisions of the proposed rule can be found in the earlier Initial Regulatory
+Evaluation dated August 29,2006, which is a part of the record in this rulemaking. This
+appendix documents three new estimates made for the SNPRM. First, the original
+estimates of the benefits of a cap have been adjusted. Second, some indicative estimates
+of the benefits to society of different types of flying at LGA are provided. Third,
+estimates are made regarding the net benefits of retiring approximately 1.5 percent of
+LGA capacity.
+Updating Estimates of Net Surplus Due to a Cap
+In the August 29,2006 Initial Regulatory Evaluation there are estimates of the
+benefits of a cap at LGA. While the original proposal included an upgauging provision
+that is not part of this supplemental proposal, in the initial year there was no effective
+upgauging. The initial year's estimate of benefits has been updated to reflect limited
+inflation that has ensued since. According to the latest data on passenger air carrier
+costs published by ATA, unit costs increased by 0.2% from the third quarter of 2006 to
+the third quarter of 2007. This index was applied to adjust operator benefits of the cap.
+In evaluating the benefits and costs of a cap at LGA, the 2006 Regulatory
+Evaluation took account of the benefits to consumers and producers of the additional
+flying that would occur if the cap were not imposed. It identified from carrier filings
+72
+the additional proposed flights that would have been undertaken as a result of Air-21.32
+The additional flying increased the average frequency, average number of seats offered,
+costs, revenues, delays and cancellations incurred at LGA. The 2006 Regulatory
+Evaluation then estimated the net change in consumer and producer surplus due to the
+additional flying. The results suggested that operations beyond the cap impose a net
+cost to society, even though some consumers and producers might benefit from them.
+There are also estimates of consumer benefits due to a cap; about half of these
+benefits can be adjusted as they relate to changes in money fare; the remainder relate to
+passenger delay costs, which we do not adjust in our cost benefit studies.33 According
+to the BTS Air Fare Index, airfares actually fell by 0.8% from the third quarter of 2006 to
+the third quarter of 2007. This index was applied to adjust consumer benefits of the cap.
+The benefits of a cap have been adjusted downward to exclude the downstream
+costs of delay that are avoided due the cap. The FAA is in the process of revising the
+methodology on these types of costs and prefers to exclude them pending completion of
+the work in this area.
+Using the adjusted one year net benefit estimate over the 10 year time horizon of
+the rule, the cap provides discounted benefits of approximately $2.021 billion. The
+details of these calculations are shown in Exhibit 14.
+32
+ See the "Background and Need for the Regulation" section of this Regulatory Evaluation for additional
+information on carrier filings of proposed flights under AIR-21.
+33
+ These are based on the passenger value of time which is not escaslated each year.
+73
+Exhibit 14: Adjusted Net Benefits of a Cap at LaGuardia
+Adjusted Annual Benefits of a Cap at LaGuardia ($mi!)
+Annual Estimate ($2007) 303.4
+less Downstream Delay Costs -34.7
+Revised Annual Estimate ($2007) 268.7
+Consumer Surplus ($2007) -57.8
+BTS Air Fare Inflation Adj. -0.8% x 50% -0.2
+(a) Consumer Surplus ($2008) -57.6
+Other Operators ($2007) 326.5
+ATA Cost Index Inflation Adj. +.02% 0.7
+(b) Other Operators ($2008) 327.2
+Annual Estimate ($2008) (a+b) 269.6
+Sources: Regulatory Evaluation (August 29,2006) Ex. 12
+ATA Passenger Airline Cost Index YE 3Q 2007; BTS Air Fare Index
+BTS Air Fare Index YE 3Q 2007
+Estimated Net Benefits of a Cap ($mil)
+Annual Discounted
+Benefits Benefits
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Total Discounted Value
+269.6
+269.6
+269.6
+269.6
+269.6
+269.6
+269.6
+269.6
+269.6
+269.6
+269.6
+251.9
+235.5
+220.1
+205.7
+192.2
+179.6
+167.9
+156.9
+146.6
+137.0
+128.1
+2021.5
+Estimating Illustrative Benefits and Costs of Different Types of Flying
+The empirical analysis described below is based on estimating the full price of
+travel and social marginal costs for representative markets at LGA. Estimates are
+74
+provided for average legacy (standard jet), regional jet (RJ), turboprop and LCO
+(standard jet) markets. The estimates are meant to be illustrative of the consumer and
+producer surplus produced by an average operation over a year. Comparison of the
+surplus produced by the four types of markets gives some feel for the consequences for
+society if one type of service is traded for another as a result of an auction.
+The consumer benefits related to a reallocation of slots can be estimated using
+the economic concept of consumer surplus/ defined as the difference between what
+consumers must pay for a given level of service and what they would be willing to pay.
+In passenger transportation markets, consumer surplus is usually defined in the context
+of the full price of travel. The full price of travel includes the money fare that a
+consumer must pay and the value of his or her time in transit (including both the
+scheduled time and any expected delays) and the value of schedule delay (the
+difference between the ideal time of departure/arrival versus the actual schedule
+offered weighted by the probability of being accommodated on the desired flight). The
+common sense interpretation of the full price of travel model is that consumers prefer to
+fly at a time closest to their desired departure (or arrival) time, at the lowest possible
+price and in a manner that minimizes the expected time in transit, including the risk of
+delays and cancellations.
+Interpretation of the full price of travel in the context of consumer surplus is
+straightforward. A consumer would not choose to purchase a transportation service
+unless it was worth more to him or her than the sum of the money price plus the value
+34
+ LCC is low cost carrier.
+75
+of his or her time, including airport and schedule delay. Consumer surplus is the value
+of air transportation in excess of the full price of travel. Although it is not always the
+case, larger aircraft would tend to exhibit more consumer surplus per operation because
+there are more passengers on-board who tend to fly longer distances, expend more time
+traveling, and pay more for the service, than on a smaller aircraft. Smaller aircraft will
+tend to exhibit less consumer surplus per operation for the same reasons and in
+addition, to the extent smaller aircraft are used for shorter haul flights, their use may be
+less advantageous to consumers at a highly delayed airport with high cancellation rates.
+Consumers can more easily elect to take other forms of transportation, such as rail, in
+shorter haul markets if they are confronted with less reliable air service.
+It is also important to account for producer surplus, or the amount carriers earn
+per flight in excess of marginal cost (including delay and cancellation costs at LGA).
+Carriers will tend to focus on their own delay costs, and not worry about the costs they
+impose on other operators. At LGA, a carrier does not and would not have an
+opportunity to earn producer surplus in the absence of a slot. A reallocation of slots
+might increase producer surplus for some carriers and reduce it for others. By adding
+producer and consumer surplus together, the FAA derives an estimate of the benefits to
+society of the air service at LGA. A reallocation via auction should increase these
+benefits.
+The analysis is carried out at the segment level, i.e., each non-stop destination
+from LGA is considered to be a separate market. To implement the analysis, estimates
+are needed for the full price of travel and social marginal costs as of January 2008.
+76
+The full price of travel (FPT) in each case is defined as:
+FPT = money fare + value of scheduled time in transit + value of airport delay and
+cancellations + value of schedule delay
+For the sample schedule day (January, 2008), data are available to estimate each term in
+the above equation:
+*> Money fare: Average segment fare35 for each of the four types of service
+>> Average time in transit: Weighted average block time from the OAG sample
+day
+•> Expected airport delay and cancellations:36 From a UMD analysis described
+above
+>> Value of travel time applied to transit time/ delay and cancellations: GRA,
+Incorporated" Economic Values for FAA Investment and Regulatory
+Decisions, A Guide", prepared for FAA Office of Aviation Policy and Plans,
+(October 3, 2007) weighted using LGA shares of 55% leisure and 45%
+business reported internally by FAA - $30.86 per hour
+>> Schedule delay; Computed from the OAG data using a method described
+below
+^ Value of time in schedule delay: $2.70 per hour from a study by Morrison
+and Winston37
+35
+ Based on DB1B third quarter 2007. The calculation includes "zero fare" observations (frequent flyers) and
+all O-D trips with 2 or less connect points involving LaGuardia as an endpoint or a connect point. It is
+important to include frequent flyers in order to avoid overestimating carrier revenues (calculated as total
+passengers x average fare). To derive the segment fare observations, the total itinerary fare for each DB1B
+record is first allocated to separate O-D trips using the DB1B trip break indicators and a weighting factor of
+W = exp(2.485+0.720668*ln(miles)) - this represents an approximation to ICAO formula prorates. The O-D
+trip fare is then further allocated to individual segments based on direct segment distance.
+36
+ Passenger delay costs are estimated as the product of expected delay time and the value of time.
+Cancellation costs are calculated the same way. In estimating expected passenger time lost due to a
+cancellation, we assume that a passenger is reaccommodated on the next flight out with enough available
+seats, where available seats are estimated as (1- load factor) x seat capacity. In some cases, passengers can be
+reaccommodated on the next flight out; in others, they might have to wait for the second flight.
+37
+ Morrison and Winston, "Enhancing the Performance of the Deregulated Air Transportation System,"
+Brookings Papers on Economic Activity, Microeconomics, 1989, p. 66, use the ratio of value of schedule
+delay/value of travel time applied to current estimate of travel time value. The results of this study suggest
+77
+For each segment, there are e data on the level of service by the four types of
+aircraft operations (legacy/ LCC, regional jet and turboprop). These data are aggregated
+up to the segment level, to estimate an average money fare, passengers per day each
+way, and measures of travel time, airport delay and schedule delay. The resulting
+sample day full price of travel and number of passengers together represent a point on
+the segment FPT demand curve. The corresponding point on the money demand curve
+can be found by substituting the money fare for the FPT.
+One additional point is required to identify the two demand curves in
+mathematical terms. To do this, one additional roundtrip with the average load (for
+each type of service) on the segment is assumed. The FAA's suggested money elasticity
+is applied to estimate change in the money price at the increased level of service.38 This
+procedure provides another point on the (assumed) linear money demand curve for the
+flight segment. With this information, we recalculate the other components of the full
+price of travel and thus another point on the FPT curve. Finally we calculate the
+intercept point for the FPT demand curve assuming it is linear and, with the fully
+that consumers place a lower value on schedule delay than on travel time. The rationale is that while
+consumers will prefer to fly at precisely the time that fits their schedules, deviations from the schedule do
+not generally result in large losses of consumer benefits because they are able to use any deviations in other
+productive or leisure pursuits. For example, a business person who would prefer to leave at 4pm but is
+forced to leave at 5 FM because of the schedule of available service may find ways to productively use the
+extra hour at work.
+38
+ The elasticity estimate is based on a weighted average of the recommended values from FAA's "Airport
+Benefit-Cost Analysis Guidance," 1999 - -2.0 for leisure travel <, 500 miles, -1.0 for leisure travel > 500 miles, -
+1.6 for business travel <. 500 miles, -0.8 for business travel > 500 miles. The April 19 baseline schedule
+indicates 42.7% of seats were offered in markets < 500 miles; 57.3 % were in markets > 500 miles. The
+leisure/business split is assumed to be 55/45 based on internal FAA estimates.
+78
+identified function, estimate the total consumer surplus for the segment (the so-called
+welfare triangle).39
+In order to attribute consumer surplus to the different types of flying on a
+segment, we calculate average segment consumer surplus per passenger (that is,
+passengers were indifferent between the types of flying - legacy, LCC, regional jet and
+turboprop). Then we multiply average consumer surplus by the number of passengers
+per flight for each type of flying to estimate consumer surplus per flight for a segment.
+For each type of flying, we calculate total consumer surplus on a segment by
+multiplying by the number of flights.
+To calculate the average consumer surplus per flight across all segments for each
+type of flying, we sum the surplus across segments and divide by the total number of
+daily flights. Assuming each flight is offered daily, we multiply the average per flight
+figure by 365 to obtain an estimate of average consumer surplus per flight for legacy,
+LCC, regional jet and turboprop operations at LGA.
+Estimating Schedule Delay
+One of the important differences that need to be accounted for between the cases
+is the effect of frequency and average seat size on consumer benefits. In general,
+consumers prefer more frequent flight opportunities and larger aircraft so that they can
+more easily accommodate their own schedules. For example, one of the reasons
+consumers value legacy carrier operations at LGA so highly is that legacy carriers fly
+39
+ Note, the full prive of travel demand curve is not linear. But we assume it is to calculate surplus. This
+tends to understate consumer surplus.
+79
+relatively large aircraft with high frequency. In contrast, LCC's fly larger aircraft on
+average but much less frequently, perhaps in part because they have less access to slots.
+Economists measure the value of frequency using a concept termed "schedule delay."
+The idea is that consumers can reduce schedule delay when there are more frequent
+flights and more seats. For example, a businessperson can more precisely plan a
+business trip when there are more opportunities to fly to a distant city to make a
+meeting at a particular time. In contrast, when service is relatively infrequent, the
+traveler might incur wasted time or even have to stay overnight to accommodate a
+meeting schedule. Personal travelers also benefit from increased frequency.
+For valuation purposes, schedule delay is broken into two components -
+frequency delay and stochastic delay. Frequency delay measures the average difference
+between a passenger's preferred departure time and the closest scheduled departure
+time. Frequency delay (FD) in minutes for a given market segment is parameterized as:
+where F is daily flight frequency.40
+Stochastic delay measures the expected delay due to the probability that a
+passenger would not be able to obtain a seat on his most preferred departure because of
+capacity limitations of the aircraft. Stochastic delay (SD) is parameterized as:41
+12010
+40
+ Douglas and Miller (1974). Economic Regulation^fJDornesticj\ii^Transport: Theory and Policy, p. 105.
+41
+ Morrison and Winston, op. cit,, p. 63. This is based on a parameterization of the Douglas and Miller (op.
+cit.) schedule delay equation.
+80
+where F = daily flight frequency
+P - passengers per flight
+5 = seats per flight
+The sum of frequency delay and stochastic delay yields total schedule delay. Estimates
+of schedule delay from these equations for various values of F and S are shown below
+in Exhibit 15 below (using the observed average LGA system load factor of 68.6%):
+Exhibit 15: Equation Estimates of Schedule Delay (minutes)
+Daily Frequency
+4
+6
+8
+10
+Average Seatsize
+50
+213
+150
+118
+98
+75 100 125
+149 120 103
+108 88 77
+86 71 63
+72 60 54
+150
+92
+69
+57
+49
+Schedule delay is valued at $2.70 per hour based on estimates developed by Morrison
+and Winston cited earlier.
+Estimating Carrier Impacts
+This analysis also includes estimated producer surplus impacts. For each type of
+flying (legacy, LCC, regional jet or turboprop) carrier revenues are computed based on
+the estimated number of passengers served and the money fare (net of passenger taxes,
+segment and security fees, and PFCs). For present purposes, carrier costs include
+scheduled aircraft variable block-hour costs, airport delay costs, downstream delays
+and cancellation costs.
+Variable block-hour costs are taken from the FAA "Economic Values" study
+completed in 2007.42 Estimated airport delay costs are computed as average delay
+42
+ FAA, "Economic Values for FAA Investment and Regulatory Decisions, A Guide", op cit; Table 4-3.
+81
+minutes per operation multiplied by the average variable block-hour costs summed
+across all operations and cancellation costs.
+Cancellation costs are difficult to measure because some portion of crew and
+other costs may still be incurred, and downstream operations may be affected. Ignoring
+downstream effects, one can estimate a ceiling on such costs based on the delays
+discussed above. Clearly, a carrier will cancel a flight only when the net costs of doing
+so are less than those that would be incurred by operating it and accepting the
+consequent delays. So a ceiling on (own-airport) cancellation costs can be estimated by
+taking the difference between (1) net operating profits with no cancellations (and
+therefore very high delay costs) and (2) net profits with cancellations. For this analysis,
+incurred cancellation costs were assumed to be 50 percent of the profit estimate
+difference.43 This is likely to be a conservative estimate of cancellation costs since it does
+not include downstream effects,
+Estimating Impacts on Non-Scheduled Operators
+Delay effects on non-scheduled operations are also taken into account. The FAA
+assumed that non-scheduled operations remain constant at 48 per day in all three cases.
+Non-scheduled passenger delay costs are estimated assuming 2.8 passengers per flight44
+43
+ In estimating carrier revenues when there are no cancellations, it was assumed that each 1-point reduction
+in cancellations from the current value would lead to an increase in passengers equivalent to about 0.14 load
+factor points; this value was obtained from a comparison of T-100 load factors and cancellations rates at
+LaGuardia for December 2000 (when cancellations were very high) and April 2001 (when cancellations had
+returned to more normal historical rates.)
+44
+ FAA, "Economic Values for FAA Investment and Regulatory Decisions, A Guide", 2007; Table 3-15,
+average passengers in operations involving Turboprop 1-9 seats multi-engine and Turbojet <12,500 Ibs
+aircraft, the prevalent operators at LaGuardia.
+82
+and using the same value of time as for scheduled passengers. Non-scheduled aircraft
+delay costs are estimated assuming an average cost of $1,108 per block hour.45
+Illustrative Estimates of Surplus for Different Types of Operations at LGA
+Exhibit 16 shows the illustrative average surplus per day and per year for
+operations at LGA. We stress again that these are illustrative. They are rough estimates
+of the relative benefits to society of alternative types of service at LGA. The relative
+values are of primary interest. It should not be surprising, given the economic
+methodology for calculating society benefits, that more frequent service with larger
+aircraft produces more surplus. On average, consumers as a group are willing to pay
+more for such service than they are for less frequent service with smaller aircraft.
+Exhibit 16: Illustrative Estimates of Surplus for Different Types of Flying at LGA
+Daily Results
+Consumer Surplus
+Producer Surplus
+Non-Scheduled Passenger Delay Costs
+Non-Scheduled Aircraft Delay Costs
+TOTAL SURPLUS
+Annual Results
+Consumer Surplus
+Producer Surplus
+Non-Scheduled Passenger Delay Costs
+Non-Scheduled Aircraft Delay Costs
+TOTAL SURPLUS
+Scheduled Operations
+Avg Seat Size per Scheduled Operation
+Avg Pax per Scheduled Operation
+Per Operation (excluding Non-Scheduled)
+Consumer Surplus
+Producer Surplus
+TOTAL SURPLUS per Operation
+Annual Surplus per Operation
+LCC
+$426,445
+$447,924
+$874,369
+$155,652,373
+$163,492,442
+$319,144,816
+86
+145.8
+115.7
+$4,846
+$5,090
+$9,936
+$3,626,646
+LEGACY JET
+$2,603,621
+$2,860,073
+$5,463,694
+$950,321,627
+$1,043,926,629
+$1,994,248,256
+506
+140.9
+102.4
+$5,145
+$5,652
+$10,798
+$3,941,202
+PROP
+$75,371
+-$56,477
+$18,895
+$27,510,571
+-$20,614,049
+$6.896,523
+164
+34.2
+16.8
+$460
+-$344
+$115
+$42,052
+RJ
+$635,020
+$466,213
+$1,101,232
+$231,782,168
+$170,167,652
+$401,949,820
+442
+49.4
+33.7
+$1,437
+$1,055
+$2,491
+$909,389
+TOTAL
+$3,740,457
+$3,717,733
+-$1,081
+-$13,928
+$7,443,181
+$1,365,266,739
+$1,356,972,675
+-$394.660
+-$5,083,722
+$2,716,761,033
+1200
+93.0
+66.4
+$3,117
+$3,098
+$6,215
+45
+ FAA, op. cit. Table 4-10.
+83
+Exhibit 17 shows the estimated net surplus due to reducing operations by
+roughtly 1.5 percent in Option 1. This estimate assumes that airlines delete some or all
+of the service in low operating profit markets, which may include one or more round-
+trips per day to the same airport. The FAA also assumes that carriers delete an even
+number of operations so that a total of 22 operations are deleted if 18 slots are retired.
+The number of slots retired and the number of operations reduced for each airline is as
+follows: American (5 slots; 6 operations), Delta (4,4), Northwest (1,2), United (1,2), US
+Airways (7,8). In the cost-benefit analysis, these net benefits are phased-in over five
+years.
+Exhibit 17: Annual Effect of Proposed Slot Retirements in Option 1
+EFFECT OF CANCELLED OPERATIONS LCC LEGACY JET PROP RJ TOTAL
+Dally Results
+Change in Consumer Surplus tor Cancelled Flights:
+CMH
+MSY
+RDU
+GRR
+ORD
+Change in Consumer Surplus for Remaining Flights:
+OTHER
+CHANGE IN CONSUMER SURPLUS
+Change in Producer Surplus for Cancelled Flights:
+CMH
+MSY
+RDU
+GRR
+ORD
+Grange in Producer Surplus for Remaining Flights.
+OTHER
+CHANGE IN PRODUCER SURPLUS
+TOTAL CHANGE IN SURPLUS
+Annual Results
+$0
+SO
+50
+$0
+ID
+55,843
+$5,843
+SO
+$D
+$0
+$0
+10
+$4,970
+$4,970
+$10,813
+$3,946,584
+$0
+$0$o
+so
+-58,601
+$29,623
+$21,022
+$0
+$0
+$0
+so
+44,038
+$31.342
+$26,504
+$47,526
+(17,347,024
+$0
+$0
+$0
+$0
+$0
+$1,584
+$1,584
+$0
+$0
+$0
+$0
+$0
+$3.096
+$3,096
+$4,680
+$1,708,105
+-$14,297
+-$2,996
+-$2,504
+-$2,664
+$0
+$8,159
+-$14,301
+$5,698
+-$896
+-$822
+-$1,717
+$0
+$12.030
+$14,493
+$192
+$70,066
+-$14,297
+-$2,996
+-$2,504
+-$2,664
+-$8,601
+$45,209
+$14,147
+$5,398
+-$896
+-$822
+-$1,717
+-$4,83B
+$51,438
+$49,063
+$63.210
+(23,071,779
+46
+ To develop the estimates, we estimated the lost surplus (consumer and producer) from the flights
+eliminated and subtracted it from the estimated reduction in passenger and operator delay costs for all
+other flights. Expected delays per operation fall from 15.7 minutes to 14.6 minutes as a result of the
+proposed retirement of slots in Option 1. We assume that none of the passengers on the eliminated flights is
+reaccommodated, which tends to overstate the cost of the proposed retirement.
+84
+Sample Calculations
+The following table shows the individual calculations applied to data at the
+segment level. In the analysis, consumer and producer surplus estimates are developed
+at the segment level and then summed across segments. The segment shown is LGA -
+Atlanta, which was selected because it has a variety of different types of flying.
+The general assumptions are shown at the top of the table; the calculations for the
+segment then follow below.
+85
+Exhibit 18: Sample Calculations of Surplus at the Segment Level47
+IMVTS
+UnschBduted Daily Ops
+% Leisure traffic
+Value of Travel Tima per H-
+Value o* Schedule Delay per Hr
+PassengerfSegjnent/ASJH Tax Rate
+RFC and Security Fee per Segment
+Money Fare Arc Elasticity
+Downstream delay multiplier
+Chg in LF with 1 pt incr in completion rate
+Cancellation cost factor
+Include cancellation effects?
+Avg BlkccBt per Hour for GA
+Passengers per GAflight
+Annual ration Factor
+Total Scheduled Operations
+Cancellation Rate
+Realized Operations ind Unscheduled
+Airport Delay per Cp(min)
+Airport Delay Cost per Pax
+CANCELLATIONS
+CNH
+MSY
+RTJU
+GRR
+ORD
+48
+69%
+$30.86 Source: Business and leisure values from FAA critical values, LGA8haresfromvwwnjcdecaiKna.com
+$270 Source: Morrison and Winston, "Enhancing the Performance...", EnxiWngs 1969.
+8%Source: GHelledy,FY04schBduMaicn«sticpaxsvc(airiinerw%ticketrs^
+$7.00 $4.50 PFC + JZ50 Security Fee
+-1.372 Arc elasticity assumed to apply between current P,Q and that v^ch would occur w l^addHionai flight in tt« market
+0
+0,14 T-100 LF and cotrptefen rates, Dec. 2000 vs. Apr 2301
+50%
+Y
+$1,109 Source: FAAcritical values Table 4-10, avg. of Wjrd-EnjrwTiJboprcpl^ sealsandTunbcietorliSOOIbsvarcpcosts
+Z8 op. ciL, Table 3-15
+365.0
+Wm Cancellations
+1200 1178
+5,9% 5.5%
+1177 nei
+15.7 14.6
+$8.09 $7.51
+LCC LEGflCV. PROP RJ TOTAL
+0 14
+0 2
+0 2
+0 2
+14
+2
+Z
+2
+TOTAL 20 22
+47
+ The first table in Exhibit 18 contains assumptions used for model calculations, including Option 1 slot
+retirement presented as segment cancellations by equipment type. The second table presents sample
+calculations for the LGA-Atlanta segment.
+86
+Data
+SumofFLTCOUNT
+Sum of SEATSIZE
+Sum of TIME
+SumofTOTCOST
+Sum of pax
+Sum of totrev
+Scheduled Operations
+Scheduled Roundtrips
+Sdieduled RT Seats
+Avg Seatsize
+Cancellation Rate
+Realized Roundtrips
+Realized RT Seats
+Segment PDEWs
+Pax per Operation
+Avg Load Factor
+BlkHrs/Operatton
+VarCost
+VarCost/Hr
+PASSENGERS
+Avg Segment Fare
+Money Fare Arc Elasticity
+Travel Time Cost per Pax
+Airport Delay Cost per Pax
+Avg Time between Flights (nrs)
+LCC
+18
+2346
+2599
+112216
+1862.72
+272312
+LCC
+18
+9.0
+1173.0
+1303
+5.9%
+8.47
+1103.62
+931.36
+103.46
+79.4%
+2.41
+$112,216
+$2.591
+.EGACYJET
+36
+6453
+5697
+367262
+4681.33
+655826
+LEGACY JET
+38
+19.0
+3226.5
+169.8
+5.9%
+17.68
+3035.67
+234567
+123.46
+72.7%
+2.50
+$367,252
+$3.868
+PROP
+0
+0
+0
+0
+0.00
+0
+PROP
+0
+0,0
+0.0
+0,0
+0.0%
+0.00
+0.00
+0.00
+0.00
+0.0%
+0.00
+$0
+$0
+^
+4
+176
+620
+15067
+120.03
+17547
+RJ
+4
+2.0
+88.0
+44,0
+5.9%
+1.88
+82.80
+60.02
+3001
+68.2%
+2.58
+$15.087
+$1,460
+# Flighls needed to Accommodate All Cancelled Pax
+Total Passenger Hours Incurred
+Cancellation Cost per Pax
+Frequency Delay (min)
+Stochastic Delay (min)
+Schedule Delay Cost per Pax
+Avg Full Price of Travel
+With 1 Additional Scheduled Flfght
+Segmenl PDEWs
+Intermediate calculation
+Avg Segment Fare
+1034.85 2469.12 0.00 90.02
+Grand Total
+60
+8975
+8916
+494555
+6674.09
+975685
+TOTAL
+60
+30.0
+4467,5
+149.6
+5.9%
+28,23
+422208
+3337.04
+111.23
+74.4%
+2.48
+$494,555
+$3,328
+$146.19
+-1.372
+$76.43
+$809
+060
+5.15
+36540
+$3.38
+19.51
+8.69
+$1.27
+$235.35
+3593.99
+-18.504
+$138.50
+Hem Descriplon
+a
+b
+c
+d
+e
+f
+a
+g
+h
+ij
+k
+L
+m
+n
+o
+P
+d
+q
+r
+s
+t
+u
+V
+w
+X
+y
+z
+aa
+ab
+ac
+ad
+ae
+af
+OAG
+OAG
+OAG
+Form 41
+T100 Load Factor x OAG seats
+Ob1a segment faarex pax
+OAG
+a/2
+W2
+h/g
+UMD model at sample day ops
+g'd-i)h-d-j)
+e/2 passengers per day each way
+9/8
+e/b
+c/a/60
+d/c-60
+fte
+FAA Airport Guidance
+VOT'p
+VOT/60 x avg. airport delay (15.7 minutes)
+18hours/g
+j-m/Hm'g)
+number pax accommodated (l-nVg) per fit x minutes of delay for ea fit
+x/m*VOT
+92*gA(-0.456)
+12010/g-n*0.5725'(i-tiH-1.79)
+(y+z) ' value of schedule delay / 60
+r+t+u+y+ab
+ifgpO,m*(g*iyg
+s'(ad+my2/(ad-m)
+-r*(0.5+aey(0.5-ae)
+(ignore marginal changes in airport delay and cancellation costs)
+Frequency Delay (min)
+Stochastic Delay (min)
+Schedule Delay Cost per Pax
+Avg Full Price of Travel
+Money slope
+Money intercept
+FPT Slope
+FPT Intercept
+Tolal Daily Consumer Sun>us
+Annual Consumer Surplus
+CARRIERS
+Airline Revenue
+Variable Bock Costs (before delays)
+Airport Delay Costs
+Downstream Delay Costs (Oeps only)
+Daily Airline Profit (before cancellations)
+Cancellation Costs
+Daily Airline Net Profit
+Annual Airline Net Profit
+$93,926
+$34.233,678
+$237,489
+$105,579
+$11,495
+$0
+$120,414
+-$6,039
+$126,453
+$46,155,436
+$236.560
+$86,344,556
+$598,120
+$345,531
+$36,231
+$0
+$216,359
+-319,436
+$235,795
+$66,065,187
+$0
+$0
+$0
+$0
+$0
+$0
+$0
+$0
+$0
+$0
+$6,053
+$2,209,205
+$15,303
+$14,195
+$1,440
+$0
+-$331
+-$787
+$456
+$166,468
+18.68
+7.90
+51.20
+$227.59
+-0.030
+$246.09
+-0.030
+$336.20
+$336,541
+$122,837,441
+$850,911
+$465,304
+$49,165
+$0
+$336,442
+-$26,263
+$362.704
+$132,387,091
+ag
+ah
+al
+AJ
+a*
+aL
+am
+an
+ao
+ap
+aq
+ar
+as
+at
+ay
+av
+aw
+ax
+92*(g+ added flights) A(-0.456)
+12010/(g-t added tlights)*nA0.5725-(i-n)A(-l 79)
+(ag*ah) * value ol schedule delay 1 60
+af+t+u+y+ai
+(af-ry<ad-ni)
+af-ak'ad
+(aJ-acX(ad-m)
+aJ-am * ad
+(am-ac) *m *.5 *2
+30*365
+m*r*2*(1-8%tax) - PFCs-secufflylee
+d'(1-J>
+k -2' expected delay -QV60
+MA
+aq-ar-as
+1/2 ' (profit w/ cancels - profits w/o cancels)
+au-av
+aw*365
+87
