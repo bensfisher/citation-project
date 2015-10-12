@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  12 OCT 2015 10:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  12 OCT 2015 13:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -592,12 +592,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
-
+[1]
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
-[1]
+
 Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
@@ -622,12 +622,12 @@ Here is how much of TeX's memory you used:
  8741 multiletter control sequences out of 15000+200000
  20810 words of font info for 27 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,5n,40p,1056b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,5n,40p,1283b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
 al/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "citation indexing.pdf" (5 pages, 47561 bytes).
+Output written on "citation indexing.pdf" (5 pages, 48141 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
