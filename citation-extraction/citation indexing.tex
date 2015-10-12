@@ -90,6 +90,9 @@
 
 
 \section{Introduction}
+% write this as if the main goal is to extract scientific cites, with other references as an extra benefit
+Assessing the impact of scientific research in applied contexts is challenging, but necessary in evaluating the returns to society from investing in basic science. The measures used to assess the scientific importance of basic research are largely derived from citation in the bibliographies of scientific papers. One of the major challenges in assessing impact outside of the scientific community is that applied users of basic science rarely produce systematic and publicly available bibliographies. One exception is patents [CITES].
+
 
 \section{Literature Review}
 The development of citation indexing has primarily focused on indexing scholarly citations in the confines of large-scale projects like \citeasnoun{garfield1964}'s Science Citation Index, which eventually morphed present Web of Science or \citeasnoun{lawrenceetal1999}'s Citeseer database. The process by which proprietary services like Web of Science or Google Scholar actually extract citations is opaque. The Citeseer project employs a heuristic, rule-based approach to identify citation strings within text. For example, the ParsCit parser developed by \citeasnoun{councilletal2008}, which Citeseer currently uses, identifies the bibliography of a paper by searching for ``bibliography'' or synonyms like ``references''. If one of these is found past the first 40\% of the paper, then the parser extracts all of the text past that line through the end of the paper or the appearance of another section heading, such as ``appendix''. The citation strings are then separated using regular expressions. \\
