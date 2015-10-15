@@ -132,6 +132,11 @@ Intended Journals {\em Journal of Informetrics} and {\em Scientometrics}
 % write this as if the main goal is to extract scientific cites, with other references as an extra benefit
 Assessing the impact of scientific research in applied contexts is challenging, but necessary in evaluating the returns to society from investing in basic science. The measures used to assess the scientific importance of basic research are largely derived from citation in the bibliographies of scientific papers. One of the major challenges in assessing impact outside of the scientific community is that applied users of basic science rarely produce systematic and publicly available bibliographies. One exception is the recent focus on patents \cite{huang2014,liaw2014,huang2015,wong2015}. One area of real-world impact of science that is highly relevant to all members of society is the use of science in the creation of government policy \cite{nrc2012}. Indeed, the technical basis of government regulations has grown so salient in recent decades that regulations are regularly challenged in court on the basis of the science underpinning major provisions \cite{ellig2013,morrall2014}. As such, while developing policies, government officials regularly create publicly available and heavily vetted documents in which they present the research on which a regulation is based. If we can systematically extract and organize this information, we can directly assess the impact of scientific research on public policy.
 
+\subsection{Tasks}
+
+\begin{itemize}
+\item Why we would want to do this automatically (BD)
+\end{itemize}
 
 \section{Literature Review}
 The development of citation indexing has primarily focused on indexing scholarly citations in the confines of large-scale projects like \citeasnoun{garfield1964}'s Science Citation Index, which eventually morphed present Web of Science or \citeasnoun{lawrenceetal1999}'s Citeseer database. The process by which proprietary services like Web of Science or Google Scholar actually extract citations is opaque. The Citeseer project employs a heuristic, rule-based approach to identify citation strings within text. For example, the ParsCit parser developed by \citeasnoun{councilletal2008}, which Citeseer currently uses, identifies the bibliography of a paper by searching for ``bibliography'' or synonyms like ``references''. If one of these is found past the first 40\% of the paper, then the parser extracts all of the text past that line through the end of the paper or the appearance of another section heading, such as ``appendix''. The citation strings are then separated using regular expressions. \\
@@ -141,24 +146,48 @@ There has been limited publicly available work done on improving automated citat
 \subsection{Tasks}
 
 \begin{itemize}
-\item Review "altmetrics" lit
-\item  read huang2014 and Liaw2014 to develop notes about framing and presenting the contribution
+\item Review "altmetrics" lit (BD)
+\item  read huang2014 and Liaw2014 to develop notes about framing and presenting the contribution (BF)
+\item Consider practical alternatives/extensions of Parscit (BD)
 \end{itemize}
 
 \section{RIA Description}
 
-\section{Modeling Description}
+\section{Research Design}
 We use 104 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. \\ 
 
 To assess how our own approach compares to existing citation indexing programs, we run the ParsCit program on the manually coded sample of RIAs. ParsCit was originally developed for indexing scholarly citations from journal articles for the Citeseer project \cite{councilletal2008}. In addition to extracting citations, the program also extracts citation metadata, such as author, article title, and journal. We do not expect it to handle metadata extraction for non-scholarly citations. However, it may be able to extract text containing non-scholarly citations, which could then be manually coded. This would greatly speed up the current coding process, which requires research assistants to read the entire document for citations. If ParsCit performs well enough at extracting all citation types, then there is no need to develop new indexing software for this project.\\
 
 We use four different string distance metrics to measure similarity between the manually collected citations and the citations collected by ParsCit: Levenshtein, Jaccard, Sorenson, and partial string similarity. Levenshtein distance is measured by calculating the number of insertions, deletions, or substitutions needed to turn one string into another string [CITE Levenshtein 1966]. To calculate the Jaccard distance, the number of characters shared by two strings is divided by the total number of characters and subtracted from 1 [CITE Jaccard 1901]. The Sorenson distance measure is very similar to the Jaccard measure. Instead of looking at the number of shared characters, the Sorenson measure calculates the number of shared bigrams. This number is multiplied by 2 and then divided by the total number of bigrams in each string and subtracted from 1 [CITE Sorenson 1948]. Except for Levenshtein distance, all measures fall on a scale of 0 to 1, with 0 indicating an exact match and 1 indicating two completely different strings. The Levenshtein measure is normalized to the same scale for the purposes of comparison. The final measure, partial string similarity, uses substring matching and measures the percentage of characters in string $a$ that appear in string $b$.\\
 
+\subsection{Tasks}
+
+\begin{itemize}
+\item See which distance metrics perfectly predict a match at a given distance (BF)
+\item Assess the cost of hand-coding our test data (BF)
+\item Assessing the precision and recall of parscit (BF)
+\item See how this changes over the RIA date (BF)
+\end{itemize}
+
 
 
 \section{Results}
 
+\subsection{Tasks}
+
+\begin{itemize}
+\item Meet with Lee's student (Kyle?) to see how we can improve
+\end{itemize}
+
+
 \section{Conclusion}
+
+\subsection{Tasks}
+
+\begin{itemize}
+\item Why the world needs this? (BD)
+\end{itemize}
+
 
 \clearpage
 \singlespace
