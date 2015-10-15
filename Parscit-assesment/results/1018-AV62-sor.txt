@@ -1,0 +1,8 @@
+	NO PARSCIT CITATIONS
+County Business Patterns, 2004	0.7857142857142857
+Environmental Assessment, Duck Hunting regulations for 2007	0.8857142857142857
+Preliminary estimates of waterfowl harvest and hunter activity in the United States during the 2005 and 2006 hunting season	0.8378378378378378
+Analysis of the 1985 national Survey of Fishing, Hunting, and Wildlife-Associated Recreation. Net Economic Recreation Values for Deer, Elk and Waterfowl Hunting and Bass Fishing, 1985	0.7959183673469388
+2006 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation	0.75
+University of Virginia web site for State level data on establishments 	0.875
+What Can We Learn From 20 Years of Work with TCM and CVM	0.8285714285714285

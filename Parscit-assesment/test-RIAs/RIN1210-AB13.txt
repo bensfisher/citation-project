@@ -1621,7 +1621,7 @@ below.
 wide uncertainty. 
 16 A number of studies conclude that investors 
 often pay higher fees than necessary. 
-Javier Gil-Bazo & Pablo Ruiz-Verdu´, Yet Another 
+Javier Gil-Bazo & Pablo Ruiz-Verdú, Yet Another 
 Puzzle? Relation Between Price and Performance in 
 the Mutual Fund Industry, Social Science Research 
 Network Abstract 947448 (March 2007) find that 
@@ -3209,7 +3209,7 @@ SA
 LS
 4
 49910 Federal Register / Vol. 73, No. 164 / Friday, August 22, 2008 / Proposed Rules 
-continue to evolve (see, e.g., Gu¨nter Franke et al., 
+continue to evolve (see, e.g., Günter Franke et al., 
 Non-Market Wealth, Background Risk and Portfolio 
 Choice, Social Science Research Network Abstract 
 968096 (Mar. 2007)). Typical advice as reflected in 

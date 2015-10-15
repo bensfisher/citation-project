@@ -19617,9 +19617,9 @@ Start Less than Start End
 The age of the unit was calculated from the assigned survival value using the inverse 
 survival probability function: 
 § 1 ·¨ ¸ 
-§ § 1 ··¨¨¨ E ¸¸
+§ § 1 ··¨̈¨ E ¸̧
 ¸ 
-© ¹Age  D u ¨¨ ln¨ ¸¸¸ T Eq. 7.13© © SP ¹¹ 
+© ¹Age  D u ¨̈ ln¨ ¸¸̧ T Eq. 7.13© © SP ¹¹ 
 Where: 
 SP = randomly selected survival value, 
 Į = Weibull scale parameter,
@@ -23159,7 +23159,7 @@ When a household purchases a new refrigerator, sometimes it uses its 
 secondary appliance in the basement or garage. DOE modeled the process by which first 
 refrigerators are converted to second refrigerators as a Weibull process having a cumulative 
 distribution of the form: 
-§ §¨ xT ·E · ¸P(x)  G  (1G )u¨1 e © D ¹ ¸ for x > ș and¨ ¸© ¹ 
+§ §̈ xT ·E · ¸P(x)  G  (1G )u¨1 e © D ¹ ¸ for x > ș and¨ ¸© ¹ 
 P(x) = į for x  ș 
 8­23  
 EERE-2008-BT-STD-0012 COMMENT 22

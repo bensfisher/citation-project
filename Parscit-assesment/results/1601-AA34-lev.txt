@@ -1,0 +1,14 @@
+	Department of Homeland Security, Office of Immigration Statistics,	Hourly Compensation Rates of ICE Immigration Enforcement Officers Variable Description: This is the “fully burdened” average wage rate of a typical ICE Immigration Enforcement Officer. It includes gross hourly wage as well as benefits. The benefits were estimated Date: 04-17-2008 F-19 h. Cost.119 In examining each of the five alternatives listed, DHS developed a cost estimate for each. These cost estimates are more fully explained in relation to the Executive Order 12866 and Regulatory Flexibility Analysis, infra. Alternatives C and E are expected to add additional significant labor costs relative to the other three alternatives, and thus would have these additional costs recurring beyond the first year: Alternative A: Carrier biometric collection at check-in Counters: $949,000,000 Alternative B: DHS collection at check-in counters: $357,000,000 Alternative C: DHS collection at TSA checkpoint: $304,000,000 Alternative D: Carrier collection at aircraft gate: $449,000,000 Alternative E: Government collection at aircraft gate:
+Business Travel: Speeding Flight Check-In At Self-Service Kiosks	0.8636363636363636	0.9461020211742059
+Mid-Tex Elect. Coop, Inc. v. FERC	0.8484848484848485	0.9769008662175168
+Annual Report on the Integrated Entry and Exit Data System 	0.7575757575757576	0.9489894128970163
+Business Capacity Baseline Report	0.8181818181818182	0.971126082771896
+Percentage of Exit Records Matched to Entry Records	0.7424242424242424	0.9557266602502407
+The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks upon the United States	0.7837837837837838	0.9124157844080847
+Hearing of the Senate Homeland Security and Governmental Affairs Committee	0.6621621621621622	0.9364773820981713
+Cost from the Local Fiscal Effects of Illegal Immigration, A Report of a Workshop	0.7283950617283951	0.933589990375361
+Evaluating the True Cost to Airlines of One Minute of Airborne or Ground Delay	0.7692307692307693	0.933589990375361
+Judged Terror Risk and Proximity to the World Trade Center	0.7727272727272727	0.9518768046198267
+Perceived Risk: Psychological Factors and Social Implications	0.8333333333333334	0.9499518768046198
+Perception of Risk	0.8181818181818182	0.983638113570741
+Terrorism and probability neglect	0.7878787878787878	0.9682386910490857

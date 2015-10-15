@@ -1,0 +1,131 @@
+	Clash in Alabama Over Tennessee Coal Ash,‚Äù The New York Times,	Plant-by-plant disaggregated data comparison to statewide benchmarks	State-by-state aggregated plant data comparison to statewide benchmarks	National aggregated plant data comparison to statewide benchmarks Step 3: On a plant-by-plant basis, EPA compared the plant ZCTA percentage children, to the respective statewide average percentage children. Step 4: For purpose of summary, EPA aggregated the plant level children population comparison data for each state as displayed in Exhibit 7J below. There are no data displayed for DC, ID, RI or VT because there are no coal-fired electric utility plants in those states.	administration, and enforcement costs to RCRA-authorized state government programs/agencies. Consistent with the ‚Äúdirect cost‚Äù scope of EO 13132, not included in Exhibit 7L are potential indirect costs in the form of potential lost annual revenues to electricity plants associated with potential reductions in CCR sold by plants for beneficial use under the three Subtitle C options for which such an possible indirect effect is estimated in this RIA. EPA‚Äôs 2008 guidance194 for compliance with EO 13132 describes two numerical methods (i.e., numerical tests) for evaluating whether an EPA rule may have federalism implications with respect to ‚Äúsubstantial direct compliance costs‚Äù:	25 million test: Annualized direct compliance cost expenditures to state/local governments	1% test: Annualized direct compliance costs faced by state/local governments is likely to equal or exceed 1% of their annual revenues* [* Note: Page 29 of ‚ÄúAttachment A: Guidance for Implementing the Federalism 1% Test‚Äù to EPA‚Äôs Nov	Private sector $100 million direct cost threshold test	State/local government $100 million direct cost threshold test*	25 million threshold test: sub-total State/Local govt cost $96.7	State/local govt cost as percentage of State/Local government electric utility annual revenues	227% 0.131% 0.215% **Type of owner entity assigned by EPA ORCR based on business type disclosed in owner name or plant-by-plant internet research on type of ownership. Size class determined according to the following numerical criteria consistent with EPA‚Äôs
+Coal Ash Disposal Varies From Company to Company	0.65	0.61	0.61	0.5700000000000001	0.5900000000000001	0.5900000000000001	0.63	0.69	0.6699999999999999	0.63	0.61	0.5900000000000001
+Shocking Electricity Prices Follow Deregulation	0.6599999999999999	0.69	0.6599999999999999	0.5800000000000001	0.5800000000000001	0.62	0.62	0.62	0.64	0.6599999999999999	0.6	0.54
+Coal Plant O&M: Retrofit Flyash-Handling System Pays Dividends	0.6699999999999999	0.65	0.6699999999999999	0.62	0.62	0.6699999999999999	0.63	0.6699999999999999	0.6599999999999999	0.6699999999999999	0.63	0.63
+Arsenic in Drinking Water: 2001 Update	0.72	0.6599999999999999	0.64	0.5800000000000001	0.5800000000000001	0.6599999999999999	0.61	0.64	0.64	0.69	0.6599999999999999	0.5800000000000001
+Definitions of “inactive” and “abandoned” coal waste impoundments	0.0	0.62	0.64	0.5900000000000001	0.0	0.5700000000000001	0.0	0.65	0.6699999999999999	0.6599999999999999	0.62	0.0
+2007 Economic Census	0.7	0.7	0.7	0.65	0.55	0.6	0.55	0.6	0.7	0.65	0.65	0.65
+EIA-767	0.86	0.86	0.86	0.72	0.72	0.86	0.72	1.0	1.0	0.72	1.0	0.72
+EIA-860 	0.75	0.75	0.75	0.63	0.63	0.88	0.63	0.75	0.75	0.88	0.88	0.63
+EIA-923	0.86	0.86	0.86	0.72	0.72	0.86	0.72	1.0	1.0	0.86	1.0	0.72
+Electric Power Monthly 	0.6599999999999999	0.6599999999999999	0.6599999999999999	0.48	0.53	0.5700000000000001	0.5700000000000001	0.5700000000000001	0.5700000000000001	0.6599999999999999	0.48	0.53
+Engineering-News Record Construction Cost Index	0.69	0.6	0.64	0.6	0.62	0.5800000000000001	0.64	0.5800000000000001	0.62	0.6599999999999999	0.64	0.6
+RCRA	0.75	1.0	1.0	0.5	0.0	0.75	0.75	1.0	1.0	1.0	1.0	0.25
+RCRA Biennial Hazardous Waste Reports	0.63	0.65	0.65	0.6	0.5700000000000001	0.63	0.63	0.65	0.65	0.6799999999999999	0.65	0.6
+RCRA National Analysis Biennial Hazardous Waste Report	0.62	0.6699999999999999	0.6699999999999999	0.62	0.5800000000000001	0.6	0.6	0.6699999999999999	0.65	0.69	0.63	0.5800000000000001
+US Geological Survey, 2006, “Quarternary Fault and Fold Database for the United States”	0.0	0.63	0.5900000000000001	0.5900000000000001	0.0	0.6699999999999999	0.0	0.63	0.61	0.6799999999999999	0.63	0.0
+“Steam Electric Power Generating Point Source Category: 2007/2008 Detailed Study Report	0.0	0.6799999999999999	0.65	0.6	0.0	0.65	0.0	0.62	0.62	0.69	0.63	0.0
+2008 3rd quarter estimate of 2008 US GDP	0.6799999999999999	0.6799999999999999	0.6799999999999999	0.63	0.63	0.6799999999999999	0.63	0.6799999999999999	0.6799999999999999	0.65	0.63	0.63
+2020 Corrective Action Universe	0.65	0.65	0.65	0.52	0.5900000000000001	0.5900000000000001	0.62	0.55	0.55	0.6799999999999999	0.62	0.5900000000000001
+Analysis of Non-Utility Coal Combustion Waste Generation and Management Based on the 2001 CIBO Voluntary Survey	0.63	0.64	0.61	0.61	0.5900000000000001	0.64	0.61	0.62	0.62	0.65	0.5900000000000001	0.5900000000000001
+Annual Energy Outlook 2010 Early Release	0.7	0.7	0.7	0.65	0.6	0.65	0.63	0.6799999999999999	0.65	0.6799999999999999	0.6	0.6799999999999999
+Approaches to Assessing the Benefits, Costs, and Impacts of the RCRA Subtitle C Program	0.63	0.6599999999999999	0.62	0.6	0.56	0.64	0.5800000000000001	0.62	0.6599999999999999	0.65	0.6599999999999999	0.6
+Arsenic in Drinking Water: 2001 Update	0.72	0.6599999999999999	0.64	0.5800000000000001	0.5800000000000001	0.6599999999999999	0.61	0.64	0.64	0.69	0.6599999999999999	0.5800000000000001
+azardous Waste: Progress Under the Corrective Action Program is Limited, But New Initiatives May Accelerate Cleanups	0.65	0.65	0.62	0.5800000000000001	0.5900000000000001	0.63	0.63	0.6	0.62	0.65	0.62	0.63
+Characterization of Coal Combustion Residues from Electric Utilities – Leaching and Characterization Data	0.0	0.65	0.64	0.5900000000000001	0.0	0.64	0.0	0.6	0.61	0.65	0.5800000000000001	0.0
+Characterization of Coal Combustion Residues from Electric Utilities Using Wet Scrubbers for Multi-pollutant Control	0.65	0.65	0.64	0.6	0.56	0.5900000000000001	0.64	0.6	0.61	0.63	0.5800000000000001	0.5700000000000001
+Characterization of Mercury-Enriched Coal Combustion Residues from Electric Utilities Using Enhanced Sorbents for Mercury Control	0.63	0.64	0.64	0.61	0.56	0.5900000000000001	0.64	0.6	0.62	0.65	0.5700000000000001	0.5900000000000001
+Coal Combustion Residuals 	0.7	0.62	0.62	0.62	0.62	0.5800000000000001	0.54	0.6599999999999999	0.62	0.5800000000000001	0.5800000000000001	0.5
+Coal Combustion Waste Management at Landfills and Surface Impoundments 1994-2004	0.65	0.65	0.6	0.63	0.6	0.63	0.6	0.65	0.61	0.65	0.6	0.62
+Cost Analyses for Selected Groundwater Cleanup Projects: Pump and Treat Systems and Permeable Reactive Barriers	0.6699999999999999	0.62	0.5800000000000001	0.5900000000000001	0.5800000000000001	0.5800000000000001	0.6	0.62	0.61	0.6599999999999999	0.61	0.61
+Current Population Survey (CPS) - Definitions and Explanations	0.71	0.6699999999999999	0.6699999999999999	0.5700000000000001	0.5900000000000001	0.62	0.63	0.6699999999999999	0.6799999999999999	0.6799999999999999	0.65	0.62
+Demand Responsiveness in Electricity Markets	0.64	0.63	0.62	0.5	0.43999999999999995	0.62	0.5700000000000001	0.62	0.5700000000000001	0.69	0.48	0.55
+Energy & Water: Emerging Issues and Trands	0.65	0.62	0.62	0.62	0.6	0.65	0.6	0.6699999999999999	0.7	0.72	0.62	0.6
+EPA’s Action Development Process: Final Guidance for EPA Rulewriters: Regulatory Flexibility Act	0.0	0.65	0.6799999999999999	0.61	0.0	0.62	0.0	0.65	0.64	0.65	0.6599999999999999	0.0
+EPA’s Action Development Process: Final Guidance for EPA Rulewriters: Regulatory Flexibility Act as amended by the Small Business Regulatory Enforcement Fairness Act	0.0	0.64	0.62	0.6	0.0	0.5900000000000001	0.0	0.56	0.64	0.6599999999999999	0.6	0.0
+Estimation of Costs for Regulating Fossil Fuel Combustion Ash Management at Large Electric Utilities Under Part 258	0.65	0.62	0.61	0.5700000000000001	0.5800000000000001	0.62	0.62	0.62	0.64	0.65	0.56	0.61
+Estimation of the Marginal Greenhouse Gas Abatement Curve for the Beneficial Use of Fly Ash as a Substitute for Portland Cement in Ready-Mix Concrete Production	0.5700000000000001	0.6699999999999999	0.62	0.5800000000000001	0.54	0.5900000000000001	0.5900000000000001	0.63	0.5800000000000001	0.63	0.61	0.61
+"Form EIA-860 ""Annual Electric Generator Report"" ""Existing Electric Generating Units in the United States, 2005"""	0.63	0.64	0.65	0.6	0.6	0.63	0.63	0.5800000000000001	0.62	0.6599999999999999	0.61	0.63
+GDP Calculator	0.72	0.65	0.65	0.5800000000000001	0.5	0.65	0.65	0.72	0.65	0.65	0.65	0.5800000000000001
+Guidelines and Discount Rates for Benefit-Cost Analysis of Federal Programs	0.61	0.64	0.64	0.5900000000000001	0.56	0.5800000000000001	0.56	0.63	0.6699999999999999	0.63	0.63	0.5900000000000001
+Human and Ecological Risk Assessment of Coal Combustion Wastes	0.63	0.6599999999999999	0.65	0.62	0.55	0.5900000000000001	0.6	0.65	0.61	0.6599999999999999	0.5900000000000001	0.6
+Industrial Production &Capacity Utilization	0.77	0.61	0.6	0.5900000000000001	0.52	0.63	0.6599999999999999	0.63	0.6599999999999999	0.6599999999999999	0.63	0.61
+Introduction to the Hazard Ranking System	0.71	0.5900000000000001	0.5900000000000001	0.5700000000000001	0.5900000000000001	0.6599999999999999	0.5900000000000001	0.64	0.61	0.64	0.61	0.5700000000000001
+NAICS = North American Industrial Classification System	0.71	0.6599999999999999	0.62	0.55	0.5900000000000001	0.64	0.64	0.65	0.6599999999999999	0.6799999999999999	0.64	0.5900000000000001
+National Seismic Hazard Maps	0.6799999999999999	0.65	0.65	0.5	0.5800000000000001	0.61	0.6799999999999999	0.6799999999999999	0.65	0.61	0.61	0.65
+OMB Circular A-4	0.69	0.69	0.69	0.69	0.63	0.69	0.69	0.69	0.69	0.75	0.69	0.63
+Plant managers conference slide presentation	0.62	0.55	0.53	0.53	0.55	0.55	0.5700000000000001	0.62	0.6	0.64	0.6	0.55
+Report to Congress: Study on Increasing the Usage of Recovered Mineral Components in Federal Funded Projects Involving Procurement of Cement or Concrete to Address the Safe, Accountable, Flexible, Efficient Transportation, Equity Act: A Legacy for Uses by the EPA, the Department of Transportation (DOT) and the Department of Energy (DOE)	0.62	0.62	0.6	0.5900000000000001	0.6	0.56	0.61	0.6	0.5900000000000001	0.6599999999999999	0.5800000000000001	0.6
+Section 4.B(3) of OMB’s 31 March 1995 guidance for implementing the UMRA	0.0	0.73	0.72	0.63	0.0	0.6599999999999999	0.0	0.69	0.72	0.72	0.6599999999999999	0.0
+Shaping Our Environmental Future: Foresight in the Office of Research & Development	0.6	0.65	0.65	0.6	0.54	0.6	0.5800000000000001	0.63	0.61	0.6599999999999999	0.6599999999999999	0.5800000000000001
+special wastes	0.65	0.65	0.65	0.5	0.5	0.5	0.5	0.5	0.5	0.5800000000000001	0.65	0.5
+Status of State Electric Industry Restructuring Activity as of February 2003	0.71	0.6799999999999999	0.6	0.61	0.5700000000000001	0.65	0.64	0.6	0.64	0.69	0.55	0.62
+Supporting Statement” for Information Collection Request (ICR) 1219-0015 “Refuse Piles and impoundment Structures, Recordkeeping and Reporting Requirements	0.0	0.65	0.64	0.63	0.0	0.6	0.0	0.56	0.61	0.69	0.65	0.0
+Table 2.3. Existing Capacity by Producer Type, 2007	0.69	0.69	0.71	0.63	0.65	0.6699999999999999	0.65	0.6699999999999999	0.6699999999999999	0.75	0.65	0.65
+TVA Coal Combustion Products Remediation Plan Proposed	0.73	0.6699999999999999	0.65	0.62	0.6	0.62	0.63	0.6699999999999999	0.62	0.65	0.62	0.5800000000000001
+Unit Cost Compendium	0.7	0.6	0.55	0.6	0.55	0.4	0.55	0.55	0.6	0.7	0.55	0.6
+US Census Bureau ZIP Code Tabulation Area (ZCTA) Frequently Asked Questions	0.6699999999999999	0.6599999999999999	0.65	0.62	0.5900000000000001	0.6599999999999999	0.64	0.62	0.64	0.69	0.6599999999999999	0.62
+User’s Manual for the Subtitle D Municipal Landfill Cost Model	0.0	0.6799999999999999	0.6699999999999999	0.55	0.0	0.62	0.0	0.63	0.63	0.63	0.64	0.0
+Waste and Materials-Flow Benchmark Sector Report: Beneficial Use of Secondary Materials – Coal Combustion Products	0.0	0.6699999999999999	0.62	0.5800000000000001	0.0	0.5900000000000001	0.0	0.6	0.64	0.63	0.61	0.0
+Wastes from the Combustion of Coal by Electric Utility Power Plants	0.6699999999999999	0.6699999999999999	0.6599999999999999	0.48	0.56	0.63	0.6	0.63	0.6599999999999999	0.6799999999999999	0.51	0.5700000000000001
+1992 OMB Circular A-94	0.78	0.73	0.73	0.73	0.64	0.73	0.64	0.69	0.69	0.78	0.73	0.73
+Corrective Measures Study Scope of Work	0.65	0.65	0.5900000000000001	0.5700000000000001	0.54	0.5900000000000001	0.62	0.6699999999999999	0.65	0.65	0.62	0.5700000000000001
+Economic Analysis of Wet Versus Dry Ash Disposal Systems: Interagency Energy/Environment R&D Program Report	0.65	0.7	0.7	0.62	0.63	0.63	0.64	0.62	0.64	0.63	0.6599999999999999	0.63
+Engineering aspects of karst	0.6799999999999999	0.5800000000000001	0.5800000000000001	0.61	0.5800000000000001	0.54	0.61	0.5800000000000001	0.5800000000000001	0.65	0.54	0.5
+EPA’s Action Development Process -- Guidance on Executive Order 13132: Federalism	0.0	0.6799999999999999	0.71	0.5900000000000001	0.0	0.63	0.0	0.65	0.6599999999999999	0.6799999999999999	0.64	0.0
+Memoranda 01-27 (Guidance for Implementing E.O. 13211)	0.76	0.73	0.71	0.65	0.5	0.6699999999999999	0.41000000000000003	0.72	0.72	0.74	0.69	0.6699999999999999
+Proposed Rulemaking to Establish Light-Duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards	0.63	0.61	0.62	0.6	0.62	0.63	0.62	0.62	0.61	0.65	0.62	0.62
+The PUC Ratemaking Process and the Role of Consumers	0.6	0.62	0.6	0.5800000000000001	0.52	0.62	0.6	0.64	0.64	0.64	0.62	0.52
+Lisa Jackson’s 14 January 2009 Senate confirmation hearing testimony	0.0	0.65	0.65	0.5900000000000001	0.0	0.64	0.0	0.62	0.64	0.69	0.61	0.0
+Power Price Volatility and Risk Management: An Introduction	0.73	0.63	0.6699999999999999	0.62	0.56	0.62	0.62	0.62	0.6699999999999999	0.7	0.62	0.56
+TVA Estimates clean-up cost at between $525m-$825m	0.6799999999999999	0.6	0.5800000000000001	0.6	0.64	0.62	0.6	0.6599999999999999	0.7	0.6799999999999999	0.62	0.64
+Wastes from TVA Spill Begins to Arrive at Alabama Landfill amid Controversy	0.6699999999999999	0.65	0.64	0.6	0.5800000000000001	0.64	0.63	0.63	0.64	0.63	0.63	0.5900000000000001
+Clash in Alabama Over Tennessee Coal Ash	0.0	0.6799999999999999	0.63	0.63	0.6	0.6	0.6	0.7	0.6799999999999999	0.6799999999999999	0.65	0.6
+“EPA Vows to Act on Coal Waste	0.0	0.6	0.6	0.6	0.0	0.64	0.0	0.6	0.6	0.6	0.5700000000000001	0.0
+2007 Coal Combustion Product (CCP) Production & Use Survey Results (Revised)	0.71	0.7	0.7	0.64	0.61	0.6599999999999999	0.6599999999999999	0.63	0.61	0.6599999999999999	0.6599999999999999	0.64
+A Novel Approach to the handling and disposal of coal combustion products	0.7	0.62	0.63	0.5800000000000001	0.5900000000000001	0.61	0.62	0.62	0.61	0.6	0.62	0.55
+ACAA webpage containing Frequently Asked Question	0.6599999999999999	0.62	0.64	0.56	0.6	0.62	0.62	0.62	0.61	0.74	0.62	0.56
+ACAA’s 2005 beneficial use data	0.0	0.71	0.6799999999999999	0.62	0.0	0.65	0.0	0.65	0.65	0.71	0.65	0.0
+ACAA’s annual CCR tonnage data	0.0	0.6699999999999999	0.64	0.6	0.0	0.6	0.0	0.74	0.7	0.64	0.64	0.0
+Annual CCR Disposition for NAICS 22 Electric Utility Plants >100 MW Capacity (tons per year as of 2005)	0.6799999999999999	0.6699999999999999	0.65	0.5900000000000001	0.5800000000000001	0.6599999999999999	0.61	0.62	0.64	0.6799999999999999	0.62	0.61
+ASTM D5396 - 04 Standard Specification for Reclaimed Perchloroethylene	0.73	0.65	0.64	0.62	0.63	0.6599999999999999	0.65	0.63	0.6599999999999999	0.71	0.65	0.63
+ASTM Volume 15.05, Engine Coolants, Halogenated Organic Solvents and Fire Extinguishing Agents; Industrial and Specialty Chemicals	0.6699999999999999	0.62	0.61	0.63	0.5900000000000001	0.6	0.63	0.63	0.61	0.63	0.62	0.62
+avoided disposal cost incentive	0.65	0.55	0.62	0.55	0.55	0.52	0.52	0.5900000000000001	0.5900000000000001	0.62	0.52	0.55
+Better, Safer Ways to Handle Coal Slurry Do Exist	0.6599999999999999	0.62	0.5800000000000001	0.5800000000000001	0.6	0.64	0.64	0.62	0.6599999999999999	0.62	0.64	0.62
+Biographical Directory of the US Congress	0.69	0.64	0.64	0.5700000000000001	0.52	0.61	0.5900000000000001	0.5700000000000001	0.5700000000000001	0.6599999999999999	0.61	0.5900000000000001
+CalStar Gives Sneak Peek of Low-Carbon Brick Factory	0.6599999999999999	0.62	0.64	0.62	0.64	0.6599999999999999	0.6599999999999999	0.6799999999999999	0.64	0.7	0.6	0.6
+Coal Combustion Products -- Production & Use Statistics	0.75	0.64	0.64	0.5700000000000001	0.6	0.64	0.64	0.63	0.5900000000000001	0.5900000000000001	0.62	0.62
+Electric Utility Regulation	0.75	0.6699999999999999	0.63	0.26	0.49	0.63	0.56	0.6	0.63	0.6699999999999999	0.38	0.6
+Hazardous Waste Industry Review 2008-2009	0.74	0.69	0.69	0.64	0.64	0.69	0.69	0.74	0.76	0.74	0.71	0.6599999999999999
+Historical CCR beneficial use data for 1966-2008	0.6699999999999999	0.69	0.6699999999999999	0.63	0.5	0.6699999999999999	0.5900000000000001	0.69	0.65	0.65	0.63	0.65
+May 2004 Incinerator and Landfill Cost Data	0.6799999999999999	0.61	0.61	0.63	0.5900000000000001	0.63	0.6599999999999999	0.61	0.61	0.6799999999999999	0.6599999999999999	0.63
+Part 2 CCT Overview Environmental Protection Technologies (Technologies to Effectively Use Coal Ash):5C1. Coal Ash Generation Process and Application Fields	0.62	0.65	0.65	0.61	0.5800000000000001	0.5700000000000001	0.63	0.5800000000000001	0.5800000000000001	0.61	0.62	0.63
+Recent Examples of Rate Increases in Vertically Integrated States	0.6799999999999999	0.62	0.6	0.54	0.56	0.5700000000000001	0.5900000000000001	0.5900000000000001	0.62	0.65	0.54	0.5700000000000001
+Recommended Practice	0.7	0.65	0.65	0.55	0.6	0.55	0.6	0.65	0.6	0.65	0.55	0.55
+State RCRA Subtitle C Core Hazardous Waste Management Program Implementation Costs Final Report	0.6699999999999999	0.62	0.5800000000000001	0.6	0.53	0.64	0.5700000000000001	0.62	0.5800000000000001	0.6599999999999999	0.6	0.5900000000000001
+Status of Coal Ash Production	0.5900000000000001	0.6599999999999999	0.63	0.5900000000000001	0.5900000000000001	0.5900000000000001	0.63	0.69	0.6599999999999999	0.63	0.56	0.63
+nan	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.33999999999999997	0.6699999999999999	0.6699999999999999	0.6699999999999999	0.33999999999999997	0.6699999999999999
+nan	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.33999999999999997	0.6699999999999999	0.6699999999999999	0.6699999999999999	0.33999999999999997	0.6699999999999999
+nan	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.33999999999999997	0.6699999999999999	0.6699999999999999	0.6699999999999999	0.33999999999999997	0.6699999999999999
+"(slide number TVA-00007496) of “Kingston Fossil Plant Decision Matrix: Pond or Peninsula?"""	0.0	0.6699999999999999	0.6699999999999999	0.62	0.0	0.65	0.0	0.62	0.64	0.69	0.6799999999999999	0.0
+2007 Directory of US Commercial Hazardous Waste Management Facilities	0.71	0.6799999999999999	0.69	0.5800000000000001	0.56	0.61	0.56	0.62	0.69	0.69	0.5800000000000001	0.6
+Dry Fish Ash Systerm Conversion for an Existing 480MW Power Plant, Justification, Design and Construction	0.65	0.6699999999999999	0.65	0.62	0.5800000000000001	0.6599999999999999	0.64	0.63	0.6599999999999999	0.69	0.65	0.6
+Kingston Fossil Plant Decision Matrix: Pond or Peninsula?	0.71	0.62	0.62	0.5700000000000001	0.6	0.62	0.64	0.62	0.65	0.6699999999999999	0.64	0.6
+Production and Utilisation of CCPs in 2007 in Europe (EU 15)	0.75	0.69	0.69	0.62	0.5900000000000001	0.64	0.65	0.65	0.7	0.7	0.7	0.65
+Public Health Issues Surrounding Coal as an Energy Source	0.62	0.6699999999999999	0.6699999999999999	0.64	0.6	0.64	0.64	0.6699999999999999	0.69	0.65	0.62	0.62
+Toxic Wastes and Race at Twenty 1987-2007	0.74	0.69	0.64	0.64	0.61	0.64	0.61	0.69	0.6799999999999999	0.6599999999999999	0.6599999999999999	0.64
+Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use	0.6799999999999999	0.6699999999999999	0.6699999999999999	0.6	0.5800000000000001	0.65	0.65	0.65	0.64	0.69	0.64	0.61
+Executive Order 12866	0.77	0.72	0.72	0.53	0.6699999999999999	0.6699999999999999	0.62	0.6699999999999999	0.6699999999999999	0.72	0.72	0.6699999999999999
+Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations	0.65	0.64	0.62	0.5700000000000001	0.5700000000000001	0.6	0.62	0.63	0.62	0.63	0.62	0.5800000000000001
+Overview of Life-Cycle Stages and Costs Considered by Software Systems and Tools	0.6699999999999999	0.65	0.62	0.62	0.5900000000000001	0.63	0.5900000000000001	0.63	0.62	0.63	0.64	0.62
+Text of the 14 January 2009 H.R. 493 bill	0.71	0.74	0.74	0.6599999999999999	0.6599999999999999	0.71	0.5900000000000001	0.74	0.71	0.71	0.71	0.64
+TVA Widow’s Creek Clean Up Info	0.0	0.6799999999999999	0.62	0.62	0.0	0.62	0.0	0.71	0.71	0.71	0.6799999999999999	0.0
+US Dept of Energy (DOE), Energy Information Administration (EIA) website	0.71	0.6799999999999999	0.6699999999999999	0.63	0.6	0.6699999999999999	0.63	0.65	0.6599999999999999	0.72	0.6699999999999999	0.62
+US Senate Resolution 64	0.6599999999999999	0.6599999999999999	0.61	0.61	0.53	0.61	0.61	0.61	0.61	0.61	0.5700000000000001	0.61
+RCRA Practice Manual	0.7	0.6	0.55	0.55	0.5	0.65	0.55	0.7	0.7	0.65	0.5	0.55
+2009 Hazardous Waste Report	0.6699999999999999	0.6699999999999999	0.6699999999999999	0.63	0.6	0.63	0.71	0.63	0.6699999999999999	0.6699999999999999	0.6	0.63
+CKD proposed rule	0.71	0.5900000000000001	0.5900000000000001	0.48	0.5900000000000001	0.5900000000000001	0.65	0.65	0.65	0.65	0.65	0.5900000000000001
+EPA ICR 0959.13, Federal Register, Vol.73, No.103, page 30617	0.71	0.74	0.76	0.6799999999999999	0.6599999999999999	0.74	0.6799999999999999	0.75	0.78	0.73	0.74	0.64
+Federal Register, Vol. 43, No. 243	0.62	0.71	0.6799999999999999	0.62	0.62	0.6799999999999999	0.5	0.6799999999999999	0.6799999999999999	0.6799999999999999	0.6799999999999999	0.65
+Federal Register, Vol.64, No.161, 20 Aug 1999, pp.45632-45697.	0.76	0.81	0.78	0.7	0.7	0.76	0.71	0.76	0.77	0.73	0.75	0.75
+General Hazardous Waste Facility Standards	0.7	0.62	0.6	0.5800000000000001	0.53	0.65	0.62	0.6699999999999999	0.6699999999999999	0.65	0.5800000000000001	0.6
+Notification of Episodic Releases of Oil and Hazardous Substances (Renewal)	0.7	0.65	0.65	0.62	0.6	0.63	0.63	0.63	0.6599999999999999	0.6599999999999999	0.63	0.6
+Notification of Regulated Waste Activity (Renewal)	0.7	0.62	0.6	0.56	0.5800000000000001	0.62	0.62	0.6799999999999999	0.6599999999999999	0.64	0.5800000000000001	0.62
+Part B Permit Application	0.6799999999999999	0.6	0.6	0.56	0.43999999999999995	0.6	0.6	0.56	0.6	0.72	0.56	0.6
+RCRA Hazardous Waste Permit Application and Modification part A	0.73	0.65	0.62	0.56	0.56	0.64	0.62	0.6	0.65	0.69	0.62	0.5900000000000001
+RCRA Hazardous Waste Permit Application and Modification Part A	0.73	0.65	0.62	0.56	0.56	0.64	0.62	0.6	0.65	0.69	0.62	0.5900000000000001
+Small Electric Motors Final Rule Technical Support Document: Chapter 16 	0.6799999999999999	0.7	0.7	0.62	0.5700000000000001	0.62	0.6	0.63	0.6599999999999999	0.63	0.5900000000000001	0.6
+A Reference Lottery Metric for Valuing Health	0.63	0.65	0.65	0.6	0.49	0.6	0.56	0.65	0.6699999999999999	0.65	0.56	0.56
+Oxidation State of Arsenic in Coal Ash Leachate	0.54	0.6	0.5800000000000001	0.5800000000000001	0.56	0.6	0.6	0.64	0.64	0.62	0.6	0.54
+Procedures for Calculating Cessation Lag	0.7	0.63	0.63	0.53	0.44999999999999996	0.6	0.6	0.6	0.63	0.63	0.63	0.5800000000000001
+The Influence of Location, Source, and Emission Type in Estimates of the Human Health Benefits of Reducing a Ton of Air Pollution	0.65	0.64	0.62	0.5900000000000001	0.5700000000000001	0.6	0.5800000000000001	0.56	0.5800000000000001	0.6	0.6	0.5900000000000001

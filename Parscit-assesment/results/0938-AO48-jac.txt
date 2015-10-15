@@ -1,0 +1,9 @@
+	A State may provide benchmark or benchmark-equivalent coverage through (Catalog of Federal Domestic Assistance Program	This document was received at the Office of the Federal Register on
+President's Budget 	0.6666666666666667	0.6153846153846154
+Deficit Reduction Act	0.625	0.56
+OMB Circular A-4	0.7142857142857143	0.7241379310344828
+Regulatory Flexibility Act of 1980	0.5675675675675675	0.5483870967741935
+Regulatory Planing and Review	0.5454545454545454	0.4
+Section 1102(b) of Social Security Act	0.5142857142857142	0.625
+Section 6044	0.7647058823529411	0.7407407407407407
+Unfunded Mandates Reform Act of 1995	0.6216216216216216	0.5172413793103448

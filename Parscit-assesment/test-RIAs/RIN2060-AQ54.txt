@@ -2200,9 +2200,7 @@ correlation between HP/WT, weight and CO2 emissions (R2=0.78, Table 2-1) after a
 for technology adjustments.p   
     
 Equation 2-1 – Relationship between vehicle attributes and emissions or fuel consumption 
-CO2i or GPMi  β
-/ HorsepowerWeight   β 
-Weight   C 
+CO2i or GPMi  β/ HorsepowerWeight   β Weight   C 
  
 Where: 
 HP/Weight= the rated horsepower of the vehicle divided by the curb weight 
@@ -2214,10 +2212,8 @@ Table 2-1 – Physical Regression Coefficients against Technology Adjusted CO2*
  Cars Light Trucks 
 R2 0.78 0.78 
 F-test p <0.01 <0.01 
-β
-/  1.09*103 1.13*103 
-β 
-  3.29*10-2 3.45*10-2 
+β/  1.09*103 1.13*103 
+β   3.29*10-2 3.45*10-2 
 C -3.29 2.73 
 *In this gasoline only fleet, these coefficients can be divided by 8887 (the amount of 
 CO2 produced by the combustion of a gallon of the fuel used to certify the fuel 
@@ -2363,11 +2359,9 @@ still functions of footprint alone.  No adjustment would be used in the complian
 The basis for the gallon-per-mile (GPM) adjustments is the sales-weighted linear 
 regression discussed in 2.4 (Equation 2-1, Table 2-1).  The coefficients to this equation give 
 the impact of the various car attributes on CO2 emissions and fuel consumption in the 
-agencies’ MY 2008-based market forecast.  For example, β 
- gives the impact of weight 
+agencies’ MY 2008-based market forecast.  For example, β  gives the impact of weight 
 while holding the ratio horsepower to weight constant.  Importantly, this means that as weight 
-changes, horsepower must change as well to keep the power/weight ratio constant.  Similarly, β
-/ gives the CO2 impact of changing the performance of the vehicle while keeping the 
+changes, horsepower must change as well to keep the power/weight ratio constant.  Similarly, β/ gives the CO2 impact of changing the performance of the vehicle while keeping the 
 weight constant.  These coefficients were used to perform an adjustment of the gallons per 
 mile measure for each vehicle to the respective car or truck—i.e., in the case of a HP/WT 
 adjustment, to deflate or inflate the fuel consumption of each vehicle model based on the 
@@ -2393,8 +2387,7 @@ What are the Attribute-Based Curves the Agencies are Proposing
  
 Equation 2-2 WT/FP adjustment 
 Weight per Footprint Adjusted GPM or CO2i  GPM ' (Weight ' WeıghtFootprınt
-************ + Footprint, + β 
- 
+************ + Footprint, + β  
 The term in parentheses represents the vehicle’s deviation from an “expected weight.” 
 That is, multiplying the average weight per footprint for a group of vehicles (cars or trucks) 
 by a specific vehicle’s footprint gives an estimate of the weight of that specific vehicle if it’s 

@@ -1,0 +1,14 @@
+	NO PARSCIT CITATIONS
+Health Facts	0.9473684210526316
+OMB Circular A-4	0.8
+Proposed Rule	0.8333333333333334
+Small Business Administration's regulation	0.88
+CPT Codes and Descriptions	0.8181818181818181
+Discussion Points on E-Fax Ruling Exceptions	0.8888888888888888
+Congressional Review Act	0.8260869565217391
+Federalism	1.0
+Regulatory Flexibility Act of 1980	0.896551724137931
+Regulatory Planning and Review 	0.875
+Section 1102(b)	0.9090909090909091
+Section 202: Unfunded Mandates Reform Act of 1995	0.8709677419354839
+Section 5102: Deficit Reduction Act of 2005	0.84

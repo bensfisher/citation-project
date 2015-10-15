@@ -1,0 +1,57 @@
+	The Behavioral Economics of Retirement Savings Behavior, AARP Public Policy Institute White Paper	The Effects of Expenses on Mutual Fund Flows,	Number: 1210–NEW. Affected Public: Business or other forprofit. Estimated Number of Respondents: 16,000. Estimated Number of Annual Responses: 20,656,000. Frequency of Response: Initially, Annually, Upon Request, when a material change. Estimated Total Annual Burden Hours: 8,398,000 hours in the first year; 5,776,000 hours in each subsequent year. Estimated Total Annual Burden Cost: $642,541,000 for the first year; $493,242,000 for each subsequent year.	List of Subjects in 29 CFR Part 2550 Employee benefit plans, Exemptions, Fiduciaries, Investments, Pensions, Prohibited transactions, Reporting and recordkeeping requirements, and 1. The authority citation for part 2550 is revised to read as follows:	Sec. 2550.401b–1 also issued under sec. 102, Reorganization Plan No.	Sec. 2550.401c–1 also issued under 29 U.S.C. 1101. Sec. 2550.404c–1 also issued under 29 U.S.C. 1104. Sec. 2550.407c–3 also issued under 29 U.S.C. 1107. Sec. 2550.404a–2 also issued under 26 U.S.C. 401 note (sec. 657, Pub. L. 107–16, 115 Stat. 38). Sec. 2550.408b–1 also issued under 29 U.S.C. 1108(b)(1) and sec. 102, Reorganization Plan No. 4 of 1978, 3 CFR, 1978 Comp. p. 332, effective Dec. 31, 1978, 44 FR	Add § 2550.408g–1 to read as follows:	Section 408(g)(1) of the Employee Retirement Income Security Advice Exemption Notification— Statutory, U.S. Department of Labor, Employee Benefits Security Administration, Room N–1513, 200 Constitution Ave.,	For purposes of paragraph (j)(6)(i) Signed at Washington, DC, this 15th day of August,
+Recent Changes in U.S. Family Finances: Evidence from the 2001 and 2004 Survey of Consumer Finances	0.6599999999999999	0.65	0.5900000000000001	0.61	0.6699999999999999	0.65	0.63	0.63	0.6699999999999999
+Investor and Industry Perspectives on Investment Advisers and Broker-Dealers	0.64	0.5800000000000001	0.62	0.54	0.65	0.7	0.73	0.64	0.7
+Quantitative Analysis of Investor Behavior 2007	0.54	0.69	0.6	0.6	0.6599999999999999	0.6599999999999999	0.76	0.64	0.69
+The Behavioral Economics of Retirement Savings Behavior	0.0	0.63	0.62	0.55	0.6799999999999999	0.73	0.73	0.55	0.6599999999999999
+2007 Retirement Confidence Survey	0.52	0.6699999999999999	0.5800000000000001	0.5800000000000001	0.64	0.64	0.73	0.4	0.7
+50th Annual Survey of Profit Sharing and 401(k) Plans 	0.63	0.6699999999999999	0.6	0.62	0.62	0.6699999999999999	0.71	0.63	0.6699999999999999
+An Analysis of Investment Advice to Retirement Plan Participants	0.54	0.6699999999999999	0.5800000000000001	0.55	0.61	0.6799999999999999	0.71	0.5700000000000001	0.69
+Annual 401(k) Benchmarking Survey 2005/2006 Edition	0.73	0.78	0.61	0.65	0.63	0.65	0.73	0.65	0.71
+Are Mutual Fund Fees Competitive? What IQ-Related Behavior Tells Us	0.5900000000000001	0.65	0.62	0.63	0.6799999999999999	0.71	0.6799999999999999	0.65	0.6799999999999999
+Asset Location for Retirement Savers, in Public Policies and Private Pensions	0.42000000000000004	0.63	0.62	0.54	0.6799999999999999	0.6799999999999999	0.71	0.56	0.6799999999999999
+Company Stock and Pension Plan Diversification, in The Pension Challenge: Risk Transfers and Retirement Income Security	0.65	0.5800000000000001	0.62	0.55	0.6699999999999999	0.69	0.73	0.5900000000000001	0.6699999999999999
+Fees and Revenue Sharing in Defined Contribution Retirement Plans	0.6	0.65	0.62	0.53	0.65	0.6799999999999999	0.73	0.5700000000000001	0.6
+Financial Advice and Individual Investors' Portfolios	0.6699999999999999	0.6699999999999999	0.61	0.5900000000000001	0.65	0.72	0.64	0.61	0.6799999999999999
+Financial Literacy and Mutual Fund Investments: Who Buys Actively Managed Funds?	0.65	0.5800000000000001	0.62	0.5900000000000001	0.6799999999999999	0.69	0.73	0.64	0.7
+Financial Planning: On the Issue of Advice	0.62	0.74	0.6	0.65	0.7	0.65	0.76	0.65	0.6
+High-Quality Financial Advice Wanted!	0.65	0.76	0.6	0.65	0.73	0.73	0.8200000000000001	0.63	0.65
+How to Invest Over the Life Cycle: a Review	0.63	0.6799999999999999	0.61	0.63	0.6599999999999999	0.6799999999999999	0.73	0.63	0.6799999999999999
+Intermediated Investment Management	0.5800000000000001	0.69	0.55	0.45999999999999996	0.6599999999999999	0.72	0.78	0.55	0.6599999999999999
+Investment Advice Survey 2001	0.5900000000000001	0.73	0.6599999999999999	0.52	0.6599999999999999	0.63	0.73	0.49	0.69
+Investment Mistakes of Individual Investors and the Impact of Financial Advice	0.6699999999999999	0.63	0.5900000000000001	0.56	0.6699999999999999	0.6699999999999999	0.71	0.65	0.6699999999999999
+Investor Behavior in the Mutual Fund Industry: Evidence from Gross Flows	0.63	0.54	0.62	0.5900000000000001	0.6799999999999999	0.71	0.65	0.64	0.7
+Investor Profile and Asset Allocation Advice	0.62	0.69	0.62	0.53	0.5700000000000001	0.6599999999999999	0.65	0.6	0.69
+Investor Timing and Fund Distribution Channels	0.64	0.6599999999999999	0.61	0.55	0.5700000000000001	0.6599999999999999	0.76	0.5900000000000001	0.64
+Life-Cycle Funds	0.63	0.5700000000000001	0.63	0.63	0.5700000000000001	0.63	0.8200000000000001	0.69	0.75
+Non-Market Wealth, Background Risk and Portfolio Choice	0.64	0.6699999999999999	0.6599999999999999	0.62	0.6799999999999999	0.7	0.71	0.6599999999999999	0.6599999999999999
+Optimal Asset Location and Allocation with Taxable and Tax-Deferred Investing	0.64	0.6	0.62	0.62	0.7	0.6799999999999999	0.6799999999999999	0.63	0.6699999999999999
+Personalized Retirement Advice and Managed Accounts: Who Uses Them and How Does Advice Affect Behavior in 401(k) Plans?	0.62	0.56	0.64	0.61	0.65	0.7	0.6799999999999999	0.62	0.6799999999999999
+Portfolio Allocation Choices in Taxable and Tax-Deferred Accounts: An Empirical Analysis of Tax-Efficiency	0.65	0.65	0.64	0.64	0.6699999999999999	0.72	0.71	0.64	0.6799999999999999
+Portfolio Transactions Costs at U.S. Equity Mutual Funds	0.65	0.53	0.5900000000000001	0.5800000000000001	0.72	0.6699999999999999	0.76	0.61	0.65
+Regulating Markets for Retirement Payouts: Solvency, Supervision, and Credibility	0.5700000000000001	0.63	0.63	0.56	0.65	0.7	0.65	0.5700000000000001	0.71
+Survey Findings: Hot Topics in Retirement, 2007	0.56	0.69	0.62	0.56	0.69	0.69	0.76	0.54	0.6599999999999999
+The Economics of Mutual-Fund Brokerage: Evidence from the Cross Section of Investment Channels	0.5700000000000001	0.47	0.63	0.5800000000000001	0.6699999999999999	0.71	0.73	0.63	0.6699999999999999
+The Economics of Providing 401(k) Plans: Services, Fees and Expenses 2006	0.5700000000000001	0.63	0.6599999999999999	0.5900000000000001	0.7	0.6799999999999999	0.6799999999999999	0.65	0.69
+The Efficiency of Pension Plan Investment Menus: Investment Choices in Defined Contribution Pension Plans	0.5900000000000001	0.49	0.6	0.53	0.65	0.69	0.73	0.61	0.6799999999999999
+The NUA Benefit and Optimal Investment in Company Stock in 401(k) Accounts	0.63	0.6	0.61	0.53	0.7	0.6699999999999999	0.73	0.61	0.6699999999999999
+The Role of Brokers and Financial Advisors Behind Investment Into Load Funds	0.64	0.56	0.61	0.5700000000000001	0.6699999999999999	0.69	0.6799999999999999	0.62	0.64
+The Role of Company Stock in 401(k) Plans	0.5900000000000001	0.5900000000000001	0.6599999999999999	0.61	0.61	0.64	0.73	0.6599999999999999	0.61
+The Role of Company Stock in Defined Contribution Plans	0.6	0.5800000000000001	0.6599999999999999	0.62	0.6	0.6	0.73	0.6	0.5900000000000001
+Transfer Activity in 401(k) Plans	0.64	0.7	0.7	0.61	0.61	0.61	0.73	0.6699999999999999	0.64
+Why Do Mutual Fund Investors Use Professional Financial Advisers?	0.6699999999999999	0.6	0.6	0.6	0.63	0.6699999999999999	0.71	0.6699999999999999	0.73
+Winners and Losers: 401(k) Trading and Portfolio Performance	0.65	0.6699999999999999	0.62	0.5900000000000001	0.64	0.62	0.5700000000000001	0.6699999999999999	0.69
+Yet Another Puzzle? Relation Between Price and Performance in the Mutual Fund Industry	0.64	0.52	0.5700000000000001	0.5900000000000001	0.6799999999999999	0.69	0.71	0.6	0.6699999999999999
+Company Stock in Pension Plans: How Costly Is It?	0.5800000000000001	0.65	0.6599999999999999	0.62	0.64	0.62	0.6799999999999999	0.64	0.6799999999999999
+Asset Allocation and Asset Location: Household Evidence from the Survey of Consumer Finances	0.65	0.63	0.6	0.61	0.6699999999999999	0.6799999999999999	0.65	0.6	0.6699999999999999
+Assessing the Costs and Benefits of Brokers in the Mutual Fund Industry	0.64	0.43000000000000005	0.6	0.6	0.7	0.6799999999999999	0.65	0.62	0.6799999999999999
+Down or Out: Assessing the Welfare Costs of Household Investment Mistakes	0.62	0.5800000000000001	0.5800000000000001	0.61	0.71	0.7	0.65	0.64	0.6599999999999999
+Are Investors Rational? Choices Among Index Funds	0.6	0.6	0.64	0.5800000000000001	0.6599999999999999	0.72	0.71	0.64	0.6
+Asset Location in Tax-Deferred and Conventional Savings Accounts	0.6	0.65	0.61	0.6	0.6599999999999999	0.69	0.6799999999999999	0.65	0.65
+The Adequacy of Investment Choices Offered By 401(k) Plans	0.5900000000000001	0.6	0.64	0.56	0.71	0.6799999999999999	0.73	0.64	0.69
+Out of Sight, Out of Mind, The Effects of Expenses on Mutual Fund Flows	0.7	0.020000000000000018	0.61	0.61	0.6699999999999999	0.6699999999999999	0.6799999999999999	0.62	0.6799999999999999
+Individual Account Investment Options and Portfolio Choice: Behavioral Lessons from 401(k) Plans	0.61	0.65	0.64	0.5800000000000001	0.7	0.72	0.6799999999999999	0.64	0.7
+The Use and Abuse of Mutual Fund Expenses	0.64	0.42000000000000004	0.5900000000000001	0.64	0.64	0.6599999999999999	0.73	0.61	0.69
+Are Stocks Desirable in Tax-Deferred Accounts?	0.64	0.65	0.6599999999999999	0.64	0.7	0.72	0.73	0.64	0.6799999999999999
+Manager-Investor Conflicts in Mutual Funds	0.6	0.48	0.6	0.6	0.6699999999999999	0.72	0.79	0.6	0.65
+Why Does the Law of One Price Fail? An Experiment on Index Mutual Funds	0.64	0.43999999999999995	0.54	0.61	0.7	0.7	0.73	0.62	0.6699999999999999
+Product Differentiation, Search Costs, and Competition in the Mutual Fund Industry: A Case Study of S&P 500 Index Funds	0.65	0.47	0.62	0.5800000000000001	0.6799999999999999	0.6799999999999999	0.71	0.61	0.64

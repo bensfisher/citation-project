@@ -1,0 +1,36 @@
+	Expected Upfront and Ongoing Compliance Costs, Nationwide, Per Facility and Per Inmate Upfront Ongoing Prisons,	Justification Analysis This Part analyzes the cost justification of the proposed standards. First, we conduct a breakeven analysis to demonstrate that the costs of PREA compliance are justified by the anticipated benefits. Given that the proposed PREA standards are expected to cost the correctional community approximately $213 million in startup costs, and that the monetary benefit of a 1% reduction in the 62/ Comments of the Institute for Policy Integrity,	(9:45am)) Department of Justice NPRM for PREA Standards Page 60 of 65 Initial Regulatory Impact Analysis (Draft Dated January 24, 2011 (9:45am)) Department of Justice NPRM for PREA Standards Page 63 of 65 the Departmentâ€™s internal assessment, based on analyses conducted by Booz Allen, of the total projected upfront and ongoing costs of the Commissionâ€™s recommended standards, as compared to the Departmentâ€™s proposals:	Initial Regulatory Impact Analysis (Draft Dated
+Little Sympathy or Remedy for Inmates Who Are Raped	0.7837837837837838	0.9154013015184381	0.9071428571428571	0.7450980392156863
+Prison Madness: The Mental Health Crisis Behind Bars and What We Must Do About It	0.7747747747747747	0.8720173535791758	0.8785714285714286	0.7901234567901234
+Retaking Rationality: How Cost-Benefit Analysis can Beter Protect the Environment and our Health	0.7837837837837838	0.8481561822125814	0.830952380952381	0.7708333333333334
+The Female Fear: The Social Cost of Rape	0.8378378378378378	0.928416485900217	0.9285714285714286	0.7659574468085106
+2004 Survey of Local Jails	0.8828828828828829	0.9587852494577006	0.9523809523809523	0.8297872340425532
+2005 National Survey of State Court Prosecutors	0.8018018018018018	0.9219088937093276	0.9095238095238095	0.8936170212765957
+2008 Census of State and Local Law Enforcement Agencies	0.7747747747747747	0.911062906724512	0.9047619047619048	0.8363636363636363
+BJS Juv. NSYC 2008-09, at 1-2, 15-16	0.9099099099099099	0.9674620390455532	0.9571428571428572	0.8936170212765957
+Bulletin: HIV in Prisons	0.8378378378378378	0.9587852494577006	0.9547619047619048	0.8297872340425532
+Comments on PREA Standards	0.8378378378378378	0.9501084598698482	0.9428571428571428	0.851063829787234
+Cost of Sexual Violence in Minnesota	0.8108108108108109	0.9349240780911063	0.9261904761904762	0.7659574468085106
+Mortality in Local Jails 2000-2007, table 4	0.8378378378378378	0.9370932754880694	0.9333333333333333	0.851063829787234
+Prison Rape Elimination Action, Cost Impact Analysis	0.7657657657657657	0.913232104121475	0.9047619047619048	0.7692307692307693
+Prisoners in 2008, table 3	0.8738738738738738	0.9544468546637744	0.9523809523809523	0.851063829787234
+Reentry Trends in the United States	0.8108108108108109	0.9327548806941431	0.9238095238095239	0.7446808510638298
+Sexual Violence Reported by Correctional Authorities 2004	0.8018018018018018	0.9045553145336226	0.9047619047619048	0.7894736842105263
+Sexual Violence Reported by Juvenile Correctional Authorities 2005-06	0.7927927927927928	0.8937093275488069	0.8952380952380953	0.8115942028985508
+Special Report: State Prison Expenditures	0.8018018018018018	0.928416485900217	0.9166666666666666	0.723404255319149
+Table 1: percent distribution of expenditure for the justice system by type of government, fiscal year 2007	0.8378378378378378	0.8373101952277657	0.8380952380952381	0.8130841121495327
+Victim Costs and Consequences: A New Look	0.8018018018018018	0.9327548806941431	0.9285714285714286	0.8297872340425532
+Direct Expenditures by Criminal Justice Function, 1982-2006 in Justice Expenditure and Employment Extracts	0.8198198198198198	0.8546637744034707	0.85	0.7924528301886793
+History of CPI-U U.S. All Items Indexes	0.8558558558558559	0.9436008676789588	0.9333333333333333	0.851063829787234
+Jail Inmates at Midyear 2008 Ð Statistical Tables, Table 4	0.8198198198198198	0.911062906724512	1.0	0.7758620689655172
+Sexual Victimization in Juvenile Facilities Reported by Youth, 2008-09	0.7567567567567568	0.8915401301518439	0.9023809523809524	0.8
+Sexual Victimization in Prisons and Jails Reported by Inmates, 2008-09	0.7657657657657657	0.8915401301518439	0.8952380952380953	0.7714285714285715
+Sexual Violence Reported by Correctional Authorities 2006	0.8018018018018018	0.9045553145336226	0.9047619047619048	0.7894736842105263
+The Department of Justice's Efforts to Prevent Staff Sexual Abuse of Federal Inmates	0.7657657657657657	0.8741865509761388	0.8452380952380952	0.7857142857142857
+42 U.S.C. ¤ 15607(a)(2)	0.9459459459459459	0.982646420824295	1.0	0.8936170212765957
+42 U.S.C. ¤ 15601(2)	0.954954954954955	0.982646420824295	1.0	0.9148936170212766
+75 Fed. Reg. 11077	0.9369369369369369	0.9761388286334056	0.9738095238095238	0.8936170212765957
+EO 12866, ¤ 3(f)	0.9369369369369369	0.9848156182212582	1.0	0.8936170212765957
+The Impact of Prisoner Sexual Violence: Challenges of Implementing Public Law 108-79 The Prison Rape Elimination Act of 2003	0.782258064516129	0.841648590021692	0.8428571428571429	0.8306451612903226
+The Rape Tax: Tangible and Intangible Costs of Sexual Violence	0.7927927927927928	0.9045553145336226	0.9	0.8064516129032258
+Cost-Benefit Analysis for Crime Prevention: Opportunity Costs, Routine Savings, and Crime Externalities	0.8108108108108109	0.8503253796095445	0.8404761904761905	0.7864077669902912
+Willingness-to-Pay for Crime Control Programs	0.7747747747747747	0.9240780911062907	0.9166666666666666	0.8936170212765957

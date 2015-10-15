@@ -1,0 +1,22 @@
+	Regulatory Flexibility Analysis Integrity Management Program for Gas Distribution Pipelines Introduction The Regulatory Flexibility Act of 1980 (Public Law 96-354) requires agencies to evaluate the potential effects of their proposed and final rules on small businesses, small organizations, and small governmental jurisdictions. The Regulatory Flexibility Act requires that Federal agencies take small entities’ concerns into account when developing, writing, publicizing, promulgating, and enforcing regulations. To this end, the Act requires that agencies detail how they have met these concerns, by including a Regulatory Flexibility Analysis (RFA). An initial RFA, which accompanies a Notice of Proposed Rulemaking	In response to the mandate concerning IMPs for distribution systems contained in The Pipeline Inspection, Protection, Enforcement and Safety Act of 2006 (Public Law No:	58 House of Representatives report	59 “Integrity Management for Gas Distribution, Report of Phase 1 Investigations”, prepared by Joint Work/Study Groups,
+Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2005	0.5614035087719298	0.5333333333333333	0.6176470588235294	0.4651162790697675
+Comparative Assessment of Natural Gas Accident Risks	0.5849056603773585	0.5609756097560976	0.46153846153846156	0.5609756097560976
+Comparative Risks of Hazardous Materials and Non-Hazardous Materials Truck Shipment Accidents/Incidents	0.5178571428571428	0.4772727272727273	0.5454545454545454	0.5111111111111111
+Docket RSPA-2004-19854	0.6851851851851851	0.7777777777777778	0.7586206896551724	0.7209302325581395
+House of Representatives report 108-792	0.6545454545454545	0.6818181818181819	0.30434782608695654	0.6190476190476191
+House of Representatives report 108-792	0.6545454545454545	0.6818181818181819	0.30434782608695654	0.6190476190476191
+How to Comply with the Regulatory Flexibility Act	0.6111111111111112	0.5609756097560976	0.6206896551724138	0.6590909090909092
+Integrity Management for Gas Distribution	0.6346153846153846	0.5526315789473684	0.56	0.4722222222222222
+Integrity Management for Gas Distribution, Report of Phase 1 Investigations	0.5	0.4878048780487805	0.5172413793103448	0.2777777777777778
+Natural Gas Annual 2005	0.7547169811320755	0.6842105263157895	0.6521739130434783	0.7804878048780488
+NTSB Report Number PAR-97/01	0.6785714285714286	0.6511627906976745	0.7419354838709677	0.6511627906976745
+Preliminary Observations on the Integrity Management program and 7-Year Reassessment Requirement, GOO-06-474T, Testimony Before the Subcommittee on Highways, Transit and Pipelines, Committee on Transportation and Infrastructure, House of Representatives	0.423728813559322	0.39583333333333337	0.6511627906976745	0.4901960784313726
+Progress and Challenges in Improving Pipeline Safety	0.6296296296296297	0.4736842105263158	0.5555555555555556	0.4736842105263158
+National Volunteer Fire Council Fact Sheet	0.7454545454545455	0.641025641025641	0.64	0.7380952380952381
+Safety Performance and Integrity of Natural Gas Infrastructure	0.6037735849056604	0.43243243243243246	0.6071428571428572	0.5128205128205128
+Fax from Nancy Schwartz, National Fire Protection Association, to Dianne Sutherland, U.S. DOT	0.49090909090909096	0.4418604651162791	0.7027027027027026	0.6041666666666667
+(C.R.S.) 9-1.5-103(7)(b).	0.7818181818181819	0.8913043478260869	0.896551724137931	0.8409090909090909
+49 CFR 191.9	0.8679245283018868	0.9767441860465116	0.9130434782608696	0.9
+C.R.S. 9-1.5-103(7)(c)(d) and 9-1.5-105.	0.7272727272727273	0.8260869565217391	0.8333333333333334	0.8
+General Order 112-E Rule 122.2	0.7636363636363637	0.7619047619047619	0.7307692307692308	0.7619047619047619
+A First Pass at Computing the Cost of Fire Safety in a Modern Society	0.5925925925925926	0.42105263157894735	0.5862068965517242	0.5

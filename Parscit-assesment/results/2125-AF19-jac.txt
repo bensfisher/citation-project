@@ -1,0 +1,7 @@
+	NO PARSCIT CITATIONS
+Bureau of Labor Statistics	0.9130434782608696
+Highway Statistics 2005	0.9130434782608696
+511 Deployment Costs: A Case Study	0.8461538461538461
+Benefits Analysis for the Georgia  Department of Transportation NaviGAtor Program	0.8275862068965517
+Calculating Benefits for NaviGAtor, Georgia's ITS	0.75
+Benefits Analysis for the Georgia Department of Transportation NaviGAtor Program	0.8275862068965517

@@ -1,0 +1,31 @@
+	NO PARSCIT CITATIONS
+Report to the Congress on Risk Retention	0.75
+Mortgage and Asset Securitizations Issuance	0.7142857142857143
+Understanding the Securitization of Subprime Mortgage Credit	0.8181818181818181
+Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure	0.7073170731707317
+Banks and Loan Sales: Marketing Nonmarketable Assets	0.75
+The Sub-prime Problem: Causes and Lessons	0.6875
+The Economics of Structured Finance	0.7931034482758621
+Tranching and Rating	0.7272727272727273
+Origination and Issuance of Agency and Non-Agency Mortgage Loans	0.6875
+Did Securitization Lead to Lax Screening? Evidence from Subprime Loans	0.8857142857142857
+The Credit Ratings Game	0.6923076923076923
+White Paper on Rating Competition and Structured Finance	0.6774193548387097
+Rating Shopping and Asset Complexity: A Theory of Ratings Inflation	0.6
+Role of Ratings in Structured Finance: What went wrong and what can be done to address the shortcomings?	0.8285714285714285
+The Consequences of Mortgage Credit Expansion: Evidence from the U.S. Mortgage Default Crisis	0.8
+Irrational Exuberance	0.84
+Credit Cycles	0.8095238095238095
+Agency Costs, Net Worth, and Business Fluctuations	0.7575757575757576
+Securitizing Banking and the Run on Repo	0.7931034482758621
+Liquidity Shortages and Banking Crises	0.8
+Bank Lending During the Financial Crisis of 2008	0.8857142857142857
+Figure 3: Illustrative ABS and MBS Spreads 2004-2010	0.7837837837837838
+Financial Intermediation and Delegated Monitoring	0.8518518518518519
+Information Asymmetry and Financing Arrangements: Evidence from Syndicated Loans	0.7575757575757576
+Has the CDS market lowered the cost of corporate debt?	0.8125
+Works of Friction?	0.9130434782608696
+The Role of Macroprudential Policy: A Discussion Paper	0.7058823529411764
+The Prudential Regulation of Banks	0.7333333333333334
+The Shadow Banking System: Implications for Financial Regulation	0.736842105263158
+The Fundamental Principles of Financial Regulation	0.75

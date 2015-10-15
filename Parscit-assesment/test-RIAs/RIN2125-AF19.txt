@@ -1,4 +1,4 @@
-Regulatory Benefit-Cost Analysis of Proposed Rulemakmg'^ '"J^; ;^ l 
+Regulatory Benefit-Cost Analysis of Proposed Rulemakmg'̂ '"J^; ;̂ l 
 Real-Time System Management Information Program 
 Section 1201 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A 
 Legacy for Users (SAFETEA-LU) calls for a real-time system management information 
@@ -228,7 +228,7 @@ Internet. Establishing a real-time information program in a State would be analo
 the cost of a major update of a statewide 511 system. Most States already have 511 
 systems in place or will by the end of 2008.^ Based on the cost of a major update of an 
 existing 511 system in Arizona, the estimated cost for these deployments is $1.51 million 
-per State. ^  This does not include the additional cost of metro coverage in that State, so 
+per State. ̂  This does not include the additional cost of metro coverage in that State, so 
 the total cost of the program presented later is the sum of metro area and statewide costs. 
 The real-time information program would include monitoring certain types of real time 
 information and pro\ iding "the capability and means to share that data with State and 
@@ -277,7 +277,7 @@ Interstate and freeways in order to provide traveler information and to improve 
 management and incident management. The evaluation of the system measured the 
 A summary of this analysis may be found at 
 http://www.benefitcost.i(s.dot.gov/its/benecost.nsf/0/C56D9AB9E2F47E79852572l70053BllB?OpeiiDoc 
-ument&Query=Home. l^ he full report by URS Corporation, "Benefits Analysis for the Georgia 
+ument&Query=Home. l̂ he full report by URS Corporation, "Benefits Analysis for the Georgia 
 Department of Transportation NaviGAtor Program." August 2006. is available at the following URL: 
 http://www.ops.fhwa.dot.gov/travelinfo/gdotbenefit/index.htm 
 - 7 -
@@ -344,7 +344,7 @@ achieved through either additional monitoring by the State DOT or purchase of da
 the private sector. 
 The cost of additional monitoring is assumed to be $76,789'"^ per freeway mile, with an 
 average of 32 miles to be upgraded. 
-'^  Including but not limited to Navteq, Inrix, XMNavTraffic, and Westwood One. More than half of the 50 
+'̂  Including but not limited to Navteq, Inrix, XMNavTraffic, and Westwood One. More than half of the 50 
 cities have received or will receive funding through the Intelligent Transportation Infrastructure Program 
 (ITEP), which should accelerate the availability of high quality real time travel information by private sector 
 providers. Please see the lasi section of this cost analysis for a discussion of issues and opportunities for 
@@ -379,22 +379,22 @@ As noted earlier, the average of 149 miles of additional monitoring needed is ba
 data from 11 cities for which deployment status data is available. 
 Per city: 
 Major upgrade to website and 511 systems to meet real-time information program 
-requirements = $1,512,040 '^  
+requirements = $1,512,040 '̂  
 Additional data collection/purchase ($76,789/mile*149 mi - $11.44 million) 
 Total: 
 11 "511" upgrades @ $1.51 million each = $16.63 million 
 11 cities of freeway monitoring upgrades @ $11.44 million each = $125.86 million 
 monitoring costs with current technology. The full report is available at the following URL: 
 http://www.its.dot.gOv/511/511 Costs.htm. 
-'•^  Average number of freeway miles not under surveillance in Houston, San Diego, Minneapolis/Saint Paul, 
+'•̂  Average number of freeway miles not under surveillance in Houston, San Diego, Minneapolis/Saint Paul, 
 Buffalo, Sacramento, Salt Lake City, and Orlando. Current coverage and total number of Interstate miles 
 per metropolitan planning area were obtained from the ITS Deployment Tracking survey available at the 
 following URL: http://www.itsdeplovment.its.dot.gov. 
-'^  This cost is based on costs of an actual upgrade to an existing 511 deployment in Arizona, from "Interim 
+'̂  This cost is based on costs of an actual upgrade to an existing 511 deployment in Arizona, from "Interim 
 Analysis Report Model Deployment of a Regional, Multi-Modal 511 Traveler Information System", 
 available at the following URI.: http://www.it,sdocs.fhwa.dot.gov//JPODOCS/REPTS TE//14248.htm. 
-'^  This cost is based on estimates from 2002 report http://www.its.dot.gOv/511/511 Costs.htm 
-'^  Average number of freeway miles not under surveillance in Milwaukee, Providence, Portland, San 
+'̂  This cost is based on estimates from 2002 report http://www.its.dot.gOv/511/511 Costs.htm 
+'̂  Average number of freeway miles not under surveillance in Milwaukee, Providence, Portland, San 
 Antonio, San Francisco including San Jose, Cincinnati, New York New Jersey, Washington, Tampa, and 
 Atlanta. Current coverage and the total number of Interstate miles per metropolitan planning area are from 
 the 2005 ITS Deployment tracking survey, available at the following URL: 
@@ -433,7 +433,7 @@ plarming, implementation, and the first year of operations and maintenance (in 2
 ^"511 Deployment Costs: A Case Study", November 2006, 511 Deployment Coalition. Available at the 
 following URL: http://www.deplov51 l.org/minutereports.htm#511 costs. Average costs for new 
 metropolitan area 511 systems in Tampa, Southeast Florida, and Central Florida. 
-'^ Average number of freewaiy miles not under surveillance in Philadelphia, Charlotte, Denver, Detroit, 
+'̂ Average number of freewaiy miles not under surveillance in Philadelphia, Charlotte, Denver, Detroit, 
 Phoenix, Seattle, Los Angeles including Riverside, Austin, Dallas, Chicago, Miami, Kansas City, 
 Baltimore, Nashville, Boston, Indianapolis, Pittsburgh, Columbus, Saint Louis, Hampton Roads, Las 
 Vegas, New Orleans, and Cleveland. Current coverage and total number of Interstate miles per 
@@ -493,7 +493,7 @@ Nationwide estimate: $27,425 times 50 States -t- DC = $1,399 million
 The architecture should be updated as part of the planning process for implementing the 
 system. The systems are assumed to be implemented by the end of 2010. The total costs 
 are discounted, for purjioses of this analysis, to 2008 as the base year. 
-D.5 Total Estimated (^ lost of Establishing Real-Time Information Programs 
+D.5 Total Estimated (̂ lost of Establishing Real-Time Information Programs 
 This estimate sums the cost of each element of the proposed rule. 
 Updating regional architecture, 50 States -(- DC = $ 1.399 million 
 Implementing in 50 metro areas = $799 million 
@@ -542,7 +542,7 @@ S5 >-
 0) 
 • o 
 o 
-—^ 
+—̂ 
 ' " 
 c 
 o 
@@ -655,7 +655,7 @@ t ^
 CD 
 o ' C>J 
 CO 
->^  
+>̂  
 !5 
 o 
 CO 
@@ -669,7 +669,7 @@ CM
 CD 
 oo" 
 00 
-r^  
+r̂  
 i n 
 OJ 
 te^ 
@@ -873,7 +873,7 @@ in in
 V 
 1 -
 CJ> 
-r^  
+r̂  
 i n 
 w 
 in 
@@ -903,7 +903,7 @@ u.
 w 
 o 
 z ^ (0 
-1^  
+1̂  
 o o 
 _ l 
 o 
@@ -914,7 +914,7 @@ CO
 a 
 o 
 4-* 
-*^  
+*̂  
 CO 
 0) 
 D) 
@@ -957,7 +957,7 @@ w To C
 § 3 . 2 
 I iS" 
 (0 
-—^• 
+—̂• 
 03 . li 
 <2 
 m 
@@ -994,13 +994,13 @@ Interstate, other freeways and expressways was acquired from the U.S. Department
 Transportation report "Highway Statistics 2005.""^ The specific methodology applied by 
 the Georgia NavGAtor study is presented in the report "Benefits Analysis for the Georgia 
 Department of Transpon:ation NaviGAtor Program. ^" 
-"^  Presley, et al. "Calculating Benefits for NaviGAtor, Georgia's ITS" Paper presente(J at the 79"' 
+"̂  Presley, et al. "Calculating Benefits for NaviGAtor, Georgia's ITS" Paper presente(J at the 79"' 
 Transportation Research Board Annual meeting, Washington DC, 2000. 
 "^Office of Highway Policy Information - Federal Highway Administration, U. S. Department of 
 Transportation. "Highway Statistics 2005." Section 5, Table HM 71. The statistics for Federal Aid Urban 
 Area were chosen to represent the Metropolitan Statistical Areas., which are available at the following 
 URL: http://www.fhwa.dot.t;ov/policv/ohim/hs05/xl.s/hm71.xls 
-"^  URS, "Benefits Analysis for the Georgia Department of Transportation NaviGAtor Program." August 
+"̂  URS, "Benefits Analysis for the Georgia Department of Transportation NaviGAtor Program." August 
 2006, available at the following URL: http://www.ops.fhwa.dot.gov/travelinfo/gdotbenefit/index.htm. 
 - 16-
 Percentage of 
@@ -1082,7 +1082,7 @@ $3,793.36
 Cost/Ton HC 
 emissions $1,745 
 Cost/Ton NOx 
-emissions $5,^ W1 
+emissions $5,̂ W1 
 From NHTSA NHTSA Office of Regulatory Analysis and Evaluation, National 
 Center for Statistics and Analysis (March 2006); Table VIII-5 Lifetime Monetized 
 Societal Impacts, Unreformed CAFE, 2008 MY; available at 

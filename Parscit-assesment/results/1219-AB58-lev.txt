@@ -1,0 +1,17 @@
+	Coal Mine Salaries, Wages, and Benefits:	Department of Energy, Energy Information Administration, Annual Coal Report	Office of Program Evaluation and Information Resources (PEIR),
+U.S. Coal Mine Salaries, Wages, & Benefits: 2007 Survey Results 	0.453125	0.84	0.859375
+"""Fee Adjustments for Testing Evaluation, and Approval of Mining Products"""	0.7671232876712328	0.7866666666666666	0.6986301369863014
+"""Annual Coal Report 2006"""	0.85	0.84	0.8225806451612904
+Data	0.95	0.9466666666666667	0.9516129032258065
+Prevent, Escape, Design 	0.775	0.8266666666666667	0.8387096774193549
+¤ 654 of the Treasury and General Government Appropriations Act of 1999	0.8169014084507042	0.7866666666666666	0.7605633802816901
+Actions Concerning Reulations that Significantly Affect Energy Supply, Distibution, or Use	0.7777777777777778	0.8333333333333334	0.7888888888888889
+Civil Justice Reform	0.8	0.8666666666666667	0.8225806451612904
+Consultation and Coordination With Indian Tribal Governments	0.75	0.72	0.8387096774193549
+Federalism	0.875	0.92	0.9032258064516129
+Government Actions and Interference With Constitutionally Protected Property Rights	0.8072289156626506	0.7469879518072289	0.7951807228915663
+Proper Consideration of Small Entities in Agency Rulemaking	0.7796610169491526	0.7466666666666667	0.8548387096774194
+Protection of Children From Environmental Health Risks and Safety Risks	0.7464788732394366	0.7866666666666666	0.8028169014084507
+Regulatory Planning and Review 	0.725	0.8	0.7580645161290323
+Small Business Regulatory Enforcement Fairness Act 	0.7450980392156863	0.7866666666666666	0.7741935483870968
+Unfunded Mandates Reform Act of 1995	0.825	0.8	0.7903225806451613

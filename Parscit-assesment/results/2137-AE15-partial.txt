@@ -1,0 +1,22 @@
+	Regulatory Flexibility Analysis Integrity Management Program for Gas Distribution Pipelines Introduction The Regulatory Flexibility Act of 1980 (Public Law 96-354) requires agencies to evaluate the potential effects of their proposed and final rules on small businesses, small organizations, and small governmental jurisdictions. The Regulatory Flexibility Act requires that Federal agencies take small entities’ concerns into account when developing, writing, publicizing, promulgating, and enforcing regulations. To this end, the Act requires that agencies detail how they have met these concerns, by including a Regulatory Flexibility Analysis (RFA). An initial RFA, which accompanies a Notice of Proposed Rulemaking	In response to the mandate concerning IMPs for distribution systems contained in The Pipeline Inspection, Protection, Enforcement and Safety Act of 2006 (Public Law No:	58 House of Representatives report	59 “Integrity Management for Gas Distribution, Report of Phase 1 Investigations”, prepared by Joint Work/Study Groups,
+Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2005	0.61	0.64	0.65	0.61
+Comparative Assessment of Natural Gas Accident Risks	0.6	0.64	0.65	0.62
+Comparative Risks of Hazardous Materials and Non-Hazardous Materials Truck Shipment Accidents/Incidents	0.61	0.63	0.62	0.6699999999999999
+Docket RSPA-2004-19854	0.69	0.69	0.8200000000000001	0.73
+House of Representatives report 108-792	0.5700000000000001	0.62	0.08999999999999997	0.54
+House of Representatives report 108-792	0.5700000000000001	0.62	0.08999999999999997	0.54
+How to Comply with the Regulatory Flexibility Act	0.39	0.64	0.65	0.64
+Integrity Management for Gas Distribution	0.19999999999999996	0.49	0.71	0.0
+Integrity Management for Gas Distribution, Report of Phase 1 Investigations	0.31000000000000005	0.5	0.5900000000000001	0.0
+Natural Gas Annual 2005	0.61	0.61	0.74	0.6599999999999999
+NTSB Report Number PAR-97/01	0.6799999999999999	0.75	0.6799999999999999	0.61
+Preliminary Observations on the Integrity Management program and 7-Year Reassessment Requirement, GOO-06-474T, Testimony Before the Subcommittee on Highways, Transit and Pipelines, Committee on Transportation and Infrastructure, House of Representatives	0.5700000000000001	0.5900000000000001	0.27	0.55
+Progress and Challenges in Improving Pipeline Safety	0.52	0.54	0.6799999999999999	0.62
+National Volunteer Fire Council Fact Sheet	0.55	0.6	0.62	0.62
+Safety Performance and Integrity of Natural Gas Infrastructure	0.5900000000000001	0.6	0.65	0.5900000000000001
+Fax from Nancy Schwartz, National Fire Protection Association, to Dianne Sutherland, U.S. DOT	0.6	0.5900000000000001	0.6799999999999999	0.63
+(C.R.S.) 9-1.5-103(7)(b).	0.76	0.8	0.92	0.88
+49 CFR 191.9	0.6699999999999999	0.84	0.84	0.75
+C.R.S. 9-1.5-103(7)(c)(d) and 9-1.5-105.	0.73	0.8	0.89	0.83
+General Order 112-E Rule 122.2	0.64	0.74	0.74	0.7
+A First Pass at Computing the Cost of Fire Safety in a Modern Society	0.5700000000000001	0.5800000000000001	0.56	0.5700000000000001

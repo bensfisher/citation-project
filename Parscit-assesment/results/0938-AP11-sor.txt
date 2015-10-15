@@ -1,0 +1,14 @@
+	Budget Refinement Act of 1999, Pub. L. 106–113 BIPA Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, Pub. L. 106–554 1. The authority citation for part 413 continues to read as follows: Authority: Secs.
+OMB Circular A-4	0.5932203389830508
+Associated Correction Notices	0.5593220338983051
+Associated Correction Notices	0.5593220338983051
+SNF PPS Final Rule	0.6491228070175439
+SNF PPS rates	0.7090909090909091
+Congressional Review Act	0.4516129032258065
+Federalism	0.7037037037037037
+Regulatory Flexibility Act of 1980	0.4328358208955224
+Regulatory Planning and Review 	0.4516129032258065
+Section 1102(b) of Social Security Act	0.4242424242424242
+Section 1888�	1.0
+Small Busines Administration standards	0.47540983606557374
+Unfunded Mandates Reform Act of 1995	0.41538461538461535

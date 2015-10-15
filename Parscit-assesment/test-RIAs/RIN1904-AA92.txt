@@ -4146,7 +4146,7 @@ VerDate Nov<24>2008 19:12 Apr 10, 2009 Jkt 217001 PO 00000 Frm 00022 Fmt 4701 Sf
 possible with a thicker phosphor 
 coating, NEMA argued that using this 
 option will disproportionately increase 
-lamp costs vis-a`-vis the performance 
+lamp costs vis-à-vis the performance 
 improvement. NEMA stated that the 
 opportunities for performance 
 improvement using phosphors ‘‘lie in 

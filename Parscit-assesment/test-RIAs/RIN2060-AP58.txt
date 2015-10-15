@@ -15801,7 +15801,7 @@ III.D.3 combines these technologies into
 packages likely to be applied at the 
 same time by a manufacturer. In this 
 section, the overall effectiveness of the 
-technology packages vis-a`-vis their 
+technology packages vis-à-vis their 
 effectiveness when combined 
 individually is described. Section III.D.4 
 describes the process which 
@@ -24776,7 +24776,7 @@ recordisplay.cfm?deid=210586.
 239 U.S. EPA. (2006). National Ambient Air 
 Quality Standards for Particulate Matter; Proposed 
 Rule. 71 FR 2620, January 17, 2006. 
-240 Ku¨nzli, N., Jerrett, M., Mack, W.J., et al. 
+240 Künzli, N., Jerrett, M., Mack, W.J., et al. 
 (2004). Ambient air pollution and atherosclerosis in 
 Los Angeles. Environ Health Perspect., 113, 201– 
 206. 
@@ -51305,7 +51305,7 @@ Populations at greatest risk could
 include children, the elderly, and those 
 with heart and lung disease, diabetes 
 (Ebi et al. 2008), and high blood 
-pressure (Ku¨nzli et al. 2005, in Ebi et al. 
+pressure (Künzli et al. 2005, in Ebi et al. 
 2008). Chronic exposure to PM could 
 decrease lifespan by 1 to 3 years (Pope 
 2000, in American Lung Association 

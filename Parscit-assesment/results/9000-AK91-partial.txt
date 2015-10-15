@@ -1,0 +1,27 @@
+	NO PARSCIT CITATIONS
+Average annual salary of federal employees within the United States	0.85
+Census information on education 	0.9
+E-Verify program	0.94
+Federal Procurement Data System-Next Generation	0.85
+Inflation adjustment	0.9
+Privately Owned Vehicle Reimbursement Rates,	0.85
+www.sba.gov/advo/research/data_uspdf.xls	1.0
+nan	1.0
+Executive Order 12989	0.9
+Executive Order 12989	0.9
+Illegal Immigration Reform and Immigrant Responsibility Act 	0.8
+Immigration Reform and Control Act	0.8
+“Characteristics and Pay of Federal Civilian Employees”	0.8
+Basic Pilot program	0.85
+Employer Costs for Employee Compensation	0.85
+Job Openings and Labor Turnover	0.85
+National Compensation Survey Occupational Earnings in the United States	0.8
+Westat Report	0.9299999999999999
+Congressional Hearing	0.95
+Economic Analysis of the Santa Monica Living Wage Proposal	0.8
+New Ideas for Retaining Store-Level Employees	0.8
+The Cost of Frontline Turnover in Long-term Care	0.85
+Employment Eligibility Verification Form (Form I-9)	0.85
+Registration for the Employer Verification Program	0.9
+USCIS E-Verify User’s Manual	0.9
+The Cost of Turnover: Putting a Price on the Learning Curve	0.8

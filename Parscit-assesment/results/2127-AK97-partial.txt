@@ -1,0 +1,35 @@
+	Traffic and Motor Vehicle Safety Act to NHTSA61. NHTSA is adopting this rule under the	105 and 322; delegation of authority at 49 CFR 1.50. VIII-3 Furthermore, this final rule satisfies the congressional mandate in Section 10301 of the Safe, Accountable, Flexible, Efficient, Transportation Equity Act: A Legacy for Users of 2005 (SAFETEA-LU).62 Under that provision, the Secretary of Transportation must conduct a rulemaking to “establish performance criteria to reduce the occurrence of rollovers consistent with stability enhancing technologies” and issue “a final rule by April 1,	Description and estimate of the number of small entities to which the proposal or final rule will apply The proposal applies to truck tractor and large bus manufacturers who produce these types of vehicles with a GVWR greater than 11,793 kg (26,000 pounds). The proposal also will impact manufacturers of ESC systems. Business entities are defined as small businesses using the North American Industry Classification System (NAICS	is the number of employees in the firm. Affected business categories include: (a) To qualify as a small business in Heavy Duty Truck Manufacturing (NAICS	the firm must have fewer than 1000 employees, (b) In Truck Trailer Manufacturing (NAICS 336212), the firm must have fewer than 500 employees, (c)	The latest version modified by the Office of Management and Budget in	They are Advanced Bus Industries, Ebus Inc., Enova Systems,
+The Economic Impacts and Social Benefits of the U.S. Motorcoach	0.64	0.53	0.5900000000000001	0.62	0.6699999999999999	0.62	0.6699999999999999
+"""A Primer on the Major Issues Relating to the Discount Rate for Evaluating National Energy Options"""	0.5900000000000001	0.56	0.56	0.5800000000000001	0.62	0.5700000000000001	0.65
+2002 Census	0.73	0.64	0.55	0.64	0.64	0.73	0.64
+Annual Production Estimate	0.6599999999999999	0.54	0.5800000000000001	0.62	0.6599999999999999	0.6599999999999999	0.62
+Class 8 Truck Tractor Slaes Volumes between 2005 and 2009	0.69	0.6	0.53	0.65	0.62	0.64	0.7
+Initial Target Crashes, KABCO injuries, and PDOVS Table	0.6799999999999999	0.5700000000000001	0.62	0.62	0.64	0.6699999999999999	0.6
+KABCO to MAIS Conversion Table	0.64	0.64	0.6	0.6699999999999999	0.7	0.6	0.7
+National Bus Trader 	0.5	0.5	0.55	0.55	0.55	0.55	0.55
+Retrofitting Trailer-RSC Information	0.64	0.56	0.62	0.64	0.56	0.64	0.73
+Proposed Defintion in NPRM	0.6599999999999999	0.62	0.5800000000000001	0.5800000000000001	0.6599999999999999	0.6599999999999999	0.7
+"""Concept of Operation and Voluntary Operational Requrements for Vehicle Stability Systems On-Board Commercial Motor Vehicles "	0.5900000000000001	0.56	0.6	0.64	0.6599999999999999	0.61	0.62
+"""Vehicle Survivability and Travel Mileage Schedules"""	0.6	0.5800000000000001	0.6	0.6	0.6599999999999999	0.6599999999999999	0.6799999999999999
+An In-Service Analysis of Maintenance and Repair Expenses for the Anti-Lock Brake System and Underride Guard for Tractors and Trailers 	0.61	0.5800000000000001	0.5900000000000001	0.63	0.6599999999999999	0.6	0.56
+Analysis of Benefits and Costs of Roll Stability Control Systems	0.6	0.5800000000000001	0.5700000000000001	0.63	0.6799999999999999	0.6799999999999999	0.5900000000000001
+Class 8 Truck-Tractor Stability Control Test Track Effectiveness ESV No. 09-0552	0.6799999999999999	0.63	0.5800000000000001	0.65	0.63	0.69	0.7
+GDP	1.0	1.0	0.6699999999999999	0.6699999999999999	1.0	1.0	1.0
+Heavy Truck ESC Effectiveness Study Using NADS	0.6599999999999999	0.6599999999999999	0.5900000000000001	0.5	0.5900000000000001	0.6599999999999999	0.6599999999999999
+Safety Benefits of Stability Control Systems for Tractor Semitrailers 	0.63	0.5900000000000001	0.56	0.63	0.6	0.63	0.65
+Table 2 : The Economic Impact of Motor Vehicle Crashes 2000	0.5800000000000001	0.6	0.6	0.63	0.65	0.65	0.7
+Tractor-Semitrailer Stability Objective Performance Test Research-Roll Stability	0.62	0.54	0.6	0.63	0.64	0.6599999999999999	0.6699999999999999
+Double Integration Technique for Calculating Lateral Displacement	0.65	0.54	0.6	0.6	0.64	0.62	0.6799999999999999
+ABA Motorcoach Census	0.62	0.62	0.62	0.6699999999999999	0.72	0.72	0.62
+Motorcoach Facts 2009	0.53	0.62	0.62	0.6699999999999999	0.72	0.77	0.72
+An Analysis of the Operational Costs of Trucking	0.63	0.48	0.55	0.5900000000000001	0.61	0.61	0.69
+A Survey of the Freight Transportation Demand Literature and Comparison of Elasticity Estimates	0.6799999999999999	0.51	0.6	0.5900000000000001	0.6599999999999999	0.61	0.62
+Unit Costs of Medium and Heavy Truck Crashes	0.6599999999999999	0.62	0.64	0.53	0.6	0.62	0.6599999999999999
+"""A Sugested Approach for Discounting the Benefits and Costs of Environmental Regulations"""	0.6799999999999999	0.5800000000000001	0.6	0.63	0.65	0.5800000000000001	0.63
+Regulatory Flexibility Act of 1980	0.5	0.5900000000000001	0.65	0.65	0.71	0.65	0.71
+Traffic and Motor Vehicle Safety Act	0.0	0.56	0.5900000000000001	0.62	0.62	0.62	0.64
+"""Effectiveness of Stability Systems for Truck Tractors"""	0.6599999999999999	0.5900000000000001	0.5900000000000001	0.5900000000000001	0.5900000000000001	0.64	0.6699999999999999
+Crash Problem Definition and Safety Benefits methodology for Stability Control for Single-Unit Medium and Heavy Trucks and Large Platform Buses 	0.62	0.5900000000000001	0.5900000000000001	0.6	0.65	0.6	0.65
+Benefits of Stability Control Systems for Tractor-Semitrailers 	0.6599999999999999	0.5800000000000001	0.5800000000000001	0.5800000000000001	0.61	0.64	0.7
+Final Regulatory Impact Analysis: Airbrake Systems, Amending Stopping Distance	0.63	0.5800000000000001	0.5700000000000001	0.62	0.6799999999999999	0.64	0.62
+Discounting Environmental Health Risks: New Evidence and Policy Implications	0.69	0.6	0.61	0.6	0.65	0.64	0.6799999999999999

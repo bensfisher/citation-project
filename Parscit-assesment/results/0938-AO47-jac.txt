@@ -1,0 +1,13 @@
+	Similar Cost Sharing Charges: State Plan Requirements 5. The authority citation for part 457 continues to read as follows: Authority:	For Federal Fiscal Year 2007, any copayment or similar charge the State imposes under a fee-for-service delivery system may not exceed the following amounts: Total cost Maximum amount $15.00 or less ...........................	E8–3211 Filed 2–21–08; 8:45 am] You may submit comments, identified by Docket No. FEMA–B–7763, to
+nan	0.9375	0.9459459459459459	0.95
+Medicaid Expenditure Panel Survey	0.5833333333333333	0.5641025641025641	0.7173913043478262
+nan	0.9375	0.9459459459459459	0.95
+Circular A�4	0.696969696969697	0.8292682926829268	1.0
+Deficit Reduction Act	0.6363636363636364	0.75	0.7073170731707317
+Deficit Reduction Act of 2005	0.6285714285714286	0.675	0.6341463414634146
+Executive Order 12866	0.8	0.7073170731707317	0.7272727272727273
+Executive Order 13132	0.7948717948717949	0.7	0.75
+Sec. 1102 of the Social Security Act (42 U.S.C. 1302)	0.5384615384615384	0.5909090909090908	0.6170212765957447
+Tax Relief and Health Care Act	0.5294117647058824	0.6585365853658536	0.7659574468085106
+Unfunded Mandates Reform Act of 1995	0.5555555555555556	0.6097560975609756	0.6363636363636364
+nan	0.9375	0.9459459459459459	0.95
