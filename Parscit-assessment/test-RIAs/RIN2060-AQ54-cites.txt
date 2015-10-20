@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<authors>
+<author>Early</author>
+</authors>
+<title>Release. Available at http://www.eia.gov/forecasts/aeo/ (last accessed</title>
+<date></date>
+<volume>15</volume>
+<marker>Early, </marker>
+<rawString>2011, Early Release. Available at http://www.eia.gov/forecasts/aeo/ (last accessed Aug. 15, 2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Inc FEV</author>
+</authors>
+<title>Light-Duty Technology Cost Analysis, Report on Additional Transmission, Mild Hybrid, and Valvetrain Technology Case Studies&amp;quot;,</title>
+<date>2011</date>
+<booktitle>Contract No. EP-C-07-069, Work Assignment</booktitle>
+<pages>3--3</pages>
+<marker>FEV, 2011</marker>
+<rawString>FEV, Inc., “Light-Duty Technology Cost Analysis, Report on Additional Transmission, Mild Hybrid, and Valvetrain Technology Case Studies&amp;quot;, Contract No. EP-C-07-069, Work Assignment 3-3. November 2011.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Inc FEV</author>
+</authors>
+<title>Light-Duty Technology Cost Analysis,</title>
+<date>2011</date>
+<booktitle>Power-Split and P2 HEV Case Studies”, Contract No. EP-C-07-069, Work Assignment 3-3,</booktitle>
+<pages>420--11</pages>
+<marker>FEV, 2011</marker>
+<rawString>FEV, Inc., “Light-Duty Technology Cost Analysis, Power-Split and P2 HEV Case Studies”, Contract No. EP-C-07-069, Work Assignment 3-3, EPA-420-R-11-015, November 2011.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S EPA</author>
+<author>“FEV Inc</author>
+</authors>
+<title>Report ‘Light Duty Technology Cost Analysis, PowerSplit and P2 Hybrid Electric Vehicle Case Studies’, Peer Review Report – Response to Comments Document”,</title>
+<date>2011</date>
+<pages>420--11</pages>
+<marker>EPA, Inc, 2011</marker>
+<rawString>FEV, Inc. and U.S. EPA, “FEV Inc. Report ‘Light Duty Technology Cost Analysis, PowerSplit and P2 Hybrid Electric Vehicle Case Studies’, Peer Review Report – Response to Comments Document”, EPA-420-R-11-017, November 2011.</rawString>
+</citation>
+<citation valid="false">
+<date>2010</date>
+<pages>420--10</pages>
+<marker>2010</marker>
+<rawString>EPA-420-R-10-901, April 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Inc FEV</author>
+</authors>
+<title>Potential Stranded Capital Analysis on EPA Light-Duty Technology Cost Analysis”, Contract No. EP-C-07-069 Work Assignment 3-3,</title>
+<date>2011</date>
+<marker>FEV, 2011</marker>
+<rawString>FEV, Inc., “Potential Stranded Capital Analysis on EPA Light-Duty Technology Cost Analysis”, Contract No. EP-C-07-069 Work Assignment 3-3, November 2011.</rawString>
+</citation>
+<citation valid="true">
+<title>Light-Duty Automotive Technology and Fuel Economy Trends:</title>
+<date>1975</date>
+<pages>420--07</pages>
+<location>Through</location>
+<note>Docket EPA-HQ-OAR-2009-0472-0137. Available at http://www.epa.gov/oms/cert/mpg/fetrends/fetrends-archive.htm (last accessed</note>
+<marker>1975</marker>
+<rawString>“Light-Duty Automotive Technology and Fuel Economy Trends: 1975 Through 2007”, EPA420-S-07-001, September 2007, Docket EPA-HQ-OAR-2009-0472-0137. Available at http://www.epa.gov/oms/cert/mpg/fetrends/fetrends-archive.htm (last accessed July 9, 2009).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>“Development</author>
+</authors>
+<title>Optimization of the Ford 3.5L V6 EcoBoost Combustion System,”</title>
+<date>2009</date>
+<tech>SAE Technical Paper No. 2009-01-1494,</tech>
+<pages>2009--0472</pages>
+<marker>“Development, 2009</marker>
+<rawString>“Development and Optimization of the Ford 3.5L V6 EcoBoost Combustion System,” Yi,J., Wooldridge, S., Coulson, G., Hilditch, J. Iyer, C.O., Moilanen, P., Papaioannou, G., Reiche, D. Shelby, M., VanDerWege, B., Weaver, C. Xu, Z., Davis, G., Hinds, B. Schamel, A. SAE Technical Paper No. 2009-01-1494, 2009, Docket EPA-HQ-OAR-2009-0472-2860.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>M Kaiser</author>
+<author>U Krueger</author>
+<author>R Harris</author>
+<author>L Cruff</author>
+</authors>
+<title>Doing More with Less - The Fuel Economy Benefits of Cooled EGR on a Direct Injected Spark Ignited Boosted Engine,”</title>
+<tech>SAE Technical Paper Series, No. 2010-01-0589.</tech>
+<marker>Kaiser, Krueger, Harris, Cruff, </marker>
+<rawString>Kaiser, M., Krueger, U., Harris, R., Cruff, L. “Doing More with Less - The Fuel Economy Benefits of Cooled EGR on a Direct Injected Spark Ignited Boosted Engine,” SAE Technical Paper Series, No. 2010-01-0589.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>P E Kapus</author>
+<author>G K Fraidl</author>
+<author>K Prevedel</author>
+<author>A Fuerhapter</author>
+</authors>
+<date>2007</date>
+<journal>GDI Turbo – The Next Steps,” JSAE</journal>
+<tech>Technical Paper No. 20075355,</tech>
+<marker>Kapus, Fraidl, Prevedel, Fuerhapter, 2007</marker>
+<rawString>Kapus, P.E., Fraidl, G.K., Prevedel, K., Fuerhapter, A. “GDI Turbo – The Next Steps,” JSAE Technical Paper No. 20075355, 2007.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Inc FEV</author>
+</authors>
+<title>Light-Duty Technology Cost Analysis, Report on Additional Transmission, Mild Hybrid, and Valvetrain Technology Case Studies&amp;quot;,</title>
+<date>2011</date>
+<booktitle>Contract No. EP-C-07-069, Work Assignment 3-3, Docket</booktitle>
+<pages>2010--0799</pages>
+<marker>FEV, 2011</marker>
+<rawString>FEV, Inc., “Light-Duty Technology Cost Analysis, Report on Additional Transmission, Mild Hybrid, and Valvetrain Technology Case Studies&amp;quot;, Contract No. EP-C-07-069, Work Assignment 3-3, Docket EPA-HQ-OAR-2010-0799, November 2011.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Inc FEV</author>
+</authors>
+<title>Light-Duty Technology Cost Analysis, Report on Additional Transmission, Mild Hybrid, and Valvetrain Technology Case Studies&amp;quot;,</title>
+<date>2011</date>
+<booktitle>Contract No. EP-C-07-069, Work Assignment 3-3, Docket</booktitle>
+<pages>2010--0799</pages>
+<marker>FEV, 2011</marker>
+<rawString>FEV, Inc., “Light-Duty Technology Cost Analysis, Report on Additional Transmission, Mild Hybrid, and Valvetrain Technology Case Studies&amp;quot;, Contract No. EP-C-07-069, Work Assignment 3-3, Docket EPA-HQ-OAR-2010-0799, November 2011.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>Lithium-ion Battery,” Nissan Technological Development Activities</institution>
+<marker>2009</marker>
+<rawString>“Lithium-ion Battery,” Nissan Technological Development Activities (http://www.nissanglobal.com/EN/TECHNOLOGY/INTRODUCTION/DETAILS/LI-ION-EV/), 2009.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Plug-in Hybrid</author>
+</authors>
+<title>Electric Vehicle Charging Infrastructure Review</title>
+<date>2008</date>
+<booktitle>http://avt.inl.gov/pdf/phev/phevInfrastructureReport08.pdf</booktitle>
+<volume>17</volume>
+<marker>Hybrid, 2008</marker>
+<rawString>Plug-in Hybrid Electric Vehicle Charging Infrastructure Review (November 2008) INL/EXT-08-15058, U.S. Department of Energy Vehicle Technologies Program – Advanced Vehicle Testing Activity. Last accessed on the Internet on November 14, 2011 at the following URL: http://avt.inl.gov/pdf/phev/phevInfrastructureReport08.pdf May, J.W., Mattilla, M. “Plugging In: A Stakeholder Investment Guide for Public ElectricBull, M., R. Chavali, A. Mascarin, “Benefit Analysis: Use of Aluminum Structures in Conjunction with Alternative Powertrain Technologies in Automobiles,” Aluminum Association Research Report, May 2008. Available at http://aluminumintransportation.org/downloads/IBIS-Powertrain-Study.pdf (last accessed Aug. 17, 2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Ford</author>
+</authors>
+<title>The 5.0Liter is Back:</title>
+<date>2010</date>
+<booktitle>Ford Mustang GT Leads Class with 412 HP, Fuel Efficiency, Chassis Dynamics.” http://media.ford.com/article_display.cfm?article_id=31645..</booktitle>
+<marker>Ford, 2010</marker>
+<rawString>Ford, 2010. “The 5.0Liter is Back: 2011 Ford Mustang GT Leads Class with 412 HP, Fuel Efficiency, Chassis Dynamics.” http://media.ford.com/article_display.cfm?article_id=31645..</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S E P A</author>
+</authors>
+<title>Light-Duty Automotive Technology, Carbon Dioxide emissions, and Fuel Economy Trends:</title>
+<date>1975</date>
+<journal>Final Rule, 40 CFR Parts</journal>
+<volume>86</volume>
+<pages>77872</pages>
+<note>Available at http://www.epa.gov/fedrgstr/EPA-AIR/2006/December/Day27/a9749.pdf.</note>
+<marker>A, 1975</marker>
+<rawString>U.S. E.P.A., Light-Duty Automotive Technology, Carbon Dioxide emissions, and Fuel Economy Trends: 1975 Through 2010, http://epa.gov/otaq/fetrends.htm Mayne, Eric, “Aligning Capacity, Demand Poses Ultimate Brain Teaser,” Wards Auto, July 29, 2008, http://www.epa.gov/air/benmap/models/BenMAPManualAppendicesAugust2010.pdf (See Appendix K) Economic and Other Assumptions Used in the Agencies&amp;apos; Analysis 1EPA, Final Rulemaking. Motor Vehicle Emissions Federal Test Procedure Revisions 10/1996. 61 FR at 54852 EPA, Fuel Economy Labeling of Motor Vehicles: Revisions To Improve Calculation of Fuel Economy Estimates; Final Rule, 40 CFR Parts 86 and 600, 71 Fed. Reg, 77872 (Dec. 27, 2006). Available at http://www.epa.gov/fedrgstr/EPA-AIR/2006/December/Day27/a9749.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Final EPA</author>
+</authors>
+<title>Technical Support Document: Fuel Economy Labeling of Motor Vehicle Revisions to Improve Calculation of Fuel Economy Estimates,</title>
+<date>2006</date>
+<journal>Office of Transportation and Air Quality</journal>
+<pages>420--06</pages>
+<location>Chapter II, http://www.epa.gov/fueleconomy/420r06017.pdf.</location>
+<marker>EPA, 2006</marker>
+<rawString>EPA, Final Technical Support Document: Fuel Economy Labeling of Motor Vehicle Revisions to Improve Calculation of Fuel Economy Estimates, Office of Transportation and Air Quality EPA420-R-06-017 December 2006, Chapter II, http://www.epa.gov/fueleconomy/420r06017.pdf.</rawString>
+</citation>
+<citation valid="true">
+<date>2010</date>
+<booktitle>EPA. E15 Waiver Decision,</booktitle>
+<pages>420--10</pages>
+<marker>2010</marker>
+<rawString>EPA. E15 Waiver Decision, EPA420-F-10-054. October 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Final EPA</author>
+</authors>
+<title>Technical Support Document: Fuel Economy Labeling of Motor Vehicle Revisions to Improve Calculation of Fuel Economy Estimates, at 70.</title>
+<date>2006</date>
+<journal>Office of Transportation and Air Quality</journal>
+<pages>420--06</pages>
+<location>Chapter II, http://www.epa.gov/fueleconomy/420r06017.pdf.</location>
+<marker>EPA, 2006</marker>
+<rawString>EPA, Final Technical Support Document: Fuel Economy Labeling of Motor Vehicle Revisions to Improve Calculation of Fuel Economy Estimates, at 70. Office of Transportation and Air Quality EPA420-R-06-017 December 2006, Chapter II, http://www.epa.gov/fueleconomy/420r06017.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S Lu</author>
+<author>NHTSA</author>
+</authors>
+<title>Regulatory Analysis and Evaluation Division, “Vehicle Survivability and Travel Mileage Schedules,”</title>
+<date>2006</date>
+<journal>DOT HS</journal>
+<volume>809</volume>
+<pages>8--11</pages>
+<marker>Lu, NHTSA, 2006</marker>
+<rawString>Lu, S., NHTSA, Regulatory Analysis and Evaluation Division, “Vehicle Survivability and Travel Mileage Schedules,” DOT HS 809 952, 8-11 (January 2006). Available at http://www-nrd.nhtsa.dot.gov/pdf/nrd-30/NCSA/Rpts/2006/809952.pdf (last accessed Sept. 9, 2011).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Highway FHWA</author>
+</authors>
+<title>Statistics, Summary to 1995, Table vm201at http://www.fhwa.dot.gov/ohim/summary95/vm201a.xlw , and annual editions 1996-2005,</title>
+<date>2007</date>
+<journal>Energy Policy,</journal>
+<tech>Technical Report 2: Econometric Studies”, UKERC/WP/TPA/2007/010,</tech>
+<volume>vol.</volume>
+<institution>UK Energy Research Centre,</institution>
+<location>London,</location>
+<marker>FHWA, 2007</marker>
+<rawString>FHWA, Highway Statistics, Summary to 1995, Table vm201at http://www.fhwa.dot.gov/ohim/summary95/vm201a.xlw , and annual editions 1996-2005, Sorrell, S. and J. Dimitropoulos, 2007. “UKERC Review of Evidence for the Rebound Effect, Technical Report 2: Econometric Studies”, UKERC/WP/TPA/2007/010, UK Energy Research Centre, London, October and Greening, L.A., D.L. Greene and C. Difiglio, 2000. “Energy Efficiency and Consumption – The Rebound Effect – A Survey”, Energy Policy, vol.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Steven Puller</author>
+<author>Lorna Greening</author>
+</authors>
+<title>Household Adjustment to Gasoline Price Change: An Analysis Using Nine Years of U.S. Survey Data.&amp;quot; Energy Economics 21(1):37-52. (Docket EPA-HQ-OAR-2010-0799)</title>
+<date>1999</date>
+<journal>The Energy Journal,</journal>
+<booktitle>in Transport Demand, Fuel Price Elasticities and Implications of the Oil Outlook for Transport Policy,&amp;quot; OECD/ITF Joint Transport Research Centre Discussion Papers 2007/16, OECD, International Transport Forum. (Docket</booktitle>
+<volume>28</volume>
+<pages>389--401</pages>
+<marker>Puller, Greening, 1999</marker>
+<rawString>28, pp. 389-401. (Docket EPA-HQ-OAR-2010-0799) Puller, Steven and Lorna Greening. 1999. “Household Adjustment to Gasoline Price Change: An Analysis Using Nine Years of U.S. Survey Data.&amp;quot; Energy Economics 21(1):37-52. (Docket EPA-HQ-OAR-2010-0799) Small, K. and K. Van Dender, 2007a. “Fuel Efficiency and Motor Vehicle Travel: The Declining Rebound Effect”, The Energy Journal, vol. 28, no. 1, pp. 25-51. (Docket EPA-HQOAR-2010-0799) Small, K. and K. Van Dender, 2007b. &amp;quot;Long Run Trends in Transport Demand, Fuel Price Elasticities and Implications of the Oil Outlook for Transport Policy,&amp;quot; OECD/ITF Joint Transport Research Centre Discussion Papers 2007/16, OECD, International Transport Forum. (Docket EPA-HQ-OAR-2010-0799) Hymel, Kent M., Kenneth A. Small, and Kurt Van Dender, “Induced demand and rebound effects in road transport,” Transportation Research Part B: Methodological, Volume 44, Issue 10, December 2010, Pages 1220-1241, ISSN 0191-2615, DOI: 10.1016/j.trb.2010.02.007.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>David 20Greene</author>
+<author>“Rebound</author>
+</authors>
+<title>Analysis of National Light-Duty Vehicle Travel Statistics,” February 9, 2010. This paper has been accepted for an upcoming special issue of Energy Policy, although the publication date has not yet been determined. (Docket EPA-HQ-OARDermot Gately,</title>
+<date>2007</date>
+<journal>The Energy Journal, International Association for Energy Economics,</journal>
+<volume>14</volume>
+<issue>4</issue>
+<pages>163--182</pages>
+<marker>20Greene, “Rebound, 2007</marker>
+<rawString>(Docket EPA-HQ-OAR-2010-0799) 20Greene, David, “Rebound 2007: Analysis of National Light-Duty Vehicle Travel Statistics,” February 9, 2010. This paper has been accepted for an upcoming special issue of Energy Policy, although the publication date has not yet been determined. (Docket EPA-HQ-OARDermot Gately, 1993. &amp;quot;The Imperfect Price-Reversibility of World Oil Demand,&amp;quot; The Energy Journal, International Association for Energy Economics, vol. 14(4), pages 163-182.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>FHWA</author>
+</authors>
+<title>Federal Highway Cost Allocation Study; http://www.fhwa.dot.gov/policy/hcas/final/index.htm (last accessed</title>
+<date>1997</date>
+<marker>FHWA, 1997</marker>
+<rawString>(Docket EPA-HQ-OAR-2010-0799) FHWA. 1997 Federal Highway Cost Allocation Study; http://www.fhwa.dot.gov/policy/hcas/final/index.htm (last accessed Sept. 9, 2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Federal Highway Administration</author>
+</authors>
+<title>Federal Highway Cost Allocation Study, http://www.fhwa.dot.gov/policy/hcas/final/index.htm,</title>
+<date>1997</date>
+<booktitle>Tables V-22, V-23, and V-24 (last accessed</booktitle>
+<marker>Administration, 1997</marker>
+<rawString>Federal Highway Administration, 1997 Federal Highway Cost Allocation Study, http://www.fhwa.dot.gov/policy/hcas/final/index.htm, Tables V-22, V-23, and V-24 (last accessed Sept. 9, 2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Annual Energy Review</title>
+<date>2008</date>
+<booktitle>Report No. DOE/EIA0384(2008), Tables 5.1 and 5.13c,</booktitle>
+<note>http://www.census.gov/foreign-trade/statistics/historical/gands.txt.</note>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Energy, Annual Energy Review 2008, Report No. DOE/EIA0384(2008), Tables 5.1 and 5.13c, June 26, 2009. http://www.census.gov/foreign-trade/statistics/historical/gands.txt.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Paul N Leiby</author>
+</authors>
+<title>Estimating the Energy Security Benefits of Reduced U.S. Oil Imports,&amp;quot; Oak Ridge National Laboratory, ORNL/TM-2007/028, Final Report,</title>
+<date>2008</date>
+<marker>Leiby, 2008</marker>
+<rawString>Leiby, Paul N. &amp;quot;Estimating the Energy Security Benefits of Reduced U.S. Oil Imports,&amp;quot; Oak Ridge National Laboratory, ORNL/TM-2007/028, Final Report, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Department of Defense</author>
+</authors>
+<title>Quadrennial Defense Review Report. Secretary of Defense: Washington,</title>
+<date>2010</date>
+<journal>D.C.</journal>
+<volume>128</volume>
+<pages>pages.</pages>
+<marker>Defense, 2010</marker>
+<rawString>U.S. Department of Defense. 2010. Quadrennial Defense Review Report. Secretary of Defense: Washington, D.C. 128 pages.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Defense, Speech: Remarks at the White House Energy Security Summit.</title>
+<date>2011</date>
+<tech>Tuesday,</tech>
+<marker>S, 2011</marker>
+<rawString>U.S. Department of Defense, Speech: Remarks at the White House Energy Security Summit. Tuesday, April 26, 2011.</rawString>
+</citation>
+<citation valid="true">
+<title>Last accessed May 31, Argonne National Laboratories, The Greenhouse Gas and Regulated Emissions from Transportation (GREET)</title>
+<date>1556</date>
+<journal>Model, Version</journal>
+<volume>1</volume>
+<note>available at http://greet.es.anl.gov/ (last accessed</note>
+<marker>1556</marker>
+<rawString>(http://www.defense.gov/speeches/speech.aspx?speechid=1556) (Last accessed May 31, Argonne National Laboratories, The Greenhouse Gas and Regulated Emissions from Transportation (GREET) Model, Version 1.8, June 2007, available at http://greet.es.anl.gov/ (last accessed Sept. 9, 2011). EPA. IPM. http://www.epa.gov/airmarkt/progsregs/epa-ipm/BaseCasev410.html.</rawString>
+</citation>
+<citation valid="false">
+<title>Proposed Transport Rule/NODA version&amp;quot; of IPM . The particular run (15b) is &amp;quot;Proposed Transport Rule&amp;quot; and it was specifically called at the web-site as TR_SB_Limited Trading v.4.10 Argonne National Laboratory’s The Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation (GREET) Model, Version 1.8c.0, available at http://www.transportation.anl.gov/modeling_simulation/GREET/).</title>
+<journal>EPA Docket</journal>
+<pages>2009--0472</pages>
+<marker></marker>
+<rawString>&amp;quot;Proposed Transport Rule/NODA version&amp;quot; of IPM . The particular run (15b) is &amp;quot;Proposed Transport Rule&amp;quot; and it was specifically called at the web-site as TR_SB_Limited Trading v.4.10 Argonne National Laboratory’s The Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation (GREET) Model, Version 1.8c.0, available at http://www.transportation.anl.gov/modeling_simulation/GREET/). EPA Docket EPA-HQOAR-2009-0472.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>eGrid</author>
+</authors>
+<title>2010, http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html Environmental Protection Agency.</title>
+<date>2006</date>
+<note>Available at http://www.epa.gov/ttn/ecas/ria.html.</note>
+<marker>eGrid, 2006</marker>
+<rawString>EPA. eGrid 2010, http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html Environmental Protection Agency. 2006. Final Regulatory Impact Analysis (RIA) for the Proposed National Ambient Air Quality Standards for Particulate Matter. Prepared by: Office of Air and Radiation. October 2006. Available at http://www.epa.gov/ttn/ecas/ria.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Regulatory Impact Analysis, Final Rulemaking to Establish Light-Duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards. Office of Transportation and Air Quality.</title>
+<date>2010</date>
+<marker>Agency, 2010</marker>
+<rawString>U.S. Environmental Protection Agency (U.S. EPA), 2010. Regulatory Impact Analysis, Final Rulemaking to Establish Light-Duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards. Office of Transportation and Air Quality.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>April</author>
+</authors>
+<title>Available at http://www.epa.gov/otaq/climate/regulations/420r10009.pdf. EPA-420-RU.S. Environmental Protection Agency</title>
+<date>2008</date>
+<booktitle>NC. Augues. Available on the Internet at &amp;lt; http://www.epa.gov/ttn/ecas/regdata/RIAs/portlandcementfinalria.pdf &amp;gt;. EPA-HQ-OARU.S. Environmental Protection Agency (U.S. EPA). 2010. Final NO2 NAAQS Regulatory Impact Analysis (RIA). Office of Air Quality Planning and Standards, Research Triangle Park, NC. April. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/RIAs/FinalNO2RIAfulldocument.pdf. Accessed</booktitle>
+<pages>2009--0472</pages>
+<location>NC.</location>
+<marker>April, 2008</marker>
+<rawString>April. Available at http://www.epa.gov/otaq/climate/regulations/420r10009.pdf. EPA-420-RU.S. Environmental Protection Agency (U.S. EPA). 2008. Regulatory Impact Analysis, 2008 National Ambient Air Quality Standards for Ground-level Ozone, Chapter 6. Office of Air Quality Planning and Standards, Research Triangle Park, NC. March. Available at &amp;lt;http://www.epa.gov/ttn/ecas/regdata/RIAs/6-ozoneriachapter6.pdf&amp;gt;. EPA-HQ-OAR-2009-0472-0238 U.S. Environmental Protection Agency (U.S. EPA). 2010. Regulatory Impact Analysis: National Emission Standards for Hazardous Air Pollutants from the Portland Cement Manufacturing Industry. Office of Air Quality Planning and Standards, Research Triangle Park, NC. Augues. Available on the Internet at &amp;lt; http://www.epa.gov/ttn/ecas/regdata/RIAs/portlandcementfinalria.pdf &amp;gt;. EPA-HQ-OARU.S. Environmental Protection Agency (U.S. EPA). 2010. Final NO2 NAAQS Regulatory Impact Analysis (RIA). Office of Air Quality Planning and Standards, Research Triangle Park, NC. April. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/RIAs/FinalNO2RIAfulldocument.pdf. Accessed March 15, 2010. EPA-HQ-OAR-2009-0472-0237 U.S. Environmental Protection Agency (U.S. EPA). 2008. Technical Support Document: Calculating Benefit Per-Ton estimates, Ozone NAAQS Docket #EPA-HQ-OAR-2007-0225-0284. Office of Air Quality Planning and Standards, Research Triangle Park, NC. March.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>C A Pope</author>
+<author>R T Burnett</author>
+<author>M J Thun</author>
+<author>E E Calle</author>
+<author>D Krewski</author>
+<author>K Ito</author>
+<author>G D Thurston</author>
+</authors>
+<title>Available on the Internet at EPA-HQ-OAR-2009-0472-0228</title>
+<date>2002</date>
+<journal>Journal of the American Medical Association</journal>
+<booktitle>Reduction in Fine Particulate Air Pollution and Mortality.” American Journal of Respiratory and Critical Care Medicine 173:667-672. Estimating the Public Health Benefits of Proposed Air Pollution Regulations.</booktitle>
+<volume>287</volume>
+<pages>2009--0472</pages>
+<publisher>The National Academies Press.</publisher>
+<institution>National Center for Environmental Economics, EPA.</institution>
+<location>Washington, DC:</location>
+<note>IPM. http://www.epa.gov/airmarkt/progsregs/epa-ipm/BaseCasev410.html.</note>
+<marker>Pope, Burnett, Thun, Calle, Krewski, Ito, Thurston, 2002</marker>
+<rawString>Available on the Internet at &amp;lt;http://www.regulations.gov&amp;gt;. EPA-HQ-OAR-2009-0472-0228 Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D. Krewski, K. Ito, and G.D. Thurston. 2002. “Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.” Journal of the American Medical Association 287:1132-1141. EPA-HQOAR-2009-0472-0263 Laden, F., J. Schwartz, F.E. Speizer, and D.W. Dockery. 2006. “Reduction in Fine Particulate Air Pollution and Mortality.” American Journal of Respiratory and Critical Care Medicine 173:667-672. Estimating the Public Health Benefits of Proposed Air Pollution Regulations. Washington, DC: The National Academies Press. EPA-HQ-OAR-2009-0472-Mrozek, J.R., and L.O. Taylor. 2002. “What Determines the Value of Life? A MetaAnalysis.” Journal of Policy Analysis and Management 21(2):253-270. EPA-HQ-OAR-2009-U.S. Environmental Protection Agency (U.S. EPA). 2000. Guidelines for Preparing Economic Analyses. EPA 240-R-00-003. National Center for Environmental Economics, EPA. IPM. http://www.epa.gov/airmarkt/progsregs/epa-ipm/BaseCasev410.html.</rawString>
+</citation>
+<citation valid="false">
+<title>Proposed Transport Rule/NODA version&amp;quot; of IPM . The particular run (15b) is &amp;quot;Proposed Transport Rule&amp;quot; and it was specifically called at the web-site as TR_SB_Limited Trading v.4.10 Docket ID EPA-HQ-OAR-2009-0472-114577, Technical Support Document: Social Cost of Carbon for Regulatory Impact Analysis Under Executive Order 12866, Interagency Working Group on Social Cost of Carbon, with participation by Council of Economic Advisers,</title>
+<date>2010</date>
+<journal>Council on Environmental</journal>
+<booktitle>Environmental Protection Agency, National Economic Council, Office of Energy and Climate Change, Office of Management and Budget, Office of Science and Technology Policy, and Department of Treasury</booktitle>
+<institution>Quality, Department of Agriculture, Department of Commerce, Department of Energy, Department of Transportation,</institution>
+<marker>2010</marker>
+<rawString>&amp;quot;Proposed Transport Rule/NODA version&amp;quot; of IPM . The particular run (15b) is &amp;quot;Proposed Transport Rule&amp;quot; and it was specifically called at the web-site as TR_SB_Limited Trading v.4.10 Docket ID EPA-HQ-OAR-2009-0472-114577, Technical Support Document: Social Cost of Carbon for Regulatory Impact Analysis Under Executive Order 12866, Interagency Working Group on Social Cost of Carbon, with participation by Council of Economic Advisers, Council on Environmental Quality, Department of Agriculture, Department of Commerce, Department of Energy, Department of Transportation, Environmental Protection Agency, National Economic Council, Office of Energy and Climate Change, Office of Management and Budget, Office of Science and Technology Policy, and Department of Treasury (February 2010). Also available at http://epa.gov/otaq/climate/regulations.htm 60 See http://ostpxweb.dot.gov/policy/Data/VOT97guid.pdf and http://ostpxweb.dot.gov/policy/Data/VOTrevision1_2-11-03.pdf (last accessed 07/18/2011).</rawString>
+</citation>
+<citation valid="true">
+<title>Office of Management and Budget, Circular A-4,</title>
+<date>2003</date>
+<journal>Regulatory Analysis,” September</journal>
+<volume>17</volume>
+<pages>33</pages>
+<note>Available at http://www.whitehouse.gov/omb/circulars/a004/a-4.pdf (last accessed</note>
+<marker>2003</marker>
+<rawString>Office of Management and Budget, Circular A-4, “Regulatory Analysis,” September 17, 2003, 33. Available at http://www.whitehouse.gov/omb/circulars/a004/a-4.pdf (last accessed July 24, 2009).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Air Conditioning</author>
+</authors>
+<title>Off-Cycle Credits, and Other Flexibilities provisions of 40 CFR 1037.140. Air Conditioning, Off-Cycle Credits, and Other Flexibilities 5-77 4. Minimum Payload Capability – the vehicle must have a GVWR (gross vehicle weight rating) minus curb weight value of at least 1,700 pounds. EPA is seeking comment on expanding the definition of a full-size truck by reducing the minimum wheelhouse width requirement from 48 inches to a value around 42 inches, provided the vehicle is able to tow at least 6,000 lbs. Note that this is 1,000 lbs higher than requirement 3,</title>
+<pages>above.</pages>
+<marker>Conditioning, </marker>
+<rawString>Air Conditioning, Off-Cycle Credits, and Other Flexibilities provisions of 40 CFR 1037.140. Air Conditioning, Off-Cycle Credits, and Other Flexibilities 5-77 4. Minimum Payload Capability – the vehicle must have a GVWR (gross vehicle weight rating) minus curb weight value of at least 1,700 pounds. EPA is seeking comment on expanding the definition of a full-size truck by reducing the minimum wheelhouse width requirement from 48 inches to a value around 42 inches, provided the vehicle is able to tow at least 6,000 lbs. Note that this is 1,000 lbs higher than requirement 3, above.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W Schwarz</author>
+<author>J Harnisch</author>
+</authors>
+<title>Establishing Leakage Rates of Mobile Air Conditioners,” Prepared for the European Commission (DG Environment), Doc B4-3040/2002/337136/MAR/C1. This document is available in Docket</title>
+<date>2003</date>
+<booktitle>5.3.2 Hybrid Pickup Technology 5.3.2.1 Mild Hybrid Pickup Technology</booktitle>
+<pages>2009--0472</pages>
+<marker>Schwarz, Harnisch, 2003</marker>
+<rawString>5.3.2 Hybrid Pickup Technology 5.3.2.1 Mild Hybrid Pickup Technology Schwarz, W., Harnisch, J. 2003, “Establishing Leakage Rates of Mobile Air Conditioners,” Prepared for the European Commission (DG Environment), Doc B4-3040/2002/337136/MAR/C1. This document is available in Docket EPA-HQ-OAR-2009-0472-0157.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>R Vincent</author>
+<author>K Cleary</author>
+<author>A Ayala</author>
+<author>R Corey</author>
+</authors>
+<title>This document is available in Docket</title>
+<date>2004</date>
+<booktitle>Emissions of HFC-134a from Light-Duty Vehicles in California,” SAE</booktitle>
+<pages>2004--01</pages>
+<marker>Vincent, Cleary, Ayala, Corey, 2004</marker>
+<rawString>Vincent, R., Cleary, K., Ayala, A., Corey, R., “Emissions of HFC-134a from Light-Duty Vehicles in California,” SAE 2004-01-2256, 2004. This document is available in Docket EPA-HQ-OAR-2009-0472-0186.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>EPA</author>
+</authors>
+<title>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2007,” http://www.epa.gov/climatechange/emissions/usinventoryreport.html. This document is available in Docket</title>
+<date>2009</date>
+<pages>2009--0472</pages>
+<marker>EPA, 2009</marker>
+<rawString>EPA, 2009, “Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2007,” http://www.epa.gov/climatechange/emissions/usinventoryreport.html. This document is available in Docket EPA-HQ-OAR-2009-0472.</rawString>
+</citation>
+<citation valid="true">
+<title>General Motors Press Release, “GM First to Market Greenhouse Gas-Friendly Air Conditioning Refrigerant</title>
+<date>2010</date>
+<booktitle>in U.S.,”</booktitle>
+<marker>2010</marker>
+<rawString>General Motors Press Release, “GM First to Market Greenhouse Gas-Friendly Air Conditioning Refrigerant in U.S.,” July 23, 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>C Malvicino</author>
+<author>R Seccardini</author>
+</authors>
+<title>B-COOL Project – Ford Ka adn Fiat Panda</title>
+<date>2009</date>
+<booktitle>R-744 MAC Systems,” SAE</booktitle>
+<pages>2009--01</pages>
+<marker>Malvicino, Seccardini, 2009</marker>
+<rawString>Malvicino, C., Seccardini, R,, et al, “B-COOL Project – Ford Ka adn Fiat Panda R-744 MAC Systems,” SAE 2009-01-0967, 2009. Ghodbane, M., Craig, T., Baker, J., “Demonstration of Energy-Efficient Secondary Loop HFC-152a Mobile Air Conditioning System – Final Report,” U.S. Environmental Protection Agency Report EP07H001055, http://www.epa.gov/cpd/mac/152a/EPASec%20Loop_07Jan08.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M Ghodbane</author>
+<author>J Baker</author>
+<author>P Kadle</author>
+</authors>
+<title>Potential Applications of R-152a Refrigerant</title>
+<date>2004</date>
+<booktitle>in Vehicle Climate Control Part II,” SAE</booktitle>
+<pages>2004--01</pages>
+<marker>Ghodbane, Baker, Kadle, 2004</marker>
+<rawString>Ghodbane, M., Baker, J., Kadle, P., “Potential Applications of R-152a Refrigerant in Vehicle Climate Control Part II,” SAE 2004-01-0918, 2004.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>E Peral-Antunez</author>
+</authors>
+<title>Recent Experiences</title>
+<date>2011</date>
+<booktitle>in MAC System Development – New Alternative Refrigerant Assessment Technical Update,” SAE Alternative Refrigerant System Efficiency Symposium,</booktitle>
+<location>Scottsdale, AZ,</location>
+<marker>Peral-Antunez, 2011</marker>
+<rawString>Peral-Antunez, E., “Recent Experiences in MAC System Development – New Alternative Refrigerant Assessment Technical Update,” SAE Alternative Refrigerant System Efficiency Symposium, Scottsdale, AZ, September 28, 2011.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>X Li</author>
+</authors>
+<title>Alternative Refrigerant AC6 Performance Evaluation and Optimization Potential,” SAE Alternative Refrigerant System Efficiency Symposium,</title>
+<date>2011</date>
+<location>Scottsdale, AZ,</location>
+<marker>Li, 2011</marker>
+<rawString>Li, X., “Alternative Refrigerant AC6 Performance Evaluation and Optimization Potential,” SAE Alternative Refrigerant System Efficiency Symposium, Scottsdale, AZ, September 28, 2011.</rawString>
+</citation>
+<citation valid="true">
+<title>Society of Automotive Engineers Surface Vehicle Standard J2727, issued</title>
+<date>2008</date>
+<pages>2009--0472</pages>
+<contexts>
+<context position="45529" citStr="(2008)" startWordPosition="6814" endWordPosition="6814">% 0% 0% 0% 0% 0% 0% Tata/JLR Cars 0% 0% 0% 100% 0% 0% 76% 24% 0% 0% 0% 0% Tata/JLR Trucks 0% 20% 0% 100% 0% 0% 0% 100% 0% 0% 0% 0% Tesla Cars 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% Tesla Trucks 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% Toyota Cars 0% 0% 0% 100% 0% 0% 29% 71% 0% 0% 0% 8% Toyota Trucks 0% 0% 0% 100% 0% 0% 61% 39% 0% 0% 0% 6% Volkswagen Cars 43% 0% 85% 15% 0% 0% 48% 0% 0% 1% 0% 89% Volkswagen Trucks 1% 0% 0% 100% 0% 0% 99% 0% 0% 79% 0% 100% The data in Table 1-2 indicates that manufacturers had already begun implementing a number of fuel economy/GHG reduction technologies in the baseline (2008) fleet. For example, VW stands out as having a significant number of turbocharged direct injection engines, though it is uncertain whether their engines are also downsized. Some of the valve and cam technologies are quite common in the baseline fleet: for example, nearly half the baseline fleet already has dual cam phasing, while Honda and GM have considerable levels of engines with cylinder deactivation. Honda also has already implemented continuously variable valve lift on a majority of their engines. Part of the implication of these technologies already being present in the baseline is that</context>
+</contexts>
+<marker>2008</marker>
+<rawString>Society of Automotive Engineers Surface Vehicle Standard J2727, issued August, 2008, http://www.sae.org. This document is available in Docket EPA-HQ-OAR-2009-0472-0160.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>State of California</author>
+</authors>
+<title>Manufacturers Advisory Correspondence MAC #2009-01, “Implementation of the New Environmental Performance Label,” http://www.arb.ca.gov/msprog/macs/mac0901/mac0901.pdf. This document is available in Docket</title>
+<pages>2009--0175</pages>
+<marker>California, </marker>
+<rawString>State of California, Manufacturers Advisory Correspondence MAC #2009-01, “Implementation of the New Environmental Performance Label,” http://www.arb.ca.gov/msprog/macs/mac0901/mac0901.pdf. This document is available in Docket EPA-HQ-OAR-2009-0175.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Air Conditioning</author>
+</authors>
+<title>Off-Cycle Credits, and Other Flexibilities 5-85 State of Minnesota, “Reporting Leakage Rates of HFC-134a from Mobile Air Conditioners,” http://www.pca.state.mn.us/climatechange/mac-letter-082908.pdf. This document is available in Docket</title>
+<pages>2009--0472</pages>
+<marker>Conditioning, </marker>
+<rawString>Air Conditioning, Off-Cycle Credits, and Other Flexibilities 5-85 State of Minnesota, “Reporting Leakage Rates of HFC-134a from Mobile Air Conditioners,” http://www.pca.state.mn.us/climatechange/mac-letter-082908.pdf. This document is available in Docket EPA-HQ-OAR-2009-0472-0178.</rawString>
+</citation>
+<citation valid="false">
+<title>Office of Energy Efficiency and Renewable Energy, U.S. Department of Energy, “Transportation Energy Data Book: Edition 27,” 2008. This document is available in Docket EPA-HQ-OAR-2009-0472 EPA, “Fuel Economy Labeling of Motor Vehicle Revisions to Improve Calculation of Fuel Economy Estimates -</title>
+<date>2006</date>
+<journal>Final Technical Support Document,”</journal>
+<volume>179</volume>
+<pages>2--1</pages>
+<marker>2006</marker>
+<rawString>Office of Energy Efficiency and Renewable Energy, U.S. Department of Energy, “Transportation Energy Data Book: Edition 27,” 2008. This document is available in Docket EPA-HQ-OAR-2009-0472 EPA, “Fuel Economy Labeling of Motor Vehicle Revisions to Improve Calculation of Fuel Economy Estimates - Final Technical Support Document,” 179 pp, 2.1MB, EPA420-R-06-017, December, 2006. This document is available in Docket EPA-HQ-OAR-2009-0472.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Ikegama</author>
+<author>K Kikuchi</author>
+<author>“Field</author>
+</authors>
+<title>Test Results and Correlation with</title>
+<date>2006</date>
+<booktitle>SAEJ2727,” Proceedings of the SAE 7th Alternative Refrigerant Systems Symposium,</booktitle>
+<pages>2009--0472</pages>
+<marker>Ikegama, Kikuchi, “Field, 2006</marker>
+<rawString>Ikegama, T., Kikuchi, K., “Field Test Results and Correlation with SAEJ2727,” Proceedings of the SAE 7th Alternative Refrigerant Systems Symposium, 2006. This document is available in Docket EPA-HQ-OAR-2009-0472.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W Atkinson</author>
+<author>J Baker</author>
+<author>T Ikegami</author>
+<author>P Nickels</author>
+</authors>
+<title>Revised SAEJ2727: SAE Interior Climate Control Standards Committee Presentation to the European Commission,”</title>
+<date>2006</date>
+<marker>Atkinson, Baker, Ikegami, Nickels, 2006</marker>
+<rawString>Atkinson, W., Baker, J., Ikegami, T., Nickels, P., “Revised SAEJ2727: SAE Interior Climate Control Standards Committee Presentation to the European Commission,” 2006.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>A Burnette</author>
+<author>R Baker</author>
+</authors>
+<title>This document is available in Docket EPA-HQ-OAR-2009-0472.</title>
+<booktitle>A Study of R134a Leaks in Heavy Duty Equipment,” CARB Contract No. 06-342,</booktitle>
+<pages>3--3</pages>
+<marker>Burnette, Baker, </marker>
+<rawString>This document is available in Docket EPA-HQ-OAR-2009-0472. Burnette, A., Baker, R., “A Study of R134a Leaks in Heavy Duty Equipment,” CARB Contract No. 06-342, http://www.arb.ca.gov/research/seminars/baker3/baker3.pdf.</rawString>
+</citation>
+<citation valid="true">
+<title>Society of Automotive Engineers, “IMAC Team 1 – Refrigerant Leakage Reduction, Final Report to Sponsors,”</title>
+<date>2006</date>
+<pages>2009--0472</pages>
+<marker>2006</marker>
+<rawString>Society of Automotive Engineers, “IMAC Team 1 – Refrigerant Leakage Reduction, Final Report to Sponsors,” 2006. This document is available in Docket EPA-HQ-OAR-2009-0472-0188.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Minnesota Pollution</author>
+</authors>
+<title>Control Agency, “Model Year</title>
+<date>2009</date>
+<booktitle>Leakage Rate List,” http://www.pca.state.mn.us/climatechange/mobileair.html. This document is available in Docket</booktitle>
+<pages>2009--0472</pages>
+<marker>Pollution, 2009</marker>
+<rawString>Minnesota Pollution Control Agency, “Model Year 2009 Leakage Rate List,” http://www.pca.state.mn.us/climatechange/mobileair.html. This document is available in Docket EPA-HQ-OAR-2009-0472-0161.</rawString>
+</citation>
+<citation valid="true">
+<title>This document is available in Docket</title>
+<date>2007</date>
+<booktitle>Society of Automotive Engineers, “IMAC Team 4 – Reducing Refrigerant Emissions at Service and Vehicle End of Life,”</booktitle>
+<pages>2009--0472</pages>
+<marker>2007</marker>
+<rawString>Society of Automotive Engineers, “IMAC Team 4 – Reducing Refrigerant Emissions at Service and Vehicle End of Life,” June, 2007. This document is available in Docket EPAHQ-OAR-2009-0472.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>“AC Triage</author>
+</authors>
+<title>Ensuring Replacement Compressor Survival,</title>
+<booktitle>AC Delco Tech Connect, Volume 12, Number 5, January/February, 2005, http://www.airsept.com/Articles/CompressorGuard/ACDelcoTechConnectJanFeb05.pdf. This document is available in Docket EPA-HQ-OAR-2009-0472-0167. This document is available in Docket</booktitle>
+<pages>2009--0472</pages>
+<marker>Triage, </marker>
+<rawString>“A/C Triage – Ensuring Replacement Compressor Survival, “ AC Delco Tech Connect, Volume 12, Number 5, January/February, 2005, http://www.airsept.com/Articles/CompressorGuard/ACDelcoTechConnectJanFeb05.pdf. This document is available in Docket EPA-HQ-OAR-2009-0472-0167. This document is available in Docket EPA-HQ-OAR-2009-0472-0167.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Air Conditioning</author>
+<author>Off-Cycle Credits</author>
+<author>Other Flexibilities</author>
+</authors>
+<title>Fuel Used for Vehicle Air Conditioning: A State-by-State Thermal ComfortBased Approach,”</title>
+<date>2002</date>
+<journal>SAE</journal>
+<pages>2002--01</pages>
+<marker>Conditioning, Credits, Flexibilities, 2002</marker>
+<rawString>Air Conditioning, Off-Cycle Credits, and Other Flexibilities 5-86 Johnson, V., “Fuel Used for Vehicle Air Conditioning: A State-by-State Thermal ComfortBased Approach,” SAE 2002-01-1957, 2002. This document is available in Docket EPA-HQOAR-2009-0472-0179.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Rugh</author>
+<author>V Johnson</author>
+<author>S Andersen</author>
+</authors>
+<title>Significant Fuel Savings and Emission Reductions by Improving Vehicle Air Conditioning,” Mobile Air Conditioning Summit,</title>
+<date>2004</date>
+<pages>2009--0472</pages>
+<location>Washington DC.,</location>
+<marker>Rugh, Johnson, Andersen, 2004</marker>
+<rawString>Rugh, J., Johnson, V., Andersen, S., “Significant Fuel Savings and Emission Reductions by Improving Vehicle Air Conditioning,” Mobile Air Conditioning Summit, Washington DC., April 14-15, 2004. This document is available in Docket EPA-HQ-OAR-2009-0472-0179.</rawString>
+</citation>
+<citation valid="false">
+<title>California Environmental Protection Agency Air Resources Board, “STAFF REPORT: Initial statement of reasons for proposed rulemaking, public hearing to consider adoption of regulations to control greenhouse gas emissions from motor vehicles,” 2004. This document is available in Docket</title>
+<pages>2009--0472</pages>
+<marker></marker>
+<rawString>California Environmental Protection Agency Air Resources Board, “STAFF REPORT: Initial statement of reasons for proposed rulemaking, public hearing to consider adoption of regulations to control greenhouse gas emissions from motor vehicles,” 2004. This document is available in Docket EPA-HQ-OAR-2009-0472.</rawString>
+</citation>
+<citation valid="true">
+<title>Reducing Greenhouse Gas Emissions from Light-Duty Motor Vehicles,” Northeast States Center for a Clean Air Future,</title>
+<date>2004</date>
+<pages>2009--0472</pages>
+<marker>2004</marker>
+<rawString>“Reducing Greenhouse Gas Emissions from Light-Duty Motor Vehicles,” Northeast States Center for a Clean Air Future, September, 2004. This document is available in Docket EPAHQ-OAR-2009-0472.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S Lee</author>
+<author>B Lee</author>
+<author>H Zheng</author>
+<author>C Sze</author>
+<author>L Quinones</author>
+<author>J Sanchez</author>
+</authors>
+<title>Development of Greenhouse Gas Emissions Model for 2014-2017 Heavy-</title>
+<date>2011</date>
+<journal>SAE Paper</journal>
+<booktitle>and Medium-Duty Vehicle Compliance,” SAE 2011 Commercial Vehicle Engineering Congress,</booktitle>
+<pages>2011--01</pages>
+<location>Chicago,</location>
+<marker>Lee, Lee, Zheng, Sze, Quinones, Sanchez, 2011</marker>
+<rawString>Lee, S., Lee, B., Zheng, H., Sze, C., Quinones, L., and Sanchez, J., “Development of Greenhouse Gas Emissions Model for 2014-2017 Heavy- and Medium-Duty Vehicle Compliance,” SAE 2011 Commercial Vehicle Engineering Congress, Chicago, September 2011, SAE Paper 2011-01-2188.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W O Forrest</author>
+</authors>
+<title>Air Conditioning and Gas Guzzler Tax Credits,” Society of Automotive Engineers,</title>
+<date>2002</date>
+<journal>SAE Paper</journal>
+<booktitle>International Congress &amp; Exposition,</booktitle>
+<pages>2002--01</pages>
+<location>Detroit, Michigan,</location>
+<marker>Forrest, 2002</marker>
+<rawString>Forrest, W.O., “Air Conditioning and Gas Guzzler Tax Credits,” Society of Automotive Engineers, International Congress &amp; Exposition, Detroit, Michigan, March 2002, SAE Paper 2002-01-1958.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W O Forrest</author>
+<author>M S Bhatti</author>
+</authors>
+<title>Energy Efficient Automotive Air Conditioning System,” Society of Automotive Engineers,</title>
+<date>2002</date>
+<journal>SAE Paper</journal>
+<booktitle>International Congress &amp; Exposition,</booktitle>
+<pages>2002--01</pages>
+<location>Detroit, Michigan,</location>
+<marker>Forrest, Bhatti, 2002</marker>
+<rawString>Forrest, W.O. and Bhatti, M.S., “Energy Efficient Automotive Air Conditioning System,” Society of Automotive Engineers, International Congress &amp; Exposition, Detroit, Michigan, March 2002, SAE Paper 2002-01-0229.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>V H Johnson</author>
+</authors>
+<title>Fuel Used for Vehicle Air Condition: A State-by-State Thermal ComfortBased Approach,”</title>
+<date>2002</date>
+<journal>Society of Automotive Engineers, International Congress &amp; Exposition,</journal>
+<pages>2002--01</pages>
+<location>Detroit, Michigan,</location>
+<marker>Johnson, 2002</marker>
+<rawString>Johnson, V.H., “Fuel Used for Vehicle Air Condition: A State-by-State Thermal ComfortBased Approach,” Society of Automotive Engineers, International Congress &amp; Exposition, Detroit, Michigan, March 2002, SAE Paper 2002-01-1957.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J P Rugh</author>
+<author>V Hovland</author>
+<author>S O Andersen</author>
+</authors>
+<title>Significant Fuel Savings and Emissions Reductions by Improving Vehicle Air</title>
+<date>2004</date>
+<booktitle>Conditioning,” Presentation at the 15th Annual Earth Technologies Forum and Mobile Air Conditioning Summit,</booktitle>
+<marker>Rugh, Hovland, Andersen, 2004</marker>
+<rawString>Rugh, J.P., Hovland, V., Andersen, S.O., “Significant Fuel Savings and Emissions Reductions by Improving Vehicle Air Conditioning,” Presentation at the 15th Annual Earth Technologies Forum and Mobile Air Conditioning Summit, April 15, 2004.</rawString>
+</citation>
+<citation valid="true">
+<title>Northeast States Center for a Clean Air Future, “Reducing Greenhouse Gas Emissions from Light-Duty Motor Vehicles,”</title>
+<date>2004</date>
+<marker>2004</marker>
+<rawString>Northeast States Center for a Clean Air Future, “Reducing Greenhouse Gas Emissions from Light-Duty Motor Vehicles,” September, 2004.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>EPA</author>
+<author>“Light-Duty DOT</author>
+</authors>
+<title>Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards: Final Rule,”</title>
+<date>2010</date>
+<marker>EPA, DOT, 2010</marker>
+<rawString>EPA and DOT, “Light-Duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards: Final Rule,” May 7, 2010.</rawString>
+</citation>
+<citation valid="true">
+<date>2006</date>
+<journal>Society of Automotive Engineers, “IMAC Team 2 – Improved Efficiency, Final Report,”</journal>
+<marker>2006</marker>
+<rawString>Society of Automotive Engineers, “IMAC Team 2 – Improved Efficiency, Final Report,” April 2006.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Air Conditioning</author>
+</authors>
+<title>Off-Cycle Credits, and Other Flexibilities 5-87 Society of Automotive Engineers Surface Vehicle Standard J2765, issued</title>
+<date>2008</date>
+<pages>2009--0472</pages>
+<marker>Conditioning, 2008</marker>
+<rawString>Air Conditioning, Off-Cycle Credits, and Other Flexibilities 5-87 Society of Automotive Engineers Surface Vehicle Standard J2765, issued October, 2008, http://www.sae.org. This document is available in Docket EPA-HQ-OAR-2009-0472-0171.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Al</author>
+</authors>
+<title>This document is available in Docket</title>
+<date>2003</date>
+<journal>CFD Study of Phase Separators in A/C Automotive Systems,” SAE</journal>
+<pages>2003--01</pages>
+<marker>Al, 2003</marker>
+<rawString>Barbat, T. et. Al., “CFD Study of Phase Separators in A/C Automotive Systems,” SAE 2003-01-0736, 2003. This document is available in Docket EPA-HQ-OAR-2009-0472-0187.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M Bradfield</author>
+</authors>
+<title>Improving Alternator Efficiency Measurably Reduces Fuel Costs”,</title>
+<date>2008</date>
+<publisher>Remy, Inc.,</publisher>
+<marker>Bradfield, 2008</marker>
+<rawString>Bradfield, M., “Improving Alternator Efficiency Measurably Reduces Fuel Costs”, Remy, Inc., 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>B Schoettle</author>
+</authors>
+<title>LEDS and Power Consumption of Exterior Automotive Lighting: Implications for Gasoline and Electric Vehicles,”</title>
+<date>2008</date>
+<institution>University of Michigan Transportation Research Institute,</institution>
+<marker>Schoettle, 2008</marker>
+<rawString>Schoettle, B., et al., “LEDS and Power Consumption of Exterior Automotive Lighting: Implications for Gasoline and Electric Vehicles,” University of Michigan Transportation Research Institute, October, 2008.</rawString>
+</citation>
+<citation valid="true">
+<title>Air Resources Board, Draft Manufacturer’s Advisory Correspondence – Optional Test Procedure for Certifying Model-Year</title>
+<date>2016</date>
+<institution>State of California</institution>
+<marker>2016</marker>
+<rawString>State of California Air Resources Board, Draft Manufacturer’s Advisory Correspondence – Optional Test Procedure for Certifying Model-Year 2016 and Later Vehicles Under the Cool Cars Alternative Performance Compliance Option, March 3, 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Rugh</author>
+<author>R Farrington</author>
+</authors>
+<title>Vehicle Ancillary Load Reduction Project Close-Out Report,” National Renewable Energy Laboratory</title>
+<date>2008</date>
+<tech>Technical Report NREL/TP-540-42454,</tech>
+<marker>Rugh, Farrington, 2008</marker>
+<rawString>Rugh, J., Farrington, R. “Vehicle Ancillary Load Reduction Project Close-Out Report,” National Renewable Energy Laboratory Technical Report NREL/TP-540-42454, January, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Rugh</author>
+</authors>
+<date>2007</date>
+<booktitle>Reduction in Vehicle Temperatures and Fuel Use from Cabin Ventilation, Solar-Reflective Paint, and New Solar-Reflective Glazing,” SAE</booktitle>
+<pages>2007--01</pages>
+<marker>Rugh, 2007</marker>
+<rawString>Rugh, J., et al., “Reduction in Vehicle Temperatures and Fuel Use from Cabin Ventilation, Solar-Reflective Paint, and New Solar-Reflective Glazing,” SAE 2007-01-1194, 2007.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

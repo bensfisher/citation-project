@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Benefits Program</author>
+</authors>
+<marker>Program, </marker>
+<rawString> Benefits Program.</rawString>
+</citation>
+<citation valid="false">
+<title>For purposes of this paragraph</title>
+<marker>(iii)</marker>
+<rawString>For purposes of this paragraph</rawString>
+</citation>
+<citation valid="false">
+<title>a covered drug does not include:</title>
+<contexts>
+<context position="10597" citStr="(q)" startWordPosition="1686" endWordPosition="1686"> all prescriptions filled through the Retail Pharmacy Network, permitting an accurate accounting of all retail network pharmaceuticals paid for by DoD under the TRICARE Pharmacy Benefits Program. Since the beginning of the FCP program, outpatient pharmaceuticals provided by DoD through MTF pharmacies have been subject to FCPs, as have those under the TMOP program since it began. Implementation of similar applicability to the TRICARE Retail Pharmacy Network component of the Program is the subject of this proposed regulation. B. Provisions of the Rule The proposed rule would add a new paragraph (q) to § 199.21. Paragraph (q)(1) repeats the new statutory requirement. Paragraph (q)(2) provides that an agreement by a manufacturer to honor the FCPs in the Retail Pharmacy Network component of the Pharmacy Benefits Program is a condition of inclusion of a drug on the uniform formulary. Further, it states that a drug not under such an agreement requires preauthorization to be provided through the Retail Pharmacy Network. In addition, it indicates that drugs covered by this requirement are TRICARE Retail Pharmacy Network provided drugs that are covered by the VA’s FCP program, except any prescr</context>
+<context position="11884" citStr="(q)" startWordPosition="1879" endWordPosition="1879">D proposes in this rulemaking to enter into voluntary agreements with manufacturers that would make prescriptions filled on or after the date of enactment of NDAA–08 subject to FCPs, the Department solicits comment regarding any other appropriate and legally permissible implementation approach and/or date from which to begin making prescriptions filled in the Retail Pharmacy Network subject to FCPs. DoD is specifically interested in the legal justification, including under section 703 of NDAA–08, for any alternative implementation approaches and/or dates that commenters may propose. Paragraph (q)(3) establishes refund procedures to, in the words of the statute, ‘‘ensure that pharmaceuticals paid for by the DoD that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards’’ of the FCP program. The refund procedures will, to the extent practicable, incorporate common industry practices for implementing pricing agreements between manufacturers and large pharmacy benefit plan sponsors. Such procedures shall provide the manufacturer at least 70 days from the date of submission by TMA to the manufacturer (initiall</context>
+<context position="13282" citStr="(q)" startWordPosition="2091" endWordPosition="2091">ce between the average non-federal price of the drug sold by the manufacturer to wholesalers, as represented by the most recent annual non-FAMP (reported to VA) and the FCP or, in the discretion of the manufacturer, the difference between FCP and direct commercial contract sales prices specifically attributable to TRICARE paid pharmaceuticals, determined for each applicable National Drug Code (NDC) listing. Further, this paragraph of the rule provides that a refund due under the statute is subject to the overpayment recovery procedures of § 199.11 of the TRICARE regulation. Finally, paragraph (q)(4) states that in the case of the failure of a manufacturer of a covered drug to make or honor an agreement to ensure that DoD pays no more than the FCP for covered drugs provided through the TRICARE Retail Pharmacy Network component of the program, the Director, TMA, in addition VerDate Aug&lt;31&amp;gt;2005 16:33 Jul 24, 2008 Jkt 214001 PO 00000 Frm 00022 Fmt 4702 Sfmt 4702 E:\FR\FM\25JYP1.SGM 25JYP1jle nti ni on P RO D1 PC 65 w ith P RO PO SA LS 43396 Federal Register / Vol. 73, No. 144 / Friday, July 25, 2008 / Proposed Rules to other actions referred to in the rule, may take any other action autho</context>
+<context position="20094" citStr="(q)" startWordPosition="3146" endWordPosition="3146">National Government and the States; or the distribution of power and responsibilities among the various levels of Government. Public Comments Invited This is a proposed rule. DoD invites public comments on all of its provisions. List of Subjects in 32 CFR Part 199 Claims, Health care, Health insurance, Military personnel, Pharmacy benefits. Accordingly, 32 CFR part 199 is proposed to be amended as follows: PART 199—[AMENDED] 1. The authority citation for part 199 continues to read as follows: Authority: 5 U.S.C. 301; 10 U.S.C. chapter 55. 2. Section 199.21 is amended by adding a new paragraph (q), to read as follows: § 199.21. Pharmacy Benefits Program. * * * * * (q) Pricing standards for retail pharmacy program.—(1) Statutory requirement.—As required by 10 U.S.C. 1074g(f), with respect to any prescription filled on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, the TRICARE retail pharmacy program shall be treated as an element of the VerDate Aug&lt;31&amp;gt;2005 16:33 Jul 24, 2008 Jkt 214001 PO 00000 Frm 00023 Fmt 4702 Sfmt 4702 E:\FR\FM\25JYP1.SGM 25JYP1jle nti ni on P RO D1 PC 65 w ith P RO PO SA LS 43397 Federal Register / Vol. 73, No. 14</context>
+</contexts>
+<marker>(q)</marker>
+<rawString>(2), a covered drug does not include:</rawString>
+</citation>
+<citation valid="false">
+<title>A drug that is not a covered drug under 38</title>
+<pages>8126</pages>
+<marker>(A)</marker>
+<rawString>A drug that is not a covered drug under 38 U.S.C. 8126;</rawString>
+</citation>
+<citation valid="false">
+<title>A drug provided under a prescription that is not covered by 10 U.S.C.</title>
+<tech>1074g(f);</tech>
+<marker>(B)</marker>
+<rawString>A drug provided under a prescription that is not covered by 10 U.S.C. 1074g(f);</rawString>
+</citation>
+<citation valid="false">
+<title>A drug that is not provided through a retail network pharmacy under this section;</title>
+<marker>(C)</marker>
+<rawString>A drug that is not provided through a retail network pharmacy under this section;</rawString>
+</citation>
+<citation valid="false">
+<title>Any pharmaceutical for which the TRICARE Pharmacy Benefits Program is the second payer under paragraph (m) of this section; and</title>
+<contexts>
+<context position="3189" citStr="(D)" startWordPosition="555" endWordPosition="555">umer or user of the article, who obtains the article after the processing, will be regarded as the ‘‘ultimate purchaser.’’ * * * * * 24. Section 134.35 is revised to read as follows: § 134.35 Articles effecting a change in country of origin. If an imported article will be used in further processing in the United States, the processor will be considered the ultimate purchaser if the processed good is determined to be a good of the United States under §§ 102.1 through 102.21 of this chapter. In such a case, the imported article is excepted from individual marking pursuant to 19 U.S.C. 1304(a)(3)(D) and § 134.32(d) of this part, provided the outermost container in which it is imported will reasonably indicate the country of origin of the article to the ultimate purchaser. PART 177–ADMINISTRATIVE RULINGS 25. The authority citation for part 177 continues to read as follows: Authority: 5 U.S.C. 301, 19 U.S.C. 66, 1202 (General Note 3(i), Harmonized Tariff Schedule of the United States), 1502, 1624, 1625. 26. Section 177.22 is amended by revising paragraph (a) to read as follows: § 177.22 Definitions. (a) Country of origin. (1) For purposes of this subpart, an article is a product of a count</context>
+</contexts>
+<marker>(D)</marker>
+<rawString>Any pharmaceutical for which the TRICARE Pharmacy Benefits Program is the second payer under paragraph (m) of this section; and</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Any other</author>
+</authors>
+<title>exception, consistent with law, established by the Director,</title>
+<date>2008</date>
+<booktitle>OSD Federal Register Liaison Officer, Department of Defense. [FR Doc. E8–17024 Filed 7–24–08; 8:45 am]</booktitle>
+<location>TMA. Dated:</location>
+<marker>(E)</marker>
+<rawString>Any other exception, consistent with law, established by the Director, TMA. Dated: July 18, 2008. Patricia L. Toppings, OSD Federal Register Liaison Officer, Department of Defense. [FR Doc. E8–17024 Filed 7–24–08; 8:45 am]</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

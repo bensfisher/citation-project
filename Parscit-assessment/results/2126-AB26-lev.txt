@@ -1,0 +1,51 @@
+	NO PARSCIT CITATIONS
+Effect of Driver Fatigue on Truck Accident Rates	0.9166666666666666
+Fatigue Circadian Rhythm and Truck Accidents	0.8863636363636364
+Performing While Sleepy Effects of Experimentally Induced Sleepiness	0.9264705882352942
+Owner Operator Independent Drivers Association Inc v FMCSA	0.896551724137931
+Public Citizen et al v FMCSA	0.8928571428571429
+2007 Economic Census Tables 21 to 211	0.8918918918918919
+2007 Economic Census Transportation 2007 Commodity Flow Survey	0.9032258064516129
+2007 Nonemployer Statistics 	0.9285714285714286
+American Time Use Survey Census Code 9130 DriversSales Workers and Truck Drivers	0.925
+Analysis of FatigueRelated Large Truck Crashes the Assignment of Critical Reason and Other Variables Using the Large Truck Crash Causation Study	0.9444444444444444
+Commercial Motor Vehicle Driver Fatigue and Alertness Study and Countermeasures Survey	0.9302325581395349
+Effects of Operating Practices on Commercial Driver Alertness	0.9016393442622951
+Estimates and the Prevalence and Risk of Fatigue in Fatal Accidents Involving Medium and Heavy Trucks	0.9405940594059405
+Hours of Service of Drivers Drivers Rest and Sleep for Safe Operations Final Rule 	0.9390243902439024
+Large Truck Crash Causation Study in the United States	0.9074074074074074
+Regulatory Evaluation of the Fees for the Unified Carrier Registration Plan	0.96
+Regulatory Impact Analysis for Hours of Service Options	0.9272727272727272
+Social Security Administration Actuarial Tables	0.9148936170212766
+Table H2 Households by Type Age of Members Region of Residence and Age of Householde 2010	0.9438202247191011
+Unit Cost of MediumHeavy Truck Crashes	0.9210526315789473
+Comparing GES and LTCCS Preliminary LTCCS File	0.9130434782608695
+Effect of Driver Hours of Service on TractorTrailer Crash Involvement 	0.9142857142857143
+Effects of Sleep Schedules on Commercial Motor Vehicles Driver Performance	0.9459459459459459
+Fatigue Avoidance Scheduling Tool Phase I SBIR Final Report	0.8983050847457628
+Private Fleet Directory 20072008	0.96875
+Safety Implications of multiDay Driving Schedules for Truck Driving Comparison of Field Experience and Crash Data Analysis	0.9508196721311475
+Trucks Involved in Fatal Accidents Factbook 2005	0.9375
+University of Michigan Trucking Industry Program Driver Surveys	0.9365079365079365
+Regulatory Impact Analysis and Small Business Analysis for Hours of Service Options	0.927710843373494
+Time of Day Models of Motor Carrier Accident Risk	0.9183673469387755
+Catastrophes Sleep and Public Policy Consensus Report	0.9245283018867925
+The Association Between Job Related Factors Short Sleep and Obesity	0.9253731343283582
+Effects of Irregular Schedules and Physical Work on Commercial Driver Fatigue and Performance	0.956989247311828
+Sleep Duration and Mortality in Japan The Jichi Medical School Cohort Study	0.9466666666666667
+Sleepiness as a Consequence of Shift Work	0.926829268292683
+Sleep Loss and Performance No “Safe” Duration of a Monotonous Task	0.9393939393939394
+Manifest sleepiness and the spectral content of the EEG during shift work	0.9726027397260274
+Circadian Rhythms in the Secretion of Cortisol Adrenaline and Nonadrenaline	0.92
+SelfReported Sleep Duration as a Predictor of AllCause Mortality Results from the JACC Study Japan	0.9387755102040817
+The Impact of Work Practices on Fatigue in Long Distance Truck Drivers	0.9428571428571428
+Commercial Drivers’ Health A Naturalistic Study of Body Mass Index Fatigue and Involvement in SafetyCritical Events	0.9391304347826087
+Sitting Time and Mortality from All Causes Cardiovascular Disease and Cancer	0.9342105263157895
+Modeling the Impact of the Components of Long Work Hours on Injuries and “Accidents”	0.9404761904761905
+A Prospective Study of Change in Sleep Duration Associations with Mortality in the Whitehall 11 Cohort	0.9509803921568627
+The Impact of Overweight and Obesity on the Direct Medical Costs of Truck Drivers	0.9382716049382716
+Valuing International Safety Externalities Does the Golden Rule Apply	0.9565217391304348
+Sleep Duration and Allcause Mortality A Systematic Review and MetaAnalysis of Prospective Studies	0.9381443298969072
+Evaluating the 2003 Revised HoursofService Regulations for Truck Drivers The Impact of Time on Task on Critical Incident Risk	0.928
+The Sleep of Commercial Vehicle Drivers Under the 2003 HoursofService Regulations	0.9506172839506173
+We are Chronically Sleep Deprived	0.9090909090909091

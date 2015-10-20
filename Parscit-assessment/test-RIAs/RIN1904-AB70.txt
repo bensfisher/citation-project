@@ -1,0 +1,919 @@
+ 16-i
+CHAPTER 16. REGULATORY IMPACT ANALYSIS 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+16.1 INTRODUCTION ......................................................................................................... 16-1 
+16.2 METHODOLOGY ........................................................................................................ 16-1 
+16.2.1 Policy Assumptions ....................................................................................................... 16-2 
+16.2.2 Policy Interactions ......................................................................................................... 16-4 
+16.3 NON-REGULATORY POLICY ASSUMPTIONS ...................................................... 16-5 
+16.3.1 No New Regulatory Action ........................................................................................... 16-5 
+16.3.2 Financial Incentives Policies.......................................................................................... 16-5 
+16.3.2.1 Consumer Rebates ....................................................................................... 16-7 
+16.3.2.2 Consumer Tax Credits ............................................................................... 16-15 
+16.3.2.3 Manufacturer Tax Credits .......................................................................... 16-16 
+16.3.3 Voluntary Energy Efficiency Targets .......................................................................... 16-16 
+16.3.4 Bulk Government Purchases........................................................................................ 16-17 
+16.4 RESULTS SUMMARY FOR NON-REGULATORY ALTERNATIVES................. 16-18 
+ 
+ 
+ 
+LIST OF TABLES 
+ 
+Table 16.1.1 Policy Alternatives to National Standards ......................................................... 16-1 
+Table 16.2.1 Proposed Standard Levels* for Polyphase Small Electric Motors (TSL 5)....... 16-3 
+Table 16.2.2 Proposed Standard Levels for CSIR Small Electric Motors (TSL 7) ................ 16-4 
+Table 16.2.3 Proposed Standard Levels for CSCR Small Electric Motors (TSL 7)............... 16-4 
+Table 16.3.1 Benefit/Cost Ratios for 4-pole 1 HP Polyphase Motor Rebate Policy Case...... 16-8 
+Table 16.3.2 Polyphase Small Electric Motor Consumer Rebate Efficiency Market 
+Share Impacts..................................................................................................... 16-8 
+Table 16.3.3 Benefit/Cost Ratios for Capacitor-Start Small Electric Motor Rebate 
+Policy Case....................................................................................................... 16-10 
+Table 16.3.4 Capacitor-Start Small Electric Motor Target-Level Consumer Rebate 
+Efficiency Market Share Impacts..................................................................... 16-11 
+Table 16.3.5 Benefit/Cost Ratios for Capacitor-Start Small Electric Motors, CSIR Level 
+4 Rebate Policy Case ....................................................................................... 16-13 
+Table 16.3.6 Capacitor-Start Small Electric Motor TSL 5 Consumer Rebate Efficiency 
+Market Share Impacts ...................................................................................... 16-13 
+Table 16.3.7 Benefit/Cost Ratios for Capacitor-Start Small Electric Motors, CSCR-only 
+Rebate Policy Case .......................................................................................... 16-14 
+Table 16.3.8 Capacitor-Start Small Electric Motor CSCR-Only Consumer Rebate 
+Efficiency Market Share Impacts..................................................................... 16-14 
+Table 16.3.9 Small Electric Motor Consumer Tax Credit Efficiency Market Share 
+Impacts............................................................................................................. 16-15 
+ 16-ii
+Table 16.3.10 Small Electric Motor Manufacturer Tax Credit Efficiency Market Share 
+Impacts............................................................................................................. 16-16 
+Table 16.3.11 Small Electric Motor Voluntary Efficiency Target Market Share Impacts ..... 16-17 
+Table 16.3.12 Small Electric Motor Bulk Government Purchases Efficiency Market 
+Share Impacts................................................................................................... 16-18 
+Table 16.4.1 Non-Regulatory Alterative Market Share Summary ....................................... 16-19 
+Table 16.4.2 Non-Regulatory Alternatives for Polyphase Small Electric Motors................ 16-19 
+Table 16.4.3 Non-Regulatory Alternatives for Capacitor-Start Small Electric Motors........ 16-20 
+ 
+ 
+ 
+LIST OF FIGURES 
+ 
+Figure 16.3.1 Market Penetration Curve for Polyphase Small Electric Motors....................... 16-9 
+Figure 16.3.2 Market Penetration Curve for CSIR Small Electric Motors ............................ 16-11 
+Figure 16.3.3 Market Penetration Curve for CSCR Small Electric Motors........................... 16-12 
+ 
+ 
+ 
+ 
+ 
+ 
+16-1 
+CHAPTER 16.   REGULATORY IMPACT ANALYSIS 
+16.1 INTRODUCTION  
+ The Department of Energy (DOE) has determined that energy conservation standards for 
+small electric motors constitute an “economically significant regulatory action” under Executive 
+Order (E.O.) 12866 “Regulatory Planning and Review.” 58 FR 51735 (October 4, 1993). 
+Therefore, DOE’s proposed energy conservation standards require a regulatory impact analysis 
+(RIA), which involves an evaluation of non-regulatory alternatives to the standards.  
+ 
+ Under the Process Rule (Procedures for Consideration of New or Revised Energy 
+Conservation Standards for Consumer Products, 61 FR 36974 (July 15, 1996); 10 CFR Part 430, 
+Subpart C, Appendix A), DOE is committed to continually explore non-regulatory alternatives to 
+standards. This RIA, which DOE has prepared pursuant to E.O. 12866, is subject to review under 
+the Executive Order by the Office of Management and Budget (OMB)’s Office of Information 
+and Regulatory Affairs (OIRA). 58 FR 51735. 
+ 
+ DOE identified five major non-regulatory alternatives to standards as representing 
+feasible policy options to achieve greater energy efficiency for the products that are the subject 
+of this rulemaking. These are listed in Table 17.1.1. DOE evaluated each alternative in terms of 
+its ability to achieve significant energy savings at a reasonable cost, and compared the 
+effectiveness of each one to the effectiveness of the proposed standards. DOE did not analyze an 
+“early replacement” scenario because it did not find any data supporting an underlying trend 
+toward higher efficiency over time, which suggests that early replacement would not achieve 
+significant energy savings. 
+ 
+Table 16.1.1 Policy Alternatives to National Standards  
+No New Regulatory Action 
+Consumer Rebates 
+Consumer Tax Credits 
+Manufacturer Tax Credits 
+Voluntary Energy Efficiency Targets 
+Bulk Government Purchases 
+  
+16.2 METHODOLOGY  
+ This section describes the approach DOE used to analyze non-regulatory policies for 
+small electric motors.  
+ 
+ 
+16-2 
+ To calculate the national energy savings and the net present value (NPV) corresponding 
+to each policy alternative, DOE used its national impact analysis (NIA) spreadsheet models. (See 
+Chapter 10 of the technical support document (TSD) for a description of the NIA spreadsheet 
+models.) To compare each alternative to the proposed standards, DOE quantified the effect of 
+each alternative on the purchase of small electric motors meeting the target levels, which are 
+defined as the efficiency levels in the proposed standards. Once it had made the quantitative 
+assumptions for each alternative policy, DOE made the appropriate revisions to the inputs in the 
+NIA spreadsheet models. The main model inputs that DOE revised were market shares of 
+equipment at target efficiencies and shipment-weighted average annual energy consumption. The 
+shipments for any given year are comprised of a distribution of efficiency levels. DOE assumed 
+that standards would affect 100 percent of the shipments, while the non-regulatory policies 
+would affect a smaller percentage of the shipments. In each policy case, DOE made particular 
+assumptions about the percentage of shipments impacted by the policy under analysis. DOE then 
+calculated the shipment-weighted average energy consumption and costs using these market 
+shares.  
+ 
+ A shift in the market share of higher efficiency units may increase the average installed 
+cost of energy-consuming equipment. Operating costs will generally decrease due to a decline in 
+energy consumption. Therefore, DOE calculated an NPV for non-regulatory alternatives in the 
+same way as it did for the proposed standards. In some scenarios, total installed cost increases 
+are partially mitigated by government rebates or tax credits. However, DOE assumed that credits 
+and rebates would be paid for in another form (such as additional taxes), and therefore did not 
+include them as a benefit for the purposes of calculating the national NPV. DOE did not consider 
+administrative costs for any of the non-regulatory policies in its analysis. Inclusion of such costs 
+would decrease their NPVs by a small amount. 
+ 
+ The key measures of the impact of each alternative are: 
+ 
+• National energy savings in quadrillion Btus (quads): Cumulative national primary energy 
+savings for equipment bought in the period from the effective date of the policy case 
+(2015) to the year 2045.  
+ 
+• Net present value: The value of net monetary savings from equipment bought in the 
+period from the effective date of the policy case (2015) to the year 2045. DOE calculated 
+the NPV as the difference between the present value of equipment and operating 
+expenditures (including energy) in the base case and the present value of expenditures in 
+each alternative policy case. DOE calculated operating expenses (including energy) for 
+the life of the equipment. 
+16.2.1 Policy Assumptions  
+ The impacts of non-regulatory policies are by nature uncertain, since they depend on 
+program implementation and marketing efforts and the subsequent consumer behavior response. 
+The projected impacts depend on the assumptions regarding the consumer participation rate, and 
+are therefore subject to more uncertainty than the impacts of mandatory standards, which DOE 
+ 
+16-3 
+assumes will have full compliance. To increase the robustness of the analysis, DOE conducted a 
+literature review on each non-regulatory policy and consulted with key experts to gather 
+information on similar incentive programs that have already been implemented in the U.S. By 
+studying field experience with sample programs of each type, DOE sought to make credible 
+assumptions of their potential market impacts. Section 16.3 below reports the conclusions from 
+this research as they apply to the policy modeling assumptions and includes the corresponding 
+literature citations. 
+ 
+ Each of the policy alternatives to the proposed standards that DOE considered would 
+improve the average efficiency of new small electric motors relative to the base case (no new 
+regulatory action). The analysis considered that each alternative policy would induce consumers 
+to purchase units at higher efficiency levels than they would otherwise purchase, reaching the 
+efficiency levels corresponding to the proposed standards, or the target levels. In contrast to the 
+proposed standards, however, their market penetration rate in the alternative policy cases may 
+not be 100 percent. 
+ 
+ The efficiency levels corresponding to the proposed standards for polyphase small 
+electric motors are those in TSL 5, as shown in Table 16.2.1. The proposed standards for 
+capacitor-start induction-run (CSIR) and capacitor-start capacitor-run (CSCR) small electric 
+motors are those in TSL 7, as shown in Tables 16.2.2 and 16.2.3. 
+ 
+Table 16.2.1 Proposed Standard Levels* for Polyphase Small Electric Motors (TSL 5) 
+Motor output 
+power 6 Poles 4 Poles 2 Poles 
+0.25 Hp / 0.18 kW 77.4 72.7 69.8 
+0.33 Hp / 0.25 kW 79.1 75.6 73.7 
+0.5 Hp / 0.37 kW 81.1 80.1 76.0 
+0.75 Hp / 0.55 kW 84.0 83.5 81.6 
+1 Hp / 0.75 kW 84.2 85.2 83.6 
+1.5 Hp / 1.1 kW 85.2 87.1 86.6 
+2 Hp / 1.5 kW 89.2 88.0 88.2 
+≥3 Hp / 2.2 kW 90.8 90.0 90.5 
+* Standard levels are expressed as efficiency (%). 
+ 
+ 
+16-4 
+Table 16.2.2 Proposed Standard Levels for CSIR Small Electric Motors (TSL 7) 
+Motor output 
+power 6 Poles 4 Poles 2 Poles 
+0.25 Hp / 0.18 kW 65.4 69.8 71.4 
+0.33 Hp / 0.25 kW 70.7 72.8 74.2 
+0.5 Hp / 0.37 kW 77.0 77.0 76.3 
+0.75 Hp / 0.55 kW 81.0 80.9 78.1 
+1 Hp / 0.75 kW 84.1 82.8 80.0 
+1.5 Hp / 1.1 kW 87.7 85.5 82.2 
+2 Hp / 1.5 kW 89.8 86.5 85.0 
+≥3 Hp / 2.2 kW 92.2 88.9 85.6 
+* Standard levels are expressed as efficiency (%). 
+ 
+Table 16.2.3 Proposed Standard Levels for CSCR Small Electric Motors (TSL 7) 
+Motor output 
+power 6 Poles 4 Poles 2 Poles 
+0.25 Hp / 0.18 kW 63.9 68.3 70.0 
+0.33 Hp / 0.25 kW 69.2 71.6 72.9 
+0.5 Hp / 0.37 kW 75.8 76.0 75.1 
+0.75 Hp / 0.55 kW 79.9 80.3 77.0 
+1 Hp / 0.75 kW 83.2 82.0 79.0 
+1.5 Hp / 1.1 kW 87.0 84.9 81.4 
+2 Hp / 1.5 kW 89.1 86.1 84.2 
+≥3 Hp / 2.2 kW 91.7 88.5 84.9 
+* Standard levels are expressed as efficiency (%). 
+ 
+ DOE assumed that the non-regulatory policy impacts would last from the effective date 
+for proposed standards for small electric motors—2015—through the end of the analysis period, 
+2045. 
+16.2.2 Policy Interactions  
+ DOE calculated the impacts of each regulatory policy separately from those of the other 
+policies. In actual practice, certain policies are often most effective when implemented in 
+combination to provide incentives, such as bulk government purchases with consumer rebates. 
+DOE attempted to make conservative assumptions to avoid double-counting policy impacts. 
+Therefore, the policy impacts reported below are not additive; the combined impact of several or 
+all of the policies may not be inferred from adding the results together.  
+ 
+  
+ 
+16-5 
+ 
+16.3 NON-REGULATORY POLICY ASSUMPTIONS  
+16.3.1 No New Regulatory Action  
+ The case in which no new regulatory action is taken with regard to small electric motor 
+efficiency constitutes the base case scenario described in Chapter 10. This case defines the basis 
+of comparison for all other scenarios. By definition, no new regulatory action yields zero energy 
+savings and an NPV of zero dollars. 
+16.3.2 Financial Incentives Policies  
+ DOE considered scenarios in which the Federal government would provide two types of 
+financial incentives: rebates and tax credits. The government could provide consumers with a 
+rebate for purchasing energy efficient equipment meeting the target level for each product. Tax 
+credits could be offered to consumers who purchase target-level small electric motors. The 
+government could also provide tax credits to manufacturers to offset costs associated with 
+producing such equipment.  
+ 
+ DOE’s evaluation of consumer rebates used a comprehensive study of the potential for 
+energy efficiency in California performed by Xenergy, Inc., which summarized experience with 
+various utility rebate programs.1 This analysis method is based on curves that estimate the 
+market penetration of a technology based on its benefit/cost (B/C) ratio. DOE consulted with 
+experts and reviewed several other methods of estimating market penetration of efficient 
+technologies due to consumer rebate programs that were developed since the referenced Xenergy 
+report was published.2,3,4,5 However, these methods were based either on other economic
+parameters (payback period) or on expert surveys predicting penetration of a new technology 
+over time. Therefore, DOE decided to use the penetration curve method based on B/C ratio, 
+which incorporates lifetime operating cost savings, and was calibrated with utility rebate 
+program participation results. 
+ 
+ Xenergy’s information diffusion model estimates market impacts induced by financial 
+incentives for energy efficient appliances. The basic premise of this model is that information 
+diffusion drives technology adoption. The model is formulated to characterize the influences of 
+both internal and external sources of information on consumer behavior by superimposing two 
+components in the equation, each capturing the effect of one of two different types of 
+information source. The effects of these two types of information diffusion mechanisms are 
+different. Internal sources of information influence consumers to purchase new products due 
+mainly to word-of-mouth from early adopters, while external information sources influence 
+consumers to change their adoption decisions as a result of marketing efforts and information 
+coming from outside the consumer group. (Appendix 16A of the TSD contains further details on 
+modeling these influences.) 
+ 
+ Xenergy’s model combined these two information diffusion mechanisms and generated a 
+set of measure “implementation curves” or penetration curves, which Xenergy calibrated using 
+ 
+16-6 
+evaluation data from utility rebate programs. Consumer response to rebate incentives appears to 
+be a combination of the two information source types. The penetration curves illustrate the 
+increased penetration (i.e., increased market share) of efficient equipment as a result of consumer 
+response to B/C ratio changes induced by a specific rebate program. The penetration curves are 
+used to depict various diffusion patterns based on perceived barriers to consumer purchase of 
+high-efficiency equipment. There are penetration curves for varying levels of market barriers, 
+from “no barriers” to “extremely high barriers.” These curves provide a means to study the 
+impact of changing the B/C ratio, by reducing the initial equipment cost through financial 
+incentives, on the consumer participation rate.  
+ 
+ The penetration curves do not exactly model the dynamics of a particular equipment 
+market. Therefore, DOE used them in the following way to predict changes in equipment market 
+shares. If the current market share is 0.0%, DOE assumed that the market share would increase 
+to be equal to the difference between the penetration-curve market share at the no-rebate B/C 
+ratio and the penetration-curve with-rebate B/C/ ratio. If the current market share at the target 
+level is greater than zero, DOE used the penetration curve to determine that ratio between the 
+with-rebate and no-rebate market shares, and applied this ratio to the motor market under 
+consideration. DOE limited the effect of the rebate by assuming that it could no increase the 
+market share above the maximum for the corresponding penetration curve. For example, if the 
+current market share were 5% and the penetration curve predicted a no-rebate market share of 
+3% and a with-rebate market share of 12%, DOE would assume that the rebate would increase 
+the target-level market share by a factor of 4, to 20%. 
+ 
+ DOE based its estimates of the impacts of consumer tax credits on actual program 
+experience with State tax credits in Oregon. DOE studied State tax credits in Montana as well. 
+DOE also attempted to determine residential consumer participation due to the Federal appliance 
+tax credits, which were mandated by the Energy Policy Act of 2005 (EPACT 2005). For the 
+manufacturer tax credits policy, DOE attempted to investigate manufacturer participation due to 
+the efficient equipment tax credits from EPACT 2005. Both the Federal consumer and 
+manufacturer credits were in effect in 2006 and 2007. Unfortunately, the Internal Revenue 
+Service (IRS) had not yet published data on taxpayer response to either of these tax credits.  
+ 
+ DOE also incorporated previous research that had differentiated the impact of tax credits 
+into the “direct price effect,” which arises from the incremental equipment cost savings, and the 
+“announcement effect,” which is independent of the credit amount.6,7 The announcement effect 
+derives from the credibility that a particular technology receives from its inclusion in an 
+incentive program, as well as changes in product marketing strategy, and the resulting 
+modifications in markups and pricing. DOE assumed that the direct price effect and the 
+announcement effect would apply to the consumer tax credit policy as well as the consumer 
+rebate policy, and that half of the increases in market penetration associated with either policy 
+would be due to the direct price effect and half to the announcement effect.  
+ 
+16-7 
+16.3.2.1 Consumer Rebates  
+ DOE modeled the impact of the consumer rebate policy by determining the increase in 
+market penetration of target-level equipment relative to its market penetration in the base case.  
+Polyphase Small Electric Motors 
+ For conventional cooking products, DOE estimated the impact of increasing the 
+benefit/cost (B/C) ratio via a rebate that paid a portion of the incremental installed cost between a 
+unit meeting the baseline efficiency level and a unit meeting the target efficiency level. DOE 
+based the rebate amount on a large sample of utility rebate programs for NEMA Premium-rated 
+polyphase electric motors (three-digit frame series). Since DOE found no rebate programs for 
+small electric motors, DOE chose these larger motors as similar equipment, with similar market 
+dynamics. DOE gathered data on rebate programs for 1 horsepower motors offered by 48 
+agencies or utilities throughout the country. (See Appendix 16A for a listing of these rebate 
+programs.) The simple average of the rebate amounts in these programs, $26, is roughly 25% of 
+the incremental cost between a 1 HP three-digit frame series motor which meets current 
+efficiency standards for medium motors and a motor which meets NEMA Premium efficiency. 
+NEMA Premium efficiency for medium motors corresponds most closely with TSL 5, the 
+Department’s proposed standard level for small polyphase motors. DOE assumed that a rebate 
+program for small polyphase electric motors would offer a similar rebate of $25 for a 4 pole, 1 
+HP motor, with rebate amounts for other motor speeds and powers scaling in the same fashion as 
+motor cost (see chapter 8 for a discussion of price scaling). DOE assumed the rebates would 
+remain in effect until they had transformed the markets so that the shift in market share of 
+efficient units seen in the first year of the programs would be maintained throughout the forecast 
+period (2015–2045).  
+ 
+ DOE first calculated the B/C ratio for the target 4-pole 1 HP unit without a rebate. It then 
+calculated another B/C ratio for the unit meeting the target level, with a rebate, relative to the 
+baseline unit. Because of the incremental cost reductions due to the rebates, the B/C ratios for the 
+rebate policy unit were larger. Table 17.3.1 shows the benefits as lifetime operating cost savings, 
+incremental installed costs without rebates and with rebates, and B/C ratios without rebates and 
+with rebates. 
+ 
+16-8 
+ 
+Table 16.3.1 Benefit/Cost Ratios for 4-pole 1 HP Polyphase Motor Rebate Policy Case  
+ 4 pole 1 HP 
+Polyphase 
+Benefit  
+(Lifetime Operating Cost Savings) $ 57.90 
+Incremental Installed Cost (Increased 
+Installed Cost) $131.23 
+B/C Ratio with No Rebate 0.44 
+Current Market Share 0.0% 
+Rebate Amount  $25.00 
+Adjusted Incremental Installed Cost 
+(Increased Installed Cost after Rebate) $106.23 
+B/C Ratio for Rebate Policy Case 0.55 
+Penetration Curve Projected 
+Increase in Market Share 0.4% 
+ 
+ DOE then used the B/C ratios with the penetration curve shown in Figure 17.3.1 to 
+estimate the increased percentage of consumers who would purchase the units that meet the 
+policy target levels if given a rebate incentive. For polyphase small electric motors, DOE 
+selected the “moderate barriers” curve, which has the greatest degree of correspondence (among 
+the curves prepared by Xenergy) between the market share calculated from the B/C ratio of each 
+efficiency level and the current market share for each efficiency level. Figure 17.3.1 shows the 
+increase in penetration rates of target-level units as a function of their higher B/C ratios. Using 
+the method discussed above, DOE estimated that the market share of equipment meeting the 
+policy target due to a rebate policy would increase by 0.4 percent above the base case market 
+share for polyphase small electric motors.  
+ 
+ To calculate the impacts of this policy, DOE adjusted the market shares of polyphase 
+small electric motors at the target efficiencies in its NIA model to represent the policy case 
+scenario. Table 16.3.2 shows the efficiency distribution used. 
+ 
+Table 16.3.2 Polyphase Small Electric Motor Consumer Rebate Efficiency Market 
+Share Impacts 
+ Baseline CSL 1 CSL 2 CSL 3 CSL 4 CSL 5 CSL 6 CSL 7 
+Base case 82.0% 4.0% 4.0% 4.0% 6.0% 0.0% 0.0% 0.0% 
+Rebate case 81.6% 4.0% 4.0% 4.0% 6.0% 0.4% 0.0% 0.0% 
+ 
+ 
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+14.0%
+16.0%
+18.0%
+20.0%
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6 2.8 3.0 3.2 3.4 3.6 3.8 4.0
+Participant Benefit-Cost Ratio
+Pe
+ne
+tr
+at
+io
+n 
+R
+at
+e
+ 
+Figure 16.3.1 Market Penetration Curve for Polyphase Small Electric Motors 
+ 
+Capacitor-Start Small Electric Motors  
+ For capacitor-start small electric motors, DOE assumed that the rebate would cover a 
+portion of the incremental cost between a motor meeting the baseline efficiency level and a unit 
+meeting the target efficiency level. DOE assumed that the rebate amount for a 1 HP motor would 
+be equal to the $25 rebate offered for 1 HP polyphase small electric motors (based, in turn, on 
+current rebate programs for three-digit frame series polyphase motors). Similar to polyphase 
+motors, DOE assumed that the rebate amount would scale with the number of poles and power of 
+the motor in the same fashion as motor prices scale. DOE assumed the rebates would remain in 
+effect until they had transformed the markets so that the shift in market share of efficient units 
+seen in the first year of the programs would be maintained throughout the forecast period (2015–
+2045). 
+ 
+ DOE first analyzed the impact of rebates at the efficiency levels prescribed by TSL 7. 
+However, for CSIR motors at this efficiency level, a $25 rebate (scaled from a 1 HP motor) had 
+no effect on the efficiency distribution of CSIR motor shipments. Therefore, DOE chose to 
+undertake the remainder of its analysis of policy alternatives with the efficiency levels 
+corresponding to TSL 5. 
+ 
+ 
+16-9 
+ 
+16-10 
+ For each type of capacitor-start motor (induction-run and capacitor-run), DOE first 
+calculated the B/C ratio for the target unit without a rebate. It then calculated another B/C ratio 
+for the unit meeting the target level, with a rebate, relative to the baseline unit. Because of the 
+incremental cost reductions due to the rebates, the B/C ratios for the rebate policy unit were 
+larger. Table 17.3.3 shows the benefits as lifetime operating cost savings, incremental installed 
+costs without rebates and with rebates, and B/C ratios without rebates and with rebates. 
+ 
+Table 16.3.3 Benefit/Cost Ratios for Capacitor-Start Small Electric Motor Rebate Policy 
+Case  
+ 4-pole 1/2 HP CSIR 4-pole ¾ HP CSCR 
+Benefit (Lifetime Operating Cost Savings) $109.81 $71.34 
+Incremental Installed Cost (Increased Installed Cost) $97.50 $48.90 
+B/C Ratio with No Rebate 1.13 1.57 
+Penetration Curve Market Share without Rebate 0.4% 32.6% 
+Current Market Share at Target Level 0.0% 21.0% 
+Rebate Amount  $17.67 $21.65 
+Adjusted Incremental Installed Cost 
+(Increased Installed Cost after Rebate) $79.83 $27.25 
+B/C Ratio for Rebate Policy Case 1.38 2.82 
+Penetration Curve Market Share with Rebate 0.7% 45.8% 
+DOE Estimated Market Share with Rebate 0.3% 29.5% 
+ 
+ DOE then used the B/C ratios with the penetration curves shown in Figures 17.3.2 and 
+17.3.3 to estimate the increased percentage of consumers who would purchase the units that meet 
+the policy target levels if given a rebate incentive. For CSIR motors, DOE chose the “moderate 
+barriers” curve. In the case of CSIR motors, the incremental cost between the baseline and the 
+TSL is substantial, and the benefit-cost ratios of less energy-efficient levels, compared with their 
+market shares, indicate that the “moderate barriers” curve is the best fit. Figure 17.3.6 shows the 
+increase in penetration rates of target-level CSIR units as a function of their higher B/C ratios. 
+Using the method discussed above, DOE estimated that the market share of equipment meeting 
+the policy target due to a rebate policy would increase by 0.3 percent. For CSCR motors, DOE 
+chose the “low barriers” curve, because the incremental cost between the baseline and the TSL is 
+small and there is currently substantial market share at or above the target level. Figure 17.3.7 
+shows the increase in penetration rates of target-level CSCR units as a function of their higher 
+B/C ratios. Using the method discussed above, DOE estimated that the market share of CSCR 
+equipment meeting the policy target due to a rebate policy would increase by 8.5 percent.  
+ 
+ To calculate the impacts of this policy, DOE adjusted the market shares of capacitor-start 
+motors at the target efficiencies in its NIA model to represent the policy case scenarios. Table 
+17.3.4 shows the efficiency distributions used. DOE also adjusted the relative shipment-weighted 
+average prices of CSIR and CSCR motors to incorporate the rebate amounts and used its 
+modified logistic market share model to incorporate rebates into its model of the relative market 
+share of CSIR and CSCR motors within each combination of power and number of poles.  
+ 
+Table 16.3.4 Capacitor-Start Small Electric Motor Target-Level Consumer Rebate 
+Efficiency Market Share Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+CSIR          
+Base case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Rebate case 39.7% 7.0% 20.0% 30.0% 2.0% 1.0% 0.3% 0.0% - 
+CSCR          
+Base case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Rebate case 58.5% 10.0% 2.0% 10.5% 11.0% 3.0% 5.0% 0.0% 0.0% 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+0 1 2 3 4 5 6 7 8
+Participant Benefit-Cost Ratio
+Pe
+ne
+tr
+at
+io
+n 
+R
+at
+e
+ 
+Figure 16.3.2 Market Penetration Curve for CSIR Small Electric Motors 
+ 
+ 
+16-11 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Participant Benefit-Cost Ratio
+Pe
+ne
+tr
+at
+io
+n 
+R
+at
+e
+ 
+Figure 16.3.3 Market Penetration Curve for CSCR Small Electric Motors 
+ 
+Other Capacitor-Start Rebate Scenarios 
+ DOE analyzed two additional consumer rebate scenarios for capacitor-start motors. The 
+first scenario models the impact of a $25 rebate for 1 HP CSIR motors (as well as scaled rebates 
+for other classes) which meet the efficiency of efficiency level 4, rather than level 6. CSCR 
+rebates in this scenario continue to promote the target efficiency level (level 3). This corresponds 
+to a rebate program targeting capacitor-start TSL 2. This rebate reimburses the consumer for a 
+significantly larger fraction of the incremental cost, resulting in significantly greater utilization 
+of the rebate program.  Table 17.3.5 shows the B/C ratios for this scenario. 
+ 
+ 
+16-12 
+ 
+16-13 
+Table 16.3.5 Benefit/Cost Ratios for Capacitor-Start Small Electric Motors, CSIR Level 4 
+(TSL 2)  Rebate Policy Case  
+ 4-pole 1/2 HP CSIR 4-pole ¾ HP CSCR 
+Benefit (Lifetime Operating Cost Savings) $90.15 $71.34 
+Incremental Installed Cost (Increased Installed Cost) $35.15 $48.90 
+B/C Ratio with No Rebate 2.56 1.46 
+Penetration Curve Market Share without Rebate 2.7% 32.6% 
+Current Market Share at Target Level 3.0% 21.0% 
+Rebate Amount  $17.67 $21.65 
+Adjusted Incremental Installed Cost 
+(Increased Installed Cost after Rebate) $17.48 $27.25 
+B/C Ratio for Rebate Policy Case 5.16 2.62 
+Penetration Curve Market Share with Rebate 12.0% 45.8% 
+DOE Estimated Market Share with Rebate 13.2% 29.5% 
+ 
+ DOE then used the B/C ratios with the penetration curves shown in Figures 17.3.2 and 
+17.3.3 to estimate the increased percentage of consumers who would purchase the units that meet 
+efficiency level 4 if given a rebate incentive. DOE again chose the “high barriers” curve for 
+CSIR motors and the “low barriers” curve for CSCR motors. Using the method discussed above, 
+DOE estimated that the market share of CSIR equipment at efficiency level 4 would increase by 
+11.2 percent. 
+ 
+Table 16.3.6 Capacitor-Start Small Electric Motor TSL 5 Consumer Rebate Efficiency 
+Market Share Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+CSIR          
+Base case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Rebate case 29.8% 7.0% 20.0% 30.0% 12.2% 1.0% 0.0% 0.0% - 
+CSCR          
+Base case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Rebate case 58.5% 10.0% 2.0% 10.5% 11.0% 3.0% 5.0% 0.0% 0.0% 
+ 
+ DOE’s CSIR/CSCR market share model, detailed in section 9.4, indicates that there are 
+significant market barriers to the purchase of CSCR motors, even when it would be cost effective 
+for consumers to do so. DOE therefore analyzed a rebate scenario which targets only CSCR 
+motors. This scenario models the effects of relatively large rebates ($50 for 1 HP motors) for 
+CSCR motors which meet the policy-target efficiency level (efficiency level 3, corresponding to 
+TSL 7), where there is no rebate for CSIR motors.  Table 17.3.7 shows the B/C ratios and 
+resulting market share impacts for this scenario. 
+ 
+ 
+16-14 
+Table 16.3.7 Benefit/Cost Ratios for Capacitor-Start Small Electric Motors, CSCR-only 
+Rebate Policy Case  
+ 4-pole 1/2 HP CSIR 4-pole ¾ HP CSCR 
+Benefit (Lifetime Operating Cost Savings) $109.81 $71.34 
+Incremental Installed Cost (Increased Installed Cost) $97.50 $48.90 
+B/C Ratio with No Rebate 1.13 1.57 
+Penetration Curve Market Share without Rebate 0.4% 32.6% 
+Current Market Share at Target Level 0.0% 21.0% 
+Rebate Amount  $0.00 $21.65 
+Adjusted Incremental Installed Cost 
+(Increased Installed Cost after Rebate) $97.50 $27.25 
+B/C Ratio for Rebate Policy Case 1.13 13.71 
+Penetration Curve Market Share with Rebate 0.4% 69.8% 
+DOE Estimated Market Share with Rebate 0.0% 44.9% 
+ 
+ DOE then used the CSCR B/C ratios with the penetration curve shown in Figure 17.3.3 to 
+estimate the increased percentage of consumers who would purchase CSCR motors which meet 
+the target efficiency level. DOE again chose the “low barriers” penetration curve. Using the 
+method discussed above, DOE estimated that the market share of CSCR equipment at efficiency 
+level 3 (the CSCR level of TSL 6) would increase by 23.9 percent. DOE again used its 
+CSIR/CSCR market share model to model the impact of this differential rebate program on 
+CSCR market share within each equipment class. DOE found that this program would increase 
+total shipments of CSCR motors in the analysis period (2015-2045) from 6.9 million in the base 
+case to 11.1 million. 
+ 
+ To calculate the impacts of these policies, DOE adjusted the market shares of capacitor-
+start small electric motors at the relevant efficiencies in its NIA model to represent the policy 
+case scenarios. Table 16.3.8 shows the efficiency distributions used to analyze these rebate 
+policies. 
+ 
+Table 16.3.8 Capacitor-Start Small Electric Motor CSCR-Only Consumer Rebate 
+Efficiency Market Share Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+CSIR          
+Base case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Rebate case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+CSCR          
+Base case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Rebate case 43.1% 10.0% 2.0% 25.9% 11.0% 3.0% 5.0% 0.0% 0.0% 
+ 
+ 
+16-15 
+16.3.2.2 Consumer Tax Credits  
+ Consumer tax credits cover a percentage of the difference in incremental product price 
+between equipment meeting baseline efficiency levels and that with higher efficiencies. 
+Consumer tax credits are considered a viable non-regulatory market transformation program, as 
+shown by the inclusion of Federal consumer tax credits in EPACT 2005 for various residential 
+appliances.  
+ 
+ DOE estimated that for both polyphase and capacitor-start small electric motors, the 
+consumer participation rate would be lower than the rate of participation in consumer rebates. 
+Research on tax credits has shown that the time delay to the consumer in receiving a 
+reimbursement through a tax credit, plus the added transaction costs in tax return preparation, 
+make the tax credit incentive less effective than a rebate received at the time of purchase. Based 
+on previous analysis8, DOE assumed that only 60 percent as many consumers would take 
+advantage of the tax credit as would take advantage of a rebate.  
+ 
+ Using a similar approach as for the rebate policy, DOE estimated that the market share of 
+target efficiency level motors would increase due to consumer tax credits over the base case. For 
+all covered motors, these changes in percentage market penetrations are 60 percent of the market 
+penetration changes estimated for the consumer rebate policy.  
+ 
+ DOE assumed that the impact of this policy would be to permanently transform the 
+market so that the increased market penetration seen in the first year of the program would be 
+maintained throughout the forecast period. Table 17.3.9 shows the efficiency distributions used 
+in analyzing the impact of this policy. 
+ 
+Table 16.3.9 Small Electric Motor Consumer Tax Credit Efficiency Market Share 
+Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+Polyphase          
+Base case 82.0% 4.0% 4.0% 4.0% 6.0% 0.0% 0.0% 0.0% - 
+Consumer 
+Tax Credit 81.8% 4.0% 4.0% 4.0% 6.0% 0.2% 0.0% 0.0% 
+- 
+CSIR          
+Base case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Consumer 
+Tax Credit 39.8% 7.0% 20.0% 30.0% 2.0% 1.0% 0.2% 0.0% 
+- 
+CSCR          
+Base case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Consumer 
+Tax Credit 61.9% 10.0% 2.0% 7.1% 11.0% 3.0% 5.0% 0.0% 0.0% 
+ 
+ 
+16-16 
+16.3.2.3 Manufacturer Tax Credits  
+ Manufacturer tax credits are considered a viable non-regulatory market transformation 
+program, as shown by the inclusion of Federal tax credits in EPACT 2005 for manufacturers of 
+residential appliances. Similar to consumer tax credits, manufacturer tax credits would 
+effectively result in lower product prices for consumers by an amount that covered part of the 
+incremental price difference between products meeting baseline efficiency levels and those 
+meeting targeted efficiency levels.  
+ 
+ DOE assumed that this incentive policy would help reimburse manufacturers for 
+retooling costs. Because these tax credits would go to manufacturers instead of consumers, DOE 
+assumed that manufacturers would pass on the reduced costs. Since the direct price effect is 
+approximately equivalent to the announcement effect,6 DOE estimated that half of the consumers 
+assumed to take advantage of consumer tax credits would purchase more-efficient products due 
+to a manufacturer tax credit program. Using this information, DOE calculated the percentage by 
+which market penetration of target efficient level motors would increase due to manufacturer tax 
+credits over the base case.  
+ 
+ DOE assumed that the impact of this policy would be to permanently transform the 
+market so that the increased market penetration seen in the first year of the program would be 
+maintained throughout the forecast period. Table 17.3.10 shows the efficiency distributions used 
+in analyzing the impact of this policy. 
+ 
+Table 16.3.10 Small Electric Motor Manufacturer Tax Credit Efficiency Market Share 
+Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+Polyphase          
+Base case 82.0% 4.0% 4.0% 4.0% 6.0% 0.0% 0.0% 0.0% - 
+Manufacturer 
+Tax Credit 81.9% 4.0% 4.0% 4.0% 6.0% 0.1% 0.0% 0.0% 
+- 
+CSIR          
+Base case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Manufacturer 
+Tax Credit 39.9% 7.0% 20.0% 30.0% 2.0% 1.0% 0.1% 0.0% 
+- 
+CSCR          
+Base case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Manufacturer 
+Tax Credit 64.5% 10.0% 2.0% 4.6% 11.0% 3.0% 5.0% 0.0% 0.0% 
+ 
+16.3.3 Voluntary Energy Efficiency Targets  
+For all categories of small electric motors, DOE assumed that the market behavior in the 
+context of voluntary targets would be similar to market behavior related to the voluntary NEMA 
+Premium program for three-digit frame series polyphase motors. Current market share for 
+ 
+16-17 
+NEMA Premium motors is roughly 25%. However, DOE assumed that 20% of this market share 
+can be attributed to promotion, labeling, and other non-financial incentives, and 5% may be 
+attributed to current rebate programs for such motors. DOE assumed that a voluntary program 
+for small electric motors would achieve a 20% market share in the target efficiency levels for 
+polyphase and CSIR motors. Current CSCR market share in the target level and above is 21%. 
+DOE assumed that a voluntary program similar to NEMA Premium would increase this share by 
+10%, to 31%.  Table 17.3.11 shows the efficiency distributions DOE assumed would result from 
+a voluntary efficiency program. DOE assumed that these levels would be achieved in 2015 and 
+remain constant throughout the analysis period. 
+ 
+Table 16.3.11 Small Electric Motor Voluntary Efficiency Target Market Share Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+Polyphase          
+Base case 82.0% 4.0% 4.0% 4.0% 6.0% 0.0% 0.0% 0.0% - 
+Voluntary 
+Effic. Targets 62.0% 4.0% 4.0% 4.0% 6.0% 20.0% 0.0% 0.0% - 
+CSIR          
+Base case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Voluntary 
+Effic. Targets 20.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 20.0% - 
+CSCR          
+Base case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Voluntary 
+Effic. Targets 57.0% 10.0% 2.0% 12.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+ 
+16.3.4 Bulk Government Purchases  
+ DOE assumed that a bulk government purchase policy would encourage Federal, State, 
+and local governments to purchase equipment meeting the target efficiency levels. Aggregating 
+public sector demand could provide a market signal to manufacturers and vendors that some of 
+their largest customers sought suppliers with products that met an efficiency target at favorable 
+prices. This program also could induce “market pull” impacts through manufacturers and 
+vendors achieving economies of scale for high-efficiency products.  
+ 
+ While there have been several bulk government purchasing initiatives at the Federal, 
+State, and municipal levels, most of these programs have not tracked data on number of 
+purchases or degree of compliance with procurement specifications. In many cases, procurement 
+programs are decentralized, being part of larger State or regional initiatives. At the Federal level, 
+the Federal Energy Management Program (FEMP) has performed studies of savings potential for 
+its procurement specifications for appliances and other equipment on which DOE based its 
+assumptions for this policy. Yet FEMP does not track purchasing data, due to the complexity of 
+the purchasing systems, number of vendors, etc. There is evidence of increasing interest and 
+activity in “green purchasing" on the State, county, and municipal levels. While many of these 
+programs target office equipment, the existence of a growing infrastructure for efficient 
+ 
+16-18 
+purchasing specifications indicates that such impacts that DOE attributed to bulk government 
+purchasing programs are feasible.9,10 
+ 
+ DOE analyzed only commercial-sector motor applications for government purchases. 
+Direct government involvement in the industrial sector is very small. While direct government 
+administration of housing is significant, residential applications of covered small electric motors 
+are very small, and government purchases in this sector are unlikely to have a significant impact. 
+DOE used the 2003 Commercial Building Energy Consumption Survey to determine the fraction 
+of commercial floor space owned by government agencies, 23.7%, and assumed that government 
+purchases an equivalent fraction of small electric motors in commercial applications. DOE then 
+assumed that 80% of government purchases of small electric motors in commercial applications 
+would meet the target efficiency level. For polyphase motors, such a program could increase 
+market share for target-level equipment by 7.7%, while for capacitor-start motors it could 
+increase the market share by 7.4%. Table 17.3.12 shows the resulting efficiency distributions, 
+which DOE assumed would remain constant throughout the analysis period. 
+ 
+Table 16.3.12 Small Electric Motor Bulk Government Purchases Efficiency Market 
+Share Impacts 
+ Baseline Eff. 1 Eff. 2 Eff. 3 Eff. 4 Eff. 5 Eff. 6 Eff. 7 Eff. 8 
+Polyphase          
+Base Case 82.0% 4.0% 4.0% 4.0% 6.0% 0.0% 0.0% 0.0% - 
+Bulk Gov’t 
+Purchases 74.3% 4.0% 4.0% 4.0% 6.0% 7.7% 0.0% 0.0% 
+- 
+CSIR          
+Base Case 40.0% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 0.0% - 
+Bulk Gov’t 
+Purchases 32.6% 7.0% 20.0% 30.0% 2.0% 1.0% 0.0% 7.4% 
+- 
+CSCR          
+Base Case 67.0% 10.0% 2.0% 2.0% 11.0% 3.0% 5.0% 0.0% 0.0% 
+Bulk Gov’t 
+Purchases 59.6% 10.0% 2.0% 9.4% 11.0% 3.0% 5.0% 0.0% 0.0% 
+16.4 RESULTS SUMMARY FOR NON-REGULATORY ALTERNATIVES  
+ Table 17.4.1 summarizes the impact of non-regulatory alternatives on the market share of 
+target-level motors. (The capacitor-start TSL 2 consumer rebate does not change the market 
+share of CSIR motors which meet the requirements of TSL 5 or TSL 7, but does save energy due 
+to the increased market share of efficiency-level-4 CSIR motors.) 
+ 
+ 
+16-19 
+Table 16.4.1 Non-Regulatory Alterative Market Share Summary 
+Market Share at or above Target 
+Level (%) 
+Policy Alternatives Polyphase CSIR CSCR 
+No New Regulatory Action 0.0 0.0 21.0 
+Target-Level Consumer Rebates 0.4 0.3 29.5 
+TSL 2 Consumer Rebates N/A 13.2* 29.5 
+CSCR-Only Consumer Rebates N/A 0.0 44.9 
+Consumer Tax Credits 0.2 0.2 26.1 
+Manufacturer Tax Credits 0.1 0.1 23.6 
+Voluntary Efficiency Targets 20.0 20.0 31.0 
+Bulk Government Purchases 7.7 7.4 28.4 
+* Market share at CSIR efficiency level 4 or above (3.0% in the base case) 
+ 
+ Tables 16.4.2 and 16.4.3 show the national energy savings and NPV resulting from the 
+various non-regulatory alternative policy cases, when the efficiency target levels are equal to the 
+proposed standard levels for each product (except where noted). The cases in which no 
+regulatory action is taken with regard to small electric motors constitute the base case (or "No 
+Action") scenarios, in which energy savings and NPV are zero by definition. For comparison, the 
+tables also include the impacts of the proposed energy conservation standards. The NPV amounts 
+shown in Tables 16.4.2 and 16.4.3 are based on two discount rates (seven percent and three 
+percent real). The non-regulatory alternatives achieve lower energy savings than the proposed 
+standards and have lower NPV. Table 16.4.3 shows the energy savings and NPV corresponding 
+to a market scenario in which the market share shift between CSIR and CSCR driven by each 
+policy alternative is complete by 2015. 
+ 
+Table 16.4.2 Non-Regulatory Alternatives for Polyphase Small Electric Motors 
+Net Present Value* 
+(billion 2008$) 
+ 
+Policy Alternatives 
+Primary 
+Energy 
+Savings 
+(quads) 7% discount rate 3% discount rate 
+No New Regulatory Action 0.0000 0.0000 0.0000 
+Consumer Rebates 0.0015 0.0005 0.0030 
+Consumer Tax Credits 0.0009 0.0003 0.0018 
+Manufacturer Tax Credits 0.0004 0.0001 0.0009 
+Voluntary Efficiency Targets 0.0716 0.0231 0.1426 
+Bulk Government Purchases 0.0276 0.0089 0.0549 
+Proposed Standards at TSL 5 0.3298 0.0598 0.5635 
+*  Net present value (NPV) is the value of a time series of costs and savings. DOE determined the NPV from 2015 
+to 2065 in billions of 2008$. 
+ 
+ 
+16-20 
+Table 16.4.3 Non-Regulatory Alternatives for Capacitor-Start Small Electric Motors 
+Net Present Value* 
+(billion 2008$) 
+Policy Alternatives 
+Primary 
+Energy 
+Savings 
+(quads) 7% discount rate 3% discount rate 
+No New Regulatory Action 0.000 0.000 0.000 
+Consumer Rebates 0.071 0.245 0.566 
+TSL 2 Consumer Rebates 0.187 0.517 1.237 
+CSCR-Only Consumer Rebates 0.130 0.428 0.993 
+Consumer Tax Credits 0.057 0.206 0.473 
+Manufacturer Tax Credits 0.047 0.178 0.405 
+Voluntary Energy Efficiency Targets 0.749 0.331 1.469 
+Bulk Government Purchases 0.311 -0.016 0.304 
+Proposed Standards at TSL 7 2.128 5.674 13.586 
+*  Net present value (NPV) is the value of a time series of costs and savings. DOE determined the NPV from 
+2015 to 2065 in billions of 2008$. 
+ 
+ 
+ 
+16-21 
+                                                
+REFERENCES 
+ 
+1  Rufo, M. and F. Coito. California's Secret Energy Surplus: The Potential for Energy 
+Efficiency. Prepared for The Energy Foundation and The Hewlett Foundation. 2002. 
+XENERGY Inc.: Oakland, CA.  
+ 
+2  Rufo, M. Personal communication. Itron, Inc., Oakland, CA. Telephone conversation with 
+Barbara Atkinson, LBNL. January 2008. 
+ 
+3  ICF International. Arizona Public Service Energy Efficient Market Potential Study. 2007. ICF 
+International: Fairfax, VA. 
+ 
+4  Lee, A. Personal communication. Quantec, LLC, Portland, OR. Telephone conversation with 
+Barbara Atkinson, LBNL. January 2008. 
+ 
+5  Mosenthal, P. Personal communication. Optimal Energy, Bristol, VT. Telephone 
+conversation with Barbara Atkinson, LBNL. January 2008. 
+ 
+6  Train, K. Customer Decision Study: Analysis of Residential Customer Equipment Purchase 
+Decisions. Prepared for Southern California Edison by Cambridge Systematics, Pacific 
+Consulting Services, The Technology Applications Group, and California Survey Research 
+Services. 1994. 
+ 
+7  LBNL. Analysis of Tax Credits for Efficient Equipment. Lawrence Berkeley National 
+Laboratory, End-Use Forecasting Group: Berkeley, CA. 
+<http://enduse.lbl.gov/Projects/TaxCredits.html> (Last accessed April 24, 2008.) 
+ 
+8  U.S. Department of Energy-Office of Codes and Standards, Technical Support Document: 
+Energy Efficiency Standards for Consumer Products: Refrigerators, Refrigerator-Freezers, 
+and Freezers, including Environmental Assessment and Regulatory Impact Analysis, July, 
+1995. Washington, DC. Report No. DOE/EE-0064. 
+<http://www.osti.gov/bridge/product.biblio.jsp?osti_id=90266>  
+ 
+9  Smith , N. Personal communication. National Association of State Procurement Officials 
+(NAPSO), Lexington, KY. Telephone conversation with Barbara Atkinson, LBNL. April, 
+2008. <http://www.naspo.org/about/index.cfm> (Last accessed April 24, 2008.) 
+ 
+10  Responsible Purchasing Network. <http://www.responsiblepurchasing.org/> (Last accessed 
+April 24, 2008.) 
+ 

@@ -1,0 +1,24 @@
+	NO PARSCIT CITATIONS
+Report to the Congress on Risk Retention	0.75
+Mortgage and Asset Securitizations Issuance	0.7142857142857143
+Understanding the Securitization of Subprime Mortgage Credit	0.8181818181818181
+Theory of the Firm Managerial Behavior Agency Costs and Ownership Structure	0.6923076923076923
+Banks and Loan Sales Marketing Nonmarketable Assets	0.7419354838709677
+The Subprime Problem Causes and Lessons	0.6666666666666667
+The Economics of Structured Finance	0.7931034482758621
+Tranching and Rating	0.7272727272727273
+Origination and Issuance of Agency and NonAgency Mortgage Loans	0.6774193548387097
+Did Securitization Lead to Lax Screening Evidence from Subprime Loans	0.8823529411764706
+Rating Shopping and Asset Complexity A Theory of Ratings Inflation	0.5882352941176471
+The Consequences of Mortgage Credit Expansion Evidence from the US Mortgage Default Crisis	0.7894736842105263
+Irrational Exuberance	0.84
+Credit Cycles	0.8095238095238095
+Liquidity Shortages and Banking Crises	0.8
+Bank Lending During the Financial Crisis of 2008	0.8857142857142857
+Figure 3 Illustrative ABS and MBS Spreads 20042010	0.7714285714285715
+Financial Intermediation and Delegated Monitoring	0.8518518518518519
+Has the CDS market lowered the cost of corporate debt	0.8064516129032258
+Works of Friction	0.9090909090909091
+The Role of Macroprudential Policy A Discussion Paper	0.696969696969697
+The Prudential Regulation of Banks	0.7333333333333334
+The Shadow Banking System Implications for Financial Regulation	0.7297297297297297

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Federal Register Vol</author>
+</authors>
+<title>Using Student Progress To Evaluate Teachers: A Primer on Value-Added Models. Educational Testing Service, Policy Information Center,</title>
+<date>2009</date>
+<journal>Notices</journal>
+<volume>74</volume>
+<publisher>RAND Corporation,</publisher>
+<location>Santa Monica, CA:</location>
+<marker>Vol, 2009</marker>
+<rawString>37852 Federal Register / Vol. 74, No. 144 / Wednesday, July 29, 2009 / Notices 20 See: Braun, Henry I. Using Student Progress To Evaluate Teachers: A Primer on Value-Added Models. Educational Testing Service, Policy Information Center, 2005; Marsh, Julie A.; Pane, John F.; Hamilton, Laura S. Making Sense of DataDriven Decision Making in Education: Evidence from Recent RAND Research. Santa Monica, CA: RAND Corporation, 2006; and Sanders, William L. ‘‘Value-Added Assessment from Student Achievement Data: Opportunities and Hurdles.’’ Journal of Personnel Evaluation in Education, Vol.</rawString>
+</citation>
+<citation valid="true">
+<title>Electronic Access to This Document: You can view this document, as well as all other documents of this</title>
+<date>2000</date>
+<booktitle>Department published in the Federal Register, in text or Adobe Portable Document Format (PDF) on the Internet at the</booktitle>
+<volume>14</volume>
+<pages>329--339</pages>
+<marker>2000</marker>
+<rawString>14, No. 4, p. 329–339, 2000. Electronic Access to This Document: You can view this document, as well as all other documents of this Department published in the Federal Register, in text or Adobe Portable Document Format (PDF) on the Internet at the following site: http://www.ed.gov/news/ fedregister.</rawString>
+</citation>
+<citation valid="false">
+<title>To use PDF you must have Adobe Acrobat Reader, which is available free at this site. If you have questions about using PDF, call the U.S. Government Printing Office (GPO), toll free, at 1– 888–293–6498; or in the Washington, DC, area at (202) 512–1530. Note: The official version of this document is the document published in the Federal Register. Free Internet access to the official edition of the Federal Register and the Code of Federal Regulations is available on GPO Access at: http://www.gpoaccess.gov/nara/ index.html.</title>
+<marker></marker>
+<rawString>To use PDF you must have Adobe Acrobat Reader, which is available free at this site. If you have questions about using PDF, call the U.S. Government Printing Office (GPO), toll free, at 1– 888–293–6498; or in the Washington, DC, area at (202) 512–1530. Note: The official version of this document is the document published in the Federal Register. Free Internet access to the official edition of the Federal Register and the Code of Federal Regulations is available on GPO Access at: http://www.gpoaccess.gov/nara/ index.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Dated</author>
+</authors>
+<title>Arne Duncan, Secretary of Education.</title>
+<date>2009</date>
+<marker>Dated, 2009</marker>
+<rawString>Dated: July 22, 2009. Arne Duncan, Secretary of Education.</rawString>
+</citation>
+<citation valid="false">
+<title>E9–17906 Filed 7–24–09; 11:15 am] Institute of Education Sciences; Overview Information; Grant Program for Statewide Longitudinal Data Systems; Notice Inviting Applications for New Awards Under the American Recovery and Reinvestment Act of 2009. Catalog of Federal Domestic Assistance (CFDA)</title>
+<tech>Number: 84.384A.</tech>
+<marker></marker>
+<rawString>[FR Doc. E9–17906 Filed 7–24–09; 11:15 am] Institute of Education Sciences; Overview Information; Grant Program for Statewide Longitudinal Data Systems; Notice Inviting Applications for New Awards Under the American Recovery and Reinvestment Act of 2009. Catalog of Federal Domestic Assistance (CFDA) Number: 84.384A.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Dates</author>
+</authors>
+<title>Applications Available:</title>
+<date>2009</date>
+<note>(Application Package).</note>
+<marker>Dates, 2009</marker>
+<rawString>Dates: Applications Available: July 24, 2009 (Request for Applications [RFA]); August 10, 2009 (Application Package).</rawString>
+</citation>
+<citation valid="true">
+<date>2009</date>
+<booktitle>VerDate Nov&lt;24&gt;2008</booktitle>
+<marker>2009</marker>
+<rawString>VerDate Nov&lt;24&gt;2008 20:46 Jul 28, 2009 Jkt 217001 PO 00000 Frm 00070 Fmt 4701 Sfmt 4703 E:\FR\FM\29JYN2.SGM 29JYN2ms</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

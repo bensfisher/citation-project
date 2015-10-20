@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<title>Sources of GHG Emissions Considered .................................................................... 2-5 2-2. GHG Source Categories Included in the Regulatory Analyses ................................. 2-6 3-1. Options Considered in Developing Scenarios (Recommended Option Indicated by Shading) ................................................................................................ 3-2 4-1. Selected Reporting Thresholds and Reporting Requirements ................................... 4-1 4-2. Per Unit Cost Breakdown by Monitoring Category: Stationary Combustion (2006$)..................................................................................................................... 4-23 4-2a. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS-Add CO2 Analyzer and Flow Meter (2006$)............................................... 4-25 4-2b. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS-Add CO2 Analyzer Only</title>
+<date>2006</date>
+<journal>Detailed Summary of Stationary Combustion Monitoring Category Costs: Daily Fuel Sampling</journal>
+<booktitle>CEMS part 75 Appendix G (non-ARP): Add CO2 Data Stream</booktitle>
+<pages>4--27</pages>
+<marker>2006</marker>
+<rawString>2-1. Sources of GHG Emissions Considered .................................................................... 2-5 2-2. GHG Source Categories Included in the Regulatory Analyses ................................. 2-6 3-1. Options Considered in Developing Scenarios (Recommended Option Indicated by Shading) ................................................................................................ 3-2 4-1. Selected Reporting Thresholds and Reporting Requirements ................................... 4-1 4-2. Per Unit Cost Breakdown by Monitoring Category: Stationary Combustion (2006$)..................................................................................................................... 4-23 4-2a. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS-Add CO2 Analyzer and Flow Meter (2006$)............................................... 4-25 4-2b. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS-Add CO2 Analyzer Only (2006$) ................................................................ 4-26 4-2c. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS-Add Flow Monitor Only (2006$) ................................................................ 4-26 4-2d. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS part 75 Appendix G (non-ARP): Add CO2 Data Stream (2006$) ............... 4-27 4-2e. Detailed Summary of Stationary Combustion Monitoring Category Costs: CEMS part 75 ARP Units—Report Annual CO2, Methane and Nitrous Oxide (2006$)..................................................................................................................... 4-27 4-2f. Detailed Summary of Stationary Combustion Monitoring Category Costs: Daily Fuel Sampling (2006$)................................................................................... 4-27 4-2g. Detailed Summary of Stationary Combustion Monitoring Category Costs: Monthly Fuel Sampling (2006$).............................................................................. 4-28 4-2h. Detailed Summary of Stationary Combustion Monitoring Category Costs: Periodic In-Stack Gas Sampling (2006$) ................................................................ 4-28 4-2i. Detailed Summary of Stationary Combustion Monitoring Category Costs: Periodic Off-Site Flue Gas Analysis (2006$) .......................................................... 4-29 4-3. Reporting Units by Threshold and Monitoring Category ........................................ 4-30 4-4. Subpart E Adipic Acid: Labor Costs (2006$).......................................................... 4-34 4-5. Subpart E Adipic Acid: Capital and O&amp;M Costs (2006$) ...................................... 4-35 4-6. Subpart F Aluminum Production: Labor Costs (2006$).......................................... 4-36 4-7. Subpart F Aluminum Production: Capital and O&amp;M Costs (2006$) ...................... 4-36 4-8. Subpart G Ammonia: Labor Costs (2006$) ............................................................. 4-38 4-9. Subpart G Ammonia: Capital and O&amp;M (2006$).................................................... 4-38 4-10. Subpart H Cement Manufacturing: Labor Costs (2006$)........................................ 4-40 x</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Subpart H Cement Manufacturing Capital</author>
+<author>O&amp;M Costs</author>
+</authors>
+<title>Subpart I Electronics: Labor Costs</title>
+<date>2006</date>
+<journal>Subpart FF Underground Coal Mines: Capital and O&amp;M Costs</journal>
+<booktitle>Subpart W Oil and Natural Gas Systems: Capital and O&amp;M Costs</booktitle>
+<volume>6</volume>
+<pages>4--41</pages>
+<institution>Subpart HH Landfills: Labor Costs</institution>
+<note>Subpart</note>
+<marker>Capital, Costs, 2006</marker>
+<rawString>4-11. Subpart H Cement Manufacturing: Capital and O&amp;M Costs (2006$) .................... 4-41 4-12. Subpart I Electronics: Labor Costs (2006$)............................................................. 4-42 4-13. Subpart I Electronics: Capital and O&amp;M Costs (2006$) ......................................... 4-43 4-14. Subpart J Ethanol: Labor Costs (2006$).................................................................. 4-44 4-15. Subpart J Ethanol: Capital and O&amp;M Costs (2006$)............................................... 4-44 4-16. Subpart K Ferroalloy Production: Labor Costs (2006$).......................................... 4-46 4-17. Subpart K Ferroalloy Production: Capital and O&amp;M Costs (2006$) ...................... 4-46 4-18. Subpart L Fluorinated GHG Production: Labor Costs (2006$)............................... 4-48 4-19. Subpart L Fluorinated GHG Production: Capital and O&amp;M Costs (2006$) ........... 4-48 4-20. Subpart M Food Processing: Labor Costs (2006$).................................................. 4-49 4-21. Subpart M Food Processing: Capital and O&amp;M Costs (2006$) .............................. 4-49 4-22. Subpart N Glass: Labor Costs (2006$) .................................................................... 4-51 4-23. Subpart N Glass: Capital and O&amp;M Costs (2006$)................................................. 4-51 4-24. Subpart O HCFC-22 Production: Labor Costs (2006$)........................................... 4-52 4-25. Subpart O HCFC-22 Production: Capital and O&amp;M Costs (2006$) ....................... 4-53 4-26. Subpart P Hydrogen Production: Labor Costs (2006$) ........................................... 4-54 4-27. Subpart P Hydrogen Production: Capital and O&amp;M Costs (2006$)........................ 4-55 4-28. Subpart Q Iron &amp; Steel: Labor Costs (2006$) ......................................................... 4-57 4-29. Subpart Q Iron &amp; Steel: Capital and O&amp;M Costs (2006$)...................................... 4-58 4-30. Subpart R Lead: Labor Costs (2006$) ..................................................................... 4-59 4-31. Subpart R Lead: Capital and O&amp;M Costs (2006$).................................................. 4-59 4-32. Subpart S Lime Manufacturing: Labor Costs (2006$) ............................................ 4-61 4-33. Subpart S Lime Manufacturing: Capital and O&amp;M Costs (2006$) ......................... 4-61 4-34. Subpart T Magnesium Production: Labor Costs (2006$) ........................................ 4-62 4-35. Subpart T Magnesium Production: Capital and O&amp;M Costs (2006$)..................... 4-63 4-36. Subpart V Nitric Acid: Labor Costs (2006$)........................................................... 4-65 4-37. Subpart V Nitric Acid: Capital and O&amp;M Costs (2006$)........................................ 4-66 4-38. Subpart W Oil and Natural Gas Systems: Labor Costs (2006$).............................. 4-68 4-39. Subpart W Oil and Natural Gas Systems: Capital and O&amp;M Costs (2006$) .......... 4-68 4-40. Subpart X Petrochemical Production: Labor Costs (2006$).................................... 4-70 4-41. Subpart X Petrochemical Production: Capital and O&amp;M Costs (2006$) ................ 4-71 4-42. Subpart Y Petroleum Refineries: Labor Costs (2006$) ........................................... 4-72 4-43. Subpart Y Petroleum Refineries: Capital and O&amp;M Costs (2006$)........................ 4-73 4-44. Subpart Z Phosphoric Acid Production: Labor Costs (2006$) ................................ 4-74 4-45. Subpart Z Phosphoric Acid Production: Capital and O&amp;M Costs (2006$)............. 4-75 4-46. Subpart AA Pulp and Paper: Labor Costs (2006$).................................................. 4-76 4-47. Subpart AA Pulp and Paper: Capital and O&amp;M Costs (2006$)............................... 4-77 4-48. Subpart BB Silicon Carbide: Labor Costs (2006$).................................................. 4-78 4-49. Subpart BB Silicon Carbide: Capital and O&amp;M Costs (2006$) .............................. 4-78 4-50. Subpart CC Soda Ash: Labor Costs (2006$) ........................................................... 4-80 4-51. Subpart CC Soda Ash: Capital and O&amp;M Costs (2006$)........................................ 4-80 xi 4-52. Subpart DD SF6 Electrical Power Systems: Labor Costs (2006$) .......................... 4-82 4-53. Subpart DD SF6 Electrical Power Systems: Capital and O&amp;M Costs (2006$) ....... 4-82 4-54. Subpart EE Titanium Dioxide: Labor Costs (2006$) .............................................. 4-84 4-55. Subpart EE Titanium Dioxide: Capital and O&amp;M Costs (2006$) ........................... 4-84 4-56. Subpart FF Underground Coal Mines: Labor Costs (2006$)................................... 4-86 4-57. Subpart FF Underground Coal Mines: Capital and O&amp;M Costs (2006$) ............... 4-86 4-58. Subpart GG Zinc: Labor Costs (2006$)................................................................... 4-88 4-59. Subpart GG Zinc: Capital and O&amp;M Costs (2006$) ............................................... 4-88 4-60. Subpart HH Landfills: Labor Costs (2006$)............................................................ 4-90 4-61. Subpart HH Landfills: Capital and O&amp;M Costs (2006$) ........................................ 4-91 4-62. Subpart II Wastewater: Labor Costs (2006$) .......................................................... 4-92 4-63. Subpart II Wastewater: Capital and O&amp;M Costs (2006$) ....................................... 4-93 4-64. Subpart JJ Manure Management: Labor Costs (2006$) .......................................... 4-95 4-65a. Subpart JJ Manure Management: Capital and O&amp;M Costs (2006$) ....................... 4-95 4-65b. Subpart JJ Manure Management: Capital and O&amp;M Costs (without Digesters) (2006$)..................................................................................................................... 4-96 4-66. Subparts KK &amp; LL Coal Suppliers: Labor Costs (2006$)....................................... 4-97 4-67. Subparts KK &amp; LL Coal Suppliers: Capital and O&amp;M Costs (2006$).................... 4-98 4-68. Subpart MM Petroleum Suppliers: Labor Costs (2006$) ........................................ 4-99 4-69. Subpart MM Petroleum Suppliers: Capital and O&amp;M Costs (2006$)..................... 4-99 4-70. Subpart NN Natural Gas Suppliers: Labor Costs (2006$)..................................... 4-101 4-71. Subpart NN Natural Gas Suppliers: Capital and O&amp;M Costs (2006$) ................. 4-102 4-72. Subpart OO Suppliers of Industrial Gases: Labor Costs (2006$).......................... 4-103 4-73. Subpart OO Suppliers of Industrial Gases: Capital and O&amp;M Costs (2006$) ...... 4-103 4-74. Subpart PP Suppliers of CO2: Labor Costs (2006$) .............................................. 4-104 4-75. Subpart PP Suppliers of CO2: Capital and O&amp;M Costs (2006$)........................... 4-105 4-76. Mobile Source Vehicle and Engine Categories ..................................................... 4-106 4-77. Mobile Source Vehicle and Engine Reporting/Recordkeeping Costs (2006$) ..... 4-108 4-78. Mobile Source Vehicle and Engine Annualized Equipment/Facility Costs (2006$)................................................................................................................... 4-110 4-79. Summary of Estimated Annual Mobile Source Costs by Category (2006$) ......... 4-112 4-80. Estimated Mobile Source Vehicle and Engine Annualized Aggregate Costs, Average Per Manufacturer Costs, and Average Per Unit Costs ($2006)............... 4-113 4-81. Number and Share of Entities and Emissions Covered by Threshold ................... 4-114 4-82. Summary of Costs and Costs per Representative Entity by Threshold (Million $2006) .................................................................................................................... 4-120 5-1. Estimates of Emissions (MtCO2e) Reported in 2006 Under the Recommended Option ........................................................................................................................ 5-2 5-2. National Cost Estimates by Sector: Recommended Option ...................................... 5-3 xii 5-3. Summary of Threshold Cost-Effectiveness Analysis (First Year): Recommended Hybrid Option is 25,000 tons CO2e .................................................. 5-6 5-4. Summary of Threshold Cost-Effectiveness Analysis (Subsequent Years)................ 5-7 5-5. National Cost Estimates by Sector: 1,000 tCO2e Threshold...................................... 5-8 5-6. National Cost Estimates by Sector: 10,000 tCO2e Threshold.................................... 5-9 5-7. National Cost Estimates by Sector: 100,000 tCO2e Threshold................................ 5-11 5-8. Analysis of Alternative Monitoring Methods by Sector.......................................... 5-17 5-9. Uncertainty Estimates by Methodology Option ...................................................... 5-20 5-10. Uncertainty Cost-Effectiveness Analysis (First Year): Recommended Option is the Hybrid Approach............................................................................................ 5-20 5-11. Uncertainty Cost-Effectiveness Analysis (Subsequent Year): Recommended Option is the Hybrid Approach................................................................................ 5-21 5-12. Alternative Option 6 ................................................................................................ 5-22 5-13. Alternative Option 7 ................................................................................................ 5-23 5-14. Alternative Option 8 ................................................................................................ 5-24 5-15. Private-Sector Third-Party Verification Costs......................................................... 5-25 5-16. Alternative Option 9 ................................................................................................ 5-27 5-17. Alternative Option 10 .............................................................................................. 5-28 U.S. Environmental Protection Agency. Advance Notice of Proposed Rulemaking: Regulating Greenhouse Gas Emissions Under the Clean Air Act. EPA-HQ-OAR-2008-0318, July 11 2008. http://www.epa.gov/climatechange/anpr.html.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency. Preamble to the Proposed Mandatory Greenhouse Gas Reporting Rule;</title>
+<pages>2008--0508</pages>
+<marker>S, </marker>
+<rawString>U.S. Environmental Protection Agency. Preamble to the Proposed Mandatory Greenhouse Gas Reporting Rule; EPA-HQ-OAR-2008-0508-001.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Office of Management and Budget. Circular A-4,</title>
+<date>2003</date>
+<note>http://www.whitehouse.gov/omb/circulars/a004/a-4.pdf.</note>
+<marker>S, 2003</marker>
+<rawString>U.S. Office of Management and Budget. Circular A-4, September 17, 2003. http://www.whitehouse.gov/omb/circulars/a004/a-4.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Falls</author>
+</authors>
+<title>Personal Communication between Harold Falls of CF Industries and Erin Redmond of Research Triangle Institute (RTI),</title>
+<date>2008</date>
+<marker>Falls, 2008</marker>
+<rawString>Falls (2008). Personal Communication between Harold Falls of CF Industries and Erin Redmond of Research Triangle Institute (RTI), June 26, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Jaskinki</author>
+</authors>
+<date>2008</date>
+<booktitle>Personal Communication between Stephen Jasinski of the US Geological Survey and Mausami Desai of US EPA.</booktitle>
+<marker>Jaskinki, 2008</marker>
+<rawString>Jaskinki (2008). Personal Communication between Stephen Jasinski of the US Geological Survey and Mausami Desai of US EPA. June 25, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Cody Rice</author>
+</authors>
+<title>Wage Rates for Economic Analyses of the Toxics Release Inventory Program.” Analytical Support Branch, Environmental Analysis Division, Office of Environmental Information,</title>
+<date>2002</date>
+<location>U.S. EPA,</location>
+<marker>Rice, 2002</marker>
+<rawString>Rice, Cody. 2002. “Wage Rates for Economic Analyses of the Toxics Release Inventory Program.” Analytical Support Branch, Environmental Analysis Division, Office of Environmental Information, U.S. EPA, June 10, 2002.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>The Cost Methodology for the Final Revisions to the National Pollutant Discharge Elimination System Regulation and the Effluent Guidelines for Concentrated Animal Feeding Operations,</title>
+<date>2002</date>
+<journal>Subpart CC—Soda Ash Manufacturing</journal>
+<booktitle>Pulp &amp; Paper Manufacturing (322), Cement &amp; Other Mineral Production(327), Primary Metal Manufacturing (331), Computer &amp; Electronic Product Manufacturing (334), Electronic equipment, appliance, and component manufacturing (335), Cement (32731), Glass (3272), Lead Production (3314), Lime Manufacturing (327410), Nitric Acid (325311), Phosphoric Acid (325312), Pulp &amp; Paper—Pulp Mills (322110), and Zinc Production (3314). Subpart AA—Pulp and Paper Manufacturing 57.7 1% $14.8 17% $9.2 6% Subpart BB—Silicon Carbide Production</booktitle>
+<volume>0</volume>
+<pages>821--03</pages>
+<publisher>Ventyx, Inc.,</publisher>
+<marker>Agency, 2002</marker>
+<rawString>U.S. Environmental Protection Agency. December 2002. The Cost Methodology for the Final Revisions to the National Pollutant Discharge Elimination System Regulation and the Effluent Guidelines for Concentrated Animal Feeding Operations, EPA-821-R-03-004 Ventyx, Inc., 2008. Velocity Suite Software. http://www1.ventyx.com/velocity/vs-overview.asp Architectural Services; Management Services; Refuse Systems; Sanitary Services, Not Elsewhere Classified; Local Trucking Without Storage; Testing Laboratories; and Commercial, Physical and Biological Research. If any activity in the procurement can be identified with a separate NAICS code, or component of a code with a separate distinct size standard, and that industry accounts for 50% or more of the value of the entire procurement, then the proper size standard is the one for that particular industry, and not the Environmental Remediation Service size standard. NA: Not available. SUSB did not report this data for disclosure or other reasons. Remediation Services Industry. b) For purposes of classifying a Government procurement as Environmental Remediation Services, the general purpose of the procurement must be to restore a contaminated environment and also the procurement must be composed of activities in three or more separate industries with separate NAICS codes or, in some instances (e.g., engineering), smaller sub-components of NAICS codes with separate, distinct size standards. These activities may include, but are not limited to, separate activities in industries such as: Heavy Construction; Special Trade Construction; Engineering Services; Architectural Services; Management Services; Refuse Systems; Sanitary Services, Not Elsewhere Classified; Local Trucking Without Storage; Testing Laboratories; and Commercial, Physical and Biological Research. If any activity in the procurement can be identified with a separate NAICS code, or component of a code with a separate distinct size standard, and that industry accounts for 50% or more of the value of the entire procurement, then the proper size standard is the one for that particular industry, and not the Environmental Remediation Service size standard. NA: Not available. SUSB did not report this data disclosure or other reasons. Remediation Services Industry. b) For purposes of classifying a Government procurement as Environmental Remediation Services, the general purpose of the procurement must be to restore a contaminated environment and also the procurement must be composed of activities in three or more separate industries with separate NAICS codes or, in some instances (e.g., engineering), smaller sub-components of NAICS codes with separate, distinct size standards. These activities may include, but are not limited to, separate activities in industries such as: Heavy Construction; Special Trade Construction; Engineering Services; Architectural Services; Management Services; Refuse Systems; Sanitary Services, Not Elsewhere Classified; Local Trucking Without Storage; Testing Laboratories; and Commercial, Physical and Biological Research. If any activity in the procurement can be identified with a separate NAICS code, or component of a code with a separate distinct size standard, and that industry accounts for 50% or more of the value of the entire procurement, then the proper size standard is the one for that particular industry, and not the Environmental Remediation Service size standard. NA: Not available. SUSB did not report the data necessary to calculate this ratio. Table 5-26. Establishment Sales Tests by Industry and Enterprisea Size: Subsequent Year Costs Remediation Services Industry. b) For purposes of classifying a Government procurement as Environmental Remediation Services, the general purpose of the procurement must be to restore a contaminated environment and also the procurement must be composed of activities in three or more separate industries with separate NAICS codes or, in some instances (e.g., engineering), smaller sub-components of NAICS codes with separate, distinct size standards. These activities may include, but are not limited to, separate activities in industries such as: Heavy Construction; Special Trade Construction; Engineering Services; Architectural Services; Management Services; Refuse Systems; Sanitary Services, Not Elsewhere Classified; Local Trucking Without Storage; Testing Laboratories; and Commercial, Physical and Biological Research. If any activity in the procurement can be identified with a separate NAICS code, or component of a code with a separate distinct size standard, and that industry accounts for 50% or more of the value of the entire procurement, then the proper size standard is the one for that particular industry, and not the Environmental Remediation Service size standard. NA: Not available. SUSB did not report the data necessary to calculate this ratio. plus natural gas suppliers yields a cost of approximately $17,000 per local government in the first year. Thus, for the smallest group of local governments (&lt;10,000 people), cost-to-revenue ratio would be 0.8%. For the larger group of governments (&lt;50,000 people), the cost-to-revenue ratio is 0.3%. 5.2.3 Results of Screening Analysis The Regulatory Flexibility Act generally requires an agency to prepare a regulatory flexibility analysis of any rule subject to notice and comment rulemaking requirements under the Administrative Procedure Act or any other statute, unless the agency certifies that the rule will (211), Pulp &amp; Paper Manufacturing (322), Cement &amp; Other Mineral Production(327), Primary Metal Manufacturing (331), Computer &amp; Electronic Product Manufacturing (334), Electronic equipment, appliance, and component manufacturing (335), Cement (32731), Glass (3272), Lead Production (3314), Lime Manufacturing (327410), Nitric Acid (325311), Phosphoric Acid (325312), Pulp &amp; Paper—Pulp Mills (322110), and Zinc Production (3314). Subpart AA—Pulp and Paper Manufacturing 57.7 1% $14.8 17% $9.2 6% Subpart BB—Silicon Carbide Production 0.1 0% $0.0 0% $0.0 0% Subpart CC—Soda Ash Manufacturing 3.1 0% $0.0 0% $0.0 0% Subpart DD—Sulfur Hexafluoride (SF6) from Electric Power Systems 10.3 0% $0.0 0% $0.4 0% Subpart EE—Titanium Dioxide Production 3.7 0% $0.0 0% $0.1 0% Subpart FF—Underground Coal Mines 33.5 1% $0.6 1% $2.3 1% Subpart GG—Zinc Production 0.8 0% $0.0 0% $0.1 0% Subpart HH—Landfills 91.1 2% $7.9 9% $15.3 10% Subpart II—Wastewater 0.0 0% $0.0 0% $0.0 0% Subpart JJ—Manure Management 1.5 0% $0.0 0% $0.2 0% Subpart KK—Suppliers of Coal and Coal-based Products &amp; Subpart LL—Suppliers of Coal-based Liquid Fuels 0% $0.0 0% $11.0 7% Subpart MM—Suppliers of Petroleum Products 0% $0.0 0% $2.0 1% Subpart NN—Suppliers of Natural Gas and Natural Gas Liquids 0% $0.0 0% $2.1 1% Subpart OO—Suppliers of Industrial Greenhouse Gases 464.1 12% $0.0 0% $0.4 0% Subpart PP—Suppliers of Carbon Dioxide (CO2) 0% $0.0 0% $0.0 0% Subpart QQ—Motor Vehicle and Engine Manufacturers 35.4 1% $0.0 0% $7.4 5% Total 3,869.9 100% $87.1 100% $160.4 100% aEmissions from upstream facilities are excluded from these estimates to avoid double counting. bCapital Costs annualized using appropriate equipment lifetime and interest rate (see additional details in RIA Section 4).</rawString>
+</citation>
+<citation valid="true">
+<title>5.3 References Glass Factory Directory (GFD).</title>
+<date>2004</date>
+<marker>2004</marker>
+<rawString>5.3 References Glass Factory Directory (GFD). 2004.</rawString>
+</citation>
+<citation valid="true">
+<title>for Environmental Policy Solutions, Duke University.</title>
+<date>2008</date>
+<pages>10</pages>
+<institution>Nicholas Institute</institution>
+<marker>2008</marker>
+<rawString>Nicholas Institute for Environmental Policy Solutions, Duke University. 2008. Size Thresholds for Greenhouse Gas Regulation: Who Would be Affected by a 10,000-ton CO2 Emissions Rule? Available at: http://www.nicholas.duke.edu/institute/10Kton.pdf.</rawString>
+</citation>
+<citation valid="true">
+<title>Pew Center on Global Climate Change.</title>
+<date>2002</date>
+<marker>2002</marker>
+<rawString>Pew Center on Global Climate Change. 2002. The Feasibility of Greenhouse Gas Reporting. Available at: http://www.pewclimate.org/policy_center/analyses/ghg_feasibility.cfm.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>RTI International</author>
+</authors>
+<title>Draft Industry Profile for the Cement Industry. Prepared for the U.S. Environmental Protection Agency.</title>
+<date>2008</date>
+<marker>International, 2008</marker>
+<rawString>RTI International. 2008. Draft Industry Profile for the Cement Industry. Prepared for the U.S. Environmental Protection Agency.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Geological Survey</author>
+</authors>
+<date>2006</date>
+<note>Directory of Lime Plants in the United States in 2005. Available at: http://minerals.usgs.gov/minerals/pubs/commodity/lime/limedir05.pdf.</note>
+<marker>Survey, 2006</marker>
+<rawString>U.S. Geological Survey (USGS). 2006. Directory of Lime Plants in the United States in 2005. Available at: http://minerals.usgs.gov/minerals/pubs/commodity/lime/limedir05.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Finances of County Governments:</title>
+<date>2005</date>
+<journal>U.S. Census Bureau. Table</journal>
+<volume>12</volume>
+<pages>2005--02</pages>
+<location>Washington, DC:</location>
+<marker>Bureau, 2005</marker>
+<rawString>U.S. Census Bureau. 2005a. Finances of County Governments: 2002. Washington, DC: U.S. Census Bureau. Table 12. http://www.census.gov/prod/2005pubs/gc02x43.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Finances of Municipal and Township Governments:</title>
+<date>2005</date>
+<journal>U.S. Census Bureau. Table</journal>
+<volume>13</volume>
+<pages>2005--024</pages>
+<location>Washington, DC:</location>
+<marker>Bureau, 2005</marker>
+<rawString>U.S. Census Bureau. 2005b. Finances of Municipal and Township Governments: 2002. Washington, DC: U.S. Census Bureau. Table 13. http://www.census.gov/prod/2005pubs/gc024x4.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2003</date>
+<location>Washington, DC:</location>
+<marker>S, 2003</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2003. Economic Impact Analysis of the Lime Manufacturing MACT Standard. Washington, DC: U.S. Environmental Protection Agency. Available at http://www.epa.gov/ttnecas1/regdata/EIAs/limeeia.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2002</date>
+<marker>S, 2002</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2002.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Small</author>
+</authors>
+<title>Business Administration (SBA).</title>
+<date>2002</date>
+<booktitle>2008a. Firm Size Data from the Statistics of U.S. Businesses: U.S. Detail Employment Sizes:</booktitle>
+<note>http://www.census.gov/csd/susb/download_susb02.htm.</note>
+<marker>Small, 2002</marker>
+<rawString>U.S. Small Business Administration (SBA). 2008a. Firm Size Data from the Statistics of U.S. Businesses: U.S. Detail Employment Sizes: 2002. http://www.census.gov/csd/susb/download_susb02.htm.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Small</author>
+</authors>
+<title>Business Administration (SBA).</title>
+<booktitle>2008b. Firm Size Data from the Statistics of U.S. Businesses: Dynamic Data by Births, Deaths, Growth, and Decline, U.S. Industry Data:</booktitle>
+<pages>2003--2005</pages>
+<note>http://www.sba.gov/advo/research/data.html.</note>
+<marker>Small, </marker>
+<rawString>U.S. Small Business Administration (SBA). 2008b. Firm Size Data from the Statistics of U.S. Businesses: Dynamic Data by Births, Deaths, Growth, and Decline, U.S. Industry Data: 2003-2005. http://www.sba.gov/advo/research/data.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Small</author>
+</authors>
+<title>Business Administration (SBA). 2008c. Table of Small Business Size Standards Matched to North American Industry Classification System Codes. Effective</title>
+<date>2008</date>
+<note>http://www.sba.gov/services/contractingopportunities/sizestandardstopics/ size/index.html.</note>
+<marker>Small, 2008</marker>
+<rawString>U.S. Small Business Administration (SBA). 2008c. Table of Small Business Size Standards Matched to North American Industry Classification System Codes. Effective March 11, 2008. http://www.sba.gov/services/contractingopportunities/sizestandardstopics/ size/index.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>R Bailey</author>
+</authors>
+<title>Carbon Taxes Versus Carbon Markets: What’s the Best Way to Limit Emissions?” The American.</title>
+<date>2007</date>
+<note>http://www.american.com/archive/2007/may-0507/ tax-or-trade.</note>
+<marker>Bailey, 2007</marker>
+<rawString>Bailey, R. 2007. “Carbon Taxes Versus Carbon Markets: What’s the Best Way to Limit Emissions?” The American. http://www.american.com/archive/2007/may-0507/ tax-or-trade.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T C Beierle</author>
+</authors>
+<title>The Benefits and Costs of Environmental Information Disclosure: What Do We Know About Right-to-Know?” Resources for the Future,</title>
+<date>2003</date>
+<journal>RFF Discussion Paper</journal>
+<volume>03</volume>
+<pages>05</pages>
+<marker>Beierle, 2003</marker>
+<rawString>Beierle, T. C. 2003. “The Benefits and Costs of Environmental Information Disclosure: What Do We Know About Right-to-Know?” Resources for the Future, RFF Discussion Paper 03­ 05.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A Gouldson</author>
+</authors>
+<title>Risk, Regulation and the Right to Know: Exploring the Impacts of Access to</title>
+<date>2004</date>
+<journal>Information on the Governance of Environmental Risk.” Sustainable Development</journal>
+<volume>12</volume>
+<issue>3</issue>
+<marker>Gouldson, 2004</marker>
+<rawString>Gouldson, A. 2004. “Risk, Regulation and the Right to Know: Exploring the Impacts of Access to Information on the Governance of Environmental Risk.” Sustainable Development 12(3):136–149.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Hamilton</author>
+</authors>
+<title>Pollution as News: Media and Stock Market Reactions to the Toxics Release Inventory Data.”</title>
+<date>1995</date>
+<journal>Journal of Environmental Economics and Management,</journal>
+<volume>28</volume>
+<pages>98--113</pages>
+<marker>Hamilton, 1995</marker>
+<rawString>Hamilton, J. 1995. “Pollution as News: Media and Stock Market Reactions to the Toxics Release Inventory Data.” Journal of Environmental Economics and Management, 28: 98–113.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>IIASA</author>
+</authors>
+<date>2007</date>
+<booktitle>Uncertainty in Greenhouse Gas Inventories.” IIASA Policy Brief No.</booktitle>
+<volume>1</volume>
+<marker>IIASA, 2007</marker>
+<rawString>IIASA. 2007. “Uncertainty in Greenhouse Gas Inventories.” IIASA Policy Brief No. 1.</rawString>
+</citation>
+<citation valid="false">
+<date>2007</date>
+<note>http://www.iiasa.ac.at/Admin/PUB/policy-briefs/pb01-web.pdf.</note>
+<marker>2007</marker>
+<rawString>December 2007. http://www.iiasa.ac.at/Admin/PUB/policy-briefs/pb01-web.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S Konar</author>
+<author>M Cohen</author>
+</authors>
+<title>Information as Regulation: The Effect of Community Right-toKnow Laws on Toxic Emissions.”</title>
+<date>1997</date>
+<journal>Journal of Environmental Economics and Management,</journal>
+<volume>32</volume>
+<pages>109--124</pages>
+<marker>Konar, Cohen, 1997</marker>
+<rawString>Konar, S., and M. Cohen. 1997. “Information as Regulation: The Effect of Community Right-toKnow Laws on Toxic Emissions.” Journal of Environmental Economics and Management, 32: 109–124.</rawString>
+</citation>
+<citation valid="true">
+<title>Organization for Economic Co-Operation and Development (OECD).</title>
+<date>2005</date>
+<booktitle>Uses of Pollutant Release and Transfer Register Data and Tools for Their Presentation—A Reference Manual.” Series on Pollutant Release and Transfer Registers No. 7. http://www.olis.oecd.org/olis/2005doc.nsf/LinkTo/NT00000AA2/$FILE/ JT00177567.PDF.</booktitle>
+<marker>2005</marker>
+<rawString>Organization for Economic Co-Operation and Development (OECD). 2005. “Uses of Pollutant Release and Transfer Register Data and Tools for Their Presentation—A Reference Manual.” Series on Pollutant Release and Transfer Registers No. 7. http://www.olis.oecd.org/olis/2005doc.nsf/LinkTo/NT00000AA2/$FILE/ JT00177567.PDF.</rawString>
+</citation>
+<citation valid="true">
+<title>Pew Center on Global Climate Change.</title>
+<date>2008</date>
+<booktitle>In Brief, No. 3.</booktitle>
+<location>Arlington, VA:</location>
+<note>http://www.pewclimate.org/docUploads/ policy_inbrief_ghg.pdf.</note>
+<marker>2008</marker>
+<rawString>Pew Center on Global Climate Change. 2008. “Greenhouse Gas Reporting and Disclosure: Key Elements of a Perspective U.S. Program.” Innovative Policy Solutions to Climate Change. In Brief, No. 3. Arlington, VA: Pew Center on Global Climate Change. http://www.pewclimate.org/docUploads/ policy_inbrief_ghg.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Pew Global</author>
+</authors>
+<title>Attitudes Project.</title>
+<date>2007</date>
+<note>http://pewglobal.org/reports/pdf/256.pdf.</note>
+<marker>Global, 2007</marker>
+<rawString>Pew Global Attitudes Project. 2007. Rising Environmental Concern in 47-Nation Survey. http://pewglobal.org/reports/pdf/256.pdf.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Price Waterhouse Coopers</author>
+</authors>
+<title>Building Trust in Emissions Reporting: Global Trends in Emissions Trading Schemes. http://www.pwc.com/extweb/pwcpublications.nsf/ docid/8df4237f6b2f7fcf8525728300503b70 Social Investment Forum.</title>
+<date>2007</date>
+<note>http://www.socialinvest.org/pdf/SRI_Trends_ExecSummary_2007.pdf.</note>
+<marker>Coopers, 2007</marker>
+<rawString>Price Waterhouse Coopers (PWC). 2007. Building Trust in Emissions Reporting: Global Trends in Emissions Trading Schemes. http://www.pwc.com/extweb/pwcpublications.nsf/ docid/8df4237f6b2f7fcf8525728300503b70 Social Investment Forum. 2007. 2007 Report on Socially Responsible Investing Trends in the United States: Executive Summary. Washington, DC: Social Investment Forum. http://www.socialinvest.org/pdf/SRI_Trends_ExecSummary_2007.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Thogerson</author>
+</authors>
+<title>Promoting ‘Green’ Consumer Behavior with Eco Labels.”</title>
+<date>2002</date>
+<booktitle>In New Tools for Environmental Protection: Education, Information and Voluntary Measures. Pp. 83–104. Dietz and Stern,</booktitle>
+<publisher>National Academy Press.</publisher>
+<location>Editors. Washington, DC:</location>
+<marker>Thogerson, 2002</marker>
+<rawString>Thogerson, J. 2002. “Promoting ‘Green’ Consumer Behavior with Eco Labels.” In New Tools for Environmental Protection: Education, Information and Voluntary Measures. Pp. 83–104. Dietz and Stern, Editors. Washington, DC: National Academy Press.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2003</date>
+<location>Washington, DC:</location>
+<note>http://www.epa.gov/tri/guide_docs/pdf/2003/2003_datausepaper.pdf.</note>
+<marker>S, 2003</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2003. How Are the Toxics Release Inventory Data Used?—Government, Business, Academic and Citizen Uses (EPA-2600-R-002­ 004). Washington, DC: U.S. Environmental Protection Agency. http://www.epa.gov/tri/guide_docs/pdf/2003/2003_datausepaper.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2007</date>
+<note>http://www.epa.gov/dfe/pubs/iems/bulletins/bullet01/index.html.</note>
+<marker>S, 2007</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). 2007. Bulletin: Using Design for the Environment Concepts in Your EMS. http://www.epa.gov/dfe/pubs/iems/bulletins/bullet01/index.html.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>World Bank</author>
+</authors>
+<title>Greening Industry: New Roles for Communities, Markets, and Governments.</title>
+<date>2000</date>
+<publisher>University Press.</publisher>
+<location>New York: Oxford</location>
+<marker>Bank, 2000</marker>
+<rawString>World Bank. 2000. Greening Industry: New Roles for Communities, Markets, and Governments. New York: Oxford University Press.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>E Worrell</author>
+<author>L Price</author>
+</authors>
+<title>Barriers and Opportunities: A Review of Selected Successful Energy Efficiency Programs.</title>
+<date>2001</date>
+<booktitle>Proceedings from</booktitle>
+<marker>Worrell, Price, 2001</marker>
+<rawString>Worrell, E., and L. Price, 2001. Barriers and Opportunities: A Review of Selected Successful Energy Efficiency Programs. Proceedings from 2001 Industrial Energy Technology Conference. Lawerence Berkley National Laboratory Working Paper No. LBNL-47908. http://industrial-energy.lbl.gov/node/198. 1. The authorizing legislation (7.4.1). 2. Benefit-cost analysis, including an analysis of the distribution of costs among ownership types, sectors of the economy, and regions of the country; and an assessment of the extent to which the costs of state, local, and tribal governments could be paid for by the federal government (Section 4.1, Section 5, and Section 7.4.2). 3. Estimates of future compliance costs and disproportionate budgetary effects (Section 4.1, 7.4.3). 4. Macroeconomic impacts (Section 7.4.4). 5. A summary of EPA’s consultation with state, local, and tribal governments and their concerns, including a summary of the Agency’s evaluation of those comments and concerns (Section 2.3.4, Section 7.4.5). 6. Identification and consideration of regulatory alternatives and the selection of the least costly, most cost-effective, or least burdensome alternative that achieves the objectives of the rule (Section 4.4, Section 7.4.6).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Table</author>
+</authors>
+<title>Estimated Private and Government Costs in Selected Sectors (103 $2006) Public/Private Respondent Stationary Electricity Breakdown Landfills Combustion Generation LDCs Costs of private respondents $4,436 $22,527 $2,813 $298 Costs of state/local/tribal $7,247 $3,817 $398 $753 government (SLTG) respondents Costs of federal respondents (fed $127 $0 $53 $0 owned/operated) Total costs by sector $11,990 $26,344 $3,264 $1,050 Note: Columns may not sum to totals due to rounding. Subpart C—General Stationary Fuel Combustion Sources $29.0 17% $24.4 18% Subpart D—Electricity Generation $3.3 2% $3.3 2% Subpart H—Cement Production $6.9 4% $4.3 3% Subpart I—Electronics Manufacturing $3.6 2% $3.6 3% Subpart Q—Iron and Steel Production $18.2 11% $14.1 11% Subpart S—Lime Manufacturing $5.3 3% $3.0 2% Subpart W—Oil and Natural Gas Systems $32.5 19% $28.1 21% Subpart Y—Petroleum</title>
+<journal>Refineries</journal>
+<booktitle>Subpart AA—Pulp and Paper Manufacturing</booktitle>
+<volume>3</volume>
+<marker>Table, </marker>
+<rawString>Table 7-1. Estimated Private and Government Costs in Selected Sectors (103 $2006) Public/Private Respondent Stationary Electricity Breakdown Landfills Combustion Generation LDCs Costs of private respondents $4,436 $22,527 $2,813 $298 Costs of state/local/tribal $7,247 $3,817 $398 $753 government (SLTG) respondents Costs of federal respondents (fed $127 $0 $53 $0 owned/operated) Total costs by sector $11,990 $26,344 $3,264 $1,050 Note: Columns may not sum to totals due to rounding. Subpart C—General Stationary Fuel Combustion Sources $29.0 17% $24.4 18% Subpart D—Electricity Generation $3.3 2% $3.3 2% Subpart H—Cement Production $6.9 4% $4.3 3% Subpart I—Electronics Manufacturing $3.6 2% $3.6 3% Subpart Q—Iron and Steel Production $18.2 11% $14.1 11% Subpart S—Lime Manufacturing $5.3 3% $3.0 2% Subpart W—Oil and Natural Gas Systems $32.5 19% $28.1 21% Subpart Y—Petroleum Refineries $3.7 2% $2.8 2% Subpart AA—Pulp and Paper Manufacturing $9.2 5% $9.0 7% Subpart FF—Underground Coal Mines $2.3 1% $2.3 2% Subpart HH—Landfills Subpart KK—Suppliers of Coal and Coal-based Products $15.3 9% $10.4 8% and Subpart LL—Suppliers of Coal-based Liquid Fuels $11.0 7% $5.4 4% Subpart MM—Suppliers of Petroleum Products Subpart NN—Suppliers of Natural Gas and Natural Gas $2.0 1% $0.8 1% Liquids $2.1 1% $1.3 1% Subpart QQ—Motor Vehicle and Engine Manufacturers $7.4 4% $7.4 6% Private Sector, Total $160.4 95% $127.0 95% Public Sector, Total $8.0 5% $7.0 5% Total $168.4 100% $134.0 100% Note: An additional $3.5 million is incurred annually by the public sector during the rulemaking process, which will last between 1 and 2 years. Landfills, pulp and paper manufacturing, and suppliers of coal-based products each represent between 5% and 10% of national costs. All other sectors account for less than 5% of national costs. In subsequent years, the overall distribution is similar, although the costs and shares of EPA; EPA will use the information to verify the data. 7.4.6.2 Scenarios Evaluated EPA developed alternative reporting scenarios and assessed the costs and emissions associated with each. Alternative scenarios were developed by creating the recommended scenario (the recommended option for each dimension, as shown in Table 3-1), then varying the levels in one dimension while keeping the other three dimensions at the recommended options. The alternative reporting scenarios evaluated are listed below: 1. A 1,000 tCO2e threshold; recommended options for methodology, frequency, and verifier. 7-11 2. A 10,000 tCO2e threshold; recommended options for methodology, frequency, and verifier. 3. A 100,000 tCO2e threshold; recommended options for methodology, frequency, and verifier. 4. The measurement variable is changed to direct measurement; recommended option for threshold, frequency, and verifier. 5. The measurement variable is changed to default emissions factors; recommended option for threshold, frequency, and verifier. 6. Existing federal data used for measurement of fuel suppliers; recommended option for threshold, frequency, verifier, and methodology for other sources. 7. EPA uses default carbon content for fuel suppliers; recommended option for threshold, frequency, verifier, and methodology for other sources. 8. Reporting is quarterly; recommended option for threshold, methodology, and verifier. 9. Verification is done by a third party; recommended option for threshold, methodology, and frequency.</rawString>
+</citation>
+<citation valid="false">
+<title>Reporting from upstream sources only; recommended option for methodology, 7.9 National Technology Transfer Advancement Act Section 12(d) of the National Technology Transfer and Advancement Act of</title>
+<date>1995</date>
+<booktitle>American Society of Mechanical Engineers (ASME), International Organization for Standardization (ISO), Gas Processors Association (GPA), American Gas Association (AGA), and American Petroleum Institute (API). These 1. A</booktitle>
+<volume>1</volume>
+<marker>1995</marker>
+<rawString>10. Reporting from upstream sources only; recommended option for methodology, 7.9 National Technology Transfer Advancement Act Section 12(d) of the National Technology Transfer and Advancement Act of 1995 (NTTAA), Public Law No. 104-113 (15 U.S.C. 272 note) directs EPA to use voluntary consensus standards in its regulatory activities unless to do so would be inconsistent with applicable law or otherwise impractical. Voluntary consensus standards are technical standards (e.g., materials specifications, test methods, sampling procedures, and business practices) that are developed or adopted by voluntary consensus standards bodies. NTTAA directs EPA to provide Congress, through OMB, with explanations when the Agency decides not to use available and applicable voluntary consensus standards. This proposed rulemaking involves technical standards. EPA proposes to use more than 40 voluntary consensus standards from six different voluntary consensus standards bodies: American Society for Testing and Material (ASTM), American Society of Mechanical Engineers (ASME), International Organization for Standardization (ISO), Gas Processors Association (GPA), American Gas Association (AGA), and American Petroleum Institute (API). These 1. A 1,000 tCO2e threshold; recommended options for methodology, frequency, and verifier. 2. A 10,000 tCO2e threshold; recommended options for methodology, frequency, and verifier. 3. A 100,000 tCO2e threshold; recommended options for methodology, frequency, and verifier. 4. The measurement variable is changed to direct measurement; recommended option for threshold, frequency, and verifier. 5. The measurement variable is changed to default emissions factors; recommended option for threshold, frequency, and verifier. 6. Existing federal data used for measurement of fuel suppliers; recommended option for threshold, frequency, verifier, and methodology for other sources. 7. EPA uses default carbon content for fuel suppliers; recommended option for threshold, frequency, verifier, and methodology for other sources. 8. Reporting is quarterly; recommended option for threshold, methodology, and verifier. 9. Verification is done by a third party; recommended option for threshold, methodology, and frequency. 10. Reporting from upstream sources only; recommended option for methodology, frequency, and verifier.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

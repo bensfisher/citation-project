@@ -1,0 +1,2225 @@
+Thursday, 
+July 2, 2009 
+Part II 
+Department of 
+Health and Human 
+Services 
+Centers for Disease Control and 
+Prevention 
+42 CFR Part 34 
+Medical Examination of Aliens—Removal 
+of Human Immunodeficiency Virus (HIV) 
+Infection From Definition of 
+Communicable Disease of Public Health 
+Significance; Proposed Rule 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00001 Fmt 4717 Sfmt 4717 E:\FR\FM\02JYP2.SGM 02JYP2
+31798 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+DEPARTMENT OF HEALTH AND 
+HUMAN SERVICES 
+Centers for Disease Control and 
+Prevention 
+42 CFR Part 34 
+[Docket No. CDC–2008–0001] 
+RIN 0920–AA26 
+Medical Examination of Aliens— 
+Removal of Human Immunodeficiency 
+Virus (HIV) Infection From Definition of 
+Communicable Disease of Public 
+Health Significance 
+AGENCY: Centers for Disease Control and 
+Prevention (CDC), U.S. Department of 
+Health and Human Services (HHS). 
+ACTION: Notice of Proposed Rulemaking 
+(NPRM). 
+SUMMARY: The Centers for Disease 
+Control and Prevention (CDC), within 
+the U.S. Department of Health and 
+Human Services (HHS), is proposing to 
+revise the Part 34 regulation to remove 
+‘‘Human Immunodeficiency Virus (HIV) 
+infection’’ from the definition of 
+‘‘communicable disease of public health 
+significance.’’ HHS/CDC is also 
+proposing to remove references to 
+‘‘HIV’’ from the scope of examinations 
+in its regulations. Aliens infected with 
+a ‘‘communicable disease of public 
+health significance’’ are inadmissible 
+into the United States under the 
+Immigration and Nationality Act (INA). 
+The Tom Lantos and Henry Hyde 
+United States Global Leadership Against 
+HIV/AIDS, Tuberculosis, and Malaria 
+Reauthorization Act of 2008 (the July 
+2008 legislation reauthorizing the 
+President’s Emergency Plan for AIDS 
+Relief (PEPFAR)) removed language 
+from the INA which had previously 
+mandated that HIV be on the list of 
+diseases that can bar entry to the U.S. 
+This legislative change allowed HHS/ 
+CDC to reassess whether HIV infection 
+should be retained or removed from 
+regulations based on sound public 
+health science and current 
+understanding of HIV epidemiology. 
+There are other diseases, including 
+sexually transmitted diseases, which 
+CDC may remove from the definition of 
+‘‘communicable disease of public health 
+significance’’ through future rulemaking 
+after scientific review. 
+While HIV infection is a serious 
+health condition, it does not represent a 
+communicable disease that is a 
+significant threat for introduction, 
+transmission, and spread to the U.S. 
+population through casual contact. As a 
+result of these proposed regulatory 
+changes, aliens would no longer be 
+inadmissible into the United States 
+based solely on the grounds they are 
+infected with HIV and they would no 
+longer undergo HIV testing as part of the 
+routine medical examination. 
+DATES: Written comments must be 
+received on or before August 17, 2009. 
+Comments received after August 17, 
+2009 will be considered to the extent 
+possible. 
+ADDRESSES: You may submit written 
+comments, identified by Docket No. 
+CDC–2008–0001 to the following 
+address: Division of Global Migration 
+and Quarantine, Centers for Disease 
+Control and Prevention, U.S. 
+Department of Health and Human 
+Services, Attn: Part 34 NPRM 
+Comments, 1600 Clifton Road, NE., MS 
+E–03, Atlanta, Georgia 30333. You may 
+also submit written comments 
+electronically via the Internet at the 
+following Address: http:// 
+regulations.gov, or via e-mail to 
+Part34HIVcomments@cdc.gov. 
+Comments will be available for public 
+inspection from Monday through 
+Friday, except for legal holidays, from 9 
+a.m. until 5 p.m., Eastern Time, at 1600 
+Clifton Road, NE., Atlanta, Georgia 
+30333. Please call ahead to 1–404–498– 
+1600, and ask for a representative in the 
+Division of Global Migration and 
+Quarantine to schedule your visit. 
+Comments will also be available for 
+viewing at the following Internet 
+address: http://www.cdc.gov//ncidod/ 
+dq. To download an electronic version 
+of the NPRM, please go to the following 
+Internet address: http://regulations.gov. 
+FOR FURTHER INFORMATION CONTACT: 
+Stacy M. Howard, Division of Global 
+Migration and Quarantine, Centers for 
+Disease Control and Prevention, U.S. 
+Department of Health and Human 
+Services, 1600 Clifton Road, NE., MS 
+E–03, Atlanta, Georgia 30333; telephone 
+1–404–498–1600. 
+SUPPLEMENTARY INFORMATION: 
+The NPRM is organized as follows: 
+I. Legal Authority 
+II. Background 
+i. Inadmissibility and the Medical 
+Examination 
+ii. Legislative and Regulatory History 
+iii. Immigration and Relevant Visa 
+Categories 
+iv. Current Scientific Knowledge for HIV 
+Transmission 
+v. Global Context 
+III. Summary of Proposed Changes to 42 CFR 
+part 34 
+IV. Required Regulatory Analyses Under 
+Executive Order 12866 
+V. Regulatory Flexibility Analysis 
+VI. Other Administrative Requirements 
+I. Legal Authority 
+HHS/CDC is promulgating this rule 
+under the authority of 42 U.S.C. 252 and 
+8 U.S.C. 1182 and 1222. 
+II. Background 
+i. Inadmissibility and the Medical 
+Examination 
+Under section 212(a)(1) of the 
+Immigration and Nationality Act (INA) 
+(8 U.S.C. 1182(a)(1)), any alien who is 
+determined to have a communicable 
+disease of public health significance is 
+inadmissible to the United States. Those 
+aliens outside the United States with a 
+communicable disease of public health 
+significance (see below) are ineligible to 
+receive a visa and ineligible for 
+admission into the United States. The 
+grounds of inadmissibility for specified 
+health-related grounds also pertain to 
+aliens in the United States who are 
+applying for adjustment of their status 
+to that of a lawful permanent resident. 
+In addition to other potential grounds 
+of inadmissibility, aliens are 
+inadmissible if they are determined: (1) 
+To have a communicable disease of 
+public health significance (as currently 
+defined by regulations); (2) to have a 
+physical or mental disorder and 
+behavior associated with that disorder 
+that may pose, or has posed, a threat to 
+the property, safety, or welfare of the 
+alien or others; (3) to have had a 
+physical or mental disorder and a 
+history of behavior associated with the 
+disorder, which has posed a threat to 
+the property, safety, or welfare of the 
+alien or others and which is likely to 
+recur or lead to other harmful behavior; 
+or (4) to be a drug abuser or addict. 
+Further, except for certain adopted 
+children 10 years of age or younger, any 
+alien who seeks admission as an 
+immigrant, or seeks adjustment of their 
+immigration status to that of a lawful 
+permanent resident, is inadmissible if 
+the alien fails to present documentation 
+of having received vaccination against 
+vaccine-preventable diseases, including 
+mumps, measles, rubella, polio, tetanus 
+and diphtheria toxoids, pertussis, 
+Haemophilus influenzae type B, 
+hepatitis B, and any other vaccination 
+against vaccine-preventable disease 
+recommended by the Advisory 
+Committee for Immunization Practices 
+(ACIP). 
+Medical examinations, including a 
+physical and mental evaluation, to 
+determine whether an alien could have 
+such a health-related condition, are 
+authorized under section 232 of the 
+INA. (8 U.S.C. 1222) Under sections 
+212(a)(1) and 232 of the INA, and 
+section 325 of the Public Health Service 
+Act (42 U.S.C. 252), the Secretary of 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31799 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+Health and Human Services (HHS) 
+promulgates regulations establishing the 
+requirements for the medical 
+examination and lists the health-related 
+conditions that make aliens ineligible 
+for admission into the United States. 
+The regulations, administered by the 
+HHS/Centers for Disease Control and 
+Prevention (CDC), are promulgated at 42 
+CFR part 34. 
+The provisions in part 34 apply to the 
+medical examination of: (1) Aliens 
+outside the United States who are 
+applying for a visa at an embassy or 
+consulate of the United States; (2) aliens 
+arriving in the United States; and (3) 
+aliens required by the U.S. Department 
+of Homeland Security (DHS) to have a 
+medical examination in connection with 
+determination of their admissibility into 
+the United States; and (4) aliens who 
+apply for adjustment of their 
+immigration status to that of lawful 
+permanent resident. 
+While 42 CFR part 34 can apply to 
+individuals who wish to come to the 
+United States on a temporary basis, such 
+as leisure or business travelers, a 
+medical examination is not routinely 
+required as a condition for issuance of 
+non-immigrant visas or entry into the 
+United States. 
+On October 6, 2008, HHS/CDC revised 
+42 CFR part 34 to amend the definition 
+of communicable disease of public 
+health significance and revise the scope 
+of the medical examination. This update 
+addressed emerging and reemerging 
+diseases in immigrant or refugee 
+populations who are bound for the 
+United States. See 73 FR 58047 and 73 
+FR 62210. The current definition of 
+communicable disease of public health 
+significance contained in 42 CFR 34.2(b) 
+includes: active tuberculosis, infectious 
+syphilis, gonorrhea, infectious leprosy, 
+chancroid, lymphogranuloma 
+venereum, granuloma inguinale, and 
+HIV infection; quarantinable diseases 
+designated by Presidential Executive 
+Order; and a communicable disease that 
+may pose a public health emergency of 
+international concern in accordance 
+with the International Health 
+Regulations of 2005, provided it meets 
+specified criteria. 
+Panel physicians, designated by 
+Department of State (DoS) consular 
+officers, perform medical examinations 
+on refugees and/or persons living 
+outside of the United States who are 
+seeking to immigrate to the United 
+States, and civil surgeons, designated by 
+U.S. Citizenship and Immigration 
+Services within DHS, perform medical 
+examinations for aliens who are already 
+present in the United States seeking a 
+change of status. Aliens determined to 
+have a communicable disease of public 
+health significance may request a waiver 
+of inadmissibility to enter the United 
+States under sections 207(c)(3), 
+212(d)(3)(A) and 212(g) of the INA (8 
+U.S.C. 1157(c)(3), 1182(d)(3)(A) and 
+1182(g)). 
+HHS/CDC issues Technical 
+Instructions and provides the technical 
+consultation and guidance to panel 
+physicians and civil surgeons who 
+conduct the medical examinations of 
+aliens. The CDC Technical Instructions 
+for Medical Examination of Aliens, 
+including the most current updates, 
+which panel physicians and civil 
+surgeons must follow in accordance 
+with these regulations, are available to 
+the public on the CDC Web site, located 
+at the following Internet address: http:// 
+www.cdc.gov/ncidod/dq/technica.htm. 
+ii. Legislative and Regulatory History 
+Beginning in 1952, the INA mandated 
+that aliens ‘‘who are afflicted with any 
+dangerous contagious disease’’ are 
+ineligible to receive a visa and are to be 
+excluded from admission into the 
+United States. In April, 1986, prior to 
+the recent developments in medicine 
+and epidemiologic principles, HHS 
+proposed to include acquired 
+immunodeficiency syndrome (AIDS) as 
+a dangerous contagious disease and in 
+June, 1987 issued a final rule adopting 
+the proposal. 51 FR 15354 (April 23, 
+1986); 52 FR 21532 (June 8, 1987). 
+Separately, HHS proposed to substitute 
+HIV infection for AIDS on the list of 
+dangerous contagious diseases since 
+individuals who are so infected, but do 
+not actually have AIDS, are also 
+contagious. 52 FR 21607 (June 8, 1987). 
+While the proposed rule was pending 
+for public comment, Congress added 
+HIV infection to the list of dangerous 
+contagious diseases. Public Law 100–71, 
+section 518, 101 Stat. 475 (July 11, 
+1987). HHS issued final regulations in 
+August of that year complying with the 
+congressional mandate. 52 FR 32540 
+(August 28, 1987). Accordingly and 
+immediately, aliens infected with HIV 
+became ineligible to receive visas and 
+were excluded from admission into the 
+United States because of infection with 
+a dangerous contagious disease. See INA 
+section 212(a)(6), 8 U.S.C. 
+1182(a)(6)(1988). 
+In 1990, Congress amended the INA 
+by revising the classes of excludable 
+aliens to provide that an alien who is 
+determined (in accordance with 
+regulation prescribed by the Secretary of 
+Health and Human Services) to have a 
+communicable disease of public health 
+significance is excludable from the 
+United States. Immigration Act of 1990, 
+Public Law 101–649, section 601, 104 
+Stat. 4978 January 23, 1990; INA section 
+212(a)(1)(A)(i), 8 U.S.C. 1182(a)(1)(A)(i) 
+(effective June 1, 1991). HHS/CDC 
+subsequently published a proposed rule 
+that would have removed from the list 
+all diseases, including HIV infection, 
+except for infectious tuberculosis. 56 FR 
+2484 (January 23, 1991). Based on 
+comments received and reconsideration 
+of the issues, HHS published an interim 
+final rule retaining all diseases on the 
+list, including HIV infection, and 
+committing its initial proposal for 
+further study. 56 FR 25000 (May 31, 
+1991). Congress subsequently amended 
+INA section 212(a)(1) to specify that 
+‘‘infection with the etiologic agent for 
+acquired immune deficiency syndrome’’ 
+is a communicable disease of public 
+health significance, thereby making 
+explicit in the INA that aliens with HIV 
+are ineligible for admission into the 
+United States. National Institutes of 
+Health Revitalization Act of 1993, 
+Public Law 103–43, section 2007, 107 
+Stat. 122 (June 10, 1993). 
+In the summer of 2008, Congress 
+amended the INA by striking ‘‘which 
+shall include infection with the 
+etiologic agent for acquired immune 
+deficiency syndrome,’’ thereby leaving 
+to the Secretary of HHS the discretion 
+for determining whether HIV should 
+remain in the definition of 
+communicable disease of public health 
+significance provided for in 42 CFR 
+34.2(b). Tom Lantos and Henry Hyde 
+United States Global Leadership Against 
+HIV/AIDS, Tuberculosis, and Malaria 
+Reauthorization Act of 2008, Public Law 
+110–293, section 305, 122 Stat. 2963 
+(July 30, 2008). In this Notice of 
+Proposed Rulemaking, HHS/CDC is 
+proposing this action to remove HIV 
+infection from the definition of 
+communicable disease of public health 
+significance. While HIV infection is a 
+serious health condition, it does not 
+represent a communicable disease that 
+is a significant threat for introduction, 
+transmission, and spread to the United 
+States population through casual 
+contact. An arriving alien with HIV 
+infection does not pose a public health 
+risk to the general population through 
+casual contact. 
+iii. Immigration to the U.S. and Relevant 
+Visa Categories 
+Annually, the U.S. Government 
+admits more than 1,000,000 immigrants 
+and refugees to reside permanently in 
+this country. 
+Foreign citizens who wish to live 
+permanently in the United States must 
+comply with U.S. immigration law and 
+specific procedures for applying for an 
+immigrant visa or adjustment of status. 
+The four main immigrant visa 
+classifications are: (1) Immediate 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31800 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+relatives, that is, the spouse, child 
+(unmarried and under 21 years of age) 
+or parent of a U.S. citizen (a citizen 
+must be at least 21 years old to file a 
+petition for a parent); (2) Family-Based 
+immigrants (adult sons or daughters of 
+citizens, the siblings of citizens who are 
+at least 21 years old, and the spouse, 
+child, or adult sons or daughters of 
+lawful permanent residents); (3) 
+Employment-Based immigrants; and (4) 
+immigrant visas available to ‘‘Diversity’’ 
+immigrants who obtain by lottery the 
+ability to seek one of these visas. The 
+immigration of immediate relatives is 
+not subject to numerical restrictions; 
+thus, an immigrant visa is available to 
+a qualified immediate relative upon 
+approval of the citizen relative’s visa 
+petition. Each month, the U.S. 
+Department of State (DoS) publishes a 
+Visa Bulletin, indicating the availability 
+of Family-Based, Employment-Based, 
+and Diversity immigrant visas for the 
+next month. The monthly Visa Bulletin 
+is available on the Department of State’s 
+Web site (http://travel.state.gov). 
+Aliens who are already in the United 
+States may apply to adjust to permanent 
+resident status pursuant to the family- 
+based and employment-based categories 
+described above, as well as several other 
+statutorily-eligible adjustment 
+categories. See INA section 245; 8 U.S.C. 
+1255. Refugees and aslyees may also 
+apply to adjust to permanent resident 
+status from inside the United States. See 
+INA section 209; 8 U.S.C. 1159. 
+An alien seeking permanent 
+residence, whether through an 
+immigrant or refugee visa or through an 
+adjustment of status, must undergo a 
+medical examination to determine 
+whether the alien is inadmissible on 
+medical grounds. Overseas 
+examinations are conducted by panel 
+physicians designated by the 
+Department of State. Applicants for 
+adjustment of status to lawful 
+permanent resident are required to have 
+a medical examination conducted by a 
+civil surgeon designated by U.S. 
+Citizenship and Immigration Services. 
+Under the proposed rule, testing for HIV 
+infection would be eliminated from 
+these medical examinations. 
+Additionally, Temporary Protected 
+Status (TPS) is another immigration 
+mechanism for eligible aliens who are in 
+the United States and whose countries 
+have been designated for TPS due to 
+ongoing armed conflict, natural 
+disasters, or certain other extraordinary 
+and temporary conditions. INA section 
+244; 8 U.S.C. 1255a; 8 CFR Part 244. 
+TPS applicants are also subject to the 
+medical grounds of inadmissibility. 
+Currently, if a TPS applicant is infected 
+with HIV, DHS requires that the 
+applicant be granted a waiver of 
+inadmissibility before TPS can be 
+granted. 
+Section 101(a)(42)(A) of the INA 
+generally defines refugees as persons 
+who cannot return to their country 
+because of persecution or the well 
+founded fear of persecution based on 
+race, religion, nationality, membership 
+in a particular social group, or political 
+opinion. An applicant is preliminarily 
+approved for refugee status overseas, but 
+is admitted as a refugee upon admission 
+to the U.S. at a port of entry. A refugee 
+is also subject to the medical grounds of 
+inadmissibility and the medical 
+examination requirements. See INA 
+section 207; 8 U.S.C. 1157; 8 CFR Part 
+207. 
+vi. Current Scientific Knowledge for HIV 
+Transmission 
+While HIV infection is a serious 
+health condition, it does not represent a 
+communicable disease that is a 
+significant threat for introduction, 
+transmission, and spread to the United 
+States population through casual 
+contact as is the case with other serious 
+conditions such as tuberculosis. An 
+arriving alien with HIV infection does 
+not pose a public health risk to the 
+general population through casual 
+contact. 
+CDC has determined that HIV 
+infection is transmitted among 
+individuals in the United States almost 
+exclusively by the following 
+mechanisms: Unprotected sexual 
+intercourse with an HIV-infected 
+person, sharing needles or syringes 
+contaminated with HIV, and mother-to- 
+child transmission of HIV before or 
+during birth or through breast feeding. 
+Additionally, HIV can be transmitted 
+through transfusion of blood or blood 
+products infected with HIV. However, 
+there has been continuous screening for 
+HIV in all donated blood since 1985. 
+Therefore, the risk for HIV infection 
+through transfusion is extremely low. 
+The U.S. blood supply is considered 
+among the safest in the world. 
+Interventions have been successful at 
+mitigating exposure to and transmission 
+of HIV. 
+v. Global Context 
+In 2004, the Joint United Nations 
+Programme on HIV/AIDS (UNAIDS) and 
+the International Organization for 
+Migration (IOM) issued the ‘‘UNAIDS/ 
+IOM Statement on HIV/AIDS-related 
+travel restrictions’’ which provides 
+guidance to governments regarding 
+addressing the public health, economic, 
+and human rights concerns involved in 
+HIV-related travel restrictions. This 
+document concludes that HIV-related 
+travel restrictions have no public health 
+justification. 
+There are a dozen countries that deny 
+entry if a person has HIV. These 
+countries are: Armenia, Brunei, Iraq, 
+Libya, Moldova, Oman, Qatar, the 
+Russian Federation, Saudi Arabia, South 
+Korea, Sudan, and the United States. 
+This proposed rule will remove the 
+United States from the list of countries 
+that continue to have entry restrictions 
+for HIV-infected individuals. 
+III. Summary of Proposed Changes to 
+42 CFR Part 34 
+This proposed rule removes HIV 
+infection from the definition of 
+communicable diseases of public health 
+significance as defined in 42 CFR 
+34.2(b) and scope of examinations in 42 
+CFR 34.3. 
+Section 34.2(b) Communicable 
+Diseases of Public Health Significance 
+This provision defines communicable 
+disease of public health significance as 
+both a specific list of diseases and 
+categories of diseases for which all 
+aliens are inadmissible to the United 
+States. HHS/CDC is proposing to remove 
+human immunodeficiency virus (HIV) 
+infection from the specific list of 
+communicable disease of public health 
+significance as provided for in 42 CFR 
+34.2(b). 
+As described above, inclusion of HIV 
+in this definition is no longer statutorily 
+mandated. As a result, the Secretary of 
+HHS has the discretion to determine 
+whether to leave HIV infection in the 
+definition or remove it. 
+In consideration of epidemiologic 
+principles and current medical 
+knowledge regarding the mode of HIV 
+transmission, HHS/CDC is proposing to 
+remove HIV infection from 42 CFR part 
+34 because HIV infection does not 
+represent a communicable disease of 
+public health significance. HIV is not a 
+significant threat for introduction and 
+spread through casual contact to the 
+general U.S. population, where HIV 
+infection already exists among the U.S. 
+population as an endemic disease. 
+Under current regulatory 
+requirements, aliens who test positive 
+for HIV infection can apply for a waiver 
+from DHS and, if granted such a waiver, 
+are allowed admission into the United 
+States or to adjust status. 
+Diseases transmissible through 
+aerosol or respiratory droplets such as 
+tuberculosis pose a much greater risk 
+due to casual contact for introduction 
+and spread in the U.S. population. 
+While HIV infection continues to be a 
+disease of public health concern 
+throughout the world, HIV infection is 
+preventable by avoiding high risk sexual 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00004 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31801 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+contact or needle-sharing with HIV- 
+infected persons. Interventions have 
+been successful at mitigating exposure 
+to and transmission of HIV. 
+The rationale for maintaining HIV 
+infection as an excludable condition is 
+no longer valid based on current 
+medical knowledge and practice, 
+scientific knowledge, and experience 
+which has informed us on 
+characteristics of the virus, the modes of 
+transmission of HIV, and interventions 
+for prevention and further spread of the 
+virus. Indeed, HIV infection is not 
+spread by casual contact, through the 
+air, or from food, water or other objects. 
+An HIV-infected person in a common 
+public setting will not place another 
+individual at risk. HIV is a fragile virus 
+and cannot live for very long outside the 
+body. The virus is not transmitted by 
+mosquitoes, or through day-to-day 
+activities such as shaking hands, 
+hugging, or a casual kiss. HIV infection 
+cannot be acquired from a toilet seat, 
+drinking fountain, doorknob, eating 
+utensils, drinking glasses, food, or pets. 
+Section 34.3 Scope of Examinations 
+HHS/CDC is also proposing to remove 
+all references to serologic testing for HIV 
+infection in 42 CFR 34.3 which is 
+entitled ‘‘Scope of examinations’’. This 
+section applies to those aliens who are 
+required to undergo a medical 
+examination for U.S. immigration 
+purposes. The scope of examinations 
+outlines those matters that relate to the 
+inadmissible health-related conditions. 
+This section provides specific screening 
+and testing requirements for those 
+diseases that meet the current definition 
+of communicable disease of public 
+health significance and directly relates 
+to the diseases list in Section 34.2 (b) of 
+42 CFR Part 34. It does not provide 
+specific testing requirements for other 
+health-related conditions which are not 
+included in the current definition of 
+communicable disease of public health 
+significance. Therefore, HHS/CDC is 
+proposing to remove the specific testing 
+requirements for HIV infection in 42 
+CFR 34.3. 
+IV. Required Regulatory Analyses 
+Under Executive Order 12866 
+HHS/CDC has examined the impacts 
+of the proposed rule under Executive 
+Order 12866 and the Regulatory 
+Flexibility Act (5 U.S.C. 601–612), and 
+the Unfunded Mandates Reform Act 
+(Pub. L. 104–4). Executive Order 12866 
+directs agencies to assess all costs and 
+benefits of available regulatory 
+alternatives and, when regulation is 
+necessary, to select regulatory 
+approaches that maximize net benefits 
+(including potential economic, 
+environmental, public health and safety, 
+and other advantages; distributive 
+impacts; and equity). The agency 
+believes that this proposed rule may be 
+an economically significant action 
+under the Executive Order. 
+In the analysis that follows, we assess 
+the potential impacts of removing HIV 
+from the list of specific communicable 
+disease of public health significance and 
+removing the HIV testing requirement in 
+the medical examination for aliens who 
+are applying for adjustment of their 
+status to that of a lawful permanent 
+resident. We are seeking comments on 
+this preliminary regulatory impact 
+analysis, including the identification of 
+potential data sources that would allow 
+us to more appropriately characterize 
+and estimate the impact of the proposed 
+rule. 
+A. Objectives and Basis for the Action 
+Prior to the enactment of the United 
+States Global Leadership Against HIV/ 
+AIDS, Tuberculosis, and Malaria 
+Reauthorization Act of 2008, HHS/CDC 
+was required by statute to list HIV as a 
+‘‘communicable disease of public health 
+significance.’’ Now that the statute 
+provides discretion, HHS/CDC is 
+proposing to take this action to reflect 
+current scientific knowledge and public 
+health best practices, and to reduce 
+stigmatization of and discrimination 
+against people who are HIV-infected. 
+This proposed rule is not intended to 
+correct any market failure, but to 
+remove a government-imposed barrier 
+that does not appear to provide a 
+significant public health benefit and is 
+at odds with human rights 
+considerations. 
+B. Alternatives 
+HHS/CDC examined three regulatory 
+approaches. 
+1. The first approach is to maintain 
+HIV infection on the list of 
+communicable disease of public health 
+significance, i.e., to keep the disease as 
+an excludable condition for entry into 
+the U.S. This means that visa applicants 
+seeking permanent residency would 
+continue to undergo testing for HIV 
+infection as part of the application 
+process. Those applicants testing 
+positive for HIV, if eligible, would still 
+be required to apply for and obtain a 
+waiver from DHS prior to coming to the 
+U.S. There are several disadvantages to 
+this approach. As stated previously, 
+while HIV infection is a serious health 
+condition, it does not represent a 
+communicable disease that is a 
+significant threat for introduction, 
+transmission, and spread to the U.S. 
+population through casual contact. 
+Currently, there are already roughly 1 
+million persons in the United States 
+living with HIV [1]. Thus, maintaining 
+HIV infection on the list of excludable 
+conditions for entry into the U.S. would 
+not result in significant public health 
+benefits. Further, this approach is not in 
+line with current international public 
+health practice. This approach 
+continues discriminatory practices and 
+contributes toward the stigmatization of 
+HIV-infected persons. HHS/CDC did not 
+select this approach. 
+2. The second approach is to remove 
+HIV infection from the list of 
+communicable diseases of public health 
+significance, i.e. remove it as a ground 
+of inadmissibility into the U.S., but 
+continue mandatory HIV testing for all 
+immigrant applicants similar to an 
+approach followed by some countries. 
+Under this approach, all those aliens 
+who test positive for HIV infection 
+could be informed of their HIV status, 
+counseled regarding their condition, the 
+need for appropriate treatment, and the 
+steps that should be taken to minimize 
+the risk of onward transmission. 
+There are potential public health 
+benefits to a mandatory testing 
+approach. The medical examination 
+offers a unique opportunity to both 
+inform immigrants of their HIV status 
+and link them with care. Through 
+screening, HIV-infected aliens who are 
+potentially unaware of their HIV status 
+would become aware of their status and 
+could be linked with prevention, care 
+and treatment options in the United 
+States. Early diagnosis and treatment of 
+HIV-infected persons can increase life 
+expectancy and may improve the 
+quality of life. Additionally, knowing 
+one’s HIV status decreases the 
+likelihood of onward transmission [2, 
+3]. These public health benefits are the 
+basis for the HHS/CDC’s ‘‘Revised 
+Recommendations for HIV Testing of 
+Adults, Adolescents, and Pregnant 
+Women in Health-Care Settings,’’ which 
+states that the characteristics of HIV 
+infection are consistent with all 
+generally accepted criteria that justify 
+voluntary screening [4]. However, 
+mandatory HIV testing is limited to 
+certain infrequent cases such as blood 
+and organ donors. 
+There are also disadvantages to 
+continued mandatory testing if HIV 
+infection is removed from the definition 
+of a communicable disease of public 
+health significance. Mandatory testing 
+for other serious health-related 
+conditions that are not inadmissible 
+health conditions, (e.g., infectious 
+diseases, such as hepatitis, malaria, and 
+West Nile virus and chronic conditions 
+such as diabetes and heart conditions), 
+are not required as part of this medical 
+examination. Thus, continued 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00005 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31802 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+mandatory HIV testing would 
+differentiate HIV from other serious 
+health-related conditions. Second, 
+although the purpose of the medical 
+examination is to identify health 
+conditions considered inadmissible on 
+public health grounds, the results of 
+exams conducted by panel physicians in 
+the immigrant’s home country might not 
+be kept confidential because of 
+requirements in the country of origin 
+making it necessary to report HIV 
+results to local authorities. DHS would 
+also know an applicant’s HIV status 
+(while not necessarily other serious 
+health conditions) due to this 
+information being included on medical 
+notification form and could be used by 
+DHS in evaluating the possibility of the 
+alien becoming a public charge. 42 CFR 
+34.3(b)(ii)(5). These results may be 
+counter to HHS/CDC objectives of 
+reflecting current scientific knowledge 
+and public health best practices, and 
+reducing stigmatization of and 
+discrimination against people who are 
+HIV-infected. Therefore, as discussed 
+below in the 3rd approach, HIV testing, 
+consistent with CDC’s recommendations 
+for general screening, would be 
+available. 
+Although the approach of removing 
+HIV from the definition of 
+communicable disease of public health 
+significance but maintaining the 
+mandatory testing component of the 
+medical examination was not selected 
+for this proposal, HHS/CDC welcomes 
+public comment on the advantages and 
+disadvantages of this or alternative 
+approaches, such as (non-mandatory) 
+testing (i.e., opt out/opt in approach). 
+3. The third approach is to remove 
+HIV infection from the definition of 
+communicable disease of public health 
+significance and as a requirement in the 
+medical examination. This means that 
+mandatory testing for HIV infection 
+would no longer be required and DHS 
+would allow HIV-infected persons to 
+enter into the U.S. (or to adjust to 
+permanent resident status) if they meet 
+all other conditions of admissibility. 
+This is the regulatory approach that 
+HHS/CDC selected. Along with this 
+approach, all immigrants, refugees and 
+status adjusters would still have the 
+opportunity to receive information 
+about HIV testing and to be tested in the 
+United States as recommended by the 
+CDC guidelines [4]. The discussion of 
+the potential impacts of the rule that 
+follow relate to this approach. 
+C. Baseline and Incremental Analysis 
+The baseline for this analysis assumes 
+no change in the current regulation. In 
+other words, all applicants for 
+admission into the U.S. as legal 
+permanent residents and those already 
+within the U.S. seeking adjustment to 
+permanent resident status are currently 
+tested for HIV during the immigration 
+medical exam. Those who are HIV- 
+infected and are not granted a waiver by 
+the Department of Homeland Security 
+are refused lawful permanent resident 
+status in the United States. 
+Currently, refugees who are HIV- 
+infected must be granted a waiver by the 
+Department of Homeland Security 
+before entering the U.S. Subsequently, 
+refugees infected with HIV who are 
+present in the U.S. and apply for 
+adjustment to permanent resident status 
+must be re-examined and granted 
+another waiver from DHS at that time 
+(i.e., the grant of waivers permits these 
+individuals to obtain refugee status, and 
+later, permanent resident status despite 
+being HIV-infected, which would 
+otherwise render them inadmissible). 
+We have not explicitly included 
+refugees and TPS-turned permanent 
+residents in our analysis, however, 
+because: (i) These persons, compared to 
+the other immigrants, enter the U.S. 
+under extraordinary circumstances; (ii) 
+the numbers are relatively small; and, 
+(iii) the proposed change in regulations 
+is not likely to have a significant impact 
+on the annual number of HIV-infected 
+refugees admitted to the U.S. and who 
+later become permanent residents 
+because such persons generally receive 
+a waiver of inadmissibility for HIV 
+infection under current procedures. 
+Thus, the numbers of admitted HIV- 
+infected refugees who are subsequently 
+granted permanent resident status are 
+likely to stay the same, regardless of 
+regulations in place. That is, the HIV- 
+infected refugees-turned-permanent 
+residents are part of the baseline 
+scenario. 
+Furthermore, though this policy 
+would increase the total number of 
+people who may be eligible to be 
+admitted, we assume that the total 
+number of immigrants who are annually 
+admitted into the United States is fixed 
+over time. Thus, the incremental input 
+to the rule is a calculation of the 
+additional costs due to HIV-infected 
+immigrants above the costs of non-HIV- 
+infected immigrants. In general, given 
+that the total number of immigrants is 
+not likely to change and the share of 
+HIV-infected immigrants is likely to be 
+relatively small, the rule will not likely 
+have an appreciable impact on the 
+economy in terms of wages, 
+productivity, or prices of goods and 
+services. 
+D. Defining the Population Affected 
+The affected population is defined as 
+the number of new HIV-infected lawful 
+permanent residents entering the United 
+States each year and those individuals 
+already in the United States seeking to 
+adjust their immigration status to that of 
+a lawful permanent resident. The 
+proposed changes in the medical 
+examination of aliens regulations affect 
+all foreign nationals entering the U.S. 
+who are infected with HIV. Although 
+HIV testing is not routinely required for 
+entrance into the U.S. except for those 
+aliens who are seeking to become lawful 
+permanent residents, visitors who are 
+infected with HIV are currently required 
+to request waivers to obtain entrance. If 
+this rule is finalized, that waiver process 
+will no longer be necessary. Data on the 
+number of waivers granted annually 
+based on HIV status are not available 
+but costs to obtain waivers are thought 
+to be minimal. For example, in Fiscal 
+Year 2007, the Department of State 
+reported that its consular officers found 
+746 immigrants ineligible for admission 
+to the U.S. under the communicable 
+disease grounds of INA 212(a)(1)(A)(i). 
+Of those immigrants 327 overcame the 
+initial finding. What portion of those 
+who tested positive for HIV infection is 
+unknown. This analysis is limited to 
+aliens seeking to become lawful 
+permanent residents who are required to 
+have a medical examination to 
+determine admissibility. Because 
+visitors, refugees and TPS applicants 
+have historically had the option of 
+obtaining a waiver to enter and remain 
+in the U.S., these groups are not 
+included in this analysis. 
+Based on the estimated distribution of 
+HIV/AIDS cases in each of the regions 
+in the world and weighted by the 
+number of immigrants entering the 
+United States from each region, we 
+estimate that approximately 4.06 
+immigrants per 1000 immigrants that 
+would be likely to enter the U.S. under 
+the proposed rule would be infected 
+with HIV (see Table 1 for the summary 
+of regional estimates and weights and 
+Technical Appendix II, Table 1: 
+Summary of Model, HIVEcon, Inputs 
+and Assumptions for Primary, Lower 
+and Upper Bound Analyses [5]). 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31803 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+TABLE 1—REGIONAL POPULATION, IMMIGRATION AND HIV ESTIMATES USED TO CALCULATE THE WEIGHTED REGIONAL 
+RATE ESTIMATES 
+Legal 
+permanent 
+residents 
+(2007) [6] 
+Estimate of HIV rate per 1,000 
+(based on 2006 regional 
+population estimates [7] and 
+2007 HIV regional estimates [8]) 
+Estimated number of HIV 
+infected immigrants 
+Primary Low High 
+Primary Low High 
+Africa* ............................................................................... 96,105 18.05 16.70 19.57 1,735 1,605 1,880 
+Asia .................................................................................. 383,508 1.29 1.05 1.63 494 403 624 
+Europe .............................................................................. 120,821 3.23 2.46 4.38 390 297 529 
+N. America ....................................................................... 339,355 3.84 1.42 5.61 1,302 481 1,903 
+Oceania ............................................................................ 6,101 2.19 1.55 3.50 13 9 21 
+S. America ....................................................................... 106,525 3.20 2.81 3.79 341 300 404 
+Total .......................................................................... 1,052,415 4.98 4.35 5.73 ................ ................ ................
+HIV positive Rate per 1,000 U.S. immigrants † 4.06 ‡2.94 ‡5.09 4,275 3,096 5,361 
+* In this case, Africa includes North Africa, the Middle East and Unknowns. 
+** Total number of adults and children living with HIV in the region (see Technical Appendix II for more detail [5]). 
+† Based on weighted regional estimates. The assumption is that prevalence of HIV amongst immigrants to the U.S. mirrors that of the immi-
+grant’s native regions and is adjusted for the number of immigrants coming to the U.S. from each region. 
+‡Note: These estimates represent the 5th and 95th percentiles based on regional weight estimates. Due to concern that immigrants may not 
+be representative of the typcial country level estimates and thus may be outside the confidence interval, for purposes of this analyses we ex-
+panded our confidence interval to 25% to 150% of the Primary estimate (i.e. 1.02 to 6.09 HIV+ immigrants per 1,000 immigrants). 
+The numbers of HIV/AIDS persons in 
+each region of the world were taken 
+from the 2007 AIDS Epidemic Update: 
+Global Overview issued by the Joint 
+United Nations Programme on HIV/ 
+AIDS (UNAIDS)[8]. HHS/CDC used 
+regional data and rates that were 
+determined using the regional 
+population data from 2006 published by 
+the Population Division of the 
+Department of Economic and Social 
+Affairs of the United Nations Secretariat 
+[7]. After examining the immigration 
+data, by region, from the Yearbook of 
+Immigration Statistics: 2007 Immigrants 
+[6], we assigned regional weights 
+according to the number of aliens 
+coming to the United States from each 
+region. 
+The 2007 Immigration Statistics [6, 9] 
+indicate that 1,052,415 persons became 
+permanent residents in 2007. 
+Multiplying this number by our 
+prevalence estimate of 4.06 HIV-infected 
+immigrants per 1000 immigrants yields 
+an estimated 4,275 HIV-infected 
+immigrants who would enter into the 
+United States each year. 
+However, we note that there are 
+significant uncertainties in this estimate 
+since no specific data exist on the HIV 
+prevalence of persons seeking to 
+immigrate to the United States. We do 
+not have a basis to judge whether these 
+immigrants who qualify for permanent 
+residence differ from the general 
+regional population in terms of HIV 
+prevalence; thus, for the purposes of 
+this analysis we assumed that it would 
+be equivalent to the regional HIV 
+prevalence rates. We used regional HIV 
+prevalence rates rather than HIV rates 
+for specific countries to allow for year 
+to year variations in the number of 
+aliens entering the U.S. from specific 
+countries. 
+There are several possible reasons as 
+to why the proportion of HIV-infected 
+immigrants could be less or more than 
+the prevalence of HIV-infected persons 
+in the region of origin. For example, the 
+cost of adequate medical care in the U.S. 
+may make HIV-infected individuals 
+reluctant to immigrate to this country. 
+With the increase in the availability of 
+appropriate HIV treatments in many 
+parts of the world, adequate treatment is 
+often cheaper outside of the U.S. 
+Conversely, in regions or specific 
+countries where appropriate treatment 
+is less readily available, the portion of 
+HIV-infected immigrants from those 
+regions could be higher than the 
+prevalence of HIV-infected persons in 
+that region. We are seeking comments 
+on these assumptions and data that 
+would further allow us to refine our 
+estimates. 
+However, we also conducted 
+sensitivity analyses to assess the impact 
+of altering this assumption. We used a 
+range of 1.02 to 6.09 HIV-infected 
+persons per 1,000 immigrants based on 
+25% and 150% of the mean weighted 
+average, 4.06 per 1,000 immigrants (high 
+and low estimates) of the number of 
+estimated HIV-infected persons in each 
+region but weighted by the number of 
+lawful permanent residents who entered 
+the U.S. in 2007. This range yields a 
+lower bound estimate of 1,073 and an 
+upper bound estimate of 6,409 HIV- 
+infected persons entering the United 
+States annually (see Technical 
+Appendix II [5]). Because the impact of 
+the proposed rule change is highly 
+sensitive to HIV prevalence in aliens 
+entering the U.S., we are seeking 
+comment on these assumptions. 
+E. Benefits 
+HHS/CDC is proposing to remove HIV 
+infection from the definition of 
+communicable disease of public health 
+significance contained in 42 CFR 34.2(b) 
+and scope of examination, 42 CFR 34.3 
+because HIV infection does not 
+represent a communicable disease that 
+is a significant threat to the general U.S. 
+population. The rationale for 
+maintaining HIV infection as an 
+excludable condition is no longer valid 
+based on current medical knowledge 
+and public health practice, scientific 
+knowledge, and experience which has 
+informed us on the characteristics of the 
+virus, the modes of transmission of HIV, 
+and the effective interventions to 
+prevent further spread of the virus. 
+The benefits from this action are 
+difficult to quantify. Based on the 
+estimate above, this rule would allow 
+perhaps roughly 4,000 persons to enter 
+the United States annually who are 
+otherwise admissible but are denied 
+admission solely based on their HIV 
+status. The rule will bring family 
+members together who had been barred 
+from entry, thus strengthening families. 
+Also, HIV-infected immigrants with 
+skills in high demand would be 
+permitted to enter the U.S. to seek 
+employment and contribute as 
+productive members of U.S. society. 
+Depending on the region of the world 
+from which a person emigrates, 
+admittance to the U.S. may afford 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31804 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+greater opportunity, better health care, 
+and education and training programs 
+than those available in the immigrant’s 
+home country. These HIV-infected 
+individuals, compared to those who do 
+not receive appropriate multi-drug anti- 
+retroviral therapy for HIV treatment, 
+could survive an additional 13 years, 
+with an average life expectancy of 
+approximately 29 years (to age 49 years) 
+[10]. This increased life expectancy 
+allows the opportunity for longer and 
+improved productivity. 
+Further, this proposed rule to remove 
+HIV infection from the list of 
+communicable disease of public health 
+significance and from the scope of 
+examinations will remove 
+stigmatization of and discrimination 
+against HIV-infected people who have 
+long been denied entry into the U.S. 
+based only on a treatable and 
+preventable medical condition. This 
+proposed rule will bring the U.S. in line 
+with current science and international 
+standards of public health and human 
+rights practice. 
+Though this rule is assumed to not 
+have an impact on the total number 
+immigrants annually admitted as legal 
+permanent residents, we note that 
+immigration, in general, produces net 
+economic gains for the United States. 
+Overall, an NRC study estimated that 
+immigrants, in general, create an annual 
+economic impact of between $1 billion 
+to $10 billion [11]. 
+HHS/CDC welcomes comments on 
+these and other benefits associated with 
+the proposed regulatory change. 
+F. Costs 
+To the extent the proposed rule will 
+result in an increased number of HIV- 
+infected immigrants to the U.S. each 
+year, there will be quantifiable impacts. 
+We have made our best attempt to 
+capture the likely effects of the rule, but 
+there are significant uncertainties in this 
+estimation effort. HHS/CDC encourages 
+public comment on costs associated 
+with this rulemaking and, in particular, 
+additional information that would 
+provide a basis for more robust 
+qualitative discussion or quantitative 
+estimates. 
+Impact on Health Care Expenditures 
+As previously discussed, the 
+incremental impacts of the rule should 
+be a comparison between the arrival of 
+an HIV-infected immigrant and the 
+arrival of an HIV-negative immigrant. 
+Presumably, HIV-related healthcare 
+expenditures will be different, but there 
+are a variety of health expenditures that 
+the HIV-infected immigrant may not 
+incur that other immigrants may incur 
+(e.g., certain types of cancer, diabetes, 
+heart disease). It is not clear that, over 
+the course of a lifetime, on net an HIV- 
+infected immigrant would consume 
+more health care resources than other 
+immigrants. Furthermore, HIV treatment 
+yields benefits that offset the 
+expenditures, including increased life 
+expectancy and productivity. 
+However, given that health care 
+expenditures associated with treatment 
+of HIV infection can be substantial and 
+may result in some fiscal impacts (as 
+discussed below), we developed a 
+model (HIVEcon) to estimate these 
+potential effects of the rule. A complete 
+description of the model including 
+assumptions, results and limitations is 
+available for comment [5]. The 
+spreadsheet model itself is also 
+available for download so that the 
+reader can determine the relative impact 
+of altering almost any input value, 
+individually or several simultaneously 
+[12]. 
+The model, HIVEcon, examines the 
+treatment costs as estimated by 
+Schackman et al. [13] associated with 
+newly identified persons infected with 
+HIV regardless of payer, following the 
+2004 standards of care. The annual 
+treatment cost is estimated to be $25,200 
+in 2004 dollars, with a range of $19,466 
+to $30,954. However, significant 
+advances in the treatment of HIV have 
+been made since 2004 [14], and are 
+likely to continue to be made. Thus, the 
+expenditure estimates could be an 
+underestimate since as treatment 
+options increase, the benefits such as 
+quality of life and lifespan will increase 
+but so will costs. However, these 
+expenditures may be overestimates 
+since it is not clear to what extent 
+immigrants will seek and receive even 
+the 2004 standard of care. 
+Therefore, assuming 0% onwards 
+transmission from HIV-infected 
+immigrants entering at an average age of 
+20 years, an average annual medical 
+expenditures of $25,200 annually, an 
+HIV prevalence rate among immigrants 
+of 4.06 per 1,000, and a 3% annual 
+discount rate, the primary estimate of 
+the present value of lifetime medical 
+costs for persons identified as HIV- 
+infected in Year One is $94 million in 
+the first year. The absolute lower bound 
+estimate is $19 million in the first year 
+(decreasing the prevalence rate to 1.02 
+HIV+ immigrants per 1,000 immigrants 
+and the average annual medical 
+expenditures to $19,466). The maximum 
+upper bound estimate is $173 million 
+(increasing the prevalence rate to 6.09 
+HIV+ immigrants among 1,000 
+immigrants, and the average annual 
+medical expenses to $30,954 per 
+immigrant). In the HIVEcon model, in 
+Year Two following the change in 
+regulations, as the cumulative number 
+of HIV-infected immigrants almost 
+doubles, so will these health 
+expenditures. Likewise in the third year, 
+the expenditures will be equivalent to 
+three years’ worth of immigrants 
+(excluding those who have passed 
+away) and so on until the HIV-infected 
+immigrants reach their life expectancy 
+(e.g., in the model, an HIV-infected 
+person at age 30 has an average life 
+expectancy of 24.7 years). 
+Comparison With Congressional Budget 
+Office Analysis 
+The Congressional Budget Office 
+(CBO) estimated the cost to the federal 
+government of Section 305 of PL 110– 
+293 prior to the law’s enactment. The 
+analysis included increases in direct 
+spending related to provision of health 
+care and other benefits paid for by the 
+federal government. Specifically, those 
+benefits include Medicaid, 
+Supplemental Security Income, Food 
+Stamps, and nutritional programs. In 
+total, CBO estimated that providing 
+these benefits to HIV-infected 
+immigrants and their citizen children 
+will increase spending by less than 
+$500,000 in 2010 and $83 million over 
+the 2010–2018 period, primarily for 
+Medicaid. 
+The CBO analysis was done for the 
+purpose of estimating the impact of PL 
+110–293 on the federal budget. This 
+analysis was done to comply with 
+Executive Order 12866, which directs 
+agencies to assess all costs of available 
+regulatory alternatives, including, but 
+not limited to, those costs incurred by 
+the federal government. The economic 
+analysis for this regulation differs from 
+the CBO analysis for PL 110–293 in four 
+major areas: (1) The CBO analysis 
+assumed that the HIV prevalence rate 
+would be equal to half of the weighted- 
+average HIV prevalence rate for the 
+immigrants’ country of origin, whereas 
+this analysis assumed that the HIV 
+prevalence rate would be equal to the 
+weighted-average rate of the immigrants’ 
+region of origin; (2) the number of 
+immigrants was increased by 5% each 
+year in the CBO analysis while this 
+analysis did not include growth in the 
+annual number; (3) the CBO analysis 
+only examined health care costs paid for 
+by Medicaid whereas this analysis 
+included all health care costs including 
+those paid for by the Ryan White 
+Program; and (4) the CBO analysis 
+included costs of federal disability and 
+nutrition benefits, whereas this analysis 
+did not include those costs. 
+By the year 2013, the number of HIV- 
+infected immigrants entering the U.S. 
+projected by the CBO analysis is roughly 
+equivalent to that projected by this 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00008 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31805 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+analysis (analytical differences in 
+prevalence and growth rates cancel out). 
+By 2018, the number of HIV-infected 
+immigrants projected by the CBO 
+analysis exceeds projections in this 
+analysis. The health care costs in this 
+analysis exceed that of CBO’s analysis 
+because the former included all federal 
+and nonfederal costs including those 
+costs paid for through the federally- 
+funded Ryan White Program. This 
+analysis did not include non-healthcare 
+costs. 
+We are seeking comments on these 
+assumptions and data that would 
+further allow us to refine our estimates. 
+We welcome comment on the estimated 
+prevalence of HIV among those likely to 
+immigrate based on, for example, 
+humanitarian waivers or other sources 
+of available data. 
+Potential Fiscal Impacts 
+As previously discussed, even if HIV- 
+related health restrictions are removed 
+as a barrier to admission for immigrants, 
+all immigrants still must meet other 
+admission requirements. In the United 
+States, under the Federal Personal 
+Responsibility Work and Opportunity 
+Reconciliation Act (PRWORA) of 1996, 
+most immigrants are not eligible to 
+receive means-tested public benefits for 
+five years after their entry into the U.S. 
+[15, 16]. Federal means-tested public 
+benefits include Supplemental Security 
+Income (SSI), cash Temporary 
+Assistance for Needy Families (TANF), 
+Medicaid, and food stamps [15, 17]. 
+State and local means-tested benefits are 
+determined at the state or local level 
+and vary by jurisdiction. We have no 
+data to assume that HIV-infected 
+immigrants will seek, five years after 
+being admitted to the U.S., such benefits 
+at rates different from non HIV-infected 
+immigrants. 
+In addition, PRWORA placed other 
+limitations on aliens’ access to public 
+benefits, making them more difficult for 
+aliens to obtain such benefits in the first 
+place. For example, the income and 
+resources of the sponsor of a family- 
+based immigrant or permanent resident 
+are deemed to be available to that alien 
+if he/she should apply for certain 
+means-tested public benefits. See 8 
+U.S.C. 1631, 1632. Since a sponsor must 
+first prove to DHS that he/she is able to 
+provide support to the sponsored alien 
+at an annual income that is at least 
+125% above the federal poverty level 
+before the alien’s immigration 
+application will be approved, it is 
+unlikely that the alien will be able to 
+show that his/her available resources 
+fall beneath the low income eligibility 
+thresholds required for many means- 
+tested public benefits. See INA 
+§ 213A(a)(1)(A). 
+However, some immigrants may be 
+eligible for certain assistance through 
+the Ryan White HIV/AIDS Program—a 
+federally-funded program that provides 
+HIV-related health services. Funds are 
+awarded to agencies located around the 
+country, which in turn deliver care to 
+eligible individuals. Since the program 
+is administered through different 
+grantees using different eligibility 
+criteria, it is difficult to assess to what 
+extent the HIV-infected immigrants will 
+be eligible for assistance through this 
+program. However, given that the 
+estimated number of new HIV-infected 
+immigrants entering the United States as 
+a result of this rule are relatively small 
+(around 4,000 annually) compared to 
+the total number of persons currently 
+assisted by the funding (roughly half a 
+million), the overall impact on the 
+program is likely small. 
+Onward Transmission 
+Though difficult to quantify with 
+precision, there will likely be some 
+additional cases of HIV due to onward 
+transmission from HIV-infected 
+immigrants to others in the United 
+States who are not currently infected. 
+The costs associated with onward 
+transmission include: 
+• Shortened lifespan and reduction in 
+quality of life even with treatment, 
+• The health care costs associated 
+with treating HIV infection, 
+• The costs of social services when 
+individuals are unable to fully support 
+themselves because of their illness, and 
+• Decreased productivity when 
+individuals become too sick to work. 
+Because health care costs are 
+substantial and other costs listed above 
+are difficult to quantify, the analysis in 
+the HIVEcon model is limited to health 
+care costs associated with treatment of 
+HIV infection. 
+In the model, the number of estimated 
+HIV-infected cases due to onward 
+transmission (in Year t) is calculated as: 
+[(Number of HIV-infected immigrants 
+entering in Year t + Number of HIV- 
+infected immigrants surviving from 
+previous years that survive to Year t + 
+additional persons previously infected 
+by onward transmission from HIV- 
+infected immigrants that survive to Year 
+t) × onward transmission rate]. 
+A 1.51% onward transmission rate 
+was used in the HIVEcon model to 
+represent the annual estimated number 
+of new infections caused by HIV- 
+infected immigrants to the U.S., or 
+caused by U.S. person infected by HIV- 
+infected immigrants (i.e., annually every 
+100 HIV-infected persons infect an 
+additional 1.51 persons). The most 
+recent estimate of average onward 
+transmission, when limited to sexual 
+transmission, in the United States is 
+3.02 per 100 HIV positive immigrants 
+[18]. In 2006, the overall rate for onward 
+transmission of HIV in the U.S. from all 
+causes, was 5 new infections per 100 
+HIV-infected persons [19]. Results from 
+published research indicate that 
+immigrants to the United States, 
+regardless of their race or ethnicity, 
+often have an initial better health profile 
+than native-born Americans across 
+diverse health behaviors and outcomes; 
+however, this health advantage declines 
+as length of residence in the United 
+States and degree of acculturation 
+increase [20–26]. Specifically, studies of 
+HIV risk behavior among immigrant 
+populations, upon arrival in the U.S., 
+indicate that these behaviors are 
+influenced by a number of factors 
+including the demographic 
+characteristics of the migrants 
+(especially sex, social class, relationship 
+status and education); the purpose of 
+immigration; the type and location of 
+their receiving community and the 
+existing supports; discrepancy between 
+pre-immigration expectations and post- 
+immigration experiences; and 
+transnational movement between the 
+U.S. and their home countries [27–31]. 
+These multiple factors result in 
+heterogeneity in HIV risk between 
+migrant communities, with some being 
+at lower, and others higher risk, than 
+their U.S. counterparts. There is no 
+evidence to suggest immigration to the 
+U.S. significantly affects HIV incidence 
+in this country in one direction or the 
+other. Thus, it is not unreasonable to 
+assume that onward transmission rates 
+amongst HIV-infected immigrants will 
+be lower than among HIV-infected 
+persons born in the U.S. 
+For this analysis, we assumed that the 
+onward transmission rate for 
+immigrants, and those that they infect, 
+would be fifty percent of the average 
+U.S. rate for sexual transmission (i.e., 
+rate of onward transmission from HIV- 
+infected immigrants is assumed, in the 
+baseline case, to be 1.51 per 100). 
+Because data supporting this 
+assumption are limited, this assumption 
+was tested in sensitivity analysis. We 
+used 0% transmission as our lower 
+bound estimate and a transmission rate 
+of 4.53 per 100 HIV-infected 
+immigrants, and those that they infect, 
+as our upper bound estimate. The upper 
+bound transmission rate is a fifty 
+percent increase in the average annual 
+onward transmission rate of 3.02%. 
+Assuming 4,275 HIV-infected 
+immigrants enter in the first year, there 
+will be 65 new HIV infections due to 
+onward transmission, assuming an 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00009 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31806 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+onward transmission rate of 1.51 per 
+100 HIV, with a range of 0 to 261 
+(assuming onward transmission of 0 and 
+4.53 per 100 HIV-infected immigrants, 
+respectively). These estimates imply 
+treatment costs, for those infected via 
+onward transmission only, in the first 
+year of $1.6 million in the primary 
+estimate and a range of $0 to $8.1 
+million [5]. 
+For the purposes of calculating new 
+HIV infections associated with HIV- 
+infected immigrants in the U.S., 
+HIVEcon adds persons infected by HIV- 
+infected immigrants to the cohort of 
+projected HIV-infected immigrants. This 
+modeling technique represents the 
+chain of onward transmission after 
+initial transmission from an HIV- 
+infected immigrant. Thus, in the next 
+year, though the cumulative number of 
+HIV-infected immigrants essentially 
+doubles, the number of new HIV cases 
+(as well as the associated treatment 
+costs) will be slightly more than double 
+the previous year. 
+This modeling approach assumes that 
+those people infected by HIV-infected 
+immigrants would never have become 
+infected with HIV were it not for the 
+arrival in the U.S. of HIV-infected 
+immigrants. This could be unrealistic 
+since U.S. persons who are infected by 
+HIV-infected immigrants may engage in 
+behaviors that lead them to activities 
+that expose them to HIV infections, 
+regardless of the source of infection. An 
+alternative interpretation may be that at 
+least some of the additional infections 
+are occurring earlier than they otherwise 
+would have. Thus, these shifts in the 
+timing of infection will increase the 
+total number of new cases in any one 
+year, but the true incremental impact 
+may be the implications of becoming 
+infected earlier. 
+Furthermore, the model treats the 
+onward transmission rate as fixed over 
+time. However, data shows that onward 
+transmission has declined over time 
+[19]. If we assume that transmission 
+rates will continue to decrease in the 
+future, it is possible that the model may 
+overestimate the number of HIV- 
+infected individuals due to onward 
+transmission as we project impacts into 
+the future. 
+G. Summary of Impacts 
+The HIVEcon model projects potential 
+impacts out to 50 years after the rules 
+go into effect. However, many of the key 
+inputs to the model may be significantly 
+different even ten years from now given 
+the rapid pace of change in HIV 
+treatment, HIV prevalence in other 
+countries, as well as potential changes 
+in the overall immigration policy. It may 
+not be inconceivable that there would 
+be an HIV vaccine in the next decade or 
+two. Given these uncertainties, Table 2 
+provides a summary of the potential 
+effects of the rule five years after 
+implementation. 
+TABLE 2—SUMMARY OF IMPACTS (YEAR FIVE AFTER IMPLEMENTATION), ASSUMING THE AVERAGE AGE OF ENTRY IS 30 
+YEARS AND THE ANNUAL DISCOUNT RATE IS 3% 
+Category 
+Primary 
+Estimate 
+(4.06 HIV+ 
+immigrants 
+per 1,000 
+immigrants) 
+Low 
+Estimate 
+(1.02 HIV+ 
+immigrants 
+per 1,000 
+immigrants) 
+High 
+Estimate 
+(6.09 HIV+ 
+immigrants 
+per 1,000 
+immigrants) 
+HIV-POSITIVE IMMIGRANTS AT YEAR 5 (EXCLUDING ONWARD TRANSMISSION) 
+Total number of HIV-Positive Immigrants present in the U.S ............................................ 15,755 .............. 3,956 ................ 23,622. 
+Annualized Monetized Healthcare Expenditures ................................................................ $342 million ...... $86 million ........ $513 million. 
+Benefits (Qualitative) .......................................................................................................... 1. Reduce stigmatization of and discrimination 
+against HIV-infected people. 
+2. Compared to those who don’t receive appropriate 
+multi-drug anti-retroviral therapy, survive an addi-
+tional 13 years, with an average life expectancy of 
+approximately 29 years (to age 49 years) [10]. 
+This increased life expectancy allows opportunity 
+for longer and improved productivity. 
+HIV-POSITIVE CASES AT YEAR 5 DUE TO 1.51% ONWARD TRANSMISSION 
+Total number of HIV-Positive cases due to 1.51% onward transmission connected with 
+U.S. Immigrants.
+676 ................... 170 ................... 1,014. 
+Annualized Monetized Healthcare Expenditures ................................................................ $96 million ........ $24 million ........ $145 million. 
+TRANSFERS 
+Federal Annualized Monetized ........................................................................................... Depends upon assumptions of who pays annualized 
+monetized medical costs. 
+Notes: Source of estimates—see Figures 1, 
+3, and 4 in Technical Appendix II [5]. 
+In the context of the U.S. HIV/AIDS 
+prevalence, currently estimated at 
+roughly 1 million persons [1] the 4,275 
+HIV-infected immigrants represents 
+only 0.4% of the national total of 
+persons living with HIV/AIDS. In the 
+context of the new U.S. incidence of 
+HIV, currently estimated at roughly 
+56,000 [32], the onward transmission of 
+272 by year five represents only 0.5% of 
+the new cases. 
+In the primary estimate, the 
+monetized costs, mainly the treatment 
+cost of the onward transmission cases 
+are relatively modest. In terms of health 
+care expenditures for immigrants, by 
+Year Five there will be a cumulative 
+total of 15,755 HIV-infected immigrants 
+living in the U.S., with another 676 
+cases occurring due to onward 
+transmission (total: 16,431) (Table 2) 
+These cases will incur $438 million of 
+medical expenses in Year Five. 
+We conclude that while we do not 
+believe HIV is a ‘‘communicable disease 
+of public health significance’’ for the 
+purposes of admissibility 
+determinations, the rule may be 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00010 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31807 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+economically significant. However, due 
+to all of the uncertainties previously 
+discussed, we solicit comments on this 
+tentative conclusion. 
+H. Literature Cited 
+1. CDC, HIV prevalence estimates—United 
+States, 2006. MMWR Morb Mortal Wkly Rep, 
+2008. 57(39): p. 1073–6. 
+2. Marks, G., N. Crepaz, and R.S. Janssen, 
+Estimating sexual transmission of HIV from 
+persons aware and unaware that they are 
+infected with the virus in the USA. AIDS, 
+2006. 20(10): p. 1447–50. 
+3. Marks, G., et al., Meta-analysis of high- 
+risk sexual behavior in persons aware and 
+unaware they are infected with HIV in the 
+United States: implications for HIV 
+prevention programs. J Acquir Immune Defic 
+Syndr, 2005. 39(4): p. 446–53. 
+4. Branson, B.M., et al., Revised 
+recommendations for HIV testing of adults, 
+adolescents, and pregnant women in health- 
+care settings. MMWR Recomm Rep, 2006. 
+55(RR–14): p. 1–17; quiz CE1–4. 
+5. CDC, Technical Appendix II: HIVEcon: 
+Additional notes and data on model inputs 
+and outputs. 2009. Available from: http:// 
+www.cdc.gov/ncidod/dq. 
+6. DHS, Yearbook of Immigration 
+Statistics: 2007 Immigrants. Table 3: Persons 
+Obtaining Legal Permanent Resident Status 
+by Region and Country of Birth: Fiscal Years 
+1998 to 2007. 2007. Available from: http:// 
+www.dhs.gov/xlibrary/assets/statistics/ 
+yearbook/2007/table03d.xls. 
+7. UN, World Population Prospects: The 
+2006 Revision. Population Division of the 
+Department of Economic and Social Affairs 
+of the United Nations Secretariat, 2007. 
+Available from: http://www.un.org/esa/ 
+population/publications/wpp2006/ 
+wpp2006.htm. 
+8. UNAIDS, 2007 AIDS Epidemic Update. 
+WHO Library Cataloguing-in-Publication 
+Data: UNAIDS/07.27E/JC1322E, 2007. 
+Available from: http://data.unaids.org/pub/ 
+EPISlides/2007/2007_epiupdate_en.pdf. 
+9. DHS, Yearbook of Immigration 
+Statistics: 2007 Immigrants. Table 8: Persons 
+Obtaining Legal Permanent Resident Status 
+by Gender, Age, Marital Status, and 
+Occupation: Fiscal Year 2007. 2007. 
+Available from: http://www.dhs.gov/xlibrary/ 
+assets/statistics/yearbook/2007/table08.xls. 
+10. Life expectancy of individuals on 
+combination antiretroviral therapy in high- 
+income countries: a collaborative analysis of 
+14 cohort studies. Lancet, 2008. 372(9635): p. 
+293–9. 
+11. PDEII, et al., The New Americans: 
+Economic, Demographic, and Fiscal Effects 
+of Immigration. Panel on the Demographic 
+and Economic Impacts of Immigration, 
+National Research Council, Commission on 
+Behavioral and Social Sciences and 
+Education, ed. J.R. Smith and B. Edmonston. 
+1997: National Academies Press. 
+12. Borse, R.H. and M.I. Meltzer, Technical 
+Appendix I: HIVEcon: A model to estimate 
+the economic costs of immigrants who are 
+HIV-positive. 2009. Available from: http:// 
+www.cdc.gov/ncidod/dq. 
+13. Schackman, B.R., et al., The lifetime 
+cost of current human immunodeficiency 
+virus care in the United States. Med Care, 
+2006. 44(11): p. 990–7. 
+14. PAGAA, Guidelines for the Use of 
+Antiretroviral Agents in HIV–1–Infected 
+Adults and Adolescents. DHHS Panel on 
+Antiretroviral Guidelines for Adults and 
+Adolescents (PAGAA)—A Working Group of 
+the Office of AIDS Research Advisory 
+Council (OARAC), 2008: p. 1–139. Available 
+from: http://aidsinfo.nih.gov/contentfiles/
+AdultandAdolescentGL.pdf. 
+15. USCIS, Interoffice memorandum: 
+Consolidation of Policy Regarding USCIS 
+Form I–864, Affidavit of Support (AFM 
+Update AD06–20). 2006. Available from: 
+http://www.uscis.gov/files/pressrelease/
+AffSuppAFM062706.pdf. 
+16. USDA, Public Law 104–193–Aug.22, 
+1996. 1996. Available from: http:// 
+www.fns.usda.gov/snap/rules/Legislation/ 
+pdfs/PL_104–193.pdf. 
+17. USCIS, A quick guide to public charge 
+and receipt to public benefits. U.S. 
+Department of Homeland Security, 1999. 
+Available from: http://www.uscis.gov/files/ 
+article/Public.pdf. 
+18. Pinkerton, S.D., How many sexually- 
+acquired HIV infections in the USA are due 
+to acute-phase HIV transmission? AIDS, 
+2007. 21(12): p. 1625–9. 
+19. CDC, HIV/AIDS Transmission Rates in 
+the United States. CDC HIV/AIDS Facts, 
+2008. Available from: http://www.cdc.gov/
+Hiv/topics/surveillance/resources/factsheets/ 
+pdf/transmission.pdf. 
+20. Lucas, J.W., D.J. Barr-Anderson, and 
+R.S. Kington, Health status, health insurance, 
+and health care utilization patterns of 
+immigrant Black men. Am J Public Health, 
+2003. 93(10): p. 1740–7. Available from: 
+http://www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=14534231. 
+21. Kenya, S., et al., Effects of immigration 
+on selected health risk behaviors of Black 
+college students. J Am Coll Health, 2003. 
+52(3): p. 113–20. Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=14992296. 
+22. Newcomb, M.D., et al., Acculturation, 
+sexual risk taking, and HIV health promotion 
+among Latinas. Journal of Counseling 
+Psychology, 1998. 45: p. 454–467. 
+23. Hines, A.M. and R. Caetano, Alcohol 
+and AIDS-related sexual behavior among 
+Hispanics: acculturation and gender 
+differences. AIDS Educ Prev, 1998. 10(6): p. 
+533–47. Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=9883288. 
+24. Shedlin, M.G., C.U. Decena, and D. 
+Oliver-Velez, Initial acculturation and HIV 
+risk among new Hispanic immigrants. J Natl 
+Med Assoc, 2005. 97(7 Suppl): p. 32S–37S. 
+Available from: http://www.ncbi.nlm.nih.gov
+/entrez/query.fcgi?cmd=
+Retrieve&db=PubMed&dopt=
+Citation&list_uids=16080455. 
+25. Hoffman, S., et al., HIV and sexually 
+transmitted infection risk behaviors and 
+beliefs among Black West Indian immigrants 
+and US-born Blacks. Am J Public Health, 
+2008. 98(11): p. 2042–50. Available from: 
+http://www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=18309140. 
+26. McDonald, J.A., J. Manlove, and E.N. 
+Ikramullah, Immigration measures and 
+reproductive health among Hispanic youth: 
+findings from the national longitudinal 
+survey of youth, 1997–2003. J Adolesc 
+Health, 2009. 44(1): p. 14–24. Available from: 
+http://www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=19101454. 
+27. Lassetter, J.H. and L.C. Callister, The 
+impact of migration on the health of 
+voluntary migrants in western societies. J 
+Transcult Nurs, 2009. 20(1): p. 93–104. 
+Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=18840884. 
+28. Shedlin, M.G., et al., Immigration and 
+HIV/AIDS in the New York Metropolitan 
+Area. J Urban Health, 2006. 83(1): p. 43–58. 
+Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=16736354. 
+29. Harawa, N.T., et al., HIV prevalence 
+among foreign- and US-born clients of public 
+STD clinics. Am J Public Health, 2002. 
+92(12): p. 1958–63. Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=12453816. 
+30. Marin, B.V., et al., Acculturation and 
+gender differences in sexual attitudes and 
+behaviors: Hispanic vs non-Hispanic white 
+unmarried adults. Am J Public Health, 1993. 
+83(12): p. 1759–61. Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=8259813. 
+31. UNAIDS and IOM, Migration and 
+AIDS. Int Migr, 1998. 36(4): p. 445–68. 
+Available from: http:// 
+www.ncbi.nlm.nih.gov/entrez/ 
+query.fcgi?cmd=Retrieve&db=PubMed&dopt=
+Citation&list_uids=12295093. 
+32. CDC, HIV Incidence. 2008 (accessed 
+May 25, 2009). Available from: http:// 
+www.cdc.gov/hiv/topics/surveillance/
+incidence.htm. 
+V. Regulatory Flexibility Analysis 
+HHS/CDC has considered the 
+proposed rule’s effects on small entities, 
+as required by the Regulatory Flexibility 
+Act (RFA) (5 U.S.C. 601 et seq., Pub. L. 
+96–354) as amended by the Small 
+Business Regulatory Enforcement 
+Fairness Act of 1996 (SBREFA) (Pub. L. 
+104–121). The RFA establishes, as a 
+principle of regulation, that agencies 
+should tailor regulatory and 
+informational requirements to the size 
+of the entities, consistent with the 
+objectives of a particular regulation and 
+applicable statutes. 
+The objective of this analysis was to 
+compare the benefits and the costs of a 
+change in legislation that currently 
+prohibits HIV-infected immigrants from 
+entering the United States. HHS/CDC 
+carefully considered several other 
+alternatives, but they were either not 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00011 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31808 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+logistically feasible or inconsistent with 
+current public health practice. This 
+analysis appears in the ‘Alternatives’ 
+section. 
+HHS/CDC certifies the proposed rule 
+will not have a significant impact on a 
+substantial number of small entities as 
+defined in the statute. 
+VI. Other Administrative Requirements 
+A. The Unfunded Mandates Reform Act 
+HHS/CDC evaluated the rule 
+requirements for compliance with the 
+Unfunded Mandates Reform Act 
+(UMRA) of 1995. This rule does not 
+contain Federal mandates under the 
+regulatory provisions of Title II of the 
+UMRA for State, local, or Tribal 
+Governments, nor for the private sector. 
+The rule’s provisions will not affect 
+small Governments. 
+B. Executive Order 13045: Protection of 
+Children From Environmental Health 
+Risks and Safety Risks 
+Executive Order 13045 requires HHS/ 
+CDC to determine whether the rule is 
+economically significant. The Executive 
+Order further requires HHS to determine 
+whether the rule would create an 
+environmental health or safety risk 
+disproportionately affecting children. 
+HHS/CDC has determined that this rule 
+of general applicability is consistent 
+with these principles. 
+C. Paperwork Reduction Act of 1995 
+The Paperwork Reduction Act applies 
+to the data collection requirements 
+found in 42 CFR part 34. Currently, 
+aliens determined to have a 
+communicable disease of public health 
+significance may request a waiver from 
+DHS to enter the United States under 
+sections 212(d)(3)(a) and 212(g) of the 
+INA (8 U.S.C. 1182(d)(3)(a) and 1182(g)). 
+HHS/CDC has approval from the Office 
+of Management and Budget (OMB) 
+under OMB Control No. 0920–0006: 
+Statements in Support of Application 
+for Waiver of Inadmissibility under the 
+Immigration and Nationality Act 
+(expiration date December 31, 2011) to 
+collect data pertaining to the waiver. 
+CDC Form 4.422–1b is the form that is 
+required in support of a waiver of 
+inadmissibility for HIV infection. If the 
+proposed change is finalized, infection 
+with HIV would no longer be grounds 
+for an alien to apply for a waiver and 
+HHS/CDC would discontinue the use of 
+CDC form 4.422–1b, for a reduction of 
+67 burden hours for this approved data 
+collection. 
+D. Environmental Impact 
+HHS has determined that provisions 
+to amend 42 CFR part 34.2(b) will not 
+have a significant impact on the human 
+environment. 
+E. Executive Order 13175: Consultation 
+and Coordination With Indian Tribal 
+Governments 
+Executive Order 13175, entitled 
+‘‘Consultation and Coordination with 
+Indian Tribal Governments’’ (65 FR 
+67249, September 9, 2000), requires 
+agencies to develop an accountable 
+process to ensure ‘‘meaningful and 
+timely input by tribal officials in the 
+development of regulatory policies that 
+have tribal implications.’’ The Executive 
+Order defines the phrase ‘‘policies that 
+have tribal implications’’ to include 
+regulations and other policy statements 
+or actions that have ‘‘substantial direct 
+effects on one or more Indian tribes, on 
+the relationship between the Federal 
+government and Indian tribes, or on the 
+distribution of power and 
+responsibilities between the Federal 
+government and Indian tribes.’’ 
+HHS/CDC has determined that 
+provisions to amend 42 CFR Part 34 will 
+not have tribal implications. 
+F. Executive Order 12630: Governmental 
+Actions and Interference With 
+Constitutionally Protected Property 
+Rights 
+Under Executive Order 12630, if the 
+contemplated rule would require a 
+Federal taking of private property, then 
+a takings analysis is required. Since the 
+proposed rule does not require a Federal 
+taking of private property, the 
+provisions in the Executive Order are 
+not applicable. 
+G. Federalism 
+Under Executive Order 13132, if the 
+proposed rule would limit or preempt 
+State authorities, then a Federalism 
+analysis is required. The agency must 
+consult with State and local officials to 
+determine whether the rule would have 
+a substantial direct effect on State or 
+local Governments, as well as whether 
+it would either preempt State law or 
+impose a substantial direct cost of 
+compliance on them. 
+HHS/CDC determines that this 
+proposed rule does not have sufficient 
+federalism implications to warrant the 
+preparation of a federalism summary 
+impact statement. 
+H. Executive Order 13211: Energy 
+Effects 
+Executive Order 13211 requires HHS/ 
+CDC to produce a statement of energy 
+effects if the proposed rule is significant 
+or economically significant and likely to 
+have a significant adverse effect on the 
+supply, distribution, or use of energy. 
+HHS/CDC has determined that the 
+proposed rule does not have that effect 
+and that a statement of energy is not 
+required. 
+I. National Technology Transfer and 
+Advancement Act 
+This act, 15 U.S.C. 272, requires the 
+adoption of technical standards 
+developed or adopted by voluntary 
+consensus standards bodies in rules 
+promulgated by HHS. No voluntary 
+consensus standards are applicable and 
+feasible with regard to the proposed 
+rule. 
+J. Assessment of Federal Regulations 
+and Policies on Families 
+Title 5 U.S.C.A. 601 (note) requires 
+agencies to assess the impact of a 
+proposed action to determine whether 
+such an action would affect family well- 
+being. HHS/CDC has assessed the 
+impact of this proposed regulation and 
+determines that it would not negatively 
+affect family well-being. 
+K. Executive Order 12988: Civil Justice 
+Reform 
+HHS/CDC has reviewed this rule 
+under Executive Order 12988, on Civil 
+Justice Reform and determines that the 
+proposed rule meets the standard in the 
+Executive Order. 
+L. Plain Language in Government 
+Writing 
+Under 63 FR 31883 (June 10, 1998), 
+Executive Departments and Agencies 
+are required to use plain language in all 
+proposed and final rules. HHS/CDC has 
+attempted to use plain language in 
+promulgating the proposed rule and 
+would welcome any comment from the 
+public in this regard. 
+List of Subjects in 42 CFR 34 
+Aliens, Health care, Scope of 
+examination, Passports and visas, Public 
+health. 
+For the reasons stated in the 
+preamble, the Centers for Disease 
+Control and Prevention, within the U.S. 
+Department of Health and Human 
+Services, proposes to amend 42 CFR 
+part 34 as follows: 
+PART 34—MEDICAL EXAMINATION OF 
+ALIENS 
+1. The authority citation for part 34 
+continues to read as follows: 
+Authority: 42 U.S.C. 252; 8 U.S.C. 1182 
+and 1222. 
+§ 34.2 [Amended] 
+2. Amend § 34.2 by removing 
+paragraph (b)(6) and redesignating 
+paragraphs (b)(7) through (10) (b)(6) 
+through (9), respectively. 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2
+31809 Federal Register / Vol. 74, No. 126 / Thursday, July 2, 2009 / Proposed Rules 
+3. Amend § 34.3 by revising 
+paragraphs (b)(1)(i), (e)(1) introductory 
+text, (e)(2)(iii), (e)(2)(iv), (e)(5), and 
+(e)(6) to read as follows: 
+§ 34.3 Scope of examinations. 
+* * * * ** 
+(b) * * * 
+(1) * * * 
+(i) A general physical examination 
+and medical history, evaluation for 
+tuberculosis, and serologic testing for 
+syphilis. 
+* * * * * 
+(e) * * * 
+(1) As provided in paragraph (e)(2) of 
+this section, a chest x-ray examination 
+and serologic testing for syphilis shall 
+be required as part of the examination 
+of the following: 
+* * * * * 
+(2) * * * 
+(iii) For applicants 15 years of age and 
+older, serologic testing for syphilis. 
+(iv) Exceptions. Serologic testing for 
+syphilis shall not be required if the alien 
+is under the age of 15, unless there is 
+reason to suspect infection with 
+syphilis. An alien, regardless of age, in 
+the United States, who applies for 
+adjustment of status to lawful 
+permanent resident shall not be 
+required to have a chest x-ray 
+examination unless their tuberculin skin 
+test, or an equivalent test for showing an 
+immune response to Mycobacterium 
+tuberculosis antigens, is positive. HHS/ 
+CDC may authorize exceptions to the 
+requirement for a tuberculin skin test, 
+an equivalent test for showing an 
+immune response to Mycobacterium 
+tuberculosis antigens, or chest x-ray 
+examination for good cause, upon 
+application approved by the Director. 
+* * * * * 
+(5) How and where performed. All 
+chest radiograph images used in 
+medical examinations performed under 
+the regulations to this part shall be large 
+enough to encompass the entire chest 
+(approximately 14 x 17 inches; 35.6 x 
+32.2 cm). 
+(6) Chest x-ray, laboratory, and 
+treatment reports. The chest radiograph 
+reading and serologic test results for 
+syphilis shall be included in the 
+medical notification. When the medical 
+examiner’s conclusions are based on a 
+study of more than one chest x-ray 
+image, the medical notification shall 
+include at least a summary statement of 
+findings of the earlier images, followed 
+by a complete reading of the last image, 
+and dates and details of any laboratory 
+tests and treatment for tuberculosis. 
+* * * * * 
+Dated: June 30, 2009. 
+Kathleen Sebelius, 
+Secretary. 
+[FR Doc. E9–15814 Filed 6–30–09; 4:15 pm] 
+BILLING CODE P 
+VerDate Nov<24>2008 15:36 Jul 01, 2009 Jkt 217001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4702 E:\FR\FM\02JYP2.SGM 02JYP2

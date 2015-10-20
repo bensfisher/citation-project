@@ -1,0 +1,12 @@
+	NO PARSCIT CITATIONS
+Health Facts	0.95
+OMB Circular A4	0.9
+Small Business Administrations regulation	0.926829268292683
+CPT Codes and Descriptions	0.9230769230769231
+Discussion Points on EFax Ruling Exceptions	0.9069767441860465
+Congressional Review Act	0.9583333333333334
+Federalism	1.0
+Regulatory Flexibility Act of 1980	0.9411764705882353
+Regulatory Planning and Review 	0.9032258064516129
+Section 202 Unfunded Mandates Reform Act of 1995	0.9375
+Section 5102 Deficit Reduction Act of 2005	0.9285714285714286

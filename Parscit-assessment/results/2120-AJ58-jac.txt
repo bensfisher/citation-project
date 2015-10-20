@@ -1,0 +1,11 @@
+	Managing work schedules: an alertness and safety perspective. In: Kryger MH,	previously called Federal Aviation Regulation (FAR). Pilot deviations also take place when the North American Aerospace Defense Command (NORAD), Air Defense Identification Zone (ADIZ) tolerance is neglected. Starting with 1987, pilot deviations have been documented by air traffic and flight standards on FAA Form 8020-17, Preliminary Pilot Deviation Report, and FAA Form 8020-18, Investigation of Pilot Deviation Report. The results are then coded into the Pilot Deviation System (PDS) database. The FAA uses the PDS database to monitor the number of
+Managing work schedules an alertness and safety perspective	0.12	0.5
+An Overview of the Scientific Literature Concerning Fatigue Sleep and the Circadian Cycle	0.3870967741935484	0.4285714285714286
+Flight and Rest Time Safety and Cost Analyses Phase 3	0.5882352941176471	0.47619047619047616
+Principles and Guidelines for Duty and Rest Scheduling in Commercial Aviation	0.4242424242424242	0.38095238095238093
+US Air Carrier Traffic and Capacity Statistics by Aircraft Type	0.5806451612903225	0.5714285714285714
+From Laboratory to Flightdeck Promoting Operational Alertness	0.46875	0.45238095238095233
+A description of the Chi Square goodness of fit test can be found in any introductory statistics text A comprehensive discussion of the test with references can be found online at	0.375	0.41860465116279066
+A description of the KolmogorovSmirnov test can be found in more advanced statistics texts A comprehensive discussion of the test with references can be found online at	0.33333333333333337	0.4651162790697675
+Policy Relevant Heterogeneity in the Value of Statistical Life New Evidence from Panel Data Quantile Regressions	0.4285714285714286	0.4565217391304348
+The Heterogeneity of the Value of Statistical Life Introduction and Overview	0.30000000000000004	0.4772727272727273

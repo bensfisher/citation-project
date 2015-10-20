@@ -1,0 +1,10 @@
+# convert pdfs to txts
+for file in ~/Desktop/School/GradSchool/RIA/Parscit-assessment/test-RIAs/*.pdf; do pdf2txt.py -o "$file".txt -t text $file; done
+
+for file in for file in Parscit-assesment/test-RIAs/*.pdf; do java -jar Parscit-assessment/pdfbox-app-1.8.10.jar ExtractText -encoding UTF-8 $file; done
+
+# extract citations with Parscit
+for file in ~/Desktop/School/GradSchool/RIA/Parscit-assessment/test-RIAs/*.pdf.txt; do ~/Desktop/School/GradSchool/RIA/ParsCit-master/bin/citeExtract.pl -m extract_citations $file; done
+
+for file in Parscit-assessment/test-RIAs/*.txt; do Parscit-assessment/ParsCit-master/bin/citeExtract.pl -m extract_citations $file | tee Parscit-assessment/test-RIAS/${file:28:12}-cites.txt; done
+

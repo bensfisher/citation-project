@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<date>2005</date>
+<institution>22 Colorado Coal Directory,</institution>
+<marker>2005</marker>
+<rawString>22 Colorado Coal Directory, 2005.</rawString>
+</citation>
+<citation valid="true">
+<title>23 Sources: Colorado Mineral and Energy Industry Activities,</title>
+<date>2007</date>
+<booktitle>and 2008, EIA Coal Supply &amp; Demand</booktitle>
+<marker>2007</marker>
+<rawString>23 Sources: Colorado Mineral and Energy Industry Activities, 2007; Energy Information Agency, Annual Coal Report for 2007 and 2008, EIA Coal Supply &amp; Demand 2008 Review; State of Colorado DNR/DMRS 2009 Monthly Report; as cited in the revised Economic Specialist Report (USDA Forest Service, 2010b).</rawString>
+</citation>
+<citation valid="false">
+<title>24 This calculation assumes that the 110 million tons of recoverable reserves in roadless area estimated for the 2001 Rule in the Energy Minerals section of the RDEIS are included within the 180.9 million tons of reserves estimated by the State of Colorado the energy roadless model area,</title>
+<date>2006</date>
+<pages>2010--2024</pages>
+<location>Delta, Garfield, Mesa, Montrose, and</location>
+<marker>2006</marker>
+<rawString>24 This calculation assumes that the 110 million tons of recoverable reserves in roadless area estimated for the 2001 Rule in the Energy Minerals section of the RDEIS are included within the 180.9 million tons of reserves estimated by the State of Colorado the energy roadless model area, 2010-2024 (2006 dollars) (1) (1) Results for Alternative 4 are equivalent to Alternative 2. Results apply to the five counties (Delta, Garfield, Mesa, Montrose, and Rio Blanco) included in the “Energy area” IMPLAN model developed for this analysis. Local Governments Mineral Lease Payments Sizeable revenues accrue to State and local governments from the production of energy resources on Federal lands. These revenues are important contributions to the fiscal health of small and large governmental entities alike. Royalties of 12.5 percent are paid on production value from Federal mineral leases. Half of these revenues are paid to the states where production originated. In Colorado, these revenues are allocated to a variety of State funds, including the State Public School Fund, and to local jurisdictions where employees of mining companies reside.</rawString>
+</citation>
+<citation valid="true">
+<title>Activity/Effects Value of Production ($ millions) Employment (jobs) Labor Income ($ millions)</title>
+<date>2007</date>
+<location>Denver, CO.</location>
+<marker>2007</marker>
+<rawString>Activity/Effects Value of Production ($ millions) Employment (jobs) Labor Income ($ millions) 2007 Annual Report—advanced tables. Colorado Department of Local Affairs, Division of Property Taxation. Denver, CO. 2007. 2007 Annual Report. Colorado Department of Revenue.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>CO Denver</author>
+</authors>
+<date>2008</date>
+<marker>Denver, 2008</marker>
+<rawString>(http://www.revenue.state.co.us/TaxStats). Denver, CO. January 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>G Brown</author>
+<author>P Reed</author>
+</authors>
+<title>Validation of a forest values typology for use in national forest planning. Forest Science.</title>
+<date>2000</date>
+<pages>46--2</pages>
+<marker>Brown, Reed, 2000</marker>
+<rawString>Brown, G. and P. Reed. 2000. Validation of a forest values typology for use in national forest planning. Forest Science. 46(2):240-247.</rawString>
+</citation>
+<citation valid="true">
+<title>Tourism Jobs Gain Ground in Colorado. Prepared for the Colorado Department of Local Affairs.</title>
+<date>2001</date>
+<institution>Center for Business and Economic Forecasting, Inc.</institution>
+<location>Denver, CO.</location>
+<contexts>
+<context position="166251" citStr="(2001)" startWordPosition="24366" endWordPosition="24366">ects for the forest type (such as adverse soil impacts, tree mortality or other impacts);” and “maximizes the retention of large trees, as appropriate for the forest type, to the extent that the trees promote fires-resilient stands”4 The establishment of WUI areas and CWPPs helps to implement the Act. At the national-level, the majority of WUIs areas are not in IRAs; however, there are overlaps. WUI distances vary by individual CWPP.5 These plans are developed following A Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment: 10-Year Comprehensive Strategy (2001). 3 Section 294.14(e) states: The prohibitions and restrictions established in this subpart are not subject to reconsideration, revision, or rescission in subsequent project decisions or land and resource management plan amendments or revisions undertaken pursuant to 36 CFR part 219. 4 See Sections 102(e) and (f) of HFRA 5 The definition of Wildland-Urban Interface (WUI) is found at Section 101 (16) of the Healthy Forest Restoration Act of 2003 53 Except for the effects discussed in the body of the EIS on the implementation of the Act, the proposed rule and its alternatives will have no effect</context>
+</contexts>
+<marker>2001</marker>
+<rawString>Center for Business and Economic Forecasting, Inc. 2001. Tourism Jobs Gain Ground in Colorado. Prepared for the Colorado Department of Local Affairs. Denver, CO. 2001.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Dean Runyan</author>
+</authors>
+<title>Associates, Inc. The Economic Impact of Travel on</title>
+<date>1996</date>
+<location>Colorado:</location>
+<marker>Runyan, 1996</marker>
+<rawString>Dean Runyan Associates, Inc. The Economic Impact of Travel on Colorado: 1996-2005.</rawString>
+</citation>
+<citation valid="true">
+<title>Prepared for the State of Colorado, Colorado Tourism Office,</title>
+<date>2006</date>
+<booktitle>Office of Economic Development and International Trade.</booktitle>
+<location>Denver, CO.</location>
+<marker>2006</marker>
+<rawString>Prepared for the State of Colorado, Colorado Tourism Office, Office of Economic Development and International Trade. Denver, CO. June 2006.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Desty Dyer</author>
+</authors>
+<title>Personal communication regarding coal mining. USDI-Bureau of Land Management,</title>
+<date>2008</date>
+<location>Montrose Field Office. Montrose, CO.</location>
+<marker>Dyer, 2008</marker>
+<rawString>Dyer, Desty. Personal communication regarding coal mining. USDI-Bureau of Land Management, Montrose Field Office. Montrose, CO. May 21, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>General Accounting Office</author>
+</authors>
+<title>Western National Forests: A Cohesive Strategy is Needed to Address Catastrophic Wildland Fire Threats.</title>
+<date>1999</date>
+<marker>Office, 1999</marker>
+<rawString>General Accounting Office. 1999. Western National Forests: A Cohesive Strategy is Needed to Address Catastrophic Wildland Fire Threats. April, 1999 (GAO/RCED-99-65). (http://www.gao.gov).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lloyd Levy</author>
+</authors>
+<title>Consulting. Job Generation in the Colorado Mountain Resort Economy. Prepared for the Northwest Colorado Council of Governments.</title>
+<date>2004</date>
+<location>Silverthorne, CO.</location>
+<marker>Levy, 2004</marker>
+<rawString>Lloyd Levy Consulting. Job Generation in the Colorado Mountain Resort Economy. Prepared for the Northwest Colorado Council of Governments. Silverthorne, CO. 2004.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lisa A McDonald</author>
+<author>Holly Wise Bender</author>
+<author>Eric Hurley</author>
+<author>Sheri Donnelly</author>
+<author>David Taylor</author>
+</authors>
+<title>Oil and Gas Economic Impact Analysis. Prepared by Booz Allen Hamilton for the Colorado Energy Research Institute.</title>
+<date>2007</date>
+<location>Golden, CO.</location>
+<marker>McDonald, Bender, Hurley, Donnelly, Taylor, 2007</marker>
+<rawString>McDonald, Lisa A., Holly Wise Bender, Eric Hurley, Sheri Donnelly, and David Taylor. Oil and Gas Economic Impact Analysis. Prepared by Booz Allen Hamilton for the Colorado Energy Research Institute. Golden, CO. June 2007.</rawString>
+</citation>
+<citation valid="true">
+<title>economic impact modeling software).</title>
+<date>2003</date>
+<journal>IMPLAN Professional Version</journal>
+<volume>2</volume>
+<institution>Minnesota IMPLAN Group</institution>
+<marker>2003</marker>
+<rawString>Minnesota IMPLAN Group 2003. IMPLAN Professional Version 2.0 (regional economic impact modeling software).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+</authors>
+<title>Revised Draft Environmental Impact Statement (RDEIS): Proposed Colorado Roadless Rule. Region 2, USDA Forest Service,</title>
+<date>2010</date>
+<location>Denver CO.</location>
+<contexts>
+<context position="12879" citStr="Service, 2010" startWordPosition="1008" endWordPosition="1009">08. Because the proposed rule does not prescribe site-specific activities, it is difficult to predict changes in benefits under the different alternatives. It should also be emphasized that the types of benefits derived from uses of roadless areas in Colorado are far ranging and include a number of non-market and non-use benefit categories. As a consequence, benefits are discussed qualitatively in many sections of this report. Details about the environmental effects of the proposed rule can be found in the revised draft environmental impact statement (RDEIS) for the proposed rule (USDA Forest Service, 2010), as well as ‘specialist’ reports developed to support the effects summarized in the RDEIS. The environmental effects for a number of resources are not significantly different across alternatives and are therefore not discussed in detail in this regulatory impact analysis; the reader is again referred to the RDEIS for details about these resource areas. The following changes have occurred since the release of the initial DEIS in 2008:  The No Action Alternative has changed from Alternative 1 (2001 rule) to Alternative 3 (Forest Plan Direction). In August 2008, after the DEIS was released, the</context>
+<context position="22394" citStr="Service 2010" startWordPosition="2445" endWordPosition="2446">ses. This information is aggregated into assumptions about reasonably foreseeable flows of goods (e.g., coal, oil and gas production), services (e.g., reduction of risks from wildfire in the wildland urban interface), and resource utilization and then used to project activity levels (treecutting, roading) for each alternative over a 15 year time period. Projected activity levels can also be used as indicators of potential changes in benefits derived from roadless characteristics. Details about the derivation of activity projections are described in the RDEIS for the proposed rule (USDA Forest Service 2010), as well as the resource specialist reports supporting the RDEIS, and are not reiterated in this regulatory impact analysis document. Distributional effects or economic impacts, in terms of jobs and labor income, are quantified for the oil and gas and the coal sectors for an economic area consisting of five Colorado counties (Delta, Garfield, Mesa, Montrose, and Rio Blanco) using a regional impact model. Fiscal impacts (i.e., mineral lease payments) are estimated for counties where changes in mineral activity are expected to be physically located (Delta, Garfield, Gunnison, Mesa, Montrose, an</context>
+<context position="105744" citStr="Service 2010" startWordPosition="15057" endWordPosition="15058">d also be emphasized that the types of benefits derived from uses of inventoried roadless areas in Colorado are far ranging and include a number of non-market and non-use benefit categories. As a consequence, benefits are discussed qualitatively in many sections of this report. This document summarizes information about the benefits, costs, and distributional effects of the proposed rule. For details about resource and/or program-specific environmental effects, the reader is referred to the revised draft environmental impact statement (revised DEIS or RDEIS) for the proposed rule (USDA Forest Service 2010), as well as resource specialist reports cited in the RDEIS. Changes between the Draft EIS (2008) and the Revised DEIS (2010) Since the release of the DEIS, court actions, changes to the State’s petition, and updated inventories have revised the alternatives and language of the proposed Colorado Roadless Rule. These changes are described below. The No Action Alternative has changed from Alternative 1 to Alternative 3 In the DEIS, the Forest Service considered “no action” or baseline conditions to mean that the 2001 Roadless Rule would remain in effect for IRAs in Colorado. In August 2008, afte</context>
+<context position="169013" citStr="Service, 2010" startWordPosition="24780" endWordPosition="24781">dergo environmental analysis and public review pursuant to NEPA before implementation could be authorized. Commensurate with the broad geographic scale of this rule—covering more than 4 million acres of land—and the lack of any site-specific proposed projects or activities; the potential effects are primarily described in qualitative and comparative terms. The analysis of potential effects relies on resource information readily available from geographic information system (GIS) map coverage, resource inventory databases, and resource specialist reports (see chapter 3 of the RDEIS (USDA Forest Service, 2010)). The two primary activities that differ between the alternatives are (1) roading, and (2) treecutting and removal. These two activities have the greatest likelihood of altering and fragmenting landscapes with a result of immediate, long-term loss of roadless area values and characteristics. Thus, to set the stage for subsequent sections, this section describes the relative differences in the amount of tree-cutting and roading projected to occur in roadless areas over the next 15 years. Projecting the potential for future tree-cutting and roading activities in roadless areas beyond a 15-year </context>
+<context position="172739" citStr="Service 2010" startWordPosition="25314" endWordPosition="25315"> flows of goods (e.g., coal, oil and gas production), services (e.g., reduction of risks from wildfire in the wildland urban interface), and resource utilization and then used to project activity levels (treecutting, roading) for each alternative over a 15 year time period. See “Data Sources” for details about estimates of projected activity levels. Projected activity levels can also be used to describe potential changes in benefits derived from roadless characteristics. Details about the derivation of activity projections are described in the revised DEIS for the proposed action (USDA Forest Service 2010), as well as the resource specialist reports supporting the RDEIS, and are not reiterated in this regulatory impact analysis document. Benefits and costs are organized and discussed in the context of ‘local resource challenges’ and ‘roadless characteristics’ in an effort to remain consistent with the overall purpose of the proposed rule, recognizing that benefits associated with local concerns may trigger indirect benefits in the roadless characteristics in some cases (e.g., forest health). Access and designations for motorized versus non-motorized recreation are topics raised in comments duri</context>
+<context position="174237" citStr="Service 2010" startWordPosition="25532" endWordPosition="25533"> service areas are assessed in detail in chapter 3 of the RDEIS, but the differences in impacts to or from many of these resources or services are found to be minimal or insignificant across alternatives and therefore not discussed in detail in this report. These areas include livestock grazing, saleable minerals, other leasable minerals), locatable minerals6, recreational special uses (including outfitters and guides), and non-timber products. Distributional Effects The details about economic impact analysis for this report are provided in the revised Economics Specialist Report (USDA Forest Service 2010b). Distributional effects are discussed in the context of (1) changes in jobs and income for sectors where measurable output differs significantly across alternatives, (2) changes in revenue sharing (payments to states and counties) associated with receipts from sectors where output differs significantly, and (3) changes in opportunities for protecting values at risk in communities and counties adjacent to roadless areas. Economic impact analysis is used to evaluate potential direct, indirect, and induced effects on the economy. Economic impacts are estimated using input-output analysis. Inpu</context>
+</contexts>
+<marker>Service, 2010</marker>
+<rawString>USDA Forest Service, 2010. Revised Draft Environmental Impact Statement (RDEIS): Proposed Colorado Roadless Rule. Region 2, USDA Forest Service, Denver CO.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+</authors>
+<title>Opportunities for Small Entities: Proposed Roadless Area Conservation Rule for Colorado. Region 2, USDA Forest Service,</title>
+<date>2010</date>
+<location>Denver CO.</location>
+<contexts>
+<context position="12879" citStr="Service, 2010" startWordPosition="1008" endWordPosition="1009">08. Because the proposed rule does not prescribe site-specific activities, it is difficult to predict changes in benefits under the different alternatives. It should also be emphasized that the types of benefits derived from uses of roadless areas in Colorado are far ranging and include a number of non-market and non-use benefit categories. As a consequence, benefits are discussed qualitatively in many sections of this report. Details about the environmental effects of the proposed rule can be found in the revised draft environmental impact statement (RDEIS) for the proposed rule (USDA Forest Service, 2010), as well as ‘specialist’ reports developed to support the effects summarized in the RDEIS. The environmental effects for a number of resources are not significantly different across alternatives and are therefore not discussed in detail in this regulatory impact analysis; the reader is again referred to the RDEIS for details about these resource areas. The following changes have occurred since the release of the initial DEIS in 2008:  The No Action Alternative has changed from Alternative 1 (2001 rule) to Alternative 3 (Forest Plan Direction). In August 2008, after the DEIS was released, the</context>
+<context position="22394" citStr="Service 2010" startWordPosition="2445" endWordPosition="2446">ses. This information is aggregated into assumptions about reasonably foreseeable flows of goods (e.g., coal, oil and gas production), services (e.g., reduction of risks from wildfire in the wildland urban interface), and resource utilization and then used to project activity levels (treecutting, roading) for each alternative over a 15 year time period. Projected activity levels can also be used as indicators of potential changes in benefits derived from roadless characteristics. Details about the derivation of activity projections are described in the RDEIS for the proposed rule (USDA Forest Service 2010), as well as the resource specialist reports supporting the RDEIS, and are not reiterated in this regulatory impact analysis document. Distributional effects or economic impacts, in terms of jobs and labor income, are quantified for the oil and gas and the coal sectors for an economic area consisting of five Colorado counties (Delta, Garfield, Mesa, Montrose, and Rio Blanco) using a regional impact model. Fiscal impacts (i.e., mineral lease payments) are estimated for counties where changes in mineral activity are expected to be physically located (Delta, Garfield, Gunnison, Mesa, Montrose, an</context>
+<context position="105744" citStr="Service 2010" startWordPosition="15057" endWordPosition="15058">d also be emphasized that the types of benefits derived from uses of inventoried roadless areas in Colorado are far ranging and include a number of non-market and non-use benefit categories. As a consequence, benefits are discussed qualitatively in many sections of this report. This document summarizes information about the benefits, costs, and distributional effects of the proposed rule. For details about resource and/or program-specific environmental effects, the reader is referred to the revised draft environmental impact statement (revised DEIS or RDEIS) for the proposed rule (USDA Forest Service 2010), as well as resource specialist reports cited in the RDEIS. Changes between the Draft EIS (2008) and the Revised DEIS (2010) Since the release of the DEIS, court actions, changes to the State’s petition, and updated inventories have revised the alternatives and language of the proposed Colorado Roadless Rule. These changes are described below. The No Action Alternative has changed from Alternative 1 to Alternative 3 In the DEIS, the Forest Service considered “no action” or baseline conditions to mean that the 2001 Roadless Rule would remain in effect for IRAs in Colorado. In August 2008, afte</context>
+<context position="169013" citStr="Service, 2010" startWordPosition="24780" endWordPosition="24781">dergo environmental analysis and public review pursuant to NEPA before implementation could be authorized. Commensurate with the broad geographic scale of this rule—covering more than 4 million acres of land—and the lack of any site-specific proposed projects or activities; the potential effects are primarily described in qualitative and comparative terms. The analysis of potential effects relies on resource information readily available from geographic information system (GIS) map coverage, resource inventory databases, and resource specialist reports (see chapter 3 of the RDEIS (USDA Forest Service, 2010)). The two primary activities that differ between the alternatives are (1) roading, and (2) treecutting and removal. These two activities have the greatest likelihood of altering and fragmenting landscapes with a result of immediate, long-term loss of roadless area values and characteristics. Thus, to set the stage for subsequent sections, this section describes the relative differences in the amount of tree-cutting and roading projected to occur in roadless areas over the next 15 years. Projecting the potential for future tree-cutting and roading activities in roadless areas beyond a 15-year </context>
+<context position="172739" citStr="Service 2010" startWordPosition="25314" endWordPosition="25315"> flows of goods (e.g., coal, oil and gas production), services (e.g., reduction of risks from wildfire in the wildland urban interface), and resource utilization and then used to project activity levels (treecutting, roading) for each alternative over a 15 year time period. See “Data Sources” for details about estimates of projected activity levels. Projected activity levels can also be used to describe potential changes in benefits derived from roadless characteristics. Details about the derivation of activity projections are described in the revised DEIS for the proposed action (USDA Forest Service 2010), as well as the resource specialist reports supporting the RDEIS, and are not reiterated in this regulatory impact analysis document. Benefits and costs are organized and discussed in the context of ‘local resource challenges’ and ‘roadless characteristics’ in an effort to remain consistent with the overall purpose of the proposed rule, recognizing that benefits associated with local concerns may trigger indirect benefits in the roadless characteristics in some cases (e.g., forest health). Access and designations for motorized versus non-motorized recreation are topics raised in comments duri</context>
+<context position="174237" citStr="Service 2010" startWordPosition="25532" endWordPosition="25533"> service areas are assessed in detail in chapter 3 of the RDEIS, but the differences in impacts to or from many of these resources or services are found to be minimal or insignificant across alternatives and therefore not discussed in detail in this report. These areas include livestock grazing, saleable minerals, other leasable minerals), locatable minerals6, recreational special uses (including outfitters and guides), and non-timber products. Distributional Effects The details about economic impact analysis for this report are provided in the revised Economics Specialist Report (USDA Forest Service 2010b). Distributional effects are discussed in the context of (1) changes in jobs and income for sectors where measurable output differs significantly across alternatives, (2) changes in revenue sharing (payments to states and counties) associated with receipts from sectors where output differs significantly, and (3) changes in opportunities for protecting values at risk in communities and counties adjacent to roadless areas. Economic impact analysis is used to evaluate potential direct, indirect, and induced effects on the economy. Economic impacts are estimated using input-output analysis. Inpu</context>
+</contexts>
+<marker>Service, 2010</marker>
+<rawString>USDA Forest Service, 2010a. Opportunities for Small Entities: Proposed Roadless Area Conservation Rule for Colorado. Region 2, USDA Forest Service, Denver CO.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+</authors>
+<title>Social and Economics Specialist Report: Proposed Roadless Area Conservation Rule for Colorado. Region 2, USDA Forest Service, Denver CO.USDA Forest Service,</title>
+<date>2010</date>
+<location>Denver CO.</location>
+<contexts>
+<context position="12879" citStr="Service, 2010" startWordPosition="1008" endWordPosition="1009">08. Because the proposed rule does not prescribe site-specific activities, it is difficult to predict changes in benefits under the different alternatives. It should also be emphasized that the types of benefits derived from uses of roadless areas in Colorado are far ranging and include a number of non-market and non-use benefit categories. As a consequence, benefits are discussed qualitatively in many sections of this report. Details about the environmental effects of the proposed rule can be found in the revised draft environmental impact statement (RDEIS) for the proposed rule (USDA Forest Service, 2010), as well as ‘specialist’ reports developed to support the effects summarized in the RDEIS. The environmental effects for a number of resources are not significantly different across alternatives and are therefore not discussed in detail in this regulatory impact analysis; the reader is again referred to the RDEIS for details about these resource areas. The following changes have occurred since the release of the initial DEIS in 2008:  The No Action Alternative has changed from Alternative 1 (2001 rule) to Alternative 3 (Forest Plan Direction). In August 2008, after the DEIS was released, the</context>
+<context position="22394" citStr="Service 2010" startWordPosition="2445" endWordPosition="2446">ses. This information is aggregated into assumptions about reasonably foreseeable flows of goods (e.g., coal, oil and gas production), services (e.g., reduction of risks from wildfire in the wildland urban interface), and resource utilization and then used to project activity levels (treecutting, roading) for each alternative over a 15 year time period. Projected activity levels can also be used as indicators of potential changes in benefits derived from roadless characteristics. Details about the derivation of activity projections are described in the RDEIS for the proposed rule (USDA Forest Service 2010), as well as the resource specialist reports supporting the RDEIS, and are not reiterated in this regulatory impact analysis document. Distributional effects or economic impacts, in terms of jobs and labor income, are quantified for the oil and gas and the coal sectors for an economic area consisting of five Colorado counties (Delta, Garfield, Mesa, Montrose, and Rio Blanco) using a regional impact model. Fiscal impacts (i.e., mineral lease payments) are estimated for counties where changes in mineral activity are expected to be physically located (Delta, Garfield, Gunnison, Mesa, Montrose, an</context>
+<context position="105744" citStr="Service 2010" startWordPosition="15057" endWordPosition="15058">d also be emphasized that the types of benefits derived from uses of inventoried roadless areas in Colorado are far ranging and include a number of non-market and non-use benefit categories. As a consequence, benefits are discussed qualitatively in many sections of this report. This document summarizes information about the benefits, costs, and distributional effects of the proposed rule. For details about resource and/or program-specific environmental effects, the reader is referred to the revised draft environmental impact statement (revised DEIS or RDEIS) for the proposed rule (USDA Forest Service 2010), as well as resource specialist reports cited in the RDEIS. Changes between the Draft EIS (2008) and the Revised DEIS (2010) Since the release of the DEIS, court actions, changes to the State’s petition, and updated inventories have revised the alternatives and language of the proposed Colorado Roadless Rule. These changes are described below. The No Action Alternative has changed from Alternative 1 to Alternative 3 In the DEIS, the Forest Service considered “no action” or baseline conditions to mean that the 2001 Roadless Rule would remain in effect for IRAs in Colorado. In August 2008, afte</context>
+<context position="169013" citStr="Service, 2010" startWordPosition="24780" endWordPosition="24781">dergo environmental analysis and public review pursuant to NEPA before implementation could be authorized. Commensurate with the broad geographic scale of this rule—covering more than 4 million acres of land—and the lack of any site-specific proposed projects or activities; the potential effects are primarily described in qualitative and comparative terms. The analysis of potential effects relies on resource information readily available from geographic information system (GIS) map coverage, resource inventory databases, and resource specialist reports (see chapter 3 of the RDEIS (USDA Forest Service, 2010)). The two primary activities that differ between the alternatives are (1) roading, and (2) treecutting and removal. These two activities have the greatest likelihood of altering and fragmenting landscapes with a result of immediate, long-term loss of roadless area values and characteristics. Thus, to set the stage for subsequent sections, this section describes the relative differences in the amount of tree-cutting and roading projected to occur in roadless areas over the next 15 years. Projecting the potential for future tree-cutting and roading activities in roadless areas beyond a 15-year </context>
+<context position="172739" citStr="Service 2010" startWordPosition="25314" endWordPosition="25315"> flows of goods (e.g., coal, oil and gas production), services (e.g., reduction of risks from wildfire in the wildland urban interface), and resource utilization and then used to project activity levels (treecutting, roading) for each alternative over a 15 year time period. See “Data Sources” for details about estimates of projected activity levels. Projected activity levels can also be used to describe potential changes in benefits derived from roadless characteristics. Details about the derivation of activity projections are described in the revised DEIS for the proposed action (USDA Forest Service 2010), as well as the resource specialist reports supporting the RDEIS, and are not reiterated in this regulatory impact analysis document. Benefits and costs are organized and discussed in the context of ‘local resource challenges’ and ‘roadless characteristics’ in an effort to remain consistent with the overall purpose of the proposed rule, recognizing that benefits associated with local concerns may trigger indirect benefits in the roadless characteristics in some cases (e.g., forest health). Access and designations for motorized versus non-motorized recreation are topics raised in comments duri</context>
+<context position="174237" citStr="Service 2010" startWordPosition="25532" endWordPosition="25533"> service areas are assessed in detail in chapter 3 of the RDEIS, but the differences in impacts to or from many of these resources or services are found to be minimal or insignificant across alternatives and therefore not discussed in detail in this report. These areas include livestock grazing, saleable minerals, other leasable minerals), locatable minerals6, recreational special uses (including outfitters and guides), and non-timber products. Distributional Effects The details about economic impact analysis for this report are provided in the revised Economics Specialist Report (USDA Forest Service 2010b). Distributional effects are discussed in the context of (1) changes in jobs and income for sectors where measurable output differs significantly across alternatives, (2) changes in revenue sharing (payments to states and counties) associated with receipts from sectors where output differs significantly, and (3) changes in opportunities for protecting values at risk in communities and counties adjacent to roadless areas. Economic impact analysis is used to evaluate potential direct, indirect, and induced effects on the economy. Economic impacts are estimated using input-output analysis. Inpu</context>
+</contexts>
+<marker>Service, 2010</marker>
+<rawString>USDA Forest Service, 2010b. Social and Economics Specialist Report: Proposed Roadless Area Conservation Rule for Colorado. Region 2, USDA Forest Service, Denver CO.USDA Forest Service, 2008. Draft Environmental Impact Statement (DEIS): Proposed Roadless Area Conservation Rule for Colorado. Region 2, USDA Forest Service, Denver CO.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+</authors>
+<title>Roadless Area Conservation: National Forest System Lands in Colorado: Proposed Rule Regulatory Impact Analysis and Cost Benefit Analysis. Region 2, USDA Forest Service,</title>
+<date>2008</date>
+<location>Denver CO.</location>
+<marker>Service, 2008</marker>
+<rawString>USDA Forest Service, 2008a. Roadless Area Conservation: National Forest System Lands in Colorado: Proposed Rule Regulatory Impact Analysis and Cost Benefit Analysis. Region 2, USDA Forest Service, Denver CO.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+</authors>
+<title>Profile 2005: Softwood Sawmills in the United States and Canada. Research Paper: FPL-RP-630. USDA Forest Service, Forest Products Laboratory,</title>
+<date>2005</date>
+<location>Madison WI.</location>
+<marker>Service, 2005</marker>
+<rawString>USDA Forest Service, 2005. Profile 2005: Softwood Sawmills in the United States and Canada. Research Paper: FPL-RP-630. USDA Forest Service, Forest Products Laboratory, Madison WI.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+</authors>
+<title>Cumulative Set Aside Program Analysis Spreadsheets, by Forest Unit. USDA Forest Service Region 2, Denver CO USDA Forest Service.</title>
+<date>2005</date>
+<journal>FEAST (Forest Economic Analysis Spreadsheet Tool) Software</journal>
+<marker>Service, 2005</marker>
+<rawString>USDA Forest Service, 2005a. Cumulative Set Aside Program Analysis Spreadsheets, by Forest Unit. USDA Forest Service Region 2, Denver CO USDA Forest Service. 2004a. FEAST (Forest Economic Analysis Spreadsheet Tool) Software 2004 Model Outputs and Response Coefficients.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>USDA Forest Service</author>
+<author>US</author>
+</authors>
+<title>Department of the Interior.</title>
+<date>2001</date>
+<booktitle>Managing the Impacts of Wildland fires on Communities and the Environment – The National Fire Plan. (http://www.forestsandrangelands.gov/index.shtml)</booktitle>
+<marker>Service, US, 2001</marker>
+<rawString>USDA Forest Service and US Department of the Interior. 2001. Managing the Impacts of Wildland fires on Communities and the Environment – The National Fire Plan. (http://www.forestsandrangelands.gov/index.shtml)</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

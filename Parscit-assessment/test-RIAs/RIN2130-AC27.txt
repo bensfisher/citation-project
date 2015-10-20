@@ -1,0 +1,1436 @@
+ 
+ 
+U.S. DEPARTMENT OF TRANSPORTATION 
+ 
+FEDERAL RAILROAD ADMINISTRATION 
+ 
+TITLE 49 CODE OF FEDERAL REGULATIONS PART 236 
+ 
+[Docket No. FRA-2011-0028, Notice No. 1] 
+ 
+RIN 2130-AC27 
+ 
+ 
+ 
+ 
+ 
+POSITIVE TRAIN CONTROL SYSTEMS 
+ 
+ 
+ 
+ 
+ 
+Regulatory Impact Analysis  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Federal Railroad Administration 
+Office of Safety Analysis 
+August 3, 2011 
+ 
+ 
+ 
+Contents 
+Executive Summary ........................................................................................................................ 1 
+1.0 Introduction .......................................................................................................................... 5 
+2.0 Background .......................................................................................................................... 5 
+2.1 Regulatory history ............................................................................................................ 5 
+2.2 Litigation, Executive Order 13563, and Congressional Hearings .................................... 7 
+3.0 Section-by-Section Analysis ................................................................................................ 9 
+3.1 Proposed amendments to Title 49 Code of Federal Regulations Part 236 ....................... 9 
+3.2 Analysis of benefits and costs ........................................................................................ 11 
+3.3 Benefits of the proposed rule (relevant costs of the final PTC rule) .............................. 11 
+3.4 Locomotive cost savings (benefit of the proposed rule) ................................................ 14 
+3.5 Maintenance cost savings (benefit of the proposed rule) ............................................... 15 
+3.6 Timing of savings ........................................................................................................... 15 
+3.7 At-grade railroad crossings ............................................................................................ 16 
+3.8 Total initial cost saving benefits .................................................................................... 16 
+4.0 Costs – Diminished Benefit of Accident Reduction .......................................................... 25 
+5.0 Relationship Between Benefits and Costs ......................................................................... 31 
+ 
+1 
+ 
+Executive Summary 
+ 
+In an accompanying Notice of Proposed Rulemaking (NPRM), the Federal Railroad 
+Administration (FRA) proposes amendments to regulations implementing a requirement of the 
+Rail Safety Improvement Act of 2008 (RSIA) that  railroads must install Positive Train Control 
+(PTC) systems along certain lines that carry passengers and poison- or toxic-by-inhalation (PIH) 
+materials.  FRA is proposing the removal of various regulatory requirements that require 
+railroads to meet two tests in order to avoid PTC system implementation on track segments that 
+were used to transport PIH traffic in 2008 and carried five million gross tons of traffic but that do 
+not transport PIH materials traffic and are not used for intercity or commuter rail passenger 
+transportation as of December 31, 2015. Substantial cost savings would accrue largely from not 
+installing PTC system wayside components or taking mitigation measures along approximately 
+10,000 miles of track.  Although these rail lines would forego some risk reduction measures, the 
+reductions would be likely be small since these lines pose a much lower risk of accidents because 
+they generally do not carry passenger trains or PIH materials and generally have lower exposure, 
+because of lower traffic volumes than an average of all segments subject to the PTC requirement.  
+The following analysis shows that if the assumptions are correct, the savings of the proposed 
+action far outweigh the cost. 
+ 
+The largest part of the cost savings benefit comes from reducing the extent of wayside that must 
+be equipped with PTC.  Some of these lines would have qualified for exemption by passing the 
+two tests contained in the 2010 PTC final rule, while others may not have.  In addition benefits 
+will come from reducing the number of locomotives belonging to Class II and Class III (small) 
+railroads that must be equipped with PTC because they run on Class I railroads’ track that will 
+no longer need to be equipped with PTC. Although these benefits would be small relative to the 
+wayside equipment savings, they would be large relative to the size of the railroads being 
+impacted.  Finally, Class III railroads would avoid operational costs associated with having to 
+reduce operating speeds to cross over two railroad-to-railroad crossings at an annual cost of 
+$43,800.  These benefits to small railroads are a subset of the total benefits of reduced wayside 
+costs described above.  For purposes of assessing the sensitivity of the findings, FRA also 
+analyzed the impacts of scenarios in which the mileage no longer requiring PTC is 7,000 miles 
+(low case) and 14,000 miles (high case).  The tables below present the total estimated cost 
+avoided benefits of the proposed rule as well as the breakdown by element.   
+ 
+  
+2 
+ 
+Table E-1.  Summary of Costs Avoided (Rule Benefits) Over 20 Years 
+Total of all Benefits 
+    
+ 
+Total Discounted Benefits Annualized Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $619,969,287 $818,031,752 $58,520,715 $54,984,583 
+High Case $831,239,473 $1,096,796,723 $78,463,126 $73,721,968 
+Low Case $461,516,648 $608,958,024 $43,563,907 $40,931,544 
+ 
+These totals are broken down as follows: 
+ 
+  Reduced Mitigation Costs, Including Maintenance 
+  
+ 
+Total Discounted Benefits Annualized Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $91,793,822 $121,119,324 $8,664,687 $8,141,121 
+High Case $121,704,169 $160,585,172 $11,488,013 $10,793,846 
+Low Case $72,197,388 $95,262,390 $6,814,923 $6,403,129 
+     Reduced Wayside Costs, Including Maintenance 
+  
+ 
+Total Discounted Benefits Annualized Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $515,695,631 $680,445,643 $48,678,019 $45,736,635 
+High Case $721,973,883 $952,623,900 $68,149,227 $64,031,290 
+Low Case $360,986,942 $476,311,950 $34,074,614 $32,015,645 
+     Reduced Locomotive Costs, Including Maintenance 
+  Discount Factor 7% 3% 7% 3% 
+Expected Case $12,479,834 $16,466,785 $1,178,008 $1,106,827 
+High Case $17,471,768 $23,053,498 $1,649,211 $1,549,557 
+Low Case $8,735,884 $11,526,749 $824,606 $774,779 
+ 
+Total costs may also be broken down into initial investment and maintenance.  FRA 
+estimates avoiding installation on 10,000 miles would let railroads avoid $300.5 million 
+in initial installation costs (not discounted).  Maintenance cost savings would be as 
+follows: 
+ 
+Reduced Total Maintenance Costs 
+   Discount Factor 7% 3% 7% 3% 
+Expected Case $366,044,119 $538,860,239 $34,551,975 $36,219,872 
+High Case $490,782,893 $722,490,469 $46,326,433 $48,562,708 
+Low Case $272,490,038 $401,137,566 $25,721,132 $26,962,745 
+ 
+  
+3 
+ 
+Regulatory costs will come from reducing the potential for accident reduction.  A substantial part 
+of the accident cost reduction that FRA expects from PTC systems currently required comes 
+from reducing high-consequence accidents involving passenger trains or the release of PIH 
+materials.  FRA believes that the lines impacted by this proposal pose significantly less risk 
+because they generally do not carry passenger trains or PIH materials and generally have lower 
+accident exposure because they have relatively lower traffic volumes than an average of all 
+segments subject to the PTC requirement.  The following tables present the total costs of the 
+proposed rule as well as the breakdown of the costs by element. 
+ 
+Table E-2.  Summary of Costs of the Proposed Rule (Reduced Risk Reduction) 
+Costs of the proposed rule by category (20-year, 7% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $11,453,106 $16,034,349 $8,017,174 
+Injury Prevention $4,254,484 $5,956,278 $2,978,139 
+Train Delay $117,793 $164,911 $82,455 
+Property Damage $10,163,835 $14,229,369 $7,114,685 
+Equipment Cleanup $143,273 $200,583 $100,291 
+Environmental Cleanup $430,995 $603,393 $301,696 
+Evacuations $138,780 $194,292 $97,146 
+Total $26,702,267 $37,383,174 $18,691,587 
+    Costs of the proposed rule by category (20-year, 3% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $16,860,327 $23,604,458 $11,802,229 
+Injury Prevention $6,263,104 $8,768,346 $4,384,173 
+Train Delay $173,406 $242,768 $121,384 
+Property Damage $14,962,367 $20,947,314 $10,473,657 
+Equipment Cleanup $210,915 $295,282 $147,641 
+Environmental Cleanup $634,475 $888,265 $444,133 
+Evacuations $204,301 $286,021 $143,011 
+Total $39,308,896 $55,032,454 $27,516,227 
+    Annualized Costs of the proposed rule by category (20-year, 7% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $1,081,092 $1,513,529 $756,765 
+Injury Prevention $401,593 $562,231 $281,115 
+Train Delay $11,119 $15,566 $7,783 
+Property Damage $959,394 $1,343,152 $671,576 
+Equipment Cleanup $13,524 $18,934 $9,467 
+Environmental Cleanup $40,683 $56,956 $28,478 
+Evacuations $13,100 $18,340 $9,170 
+Total $2,520,505 $3,528,707 $1,764,354 
+  
+4 
+ 
+Table E-2.  (continued) 
+   Annualized Costs of the proposed rule by category (20-year, 3% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Reduction $1,133,279 $1,586,590 $793,295 
+Injury Reduction $420,979 $589,371 $294,685 
+Train Delay $11,656 $16,318 $8,159 
+Property Damage $1,005,706 $1,407,989 $703,994 
+Equipment Cleanup $14,177 $19,848 $9,924 
+Environmental Cleanup $42,647 $59,705 $29,853 
+Evacuations $13,732 $19,225 $9,613 
+Total $2,642,175 $3,699,045 $1,849,523 
+ 
+In addition, some distributional impacts may result from elimination of the two tests, which may 
+result in certain lines required to be equipped with PTC solely because they carry passenger 
+traffic.  
+ 
+The net annualized benefits (annualized benefits minus annualized costs) under the expected case 
+are $56 million, discounted at 7 percent per year, and $52 million, discounted at 3 percent per 
+year, with 20-year discounted net benefits of $590 million over 20 years, discounted at 7 percent 
+per year; and $780 million over 20 years, discounted at 3 percent per year.  The timing of 
+benefits and costs are such that a large benefit in terms of capital investment is avoided in early 
+years, while the benefit of avoided maintenance and the disbenefit (costs) of  accidents not 
+avoided would be realized annually in later years.  All other scenarios analyzed for sensitivity 
+purposes assuming different levels of lines benefiting from regulatory relief also show net 
+benefits. 
+ 
+Table E-3.  Net Societal Benefits of the Proposed Rule (20 years) 
+ 
+Total Discounted Net Benefits Annualized Net Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $593,267,020 $778,722,856 $56,000,210 $52,342,408 
+High Case $793,856,299 $1,041,764,269 $74,934,419 $70,022,922 
+Low Case $442,825,061 $581,441,797 $41,799,553 $39,082,022 
+ 
+Further, the benefit/cost ratios under various scenarios range between 20:1 and 25:1. 
+ 
+Table E-4.  Benefit/Cost Ratio of the Proposed Rule (20 years) 
+Discount Factor 7% 3% 
+Expected Case 23.22 20.81 
+High Case 22.24 19.93 
+Low Case 24.69 22.13 
+5 
+ 
+1.0 Introduction 
+ 
+In an accompanying NPRM, FRA proposes amendments to regulations implementing a 
+requirement of the RSIA that certain passenger and freight railroads install PTC systems.  The 
+proposal includes removing certain regulatory requirements that may require railroads to install 
+PTC systems on track segments that carried PIH traffic in 2008 but will no longer carry PIH 
+traffic on December 31, 2015.   
+ 
+2.0 Background 
+ 
+2.1 Regulatory history 
+ 
+As a consequence of the severity of certain very public accidents, coupled with a series of other 
+less publicized accidents, Congress passed the RSIA, mandating implementation of PTC systems 
+by December 31, 2015.  Under the RSIA, such PTC implementation must be done by each Class 
+I railroad carrier and each entity providing regularly scheduled intercity or commuter rail 
+passenger transportation on: 
+ 
+49 U.S.C. § 20157(a)(1) 
+(A) its main line over which intercity rail passenger transportation or commuter rail 
+passenger transportation, as defined in section 24102, is regularly provided;  
+(B) its main line over which poison- or toxic-by-inhalation hazardous materials, as 
+defined in parts 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations, are 
+transported; and  
+(C) such other tracks as the Secretary may prescribe by regulation or order. 
+ 
+The statute further defined “main line” to mean: 
+ 
+49 U.S.C. § 20157(i)(2)  
+…a segment or route of railroad tracks over which 5,000,000 or more gross tons of 
+railroad traffic is transported annually, except that— 
+(A) the Secretary may, through regulations under subsection (g), designate additional 
+tracks as main line as appropriate for this section; and 
+(B) for intercity rail passenger transportation or commuter rail passenger transportation 
+routes or segments over which limited or no freight railroad operations occur, the 
+Secretary shall define the term “main line” by regulation. 
+ 
+To effectuate this goal, the RSIA required the railroads to submit for FRA approval a PTC 
+Implementation Plan (PTCIP) within 18 months (i.e., by April 16, 2010).   
+ 
+Consistent with this statutory mandate, FRA published a final rule with request for further 
+comments on January 15, 2010, which established new regulations codified primarily in Subpart 
+I to Title 49 Code of Federal Regulations (CFR) Part 236 (the “PTC rule”).  Subsequently, FRA 
+received a number of petitions for reconsideration to the final rule and a number of comments 
+responding to the request for further comments.  In a letter dated July 8, 2010, FRA denied all of 
+the petitions for reconsideration.  On September 27, 2010, FRA issued a new final rule with 
+6 
+ 
+clarifying amendments to the PTC rule. 
+ 
+Under the current regulations, each PTCIP must include the sequence and schedule in which 
+track segments required to be equipped with PTC will be equipped with PTC and the basis for 
+those decisions.  See 49 CFR Section 236.1011.  This list of track segments must include all 
+track segments that fit the statutory criteria for calendar year 2008.  See §§ 236.1005(b)(1) and 
+(b)(2). 
+ 
+While the statutory PTC implementation deadline is December 31, 2015, FRA recognized a need 
+for a starting point in time to determine when such implementation must occur.  The final rule 
+indicates that such a starting baseline should be based on the facts and data known in 2008 (the 
+“2008 baseline”).  Using 2009 data would have been difficult given the proximity to the PTCIP 
+submission deadline and the notably atypical traffic levels caused by the down turn in the 
+economy.  Although each railroad’s initial PTCIP includes a future PTC implementation route 
+map reflecting 2008 data, FRA recognized that PIH traffic levels and routings could change in 
+the period between the end of 2008 and the start of 2016.  Accordingly, in the event of changed 
+circumstances, the PTC rule provides railroads with the option to file a request for amendment 
+(RFA) of its PTCIP to not equip a track segment that the railroad was initially, but may no longer 
+be, required to implement a PTC system.  If a particular track segment included in a PTCIP no 
+longer carries PIH traffic, and its PTC system implementation is scheduled, but not yet 
+effectuated, then the host railroad might avoid actual PTC system implementation by filing a 
+supported RFA for FRA approval.  Each such RFA must be supported with the data defined 
+under §§ 236.1005(b)(2) and (b)(4)(i), and satisfy the two qualifying tests that were promulgated 
+under FRA’s statutory authority to require PTC to be installed on lines in addition to those 
+required to be equipped by RSIA.    If a track segment fails either of these tests, FRA would deny 
+the request, thus requiring PTC system implementation on the line segment.  
+The first test, proverbially known as the “alternative route analysis,” was initially codified at § 
+236.1005(b)(4)(i)(A), and subsequently moved to a new section, § 236.1020.  Under this test, the 
+railroad must establish that current or prospective rerouting to one or more alternative track 
+segments is justified.  If a railroad reroutes all PIH materials off of a track segment requiring 
+PTC system implementation under the 2008 baseline, and onto a new line, PTC system 
+implementation on the initial line may not be required if the new line would have substantially 
+the same overall safety and security risk as the initial line, assuming PTC implementation on 
+both lines.  If the initial track segment is determined to pose less overall safety and security risks 
+under this analysis, then a PTC system must still be installed.  PTC system implementation may 
+also be required on the new line if it meets the 5 million gross ton of annual traffic threshold and 
+does not qualify under the de minimis PIH risk exception of the rule.  
+ 
+The second test that the railroad must satisfy in order to avoid having to install PTC on a track 
+segment requiring implementation under the 2008 baseline is the so-called “residual risk test.”  
+Under this test, the railroad must show that the remaining risk on the 2008 line—pertaining to 
+events that can be prevented or mitigated in severity by a PTC system—is less than the national 
+average equivalent risk per route mile on track segments required to be equipped with PTC 
+systems due to statutory reasons other than passenger traffic presence.   When FRA issued its 
+PTC rule amendments on September 27, 2010, FRA indicated that it was delaying the effective 
+date of  
+7 
+ 
+§ 236.1005(b)(4)(i)(A)(2)(iii), as revised under § 236.1020, pending the completion of a separate 
+rulemaking to determine how residual risk is to be determined. 
+ 
+2.2 Litigation, Executive Order 13563, and Congressional Hearings 
+ 
+After FRA issued its first PTC rule on January 15, 2010, and denied petitions for reconsideration 
+on July 8, 2010, the Association of American Railroads (AAR) filed a petition for review of the 
+rule with the U.S. Court of Appeals for the District of Columbia Circuit.  Once FRA issued its 
+PTC final rule amendments, AAR filed a petition for review of those amendments on October 5, 
+2010.  The court consolidated those two petitions on October 22, 2010. 
+ 
+In its brief, AAR challenged FRA’s determination to use 2008 as the baseline year, arguing that 
+it rests on a fundamental legal error and was arbitrary and capricious.  The brief also contests  
+§ 236.1029(f), which requires that each locomotive crewmember be able to use the PTC display 
+to receive the same PTC information displayed in the same manner and execute any functions 
+necessary to that crew member’s duties.  AAR claimed that § 236.1029(f) is not supported by 
+substantial evidence and that FRA acted in an arbitrary and capricious manner in adopting it. 
+ 
+After the parties fully briefed the issues, President Obama issued Executive Order 13563 on 
+January 18, 2011 (76 Fed. Reg. 3821 (Jan. 21, 2011)), which outlined a plan to improve 
+regulations and regulatory review.  According to the Order, it is intended to reaffirm and build 
+upon governing principles of contemporary regulatory review, including Executive Order 13563, 
+by requiring Federal agencies when issuing safety regulations to design the regulations so that 
+they are cost-effective, evidence-based, and compatible with economic growth, job creation, and 
+competitiveness.  The President’s plan recognizes that these principles apply to both new and 
+existing regulations.  To that end, Executive Order 13563 requires agencies to review existing 
+significant regulations to determine if they are outmoded, ineffective, insufficient, or excessively 
+burdensome.  FRA recognizes that the costs associated with PTC rule compliance outweigh the 
+safety benefits by about 20:1 and, therefore, it is appropriate to reexamine whether FRA should 
+require the installation of PTC on lines that will not be carrying PIH traffic or regularly 
+scheduled passenger service as of December 31, 2015. 
+ 
+FRA and AAR entered into a settlement agreement on March 2, 2011 (Settlement Agreement).  
+The terms and conditions of the settlement agreement included the joint filing of a motion to 
+hold the Petition for Review in abeyance pending the completion of the instant rulemaking.  That 
+motion was filed on March 2, 2011, and was granted by the court on March 3, 2011. 
+ 
+The Settlement Agreement further provides that FRA will issue two NPRMs.  The first NPRM 
+will address one of the two issues involved in the lawsuit, namely whether the PTC rule should 
+be amended by eliminating the two aforementioned tests that would potentially require PTC to 
+be installed on track segments not specifically required to be equipped by Congress.  The 
+accompanying NPRM meets this requirement.  The Settlement Agreement provides that upon the 
+completion of the instant rulemaking proceeding, the parties will determine whether to file a 
+joint motion to dismiss the lawsuit in its entirety.  The Settlement Agreement also states that 
+FRA is to issue a second NPRM that will address the issues of how to handle en route failures of 
+PTC-equipped trains, circumstances under which a signal system may be removed after PTC 
+8 
+ 
+installation, and whether yard movements and certain other train movements should qualify for a 
+de minimis exception to the PTC rule. This second NPRM will also address any other issues that 
+might be raised by interested parties in a properly filed petition for rulemaking under 49 CFR 
+part 211.  These issues are not part of this NPRM and FRA is not seeking comment focused 
+exclusively on these issues at this time, but seeks comments on those issues as they affect either 
+this analysis, or the accompanying NPRM.   The settlement agreement notes that FRA will 
+consider all comments submitted during the rulemaking comment periods on both NPRMs in 
+determining whether to issue amendments to the PTC rule and, if so, the contents of those 
+amendments, and FRA will seek comments addressing issues raised by subsequent NPRMs at 
+the time they are published. 
+ 
+On March 17, 2011, FRA and AAR testified before the Subcommittee on Railroads, Pipelines, 
+and Hazardous Materials, Committee on Transportation and Infrastructure, U.S. House of 
+Representatives.  In addition to reporting on the Settlement Agreement, FRA’s testimony 
+discussed PTC system implementation planning and progress made thus far and highlighted the 
+various ways that FRA has assisted the industry in meeting the statutory and regulatory goals.  In 
+particular, FRA has supported PTC implementation by developing and approving certain 
+implementation exceptions, providing technical assistance, and granting financial assistance.   
+During its testimony, made jointly with Norfolk Southern Railway (NS), AAR asserted that, “If 
+unchanged, the 2008 base-year provision means railroads would have to spend more than $500 
+million in the next few years to deploy PTC on more than 10,000 miles of rail lines on which 
+neither passenger nor TIH materials will be moving in 2015.”1  FRA understands AAR to 
+assume that these 10,000 miles would not require PTC implementation because they would not 
+be able to pass the alternative route analysis and residual risk analysis tests.  If this is not correct, 
+FRA seeks AAR’s clarification.   
+ 
+However, upon its own analysis, FRA assumes that 50 percent of the 10,000 miles would be able 
+to pass both tests with the implementation of mitigation measures.  FRA seeks comment on this 
+assumption.   Under the regulatory impact analysis (RIA) that accompanied the PTC final rule, 
+FRA estimated that the railroads would need to implement PTC systems on approximately 
+70,000 miles of track.  However, PTC system implementation could be avoided on 3,204 miles 
+of those 70,000 miles of track because PIH materials traffic will have ceased by 2015 and the 
+subject track segments would pass the residual risk analysis and alternative route analysis tests.  
+During the earlier rulemakings, no entity, including AAR and NS, challenged or otherwise 
+commented on these conclusions. 
+ 
+FRA also estimated, in analyzing the final rule, that PTC system implementation could be 
+avoided on 304 miles of track because PIH tonnage will fall below 5 million gross tons per year, 
+                                                 
+1 Hearing Before the Subcommittee on Railroads, Pipelines, and Hazardous Materials of the 
+Transportation and Infrastructure Committee, U.S. House of Representatives, 112th Cong. 
+(2011) (Joint statement of Edward R. Hamberger, President and Chief Executive Officer of the 
+AAT, and Mark D. Manion, Executive Vice President and Chief Operating Officer of the 
+Norfolk Southern Railway, on behalf of the AAR’s member railroads) [hereinafter AAR 
+Congressional Testimony]. 
+ 
+9 
+ 
+or passenger service would end so that neither of the two tests above would apply.  Between the 
+two categories, FRA estimated that railroads could exclude more than 3,500 miles.  Assuming 
+that the 3,500 miles represents about 50% of those tracks where PIH materials traffic will have 
+ceased, FRA was implicitly estimating that there would be about 7,000 miles of track where PIH 
+materials traffic will have ceased.  FRA seeks comment on its earlier and newly presented 
+assumptions regarding where PIH materials traffic will have ceased.  The AAR and its members 
+appear to have been more effective in reducing PIH materials traffic than FRA had initially 
+estimated based on AAR’s Congressional Testimony and subsequent submissions to FRA.  In its 
+analysis of this NPRM, FRA estimates that PIH traffic will cease on 10,000 miles of track on 
+which PTC systems would have been required had the traffic not ceased.  FRA considers cases 
+where 7,000 miles, 10,000 miles and, 14,000 miles of track might be excluded from PTC 
+requirements because of changes in PIH traffic.  As FRA was completing its analysis of this 
+proposal, AAR submitted data that indicates its member railroads believe that they can cease PIH 
+traffic on 11,128, of which 9,566 miles have no passenger traffic.  Some of the passenger traffic 
+miles may later qualify for exclusion from the system on which PTC is required.  FRA seeks 
+comments and information on the accuracy and likelihood of estimated changes in PIH traffic. 
+ 
+3.0 Section-by-Section Analysis 
+ 
+Unless otherwise noted, all section references below refer to sections in Title 49 of the Code of 
+Federal Regulations.  FRA seeks comments on all aspects of this analysis, including any costs 
+and benefits that may not have been considered in this analysis, and particularly seeks comments 
+on the time frame for installation, maintenance, and realization of costs and benefits. 
+ 
+3.1 Proposed amendments to Title 49 Code of Federal Regulations Part 236 
+ 
+Section 236.1003  Definitions 
+ 
+FRA currently defines PIH materials within the rule text at § 236.1005(b)(1)(i), which some may 
+find difficult to locate.  Accordingly, for the purposes of clarity, FRA proposes to add the 
+definition for PIH materials to the definitions section of Subpart I.  The inclusion of this 
+definition in § 236.1003 would not change the meaning of the term as understood under  
+§ 236.1005(b)(1)(i) or its cross-referenced §§ 171.8, 173.115, and 173.132.  This amendment 
+would create no new benefits or costs. 
+ 
+Section 236.1005  Requirements for Positive Train Control systems 
+ 
+In the accompanying rulemaking, FRA makes proposals regarding the alternative route analysis 
+and the residual risk analysis tests.  When initially published on January 15, 2010, these 
+provisions were included in § 236.1005(b).  On September 27, 2010, FRA issued amendments, 
+moving the text to a new section, § 236.1020, and providing more clarifying language.  
+However, to ensure continuity and understanding, § 236.1005 contained various cross-references 
+to § 236.1020.  As indicated below, FRA is proposing to eliminate § 236.1020.  Accordingly, 
+FRA also proposes rule text changes to § 236.1005 by removing those cross-references.  This 
+amendment to § 236.1005 would create no new benefits or costs. 
+ 
+10 
+ 
+Section 236.1020  Exclusion of track segments for implementation due to cessation of PIH 
+materials service or rerouting 
+ 
+As previously noted, the PTC rule requires that, for each RFA seeking to exclude a track 
+segment from PTC system implementation due to the cessation of PIH materials traffic, a 
+railroad must satisfy both an alternative route analysis, and eventually a residual risk analysis test 
+in order to secure FRA’s approval. 
+ 
+FRA’s cost benefit analysis of the PTC rule indicates that the railroads will incur approximately 
+$21.60 in PTC costs for each $1 in PTC safety benefits over a 20-year period at a discount rate of 
+7 percent, or $19.49 in PTC costs for each $1 in PTC safety benefits over a 20-year period at a 
+discount rate of 3 percent.  The AAR in its Congressional Testimony testified that (1) 2010 was 
+the safest year for America’s railroads, (2) railroads have lower employee injury rates than most 
+other major industries, (3) only around 4 percent of all train accidents on Class I main lines are 
+likely to be prevented by PTC systems, and (4) there are many far less costly ways to provide 
+greater improvements in rail safety than through the implementation of PTC on lines not required 
+by Congress to be equipped.  According to the testimony, if the PTC rule remains unchanged, 
+railroads may have to spend more than $500 million in the next few years to deploy PTC on 
+more than 10,000 miles of rail lines on which neither passenger nor PIH materials will be 
+moving in 2015.  Benefits and costs would result from eliminating the requirements to perform 
+these tests on segments to be removed from the mandatory PTC network.  In addition to 
+eliminating the procedural burden, relief would come from not installing PTC on the segments 
+that would no longer require PTC installation.  Further, some cost-saving benefits may accrue 
+from no longer implementing mitigation of residual risk on some segments that are removed 
+from the PTC network.  That is railroads that were planning to reduce risk in order to pass the 
+second test, through implementation of other risk mitigation tools, would no longer have to make 
+such investments.  Some accident-reduction benefits would also be foregone as such mitigation 
+tools would no longer be implemented.  FRA assumes in this analysis that on average the 
+accident reduction from mitigation, which could result from enhancements of other accident 
+prevention strategies, including operating practices and track safety, would be at least as great as 
+the benefits foregone by excluding the track from the PTC network. FRA seeks comment on 
+difference between the accident reduction benefits from mitigation and the accident reduction 
+benefits from PTC implementation. 
+ 
+While FRA believes that the alternative analysis and residual risk tests are legally sustainable, 
+the agency agrees with the railroads that requiring these tests could potentially require the 
+installation of PTC at a great cost to the railroads.  FRA also recognizes that the railroads have 
+much work to do to install interoperable PTC systems in accordance with the Congressional 
+mandate.  FRA is, therefore, proposing to eliminate the tests that would potentially require the 
+installation of PTC on lines not mandated by Congress.   FRA seeks comments on whether to 
+maintain, amend, or remove the alternative route analysis from the PTC rule.  FRA also seeks 
+comments on whether to develop or remove the residual risk analysis.  In addition, FRA seeks 
+comments on the economic impacts of removing or amending these two tests.  If FRA were to 
+remove these requirements, it proposes doing so by eliminating § 236.1020 as it currently exists.  
+While FRA will consider removal of these analyses from the PTC rule, FRA reserves its 
+statutory and regulatory authority to require PTC system implementation on additional track 
+11 
+ 
+segments in the future based on risk levels or other rational bases. 
+ 
+3.2 Analysis of benefits and costs 
+ 
+As the NPRM reduces burdens imposed by an earlier rulemaking, the benefits of the NPRM are 
+a reduction in regulatory costs, and the costs of the NPRM are a reduction in regulatory benefits.  
+To help avoid confusion, sections are labeled with benefit or cost of the final rule as well as the 
+proposed rule. 
+ 
+In addition, some distributional impacts may result from elimination of the two tests, which may 
+result in certain lines required to be equipped with PTC solely because they carry passenger 
+traffic.  For example, a line along which both passengers and PIH materials moved in 2008, but 
+along which PIH traffic is discontinued prior to 2015, is required to have PTC under the 2010 
+PTC rule due to the movement of both passenger trains and PIH carrying trains in 2008, but 
+would only be required to have PTC under the proposal due to the movement of passengers on 
+the line. 
+ 
+3.3 Benefits of the proposed rule (relevant costs of the final PTC rule)  
+ 
+In its Congressional testimony, AAR said that its members (Class I railroads) would be able to 
+reduce the required installation of PTC on 10,000 miles of their systems.  AAR subsequently 
+submitted data to FRA showing as much as 15,355 miles of their systems might be excludable.  
+The AAR later clarified that 11,128 miles would excludable under the proposal to eliminate the 
+two tests and submitted a revised data set.  AAR noted that the additional potential excludable 
+mileage contained in the initial submission was dependent on changes in customer demand as 
+well as a broadening of the existing de minimis exceptions as requested in its petition to amend 
+FRA’s rule.   
+ 
+FRA reviewed the original AAR data when it was first submitted and found that less than 14,000 
+miles of the 15,355 miles might be excludable under the proposed rule, but that the remaining 
+miles not only had passenger traffic, but also had sufficient volumes to preclude any Main Line 
+Track Exclusion Addendum (MTEA) for the passenger service.  Given the uncertainty associated 
+with the initial data set, FRA chose to analyze two cases for sensitivity analysis in addition to the 
+expected case.  Thus, for the high case analysis, FRA assumed 14,000 miles could potentially be 
+excluded.  Although approximately 1,100 of those miles would not meet the criteria for being 
+excluded because they carry passenger trains, for purposes of this analysis FRA assumed that the 
+railroads would be able to pursue an exclusion of those miles from main track, and therefore 
+from the requirement to install PTC, under provisions applying to passenger service, but would 
+then require some kind of mitigation on those miles.  This was done purely for analytical 
+purposes and by no means assures that FRA would grant any such exclusion(s).  FRA assumed 
+10,000 excludable miles (of which 550 miles are passenger miles that require some mitigation, 
+based on the AAR’s public estimates and a review of the data initially submitted by AAR) as the 
+expected case (base case).  FRA also assumed 7,000 excludable miles (with no passenger miles) 
+as the low case.  The 7,000 miles was loosely based on FRA’s assumption that 3,204 miles 
+would have passed the two tests in absence of this rulemaking with the implementation of some 
+kind of mitigation to reduce the risk to a level below the threshold of the final rule.  This is also 
+12 
+ 
+consistent with an assumption that 50 percent of the miles from which PIH is rerouted or 
+eliminated would have passed the two tests under the existing PTC rule.  FRA requests 
+comments on the number of passenger miles that would require some mitigation in order to meet 
+the MTEA criteria. 
+ 
+Based on the more recent information submitted by AAR, it seems that railroads would indeed 
+be able to exclude 11,128 miles under the proposed rule.  Although this estimate is more robust 
+(less uncertain) than the initial estimate of 10,000 excludable miles, FRA believes that the 
+outcome and findings of the analysis conducted using 10,000 miles would be unchanged.  In the 
+interest of expediting this rulemaking, which impacts the railroads ability to meet the statutory 
+deadline for implementing PTC in a more cost effective manner, FRA did not adjust the base 
+case.  The two additional cases analyzed to determine sensitivity have also been retained as they 
+continue to be meaningful, as well.  FRA continues to believe there is a possibility that railroads 
+will be able to exclude more miles based on changes in customer demand or otherwise and 
+likewise that there is possibility that railroads may not be able to exclude as many miles as they 
+currently anticipate due to unforeseen causes.  Based on comments and information received in 
+response to the NPRM and this Regulatory Impact Analysis, FRA may adjust the scenarios 
+analyzed at the final rule stage. 
+ 
+In its analysis of the final rule, FRA estimated that installation of PTC requires about $50,000 
+per mile in wayside costs along freight lines, in 2009 dollars.  AAR has testified and commented 
+that wayside improvements needed for PTC cost $50,000 per mile.  FRA is using the estimate of 
+$50,000 per mile in initial costs for purposes of this analysis.  FRA is using 2009 dollars 
+throughout this analysis, to aid in comparison to the analysis of the PTC rule, and to avoid 
+inflating accident consequences at a time when FRA continues to use the same value of a 
+statistical life as FRA used in analyzing the 2010 PTC rule. 
+ 
+FRA believes that some of the mileage under all three scenarios would be able to qualify for a 
+main track exclusion under the 2010 PTC rule, but would require mitigation in order to have the 
+exclusion approved.  Mitigation treatment measures could include things such as reduction in 
+train operating speeds improvements in track physical infrastructure, elimination of at grade rail -
+highway or rail -rail crossings, elimination of switches, changes in traffic volumes, changes in 
+the underlying method of operation, introduction of broken rail detection systems, addition of hot 
+box detectors, and addition of other hazard detectors (slide and intrusion detectors, high water 
+detectors).  Other measures may include more rigorous operational efficiency testing and training 
+that adapts to observed concerns, temporal separation, and a more rigorous track maintenance 
+program.  FRA seeks comments regarding the difference between accident reduction benefits 
+from PTC and accident reduction benefits from other mitigations. 
+  
+In the economic analysis of the 2010 PTC rule, FRA estimated that 3,204 miles would be 
+excludable from the PTC network if the railroads adopted some mitigation that allowed them to 
+pass the second of the two tests that FRA is now proposing to eliminate, at an average cost of 
+$10,000 per mile.  FRA continues to believe that some line segments would have passed the tests 
+with the implementation of some mitigation and is using the average cost of $10,000 per mile in 
+initial costs for segments that might have received mitigation treatment to that end.  FRA seeks 
+comment on this assumption.  This value (in 2009 dollars) has been subject to public comment, 
+13 
+ 
+both at the NPRM stage and in the final rule for the 2010 PTC rule, and there were no objections 
+to use of the value.  FRA believes the railroads and their customers have been able to divert or 
+eliminate PIH traffic from more mileage than FRA had assumed in analyzing the PTC rule.  The 
+reduction in PIH traffic is partially due to a change in the shipment of commodities, which is an 
+alternative approach to compliance that FRA had not considered in analyzing the PTC rule.  For 
+example, On November 2, 2009, the Clorox Company announced that it was transitioning its 
+operations to produce end product bleach from transported high strength bleach instead of from 
+chlorine gas, a PIH material.   
+ 
+For purposes of this analysis, FRA estimates that half of the mileage from which PIH is 
+eliminated or rerouted would have passed both tests under the 2010 PTC rule, and would  
+have qualified for exclusion, but would have required some mitigation to do so.  FRA chose  
+50 percent as a best estimate, because the affected segments would need to pass two tests, one of 
+which has never been fully developed.  The first test applies to rerouted PIH traffic, but not to 
+eliminated PIH traffic.  Under that test, the new route with PTC must be at least as safe as the 
+existing route would have been if the existing route also been equipped with PTC.  FRA believes 
+that more than half of the rerouted traffic could pass this test, in part because railroads are trying 
+to diminish risk with their rerouting.  The second test, that would apply to both segments from 
+which PIH is rerouted and segments from which PIH is eliminated, is that residual risk (with 
+mitigations, if needed) is not higher than the average risk for Class I lines in the United States 
+that are required to be equipped with PTC because of gross tonnage and the presence of PIH 
+traffic.  As noted below in the discussion of costs through increased accident risk, the segments 
+in question, based on FRA’s review of the initial AAR data, appear on average to have lower 
+than average traffic volumes than an average of all segments subject to the PTC requirement.  
+FRA never fully developed that test, but FRA believes that some segments would have passed 
+that test, although many might have needed some kind of mitigation.  For purposes of this 
+analysis, FRA continues to estimate the cost of mitigation at $10,000 per mile in initial costs on 
+the average and applies this to half of the segments subjected to the two tests.  In other words, 
+this analysis assumes that half of the mileage that may be excludable under the proposed rule 
+would have been excludable under the 2010 PTC rule with some form of mitigation 
+implemented, at an average cost of $10,000 per mile. 
+ 
+Under the expected case, the assumptions presented mean that the mileage excluded (but that 
+would have required mitigation) was 50 percent of 10,000 miles, or 5,000 miles.  Therefore, the 
+cost reduction (before the impact of passenger service is considered) would be $10,000 per mile, 
+multiplied by 5,000 miles, for a total of $50 million.  However, FRA notes from data submitted 
+by AAR that many of the additional miles have passenger traffic.  FRA did not consider those 
+segments where an MTEA would not be available for the passenger traffic; but did consider 
+segments that appeared to be eligible for an MTEA, though probably with some kind of 
+mitigation.  FRA used the same cost to estimate mitigation costs for these lines as well.  In the 
+expected case, FRA estimates that 550 miles of passenger routes would be affected and thus still 
+requiring some mitigation to meet the MTEA criteria and offsetting the initial cost savings by 
+550 miles multiplied by $10,000, for a total of $5.5 million.  In the expected case, the savings 
+from eliminating the requirement for mitigation on the lines that would have passed the two tests 
+with some mitigation would be $44.5 million in initial costs ($50 million minus $5.5 million).  
+All savings on initial costs would then be coupled with avoided maintenance costs throughout 
+14 
+ 
+the remainder of the period analyzed.   
+ 
+FRA also notes that the mileage assumed to be affected by mitigation costs avoided is 3,500 
+miles at $10,000 per mile in the low case and 7,000 miles at $10,000 per mile in the high case. 
+ 
+As described above, under the 2010 PTC rule, FRA believes that only 50 percent of the segments 
+from which PIH is removed would qualify for exclusion.  The remaining segments would still 
+require PTC installation.  Under the accompanying proposal the two tests would no longer apply, 
+so all of the segments would be excludable from the PTC network.  For those segments that 
+could not be excluded under the PTC rule, but that could be excluded under the proposal, the 
+reduced initial cost would be the full cost of PTC wayside installation, or $50,000 per mile.  
+Therefore, in the expected case of 10,000 miles, 5,000 would have been excludable under the 
+PTC rule (but would have required some mitigation), and the remaining 5,000 miles would now 
+become excludable, with a reduction in initial costs of $50,000 per mile.  The initial cost savings 
+from not installing PTC on these segments would be 5,000 miles multiplied by $50,000 per mile, 
+for a total of $250 million. 
+ 
+In this analysis, FRA assumes that the segments removed from the PTC network are relatively 
+lower priority segments for purposes of PTC installation, so costs are avoided in the last 2 years 
+of PTC implementation, half in 2014 and half in 2015.   
+ 
+In discussions with FRA at the RSAC working group that developed the PTC rule, Class I 
+railroads indicated that they would equip all of their over-the-road locomotives with PTC in 
+order to avoid difficulties in managing power units.  FRA believes this still holds true under the 
+accompanying proposal.  Further, FRA is not aware of any way to decrease any expenditures on 
+central systems or development.  FRA believes there will be little or no change on Class I 
+systems in costs to equip locomotives or to develop or install central systems.  There is a 
+possibility that some Class I railroads may find a way to equip fewer locomotives in some 
+situations where a captive locomotive fleet makes sense. 
+ 
+A more likely, but relatively small impact is that some Class II or III railroads may be able to 
+avoid equipping locomotives under the proposed rule because the portion of the Class I railroad 
+system on which they have trackage rights would no longer be PTC-equipped.  (This is analyzed 
+in the following section.)  Further, although the costs of equipping at railroad grade crossings 
+(diamond crossings) is included in wayside costs, there may be some cases in which the Class II 
+or III railroads are required to pay for wayside upgrades at the crossing.  To the extent that the 
+Class I railroad’s track is removed from the PTC network under this proposal, the portion of the 
+burdens falling on at-grade railroad crossings will also diminish.  In data submitted to FRA, it 
+appears that 19 crossings involving Class II or III railroads would be affected in the high case.  
+FRA uses that data to estimate that 13 crossings involving Class II or III railroads would be 
+affected in the expected case, and to estimate that 3 crossings involving Class III railroads would 
+be affected in the expected case, based on data submitted by AAR. 
+ 
+3.4 Locomotive cost savings (benefit of the proposed rule) 
+ 
+In analyzing the economic impacts of the 2010 PTC rule, FRA did not develop a separate 
+15 
+ 
+estimate of the number of locomotives affected that belong to Class II and III railroads.  They 
+were included in the industry total.  However, in analyzing the impact on small entities for 
+purposes of compliance with the Regulatory Flexibility Act, FRA estimated that 240 locomotives 
+belonging to small entities (Class III railroads) would be affected.  For the purposes of this 
+analysis, FRA estimates that three times as many locomotives (720) belonging to Class II 
+railroads would be affected, for a total of 960 Class II and Class III locomotives affected.  This 
+includes locomotives operating over either Class I railroads or passenger railroads.  FRA 
+requests comments regarding this assumption.  AAR’s aforementioned Congressional testimony 
+indicates that, without exclusions, approximately 73,000 of their miles would be affected.  
+Therefore, if 14,000 miles were excluded as a result of this proposal (the high case), the total 
+mileage impacted would decrease to 56,000 miles, declining by 20 percent.  FRA assumes that if 
+PTC mileage were to decline by 20 percent, then Class II and Class III railroads could decrease 
+the number of locomotives to be equipped by 16 percent (80 percent of 20 percent), or 154 
+locomotives, 39 of which belong to Class III railroads.  Applying similar logic2 will yield a 
+reduction of 110 locomotives equipped under the expected case, of which 28 belong to Class III 
+railroads.  Also using similar logic3 will yield a reduction of 77 locomotives under the low case, 
+of which 19 belong to Class III railroads.  In analyzing the 2010 PTC rule, FRA estimated the 
+cost to equip a locomotive at $55,000.  Therefore, the initial cost savings related to equipping 
+locomotives would be $6,050,000 for the expected case, $8,470,000 for the high case, and 
+$4,235,000 for the low case. 
+ 
+3.5 Maintenance cost savings (benefit of the proposed rule) 
+ 
+As in the 2010 PTC final rule analysis, FRA assumes that annual maintenance costs are  
+15 percent of the costs of the installed system as of the end of the previous year.  Maintenance 
+costs include training personnel to use and maintain the system, software management plans and 
+implementation, inspection, repair, and testing, replacement parts cost and labor, and 
+requalification of systems after original equipment parts are no longer manufactured, so new 
+hardware must be introduced.  The absolute costs of maintenance can be much larger than the 
+original costs of procuring a system.  The discounted costs are also larger, but not by as much as 
+the undiscounted costs, because maintenance costs can only occur after a system is procured.  
+The lower the discount rate, the greater the proportion of total costs attributable to maintenance.  
+In this analysis, the initial procurements are evenly divided between 2014 and 2015, and 
+maintenance costs are 15 percent of the installed base.  Thus it does not matter which case is 
+examined.  Maintenance costs avoided are 59.04 percent of the total costs avoided using a  
+7 percent discount rate, and 65.87 percent of the total costs avoided using a 3 percent discount 
+rate. 
+ 
+3.6 Timing of savings 
+ 
+FRA assumes that the segments withdrawn from the PTC network under the proposal would 
+have been lower priority segments for purposes of installation; therefore, the savings are toward 
+the end of the 5-year installation period.  FRA assumes that half of the initial system savings is in 
+the last year of installation (2015) and the other half in the prior year (2014). 
+                                                 
+2 (10,000 miles/14,000 miles) x 154 locomotives. 
+3 (7,000 miles/14,000 miles) x 154 locomotives. 
+16 
+ 
+ 
+3.7 At-grade railroad crossings 
+ 
+The cost savings associated with at grade railroad crossing wayside improvements is included in 
+the wayside cost discussion above, although in some instances the Class I railroad might not 
+have been the party responsible for the costs of equipping the crossing with PTC, so the costs 
+might have fallen on a Class II or III railroad.  In analyzing the impacts on small entities for the 
+2010 PTC rule, FRA estimated operational costs at railroad crossings to be $219,000 per year for 
+Class III railroads.  Finally, Class III railroads would avoid operational costs associated with 
+having to reduce operating speeds to cross over two railroad-to-railroad crossings at an annual 
+cost of $43,800.  These benefits to small railroads are a subset of the total benefits of reduced 
+wayside costs described above.  The cost impacts are discussed in the analysis of impacts on 
+small entities contained in the preamble of the NPRM.  FRA estimates that five small railroads 
+will be affected by the reduced requirement to equip locomotives, and another two will be 
+affected by the reduced requirements to take actions at railroad crossings, for a total of seven 
+affected railroads.  The total of seven affected Class III railroads is not a substantial number of 
+small entities, given that there are 674 small railroads.   
+ 
+3.8 Total initial cost saving benefits  
+ 
+The total initial cost savings is the sum of the mitigation costs avoided:  $44.5 million for the 
+expected case, $59 million for the high case, or $35 million for the low case; plus the initial 
+wayside costs avoided:  $250 million for the expected case, $350 million for the high case, or 
+$175 million for the low case; plus locomotive costs avoided:  $6.05 million for the expected 
+case, $8.47 million for the high case, or $4.235 million for the low case.  These add up to 
+$300,550,000 for the expected case, $402,970,000 for the high case, or $223,735,000, for the 
+low case. 
+ 
+  
+17 
+ 
+Table 1.  Summary of Initial Costs Avoided 
+PTC miles affected 
+ Expected case                 10,000  
+High case                 14,000  
+Low case                   7,000  
+  PTC rule mitigation cost/mile $10,000 
+Percent of miles avoidable under 2010 PTC rule 50% 
+  Miles of mitigation installation avoided 
+ Expected case                   5,000  
+High case                   7,000  
+Low case                   3,500  
+Added mitigation, expected case                      550  
+Added mitigation, high case                   1,100  
+Total mitigation installation costs avoided 
+ Expected case $44,500,000 
+High case $59,000,000 
+Low case $35,000,000 
+  PTC wayside installation costs per mile $50,000 
+PTC miles avoided, expected case                   5,000  
+PTC miles avoided, high case                   7,000  
+PTC miles avoided, low case                   3,500  
+  PTC wayside installation costs avoided 
+ Expected case $250,000,000 
+High case $350,000,000 
+Low case $175,000,000 
+  PTC analysis -- locomotive installation cost $55,000 
+Locomotives affected, expected case 110 
+Locomotives affected, high case 154 
+Locomotives affected, low case 77 
+Initial locomotive savings, expected case $6,050,000 
+Initial locomotive savings, high case $8,470,000 
+Initial locomotive savings, low case $4,235,000 
+  Total initial costs avoided 
+ Expected case $300,550,000 
+High case $402,970,000 
+Low case $223,735,000 
+  
+18 
+ 
+As in the analysis of the 2010 PTC rule, FRA also assumed that annual maintenance costs would 
+total 15 percent of the initial installation costs for wayside components as well as locomotive 
+components. 
+ 
+FRA then used these values as input to estimate discounted and annualized costs for expected, 
+high, and low cases for the first 20 years at both 7 percent and 3 percent discount rates. 
+ 
+Table 2a.  Expected Case Benefits– Total Costs Avoided, 7% Discount Factor  
+Year 
+Discount 
+Factor 
+Initial Costs 
+Avoided 
+(wayside & 
+locomotive) 
+Maintenance 
+Avoided 
+Annual Costs 
+Avoided 
+Discounted 
+Costs 
+Avoided 
+2012 1 $0 $0 $0 $0 
+2013 0.9345794 $0 $0 $0 $0 
+2014 0.8734387 $150,275,000 $0 $150,275,000 $131,256,005 
+2015 0.8162979 $150,275,000 $22,541,250 $172,816,250 $141,069,538 
+2016 0.7628952 $0 $45,082,500 $45,082,500 $34,393,223 
+2017 0.7129862 $0 $45,082,500 $45,082,500 $32,143,199 
+2018 0.6663422 $0 $45,082,500 $45,082,500 $30,040,373 
+2019 0.6227497 $0 $45,082,500 $45,082,500 $28,075,115 
+2020 0.5820091 $0 $45,082,500 $45,082,500 $26,238,425 
+2021 0.5439337 $0 $45,082,500 $45,082,500 $24,521,893 
+2022 0.5083493 $0 $45,082,500 $45,082,500 $22,917,657 
+2023 0.4750928 $0 $45,082,500 $45,082,500 $21,418,371 
+2024 0.444012 $0 $45,082,500 $45,082,500 $20,017,169 
+2025 0.4149644 $0 $45,082,500 $45,082,500 $18,707,635 
+2026 0.3878172 $0 $45,082,500 $45,082,500 $17,483,771 
+2027 0.362446 $0 $45,082,500 $45,082,500 $16,339,973 
+2028 0.3387346 $0 $45,082,500 $45,082,500 $15,271,003 
+2029 0.3165744 $0 $45,082,500 $45,082,500 $14,271,965 
+2030 0.2958639 $0 $45,082,500 $45,082,500 $13,338,285 
+2031 0.2765083 $0 $45,082,500 $45,082,500 $12,465,687 
+    
+Total $619,969,287 
+      
+   
+Annualized Costs Avoided $58,520,715  
+19 
+ 
+Table 2b.  Expected Case Benefits–Costs Avoided, 3% Discount Factor  
+Year 
+Discount 
+Factor 
+Initial Costs 
+Avoided 
+(wayside & 
+locomotive) 
+Maintenance 
+Avoided 
+Annual Costs 
+Avoided 
+Discounted 
+Costs 
+Avoided 
+2012 1 $0 $0 $0 $0 
+2013 0.970873786 $0 $0 $0 $0 
+2014 0.942595909 $150,275,000 $0 $150,275,000 $141,648,600 
+2015 0.915141659 $150,275,000 $22,541,250 $172,816,250 $158,151,350 
+2016 0.888487048 $0 $45,082,500 $45,082,500 $40,055,217 
+2017 0.862608784 $0 $45,082,500 $45,082,500 $38,888,561 
+2018 0.837484257 $0 $45,082,500 $45,082,500 $37,755,884 
+2019 0.813091511 $0 $45,082,500 $45,082,500 $36,656,198 
+2020 0.789409234 $0 $45,082,500 $45,082,500 $35,588,542 
+2021 0.766416732 $0 $45,082,500 $45,082,500 $34,551,982 
+2022 0.744093915 $0 $45,082,500 $45,082,500 $33,545,614 
+2023 0.722421277 $0 $45,082,500 $45,082,500 $32,568,557 
+2024 0.70137988 $0 $45,082,500 $45,082,500 $31,619,958 
+2025 0.68095134 $0 $45,082,500 $45,082,500 $30,698,989 
+2026 0.661117806 $0 $45,082,500 $45,082,500 $29,804,843 
+2027 0.641861947 $0 $45,082,500 $45,082,500 $28,936,741 
+2028 0.623166939 $0 $45,082,500 $45,082,500 $28,093,924 
+2029 0.605016446 $0 $45,082,500 $45,082,500 $27,275,654 
+2030 0.587394608 $0 $45,082,500 $45,082,500 $26,481,217 
+2031 0.570286027 $0 $45,082,500 $45,082,500 $25,709,920 
+    
+Total $818,031,752 
+      
+   
+Annualized Costs Avoided $54,984,583  
+20 
+ 
+Table 2c.  High Case Benefits–Costs Avoided, 7% Discount Factor  
+Year 
+Discount 
+Factor 
+Initial Costs 
+Avoided 
+(wayside & 
+locomotive) 
+Maintenance 
+Avoided 
+Annual Costs 
+Avoided 
+Discounted 
+Costs 
+Avoided 
+2012 1 $0 $0 $0 $0 
+2013 0.934579 $0 $0 $0 $0 
+2014 0.873439 $201,485,000 $0 $201,485,000 $175,984,802 
+2015 0.816298 $201,485,000 $30,222,750 $231,707,750 $189,142,544 
+2016 0.762895 $0 $60,445,500 $60,445,500 $46,113,583 
+2017 0.712986 $0 $60,445,500 $60,445,500 $43,096,806 
+2018 0.666342 $0 $60,445,500 $60,445,500 $40,277,389 
+2019 0.62275 $0 $60,445,500 $60,445,500 $37,642,420 
+2020 0.582009 $0 $60,445,500 $60,445,500 $35,179,831 
+2021 0.543934 $0 $60,445,500 $60,445,500 $32,878,347 
+2022 0.508349 $0 $60,445,500 $60,445,500 $30,727,427 
+2023 0.475093 $0 $60,445,500 $60,445,500 $28,717,222 
+2024 0.444012 $0 $60,445,500 $60,445,500 $26,838,525 
+2025 0.414964 $0 $60,445,500 $60,445,500 $25,082,734 
+2026 0.387817 $0 $60,445,500 $60,445,500 $23,441,807 
+2027 0.362446 $0 $60,445,500 $60,445,500 $21,908,231 
+2028 0.338735 $0 $60,445,500 $60,445,500 $20,474,982 
+2029 0.316574 $0 $60,445,500 $60,445,500 $19,135,497 
+2030 0.295864 $0 $60,445,500 $60,445,500 $17,883,642 
+2031 0.276508 $0 $60,445,500 $60,445,500 $16,713,684 
+    
+Total $831,239,473 
+      
+   
+Annualized Costs Avoided $78,463,126  
+21 
+ 
+Table 2d.  High Case Benefits–Costs Avoided, 3% Discount Factor  
+Year 
+Discount 
+Factor 
+Initial Costs 
+Avoided (wayside & 
+locomotive) 
+Maintenance 
+Avoided 
+Annual Costs 
+Avoided 
+Discounted Costs 
+Avoided 
+2012 1 $0 $0 $0 $0 
+2013 0.970874 $0 $0 $0 $0 
+2014 0.942596 $201,485,000 $0 $201,485,000 $189,918,937 
+2015 0.915142 $201,485,000 $30,222,750 $231,707,750 $212,045,415 
+2016 0.888487 $0 $60,445,500 $60,445,500 $53,705,044 
+2017 0.862609 $0 $60,445,500 $60,445,500 $52,140,819 
+2018 0.837484 $0 $60,445,500 $60,445,500 $50,622,155 
+2019 0.813092 $0 $60,445,500 $60,445,500 $49,147,723 
+2020 0.789409 $0 $60,445,500 $60,445,500 $47,716,236 
+2021 0.766417 $0 $60,445,500 $60,445,500 $46,326,443 
+2022 0.744094 $0 $60,445,500 $60,445,500 $44,977,129 
+2023 0.722421 $0 $60,445,500 $60,445,500 $43,667,115 
+2024 0.70138 $0 $60,445,500 $60,445,500 $42,395,258 
+2025 0.680951 $0 $60,445,500 $60,445,500 $41,160,444 
+2026 0.661118 $0 $60,445,500 $60,445,500 $39,961,596 
+2027 0.641862 $0 $60,445,500 $60,445,500 $38,797,666 
+2028 0.623167 $0 $60,445,500 $60,445,500 $37,667,637 
+2029 0.605016 $0 $60,445,500 $60,445,500 $36,570,522 
+2030 0.587395 $0 $60,445,500 $60,445,500 $35,505,361 
+2031 0.570286 $0 $60,445,500 $60,445,500 $34,471,224 
+    
+Total $1,096,796,723 
+      
+   
+Annualized Costs Avoided $73,721,968  
+22 
+ 
+Table 2e.  Low Case Benefits–Costs Avoided, 7% Discount Factor  
+Year 
+Discount 
+Factor 
+Initial Costs 
+Avoided 
+(wayside & 
+locomotive) 
+Maintenance 
+Avoided 
+Annual Costs 
+Avoided 
+Discounted 
+Costs Avoided 
+2012 1 $0 $0 $0 $0 
+2013 0.934579 $0 $0 $0 $0 
+2014 0.873439 $111,867,500 $0 $111,867,500 $97,709,407 
+2015 0.816298 $111,867,500 $16,780,125 $128,647,625 $105,014,783 
+2016 0.762895 $0 $33,560,250 $33,560,250 $25,602,954 
+2017 0.712986 $0 $33,560,250 $33,560,250 $23,927,994 
+2018 0.666342 $0 $33,560,250 $33,560,250 $22,362,612 
+2019 0.62275 $0 $33,560,250 $33,560,250 $20,899,637 
+2020 0.582009 $0 $33,560,250 $33,560,250 $19,532,371 
+2021 0.543934 $0 $33,560,250 $33,560,250 $18,254,552 
+2022 0.508349 $0 $33,560,250 $33,560,250 $17,060,329 
+2023 0.475093 $0 $33,560,250 $33,560,250 $15,944,233 
+2024 0.444012 $0 $33,560,250 $33,560,250 $14,901,152 
+2025 0.414964 $0 $33,560,250 $33,560,250 $13,926,311 
+2026 0.387817 $0 $33,560,250 $33,560,250 $13,015,244 
+2027 0.362446 $0 $33,560,250 $33,560,250 $12,163,779 
+2028 0.338735 $0 $33,560,250 $33,560,250 $11,368,018 
+2029 0.316574 $0 $33,560,250 $33,560,250 $10,624,316 
+2030 0.295864 $0 $33,560,250 $33,560,250 $9,929,267 
+2031 0.276508 $0 $33,560,250 $33,560,250 $9,279,689 
+    
+Total $461,516,648 
+      
+   
+Annualized Costs Avoided $43,563,907  
+ 
+23 
+ 
+Table 2f.  Low Case Benefits–Costs Avoided, 3% Discount Factor  
+Year 
+Discount 
+Factor 
+Initial Costs 
+Avoided 
+(wayside & 
+locomotive) 
+Maintenance 
+Avoided 
+Annual Costs 
+Avoided 
+Discounted 
+Costs 
+Avoided 
+2012 1 $0 $0 $0 $0 
+2013 0.970874 $0 $0 $0 $0 
+2014 0.942596 $111,867,500 $0 $111,867,500 $105,445,848 
+2015 0.915142 $111,867,500 $16,780,125 $128,647,625 $117,730,801 
+2016 0.888487 $0 $33,560,250 $33,560,250 $29,817,847 
+2017 0.862609 $0 $33,560,250 $33,560,250 $28,949,366 
+2018 0.837484 $0 $33,560,250 $33,560,250 $28,106,181 
+2019 0.813092 $0 $33,560,250 $33,560,250 $27,287,554 
+2020 0.789409 $0 $33,560,250 $33,560,250 $26,492,771 
+2021 0.766417 $0 $33,560,250 $33,560,250 $25,721,137 
+2022 0.744094 $0 $33,560,250 $33,560,250 $24,971,978 
+2023 0.722421 $0 $33,560,250 $33,560,250 $24,244,639 
+2024 0.70138 $0 $33,560,250 $33,560,250 $23,538,484 
+2025 0.680951 $0 $33,560,250 $33,560,250 $22,852,897 
+2026 0.661118 $0 $33,560,250 $33,560,250 $22,187,279 
+2027 0.641862 $0 $33,560,250 $33,560,250 $21,541,047 
+2028 0.623167 $0 $33,560,250 $33,560,250 $20,913,638 
+2029 0.605016 $0 $33,560,250 $33,560,250 $20,304,503 
+2030 0.587395 $0 $33,560,250 $33,560,250 $19,713,110 
+2031 0.570286 $0 $33,560,250 $33,560,250 $19,138,942 
+    
+Total $608,958,024 
+      
+   
+Annualized Costs Avoided $40,931,544  
+ 
+The costs that would be avoided under the proposed rule are presented in the table below.  FRA 
+analyzed the maintenance costs and found that under the expected case as well as the two 
+additional scenarios analyzed to determine sensitivity, both for wayside and locomotive 
+components, the maintenance costs were 59.04 percent of the total cost savings when discounted 
+at 7 percent, and 65.87 percent of that total when discounted at 3 percent. 
+ 
+  
+24 
+ 
+Table 3.  Summary of Benefits–Costs Avoided (20 years) 
+Total of all Benefits 
+    
+ 
+Total Discounted Benefits Annualized Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $619,969,287 $818,031,752 $58,520,715 $54,984,583 
+High Case $831,239,473 $1,096,796,723 $78,463,126 $73,721,968 
+Low Case $461,516,648 $608,958,024 $43,563,907 $40,931,544 
+     1. Reduced Mitigation Costs, Including Maintenance 
+  
+ 
+Total Discounted Benefits Annualized Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $91,793,822 $121,119,324 $8,664,687 $8,141,121 
+High Case $121,704,169 $160,585,172 $11,488,013 $10,793,846 
+Low Case $72,197,388 $95,262,390 $6,814,923 $6,403,129 
+     2. Reduced Wayside Costs, Including Maintenance 
+  
+ 
+Total Discounted Benefits Annualized Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $515,695,631 $680,445,643 $48,678,019 $45,736,635 
+High Case $721,973,883 $952,623,900 $68,149,227 $64,031,290 
+Low Case $360,986,942 $476,311,950 $34,074,614 $32,015,645 
+     3. Reduced Locomotive Costs, Including Maintenance 
+  Discount Factor 7% 3% 7% 3% 
+Expected Case $12,479,834 $16,466,785 $1,178,008 $1,106,827 
+High Case $17,471,768 $23,053,498 $1,649,211 $1,549,557 
+Low Case $8,735,884 $11,526,749 $824,606 $774,779 
+ 
+Given the large portion of total benefits comprised of maintenance costs avoided, these 
+are separated out.  The table below presents total maintenance cost savings for wayside 
+and locomotive components. 
+ 
+Reduced Total Maintenance Costs  
+   Discount Factor 7% 3% 7% 3% 
+Expected Case $366,044,119 $538,860,239 $34,551,975 $36,219,872 
+High Case $490,782,893 $722,490,469 $46,326,433 $48,562,708 
+Low Case $272,490,038 $401,137,566 $25,721,132 $26,962,745 
+ 
+  
+25 
+ 
+4.0 Costs – Diminished Benefit of Accident Reduction  
+ 
+The costs associated with the proposed rule come from a reduction of the benefits that would 
+have resulted from implementation of PTC components along certain lines beginning in 2015 
+and are comprised of foregone accident prevention benefits.  In the analysis of the 2010 PTC 
+rule, FRA estimated that the benefit in 2015 would have been $55,351,026 and in subsequent 
+years it would have been $65,118,854.  In order to estimate the cost impact of eliminating the 
+two tests in this analysis, the reduced benefit of the 2010 PTC rule in the year 2015 is estimated 
+to be half of the reduced benefit of each of the subsequent years beginning in 2016.  Since half of 
+the implementation costs avoided would have been incurred in 2014, and half in 2015, the safety 
+impacts should be considered until 2015 and 2016, respectively.  The track removal from the 
+network would not affect the accident reduction that would have taken place in absence of this 
+proposal until after it would have been placed in service.   
+ 
+The proposal to eliminate both tests for exclusion of PTC lines would not come close to 
+eliminating the benefits of the PTC rule to the same extent as the costs for several reasons.  For 
+example, the “headline accidents” in the analysis of the PTC rule either involve a passenger train 
+or a substantial release of PIH material, neither of which is likely to occur on the segments that 
+would be withdrawn from the PTC network under the proposed rule.  Headline accidents were 
+41.08 percent of the total accident reduction benefits in the analysis of the 2010 PTC rule, and 
+other accidents comprised the remaining 58.92 percent—only the latter types of accidents are 
+likely to be affected by the proposed rule.  FRA seeks comment on the exclusion of headline 
+accidents from foregone benefits of the proposed rule. 
+ 
+The rerouted traffic will not add to the risk on the lines they are rerouted to, as they will be 
+rerouted either to PTC-equipped lines or to relatively low volume lines subject to the de minimis 
+exception, hence to lines with equal or less risk.  In other words the risk would be “transferred” 
+from one line to another.  However, the remaining traffic on lines no longer equipped with PTC 
+would no longer benefit from the reduced risk.   
+ 
+In the 2010 PTC rule analysis, FRA estimated that PTC wayside components would be installed 
+on roughly 70,000 miles, and AAR Congressional testimony also refers to a PTC network of 
+70,000 miles.  Thus, this analysis also uses a 70,000 mile network as the basis for analysis.  As 
+with the cost savings analysis, the benefit reduction analysis presents the expected impacts of 
+10.000 miles excluded as well as the impacts associated with case in which 7,000 and 14,000 
+miles are excluded.  In the high case, the railroads would reduce their PTC network mileage by 
+14,000 miles, which is 20 percent of the 70,000 mile network. (20 percent x 70,000 = 14,000)  
+FRA, based on its review of the AAR submitted data, also assumed for this analysis that the 
+segments from which PIH traffic is rerouted or eliminated have relatively less dense traffic, 
+which reduces accident exposure, than the average segment along which PTC must be 
+implemented due to the presence of PIH or passenger trains.  Thus, FRA used an estimate of 60 
+percent of average risk for those segments.  FRA requests comments on this assumption.   
+ 
+  
+26 
+ 
+Therefore, in the high case, the risk increase would be 7.07 percent determined as follows: 
+ 
+    58.92 percent (the non-headline accident percentage) 
+x 20 percent, (14,000 miles excluded divided by the total system of 70,000 miles)  
+x 60 percent (the relative accident exposure on those segments)   
+    7.07 percent 
+ 
+This means that excluding the segments in the high case would increase risk by 7.07 percent of 
+the total risk avoided as estimated in the analysis of the 2010 PTC rule.  The value of the total 
+risk avoided was $65,118,854 per year, beginning in 2016.  Therefore, in the years when the full 
+impact of the proposal eventuates, the increased accident risk would be $4,604,163 per year 
+(7.07 percent of $65,116,854).  This impact would occur in years 2016 and beyond.  In 2015, 
+only half the impact would occur, so the accident risk increase would be half that, or $2,302,082.  
+Similar calculations were applied to the expected and low cases, but because the high case was a 
+relatively even percentage (20 percent of the total system), FRA used the high case in this 
+instance to illustrate the mechanics of the calculations.  All the calculations are shown in the 
+following table. 
+ 
+Table 4.  Diminished Accident 
+Benefit Reduction (Costs of the 
+Proposed Rule)Accident Benefit 
+Reduction 
+  
+    From the 2010 PTC Rule 
+  Annual accident 
+reduction $65,118,854 
+  Total PTC miles 
+ 
+      70,000  
+ Proportion of system 
+  
+ 
+Expected Case High Case Low Case 
+ 
+14.29% 20.00% 10.00% 
+    Proportion of non-headline accidents 
+ 
+ 
+58.92% 
+  
+    Relative traffic risk 60% 
+ 
+    Proportion of risk from PTC study 
+  
+ 
+Expected Case High Case Low Case 
+ 
+5.05% 7.07% 3.54% 
+    Percent of benefit reduction in 2015 50% 
+ 
+    Annual PTC Benefit Reduction  
+  
+ 
+Expected Case High Case Low Case 
+2015 $1,644,344 $2,302,082 $1,151,041 
+2016 and beyond $3,288,688 $4,604,163 $2,302,082 
+ 
+  
+27 
+ 
+These annual benefit reduction estimates were then used to calculate 20-year discounted and 
+annualized costs at 7 percent and 3 percent, in Tables 5a and 5b. 
+ 
+Table 5a.  Costs–Discounted Diminution of Accident Reduction, 7% Discount Factor  (20 years) 
+  
+Current Annual Benefit Discounted Annual Benefit 
+ 
+Discount Expected High  Low Expected High  Low 
+Year Factor Case Case Case Case Case Case 
+2012 1 $0 $0 $0 $0 $0 $0 
+2013 0.934579 $0 $0 $0 $0 $0 $0 
+2014 0.873439 $0 $0 $0 $0 $0 $0 
+2015 0.816298 $1,644,344 $2,302,082 $1,151,041 $1,342,275 $1,879,184 $939,592 
+2016 0.762895 $3,288,688 $4,604,163 $2,302,082 $2,508,924 $3,512,494 $1,756,247 
+2017 0.712986 $3,288,688 $4,604,163 $2,302,082 $2,344,789 $3,282,705 $1,641,352 
+2018 0.666342 $3,288,688 $4,604,163 $2,302,082 $2,191,392 $3,067,949 $1,533,974 
+2019 0.62275 $3,288,688 $4,604,163 $2,302,082 $2,048,030 $2,867,242 $1,433,621 
+2020 0.582009 $3,288,688 $4,604,163 $2,302,082 $1,914,046 $2,679,665 $1,339,833 
+2021 0.543934 $3,288,688 $4,604,163 $2,302,082 $1,788,828 $2,504,360 $1,252,180 
+2022 0.508349 $3,288,688 $4,604,163 $2,302,082 $1,671,802 $2,340,523 $1,170,262 
+2023 0.475093 $3,288,688 $4,604,163 $2,302,082 $1,562,432 $2,187,405 $1,093,702 
+2024 0.444012 $3,288,688 $4,604,163 $2,302,082 $1,460,217 $2,044,304 $1,022,152 
+2025 0.414964 $3,288,688 $4,604,163 $2,302,082 $1,364,689 $1,910,564 $955,282 
+2026 0.387817 $3,288,688 $4,604,163 $2,302,082 $1,275,410 $1,785,574 $892,787 
+2027 0.362446 $3,288,688 $4,604,163 $2,302,082 $1,191,972 $1,668,761 $834,380 
+2028 0.338735 $3,288,688 $4,604,163 $2,302,082 $1,113,992 $1,559,589 $779,795 
+2029 0.316574 $3,288,688 $4,604,163 $2,302,082 $1,041,114 $1,457,560 $728,780 
+2030 0.295864 $3,288,688 $4,604,163 $2,302,082 $973,004 $1,362,206 $681,103 
+2031 0.276508 $3,288,688 $4,604,163 $2,302,082 $909,350 $1,273,090 $636,545 
+    
+Total $26,702,267 $37,383,174 $18,691,587 
+        
+    
+Annualized $2,520,505 $3,528,707 $1,764,354 
+ 
+  
+28 
+ 
+Table 5b.  Costs–Discounted Diminution of Accident Reduction, 3% Discount Factor (20 years) 
+  
+Current Annual Benefit Discounted Annual Benefit 
+ 
+Discount Expected High  Low Expected High  Low 
+Year Factor Case Case Case Case Case Case 
+2012 1 $0 $0 $0 $0 $0 $0 
+2013 0.970874 $0 $0 $0 $0 $0 $0 
+2014 0.942596 $0 $0 $0 $0 $0 $0 
+2015 0.915142 $1,644,344 $2,302,082 $1,151,041 $1,504,808 $2,106,731 $1,053,365 
+2016 0.888487 $3,288,688 $4,604,163 $2,302,082 $2,921,957 $4,090,740 $2,045,370 
+2017 0.862609 $3,288,688 $4,604,163 $2,302,082 $2,836,851 $3,971,592 $1,985,796 
+2018 0.837484 $3,288,688 $4,604,163 $2,302,082 $2,754,225 $3,855,914 $1,927,957 
+2019 0.813092 $3,288,688 $4,604,163 $2,302,082 $2,674,004 $3,743,606 $1,871,803 
+2020 0.789409 $3,288,688 $4,604,163 $2,302,082 $2,596,121 $3,634,569 $1,817,285 
+2021 0.766417 $3,288,688 $4,604,163 $2,302,082 $2,520,506 $3,528,708 $1,764,354 
+2022 0.744094 $3,288,688 $4,604,163 $2,302,082 $2,447,093 $3,425,930 $1,712,965 
+2023 0.722421 $3,288,688 $4,604,163 $2,302,082 $2,375,818 $3,326,146 $1,663,073 
+2024 0.70138 $3,288,688 $4,604,163 $2,302,082 $2,306,620 $3,229,268 $1,614,634 
+2025 0.680951 $3,288,688 $4,604,163 $2,302,082 $2,239,437 $3,135,211 $1,567,606 
+2026 0.661118 $3,288,688 $4,604,163 $2,302,082 $2,174,210 $3,043,894 $1,521,947 
+2027 0.641862 $3,288,688 $4,604,163 $2,302,082 $2,110,884 $2,955,237 $1,477,619 
+2028 0.623167 $3,288,688 $4,604,163 $2,302,082 $2,049,402 $2,869,162 $1,434,581 
+2029 0.605016 $3,288,688 $4,604,163 $2,302,082 $1,989,710 $2,785,595 $1,392,797 
+2030 0.587395 $3,288,688 $4,604,163 $2,302,082 $1,931,758 $2,704,461 $1,352,230 
+2031 0.570286 $3,288,688 $4,604,163 $2,302,082 $1,875,493 $2,625,690 $1,312,845 
+    
+Total $39,308,896 $55,032,454 $27,516,227 
+        
+    
+Annualized $2,642,175 $3,699,045 $1,849,523 
+ 
+For purposes of this analysis, FRA assumed that the proportion of costs attributable to each 
+accident cost element would be the same as in the analysis of the 2010 PTC rule.  For example, 
+fatality costs ($16,457,143 per year in PTC preventable accidents (PPA) costs avoided) were 
+42.89 percent of the annual accident reduction benefit ($38,368,895) in the analysis of the 2010 
+PTC rule. Likewise, they represent 42.89 percent of the foregone accident reduction in this 
+analysis.  For a more thorough discussion of PPAs please see FRA’s analysis of the PTC Rule.4  
+The proportion of costs (by element) are shown in Table 6. 
+ 
+  
+                                                 
+4 U.S. DOT/FRA–Positive Train Control Systems, Final Rule, Regulatory Impact Analysis, Document ID:  
+FRA-2008-0132-0060.1, Docket ID: FRA-2008-0132. 
+ 
+29 
+ 
+Table 6.  Proportions of Accident Costs used in the 2010 PTC Rule Analysis5  
+PTC Rule Benefits by Category 
+Total Annual PPA 
+(Volpe Center Analysis) Percentage 
+Fatalities $16,457,143 42.89% 
+Injuries $6,113,333 15.93% 
+Train Delay $169,259 0.44% 
+Property Damage $14,604,570 38.06% 
+Equipment Clean Up $205,872 0.54% 
+Environmental Cleanup $619,303 1.61% 
+Evacuations $199,416 0.52% 
+Total $38,368,895 100.00% 
+ 
+The costs of the rule through diminished accident reduction are summarized in Table 7.  These 
+were derived applying the proportions in the Table 6 to the totals in Table 5a (for 7 percent 
+discount rate) and Table 5b (for 3 percent discount rate). 
+ 
+  
+                                                 
+5 U.S. DOT/FRA–Positive Train Control Systems, Final Rule, Regulatory Impact Analysis, Document ID:  
+FRA-2008-0132-0060.1, Docket ID: FRA-2008-0132. 
+ 
+30 
+ 
+Table 7.  Summary of Costs of the Proposed Rule (20 years) 
+Costs of the proposed rule by category (20-year, 7% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $11,453,106 $16,034,349 $8,017,174 
+Injury Prevention  $4,254,484 $5,956,278 $2,978,139 
+Train Delay $117,793 $164,911 $82,455 
+Property Damage $10,163,835 $14,229,369 $7,114,685 
+Equipment Clean Up $143,273 $200,583 $100,291 
+Environmental Cleanup $430,995 $603,393 $301,696 
+Evacuations $138,780 $194,292 $97,146 
+Total $26,702,267 $37,383,174 $18,691,587 
+    Costs of the proposed rule by category (20-year, 3% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $16,860,327 $23,604,458 $11,802,229 
+Injury Prevention  $6,263,104 $8,768,346 $4,384,173 
+Train Delay $173,406 $242,768 $121,384 
+Property Damage $14,962,367 $20,947,314 $10,473,657 
+Equipment Clean Up $210,915 $295,282 $147,641 
+Environmental Cleanup $634,475 $888,265 $444,133 
+Evacuations $204,301 $286,021 $143,011 
+Total $39,308,896 $55,032,454 $27,516,227 
+    Annualized costs of the proposed rule by category (20-year, 7% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $1,081,092 $1,513,529 $756,765 
+Injury Prevention  $401,593 $562,231 $281,115 
+Train Delay $11,119 $15,566 $7,783 
+Property Damage $959,394 $1,343,152 $671,576 
+Equipment Clean Up $13,524 $18,934 $9,467 
+Environmental Cleanup $40,683 $56,956 $28,478 
+Evacuations $13,100 $18,340 $9,170 
+Total $2,520,505 $3,528,707 $1,764,354 
+    Annualized costs of the proposed rule by category (20-year, 3% discount)  
+Foregone Reductions in: Expected Case High Case Low Case 
+Fatality Prevention $1,133,279 $1,586,590 $793,295 
+Injury Prevention  $420,979 $589,371 $294,685 
+Train Delay $11,656 $16,318 $8,159 
+Property Damage $1,005,706 $1,407,989 $703,994 
+Equipment Clean Up $14,177 $19,848 $9,924 
+Environmental Cleanup $42,647 $59,705 $29,853 
+Evacuations $13,732 $19,225 $9,613 
+Total $2,642,175 $3,699,045 $1,849,523 
+ 
+  
+31 
+ 
+5.0 Relationship Between Benefits and Costs 
+ 
+Under the expected case, as well as the two other cases analyzed for sensitivity purposes, the 
+cost-saving benefits are far greater than the foregone accident reduction costs.  The net benefits 
+are summarized in Table 8.  
+ 
+Table 8.  Summary of Net Benefits of the Proposed Rule Over 20 Years 
+ 
+Total Discounted Net Benefits Annualized Net Benefits 
+Discount Factor 7% 3% 7% 3% 
+Expected Case $593,267,020 $778,722,856 $56,000,210 $52,342,408 
+High Case $793,856,299 $1,041,764,269 $74,934,419 $70,022,922 
+Low Case $442,825,061 $581,441,797 $41,799,553 $39,082,022 
+ 
+In all of the scenarios analyzed the benefit/cost ratio was between 20 and 25. 
+ 
+Table 9.  Benefit/Cost Ratios 
+Discount Factor 7% 3% 
+Expected Case 23.22 20.81 
+High Case 22.24 19.93 
+Low Case 24.69 22.13 
+ 
+In conclusion, FRA believes that the benefits of the proposed rule to provide regulatory relief  
+are far in excess of the costs.  The $593 million (discounted at 7 percent over 20 years) or  
+$779 million (discounted at 3 percent over 20 years) that would not be spent on PTC 
+implementation along lower-risk routes would be freed for use in capacity enhancements and 
+other initiatives with higher economic and safety return.  This rulemaking is consistent with the 
+expressed goals of EO 13563 to design regulations so that they are cost-effective, evidence-based 
+and compatible with economic growth, job creation, and competitiveness.   
+ 
+FRA seeks comments on all aspects of this analysis.   

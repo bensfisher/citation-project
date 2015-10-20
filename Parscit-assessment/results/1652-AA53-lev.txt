@@ -1,0 +1,11 @@
+	48811, Airport Operations, while publicly-owned airports are classified by NAICS code 926120, Regulation and Administration of Transportation Programs.	Department of Transportation, Federal Aviation Administration, “Categories of Airports,” Available from: http://www.faa.gov/airports_airtraffic/airports/planning_capacity/passenger_allcargo_stats/categories/. Accessed on February 28,	Forecasts,
+Page 1213	0.9657534246575342	0.9814814814814815	0.8888888888888888
+Economic Consequences of a Nuclear Detonation in an Urban Area	0.7465753424657534	0.8287037037037037	0.9193548387096774
+Economic Values for FAA Investment and Regulatory Decisions A Guide	0.7808219178082192	0.8425925925925926	0.8955223880597015
+Treatment of the Economic Value of A Statistical Life in Departmental Analyses	0.773972602739726	0.7777777777777778	0.9102564102564102
+Categories of Airports	0.8767123287671232	0.8981481481481481	0.7727272727272727
+49 CFR 1544202	0.958904109589041	0.9814814814814815	0.9285714285714286
+69 FR 28066	0.9726027397260274	0.9861111111111112	1.0
+Regulatory Flexibility Act Pub L No 96354 94 Stat 1164	0.821917808219178	0.8935185185185185	0.9074074074074074
+One Year Later The Fiscal Impact of 911 on New York City	0.815068493150685	0.8657407407407407	0.9107142857142857
+Passenger Manifests for commercial Aircraft Arriving in and Departing from the United States	0.7808219178082192	0.8009259259259259	0.9239130434782609

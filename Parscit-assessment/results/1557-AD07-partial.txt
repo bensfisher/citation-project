@@ -1,0 +1,7 @@
+	Current capital standards based on the 1988 Basel Accord continue to apply. Description of Baseline Scenario Under the Baseline Scenario, current capital rules would continue to apply to all banks in coordination achieved with the 1988 Basel Accord Yes No	Ability to opt in offers long-term flexibility to banking organizations Yes No Without the Standardized Option, an institution would have to choose between the Advanced Approaches and the status quo. The baseline without the Standardized Option would leave a level playing field for all the non-Advanced Approaches banks. However, the absence of 1988 Basel Accord Yes Yes	Ability to opt in offers long-term flexibility to banking organizations Yes No Changes in Costs: Alternative
+Managing Bank Capital	0.43000000000000005	0.53	0.53
+Ex ante Risk and Ex Post Collapse of SLs in the 1980s	0.53	0.55	0.61
+International Convergence of Capital Measurement and Capital Standards A Revised Framework	0.56	0.5800000000000001	0.64
+TD Banknorth Comment ANPR for RiskBased Capital Guidelines Capital Adequacy Guidelines Capital Maintenance Domestic Capital Modification	0.5800000000000001	0.62	0.65
+Using CAMELS Ratings to Monitor Bank Conditions	0.54	0.56	0.56
+1988 Basel Accord	0.0	0.0	0.71

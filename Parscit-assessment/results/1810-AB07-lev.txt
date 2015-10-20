@@ -1,0 +1,11 @@
+	American Recovery and Reinvestment Act of 2009, Division A, Section 14006,	What Does Certification Tell Us About Teacher Effectiveness? Evidence from New York City,’’	American Recovery and Reinvestment Act of 2009, Division A, Title XIV—State Fiscal Stabilization Fund, Public Law 111–5. Proposed Requirements Note: The proposed requirements are listed following the background for this section.	Background: Section 14005(d) of Division A of the American Recovery and Reinvestment Act of
+Teachers Matter Attracting Developing and Retaining Effective Teachers	0.8309859154929577	0.7634408602150538	0.831858407079646	0.7954545454545454
+Can You Recognize an Effective Teacher When You Recruit One	0.7464788732394366	0.6989247311827957	0.8407079646017699	0.75
+How Leadership Influences Student Learning	0.8028169014084507	0.7849462365591398	0.8805309734513275	0.8295454545454546
+A threeway error components analysis of educational productivity	0.7887323943661971	0.7849462365591398	0.831858407079646	0.8068181818181818
+Teachers schools and academic achievement	0.8028169014084507	0.7956989247311828	0.8672566371681416	0.75
+Teachers Schools and Academic Achievement	0.7746478873239436	0.7956989247311828	0.8672566371681416	0.7386363636363636
+Teachers and Student Achievement in the Chicago Public High Schools	0.7887323943661971	0.8172043010752689	0.8097345132743363	0.7386363636363636
+What Does Certification Tell Us About Teacher Effectiveness Evidence from New York City	0.8045977011494253	0.06451612903225806	0.8008849557522124	0.8295454545454546
+The impact of individual Teachers on Students Achievement Evidence from Panel Data	0.7682926829268293	0.6774193548387096	0.7920353982300885	0.8295454545454546
+The Impact of Individual Teachers on Students Achievement Evidence from Panel Data	0.7804878048780488	0.6774193548387096	0.7964601769911505	0.8409090909090909

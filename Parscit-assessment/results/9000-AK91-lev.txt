@@ -1,0 +1,19 @@
+	NO PARSCIT CITATIONS
+Average annual salary of federal employees within the United States	0.9552238805970149
+Census information on education 	0.9375
+EVerify program	0.95
+Federal Procurement Data SystemNext Generation	0.9130434782608695
+Inflation adjustment	1.0
+Privately Owned Vehicle Reimbursement Rates	0.9302325581395349
+Illegal Immigration Reform and Immigrant Responsibility Act 	0.9333333333333333
+Immigration Reform and Control Act	0.9117647058823529
+“Characteristics and Pay of Federal Civilian Employees”	0.9272727272727272
+Employer Costs for Employee Compensation	0.925
+Job Openings and Labor Turnover	0.9032258064516129
+National Compensation Survey Occupational Earnings in the United States	0.9295774647887324
+Economic Analysis of the Santa Monica Living Wage Proposal	0.9482758620689655
+New Ideas for Retaining StoreLevel Employees	0.8863636363636364
+The Cost of Frontline Turnover in Longterm Care	0.9361702127659575
+Employment Eligibility Verification Form Form I9	0.9583333333333334
+Registration for the Employer Verification Program	0.96
+USCIS EVerify User’s Manual	0.9259259259259259

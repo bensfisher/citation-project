@@ -1,0 +1,12 @@
+	NO PARSCIT CITATIONS
+Health Facts	0.9473684210526316
+OMB Circular A4	0.7894736842105263
+Proposed Rule	0.8333333333333334
+Small Business Administrations regulation	0.875
+CPT Codes and Descriptions	0.8181818181818181
+Discussion Points on EFax Ruling Exceptions	0.8846153846153846
+Congressional Review Act	0.8260869565217391
+Federalism	1.0
+Regulatory Flexibility Act of 1980	0.896551724137931
+Section 1102b	0.9
+Section 202 Unfunded Mandates Reform Act of 1995	0.8666666666666667

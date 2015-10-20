@@ -1,0 +1,13 @@
+	Department of Homeland Security, Office of Immigration Statistics,	Hourly Compensation Rates of ICE Immigration Enforcement Officers Variable Description: This is the “fully burdened” average wage rate of a typical ICE Immigration Enforcement Officer. It includes gross hourly wage as well as benefits. The benefits were estimated Date: 04-17-2008 F-19 h. Cost.119 In examining each of the five alternatives listed, DHS developed a cost estimate for each. These cost estimates are more fully explained in relation to the Executive Order 12866 and Regulatory Flexibility Analysis, infra. Alternatives C and E are expected to add additional significant labor costs relative to the other three alternatives, and thus would have these additional costs recurring beyond the first year: Alternative A: Carrier biometric collection at check-in Counters: $949,000,000 Alternative B: DHS collection at check-in counters: $357,000,000 Alternative C: DHS collection at TSA checkpoint: $304,000,000 Alternative D: Carrier collection at aircraft gate: $449,000,000 Alternative E: Government collection at aircraft gate:
+Business Travel Speeding Flight CheckIn At SelfService Kiosks	0.28	0.3417721518987342
+MidTex Elect Coop Inc v FERC	0.47619047619047616	0.49295774647887325
+Annual Report on the Integrated Entry and Exit Data System 	0.19148936170212771	0.368421052631579
+Business Capacity Baseline Report	0.30000000000000004	0.5072463768115942
+Percentage of Exit Records Matched to Entry Records	0.34883720930232553	0.5
+The 911 Commission Report Final Report of the National Commission on Terrorist Attacks upon the United States	0.33333333333333337	0.35
+Cost from the Local Fiscal Effects of Illegal Immigration A Report of a Workshop	0.33333333333333337	0.4025974025974026
+Evaluating the True Cost to Airlines of One Minute of Airborne or Ground Delay	0.30612244897959184	0.3589743589743589
+Judged Terror Risk and Proximity to the World Trade Center	0.36170212765957444	0.4473684210526315
+Perceived Risk Psychological Factors and Social Implications	0.23404255319148937	0.39473684210526316
+Perception of Risk	0.4054054054054054	0.6060606060606061
+Terrorism and probability neglect	0.2195121951219512	0.48571428571428577

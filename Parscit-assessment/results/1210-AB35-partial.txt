@@ -1,0 +1,48 @@
+	Number: 1210–NEW. Affected Public: Business or other forprofit. Estimated Number of Respondents: 16,000. Estimated Number of Annual Responses: 20,789,000. Frequency of Response: Initially, Annually, Upon Request, when a material change. Estimated Total Annual Burden Hours: 16,126,000 hours in the first year; 13,504,000 hours in each subsequent year. Estimated Total Annual Burden Cost: $642,552,000 for the first year; $493,253,000 for each subsequent year.	List of Subjects in 29 CFR Part 2550 Employee benefit plans, Exemptions, Fiduciaries, Investments, Pensions, Prohibited transactions, Reporting and recordkeeping requirements, and Labor’s Order No.	Sec. 2550.401b–1 also issued under sec. 102, Reorganization Plan No.	Sec. 2550.401c–1 also issued under 29 U.S.C. 1101. Sections 2550.404c–1 and 2550.404c– 5 also issued under 29 U.S.C. 1104. Sec. 2550.407c–3 also issued under 29 U.S.C. 1107. Sec. 2550.404a–2 also issued under 26 U.S.C. 401 note (sec. 657, Pub. L. 107–16, 115 Stat. 38). Sec. 2550.408b–1 also issued under 29 U.S.C. 1108(b)(1) and sec. 102, Reorganization Plan No.	2550.408g–1 also issued under sec. 102, Reorganization Plan No. 4 of 1978, 3 CFR,	For purposes of paragraph (c)(6)(i) retirement ages, life expectancies, income levels, financial resources, replacement income ratios, inflation VerDate Nov<24>2008	Add § 2550.408g–2 to read as follows:	Section 408(g)(11)(A) of the Employee Retirement Income accordance with 29 CFR 2550.408g– 1(b)(5); and (v) Is maintained in accordance with 29 CFR 2550.408g–1(e).	this 9th day of January,
+Field Assistance Bulletin 2007�1	0.6	0.5700000000000001	0.69	0.63	0.69	0.63	0.79	0.6	0.74
+Protecting Senior Investors Report of Examinations of Securities Firms Providing ��Free Lunch�� Sales Seminar	0.64	0.56	0.65	0.71	0.65	0.6	0.74	0.65	0.53
+Technical Explanation Of HR 4 The Pension Protection Act Of 2006 As Passed By The House On July 28 2006 And As Considered By The Senate On August 3 2006	0.63	0.62	0.64	0.6599999999999999	0.6699999999999999	0.6799999999999999	0.6599999999999999	0.65	0.6599999999999999
+The Division of Investment Management Report on Mutual Fund Fees and Expenses	0.5900000000000001	0.55	0.65	0.69	0.69	0.56	0.74	0.64	0.6599999999999999
+Floor Statement of Senate Health Education Labor and Pensions Committee Chairman Enzi	0.6	0.53	0.6799999999999999	0.64	0.69	0.5900000000000001	0.69	0.6	0.5700000000000001
+Advertising and Portfolio Choice	0.6	0.5700000000000001	0.63	0.6599999999999999	0.63	0.5700000000000001	0.72	0.6599999999999999	0.61
+Assessing the Costs and Benefits of Brokers in the Mutual Fund Industr	0.5800000000000001	0.5900000000000001	0.6799999999999999	0.6799999999999999	0.7	0.63	0.6599999999999999	0.63	0.5700000000000001
+Competition in the Mutual Fund Industry Evidence and Implications for Policy	0.6	0.6	0.6	0.65	0.6599999999999999	0.6	0.69	0.62	0.61
+Fees and Expenses of Mutual Funds	0.55	0.5800000000000001	0.6699999999999999	0.6699999999999999	0.6699999999999999	0.5800000000000001	0.73	0.6699999999999999	0.6599999999999999
+Financial Advice and Individual Investors� Portfolios	0.61	0.55	0.65	0.6799999999999999	0.65	0.53	0.65	0.7	0.7
+Identification and Performance of Equity Mutual Funds with High Management Fees and Expense Ratios	0.63	0.61	0.65	0.6799999999999999	0.69	0.61	0.6799999999999999	0.64	0.61
+Investor Timing and Fund Distribution Channels	0.61	0.5700000000000001	0.5700000000000001	0.6599999999999999	0.5700000000000001	0.61	0.74	0.64	0.7
+Performance and Characteristics of Actively Managed Retail Equity Mutual Funds with Diverse Expense Ratios	0.61	0.62	0.65	0.7	0.71	0.61	0.72	0.6599999999999999	0.5700000000000001
+Ranking Mutual Fund Families Minimum Expenses and Maximum Loads as Markers for Moral Turpitude	0.62	0.62	0.6799999999999999	0.7	0.69	0.62	0.6599999999999999	0.69	0.61
+Search Costs and Mutual Fund Fee Dispersion	0.5900000000000001	0.63	0.61	0.61	0.61	0.63	0.77	0.6799999999999999	0.6599999999999999
+The Cost of Active Investing	0.5800000000000001	0.5	0.65	0.6799999999999999	0.65	0.5800000000000001	0.75	0.61	0.6599999999999999
+The Economics of MutualFund Brokerage Evidence from the Cross Section of Investment Channels	0.62	0.56	0.65	0.6699999999999999	0.6699999999999999	0.5900000000000001	0.72	0.64	0.61
+The Influence of Financial Advice on Individual Investor Portfolio Performance	0.5900000000000001	0.56	0.65	0.7	0.7	0.54	0.69	0.6599999999999999	0.6599999999999999
+The Use and Abuse of Mutual Fund Expenses	0.5700000000000001	0.64	0.64	0.64	0.64	0.64	0.73	0.64	0.61
+Yet Another Puzzle Relation Between Price and Performance in the Mutual Fund Industry	0.5700000000000001	0.5700000000000001	0.6699999999999999	0.64	0.6799999999999999	0.62	0.72	0.55	0.5700000000000001
+Are Mutual Fund Fees Competitive What IQRelated Behavior Tells Us	0.6	0.64	0.6599999999999999	0.6799999999999999	0.6799999999999999	0.62	0.69	0.6799999999999999	0.7
+Financial Literacy and Mutual Fund Investments Who Buys Actively Managed Funds	0.5900000000000001	0.5700000000000001	0.6699999999999999	0.7	0.71	0.61	0.74	0.6599999999999999	0.5700000000000001
+Investment Returns Defined Benefits vs 401k Plans	0.62	0.52	0.64	0.6599999999999999	0.64	0.5800000000000001	0.77	0.62	0.7
+Pension Participant Knowledge About Plan Fees	0.5800000000000001	0.54	0.63	0.65	0.63	0.56	0.77	0.65	0.6599999999999999
+The Economics of Providing 401k Plans Services Fees and Expenses 2006	0.64	0.5800000000000001	0.6799999999999999	0.64	0.72	0.6	0.69	0.6599999999999999	0.6599999999999999
+The Performance of US Pension Funds	0.6	0.5800000000000001	0.63	0.6	0.63	0.5800000000000001	0.78	0.6599999999999999	0.7
+Are SP 500 Index Mutual Funds Commodities	0.64	0.61	0.64	0.64	0.69	0.64	0.64	0.5900000000000001	0.74
+The Role of Brokers and Financial Advisors Behind Investment Into Load Funds	0.61	0.54	0.65	0.6799999999999999	0.69	0.54	0.69	0.6599999999999999	0.6599999999999999
+Advisory Opinion	0.63	0.63	0.63	0.69	0.63	0.63	0.75	0.5	0.69
+How Do Mutual Funds Fees Affect Investor Choices Evidence from Survey Experiments	0.62	0.62	0.6799999999999999	0.6699999999999999	0.71	0.5700000000000001	0.74	0.71	0.61
+nan	0.6699999999999999	0.6699999999999999	0.33999999999999997	0.33999999999999997	0.33999999999999997	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.33999999999999997
+Pension Protection Act of 2006	0.64	0.43999999999999995	0.6699999999999999	0.6	0.6	0.54	0.77	0.6	0.6599999999999999
+Fiduciary Requirements for Disclosure in ParticipantDirected Individual Account Plans	0.5900000000000001	0.56	0.63	0.6799999999999999	0.6799999999999999	0.5700000000000001	0.72	0.62	0.6599999999999999
+General Statutory Exemption for services or office space 	0.5800000000000001	0.5700000000000001	0.69	0.6699999999999999	0.6699999999999999	0.5800000000000001	0.72	0.65	0.6599999999999999
+Interpretative Bulletin relating to participant investment education	0.61	0.52	0.7	0.7	0.73	0.55	0.72	0.65	0.61
+Notice of adoption of revisions to annual returnreport forms	0.5700000000000001	0.5700000000000001	0.69	0.7	0.69	0.54	0.74	0.65	0.53
+Reasonable Contract or Arrangement under Section 408b2�Fee Disclosure Proposed Rule	0.61	0.61	0.65	0.62	0.6599999999999999	0.5800000000000001	0.64	0.6699999999999999	0.6599999999999999
+Reorganization Plan No 4 of 1978	0.69	0.6	0.18999999999999995	0.31999999999999995	0.0	0.5700000000000001	0.75	0.6599999999999999	0.6599999999999999
+Mutual Fund Advisory Contracts An Empirical Investigation	0.6	0.5800000000000001	0.64	0.62	0.64	0.64	0.74	0.65	0.6599999999999999
+Costly Search and Mutual Fund Flows	0.5800000000000001	0.6599999999999999	0.69	0.63	0.69	0.6599999999999999	0.6599999999999999	0.6599999999999999	0.6599999999999999
+Are Investors Rational Choices Among Index Funds	0.61	0.5700000000000001	0.65	0.6699999999999999	0.61	0.5900000000000001	0.72	0.63	0.6599999999999999
+Mutual Fund FeeSetting Market Structure and MarkUps	0.61	0.51	0.69	0.65	0.6699999999999999	0.63	0.69	0.6699999999999999	0.6599999999999999
+Out of Sight Out of Mind The Effects of Expenses on Mutual Fund Flows	0.6	0.6	0.65	0.6599999999999999	0.6699999999999999	0.6	0.69	0.64	0.61
+Product Differentiation Search Costs and Competition in the Mutual Fund Industry A Case Study of SP 500 Index Funds	0.6	0.64	0.6799999999999999	0.6599999999999999	0.6799999999999999	0.6599999999999999	0.72	0.65	0.5700000000000001
+The Determinants of the Flow of Funds of Managed Portfolios Mutual Funds vs Pension Funds	0.61	0.6	0.65	0.6599999999999999	0.6699999999999999	0.62	0.6599999999999999	0.62	0.53
+Mutual Fund Advisory Fees The Cost of Conflicts of Interest	0.6	0.63	0.6599999999999999	0.6699999999999999	0.65	0.6	0.72	0.6799999999999999	0.61
+Why Does the Law of One Price Fail An Experiment on Index Mutual Funds	0.53	0.62	0.6799999999999999	0.6799999999999999	0.69	0.62	0.74	0.63	0.48

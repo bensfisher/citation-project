@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<title>ICD–10–CM and ICD–10–PCS in 2011 as HIPAA standard code sets to replace ICD–9–CM. All exclassified as implementation for HIPAA covered entities.</title>
+<marker></marker>
+<rawString>ICD–10–CM and ICD–10–PCS in 2011 as HIPAA standard code sets to replace ICD–9–CM. All exclassified as implementation for HIPAA covered entities.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Robert E Nolan</author>
+</authors>
+<title>Company. For purposes of this Office of Management and Budget.</title>
+<booktitle>VerDate Aug&lt;31&gt;2005 18:09 Aug 21, 2008 Jkt 214001 PO 00000 Frm 00036 Fmt 4701 Sfmt 4702 E:\FR\FM\22AUP3.SGM 22AUP3rw benefits of transitioning from ICD–9 to ICD–10. These reports include ‘‘The Costs and Benefits of Moving to the ICD–10 Code Sets’’ by the RAND Corporation, and ‘‘Replacing ICD–9–CM with ICD–10–CM and ICD–10–PCS Challenges, Estimated Costs, and Potential Benefits’’ by the</booktitle>
+<marker>Nolan, </marker>
+<rawString>VerDate Aug&lt;31&gt;2005 18:09 Aug 21, 2008 Jkt 214001 PO 00000 Frm 00036 Fmt 4701 Sfmt 4702 E:\FR\FM\22AUP3.SGM 22AUP3rw benefits of transitioning from ICD–9 to ICD–10. These reports include ‘‘The Costs and Benefits of Moving to the ICD–10 Code Sets’’ by the RAND Corporation, and ‘‘Replacing ICD–9–CM with ICD–10–CM and ICD–10–PCS Challenges, Estimated Costs, and Potential Benefits’’ by the Robert E. Nolan Company. For purposes of this Office of Management and Budget.</rawString>
+</citation>
+<citation valid="false">
+<title>List of Subjects in 45 CFR Part 162 Administrative practice and procedures, Electronic transactions, Health facilities, Health Insurance, Hospitals, Incorporation by reference, Medicaid, Medicare, Reporting and 1. The authority citation for part 162 continues to read as follows: Authority: Secs.</title>
+<booktitle>1171 through 1179 of the Social Security Act (42 U.S.C. 1320d–1320d– 8), as added by sec. 262 of Public Law 104– 191, 110 Stat. 2021–2031, and sec. 264 of Public Law 104–191, 110 Stat. 2033–2034 (42 U.S.C. 1320d–2(note)).</booktitle>
+<marker></marker>
+<rawString>List of Subjects in 45 CFR Part 162 Administrative practice and procedures, Electronic transactions, Health facilities, Health Insurance, Hospitals, Incorporation by reference, Medicaid, Medicare, Reporting and 1. The authority citation for part 162 continues to read as follows: Authority: Secs. 1171 through 1179 of the Social Security Act (42 U.S.C. 1320d–1320d– 8), as added by sec. 262 of Public Law 104– 191, 110 Stat. 2021–2031, and sec. 264 of Public Law 104–191, 110 Stat. 2033–2034 (42 U.S.C. 1320d–2(note)).</rawString>
+</citation>
+<citation valid="false">
+<title>Section 162.1002 is amended by revising paragraph (b) introductory text and adding paragraph (c) to read as follows. 49832 Federal Register /</title>
+<date>2008</date>
+<booktitle>Proposed Rules (2) International Classification of Diseases, 10th Revision, Clinical Modification (ICD–10–CM) (including The Official ICD–10–CM Guidelines</booktitle>
+<volume>73</volume>
+<marker>2008</marker>
+<rawString>2. Section 162.1002 is amended by revising paragraph (b) introductory text and adding paragraph (c) to read as follows. 49832 Federal Register / Vol. 73, No. 164 / Friday, August 22, 2008 / Proposed Rules (2) International Classification of Diseases, 10th Revision, Clinical Modification (ICD–10–CM) (including The Official ICD–10–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following conditions: (i) Diseases. (ii) Injuries. (iii) Impairments. (iv) Other health problems and their manifestations. (v) Causes of injury, disease, impairment, or other health problems.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Michael O Leavitt</author>
+<author>Secretary</author>
+</authors>
+<title>(3) International Classification of Diseases, 10th Revision, Procedure Classification System (ICD–10–PCS) (including The Official ICD–10–PCS Guidelines for Coding and Reporting),</title>
+<date>2008</date>
+<booktitle>(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program) (Catalog of Federal Domestic Assistance Program No. 93.773, Medicare—Hospital Insurance; and Program No. 93.774, Medicare—Supplementary Medical Insurance Program) Approved:</booktitle>
+<marker>Leavitt, Secretary, 2008</marker>
+<rawString>(3) International Classification of Diseases, 10th Revision, Procedure Classification System (ICD–10–PCS) (including The Official ICD–10–PCS Guidelines for Coding and Reporting), (Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program) (Catalog of Federal Domestic Assistance Program No. 93.773, Medicare—Hospital Insurance; and Program No. 93.774, Medicare—Supplementary Medical Insurance Program) Approved: March 12, 2008. Michael O. Leavitt, Secretary.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Editorial Note</author>
+</authors>
+<title>This document was received at the Office of the Federal Register on</title>
+<date>2008</date>
+<booktitle>FR Doc. E8–19298 Filed 8–15–08; 3:55</booktitle>
+<pages>pm]</pages>
+<marker>Note, 2008</marker>
+<rawString>Editorial Note: This document was received at the Office of the Federal Register on August 15, 2008. [FR Doc. E8–19298 Filed 8–15–08; 3:55 pm]</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<authors>
+<author>CBO</author>
+</authors>
+<title>Letter to Hon. Nancy Pelosi.</title>
+<date>2011</date>
+<institution>Georgetown University: Health Policy Institute.</institution>
+<location>Sabina</location>
+<marker>CBO, 2011</marker>
+<rawString>CBO. 2011. Letter to Hon. Nancy Pelosi. March 20, 2010. http://www.cbo.gov/ftpdocs/113xx/doc11379/AmendReconProp.pdf. Accessed on 7/1/11 Alternative #2: Uniform Standard for Certifying Health Insurance Coverage 31 Corlette, Sabina and JoAnn Volk. 2011 . Active Purchasing for Health Exchanges: An Analysis of Options: Georgetown University: Health Policy Institute.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Craig Volden</author>
+</authors>
+<title>States as Policy Laboratories: Emulating Success in the Children’s Health Insurance Program”</title>
+<date>2006</date>
+<journal>American Journal of Political Science. P.</journal>
+<pages>294--312</pages>
+<marker>Volden, 2006</marker>
+<rawString>32 Volden, Craig. 2006. “States as Policy Laboratories: Emulating Success in the Children’s Health Insurance Program” American Journal of Political Science. P. 294-312.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Sabina Corlette</author>
+<author>JoAnn Volk</author>
+</authors>
+<title>Active Purchasing for Health Exchanges: An Analysis of Options:</title>
+<date>2011</date>
+<institution>Georgetown University: Health Policy Institute.</institution>
+<marker>Corlette, Volk, 2011</marker>
+<rawString>33 Corlette, Sabina and JoAnn Volk. 2011. Active Purchasing for Health Exchanges: An Analysis of Options: Georgetown University: Health Policy Institute.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Christine Federico Girosi Eibner</author>
+<author>Carter C Price</author>
+<author>Amado Cordova</author>
+<author>Peter Hussey</author>
+<author>Alice Beckman</author>
+</authors>
+<title>and Elizabeth McGylnn(2010) Establishing State Health Insurance Exchanges.</title>
+<date>2011</date>
+<journal>Annualized</journal>
+<volume>424</volume>
+<pages>2012--2016</pages>
+<marker>Eibner, Price, Cordova, Hussey, Beckman, 2011</marker>
+<rawString>Annualized 424 2011 7% 2012-2016 34 Eibner, Christine Federico Girosi, Carter C. Price, Amado Cordova, Peter Hussey, Alice Beckman, and Elizabeth McGylnn(2010) Establishing State Health Insurance Exchanges. Rand Health 35 Garret, Bowens and Matthew Buettgens. 2011 “Employer Sponsored Insurance under Health Reform: Reports of Its Demise are Premature” Urban Institute 36 Group, The Lewin, &amp;quot;Patient Protection and Affordable Care Act (PPACA): Long Term Costs for Gvoernments, Employers, Families and Providers,&amp;quot; Staff Working Paper # 11(2010).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Sharon Long</author>
+<author>Karen Stockley</author>
+</authors>
+<title>Health Reform in Massachusetts An Update As of fall</title>
+<date>2010</date>
+<journal>Urban</journal>
+<volume>9633</volume>
+<pages>2012--2016</pages>
+<marker>Long, Stockley, 2010</marker>
+<rawString>37 Long, Sharon and Karen Stockley (2010) Health Reform in Massachusetts An Update As of fall 2009. Urban 9633 2011 3% 2012-2016 Qualitative Risk Adjustment transfers funds among individual and small group market health plan issuers. Reinsurance collects funds from all issuers and distributes it to individual market issuers.</rawString>
+</citation>
+<citation valid="true">
+<title>Citations Actuarial Research Corporation. &amp;quot;Reinsurance attachment point estimates.&amp;quot;</title>
+<date>2010</date>
+<location>Annandale,</location>
+<marker>2010</marker>
+<rawString>IX. Citations Actuarial Research Corporation. &amp;quot;Reinsurance attachment point estimates.&amp;quot; Annandale, 2010.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>ASPE</author>
+</authors>
+<title>The Value of Health Insurance: Few of the Uninsured Have Adequate Resources to Pay Potential Hospital Bills.</title>
+<date>2011</date>
+<marker>ASPE, 2011</marker>
+<rawString>ASPE. The Value of Health Insurance: Few of the Uninsured Have Adequate Resources to Pay Potential Hospital Bills. (2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Number of Firms, Number of Establishments, Employment, and Annual Payroll by Enterprise Employment Size for the United States and States, Totals:</title>
+<date>2008</date>
+<location>Washington,</location>
+<marker>Bureau, 2008</marker>
+<rawString>Bureau, U.S. Census. &amp;quot;Number of Firms, Number of Establishments, Employment, and Annual Payroll by Enterprise Employment Size for the United States and States, Totals: 2008.&amp;quot; Washington, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Burns</author>
+<author>Inc Associates</author>
+</authors>
+<title>Independent Report on the Healthy NY Program for Calendar Year</title>
+<date>2010</date>
+<location>Phoenix,</location>
+<marker>Burns, Associates, 2010</marker>
+<rawString>Burns &amp; Associates, Inc. Independent Report on the Healthy NY Program for Calendar Year 2010. (Phoenix, 2010).</rawString>
+</citation>
+<citation valid="true">
+<title>Medicare &amp; Medicaid Services. &amp;quot;Announcement of Calendar Year (CY)</title>
+<date>2012</date>
+<institution>Center for</institution>
+<location>Baltimore,</location>
+<marker>2012</marker>
+<rawString>Center for Medicare &amp; Medicaid Services. &amp;quot;Announcement of Calendar Year (CY) 2012 Medicare Advantage Capitation Rates and Medicare Advantage and Part D Payment Policies and Final Call Letter.&amp;quot; Baltimore, 2011.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>G Claxton</author>
+<author>B DiJulio</author>
+<author>B Finder</author>
+<author>J Lundy</author>
+<author>M McHugh</author>
+<author>A Osei-Anto</author>
+<author>H Whitmore</author>
+<author>J Pickreign</author>
+<author>J Gabel</author>
+</authors>
+<title>Employer Health Benefits,</title>
+<date>2010</date>
+<booktitle>Health Research and Educational Trust,</booktitle>
+<marker>Claxton, DiJulio, Finder, Lundy, McHugh, Osei-Anto, Whitmore, Pickreign, Gabel, 2010</marker>
+<rawString>Claxton, G., B. DiJulio, B. Finder, J. Lundy, M. McHugh, A. Osei-Anto, H. Whitmore, J. Pickreign, and J. Gabel. Employer Health Benefits, 2010 Annual Survey. Menlo Park: Henry J. Kaiser Family Foundation, Health Research and Educational Trust, 2010. Congressional Budget Office. &amp;quot;Letter to the Honorable Evan Bayh: An Analysis of Health Insurance Premiums Under the Patient Protection and Affordable Care Act &amp;quot;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Washington</author>
+</authors>
+<date>2009</date>
+<marker>Washington, 2009</marker>
+<rawString>Washington, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>K Cook</author>
+<author>D Dranove</author>
+<author>A Sfekas</author>
+</authors>
+<title>Does major illness cause financial catastrophe?&amp;quot;</title>
+<date>2010</date>
+<journal>Health Services Research</journal>
+<volume>45</volume>
+<pages>418--36</pages>
+<marker>Cook, Dranove, Sfekas, 2010</marker>
+<rawString>Cook, K., D. Dranove, and A. Sfekas. &amp;quot;Does major illness cause financial catastrophe?&amp;quot; Health Services Research 45, no. 2 (2010): 418-36.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>APCD Council</author>
+</authors>
+<title>Cost and Funding Considerations for a Statewide All-Payer Claims Database (APCD). .&amp;quot;</title>
+<date>2011</date>
+<marker>Council, 2011</marker>
+<rawString>Council, APCD. &amp;quot;Cost and Funding Considerations for a Statewide All-Payer Claims Database (APCD). .&amp;quot; (2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Amy Finkelstein</author>
+<author>Sarah Taubman</author>
+<author>Bill Wright</author>
+<author>Mira Bernstein</author>
+<author>Jonathan Gruber</author>
+<author>Joseph P Newhouse</author>
+<author>Heidi Allen</author>
+</authors>
+<title>Katherine Baicker, and The Oregon Health Study Group. &amp;quot;The Oregon Health Insurance Experiment: Evidence from the First Year.&amp;quot;</title>
+<date>2011</date>
+<journal>National Bureau of Economic Research Working Paper Series</journal>
+<volume>17190</volume>
+<marker>Finkelstein, Taubman, Wright, Bernstein, Gruber, Newhouse, Allen, 2011</marker>
+<rawString>Finkelstein, Amy, Sarah Taubman, Bill Wright, Mira Bernstein, Jonathan Gruber, Joseph P. Newhouse, Heidi Allen, Katherine Baicker, and The Oregon Health Study Group. &amp;quot;The Oregon Health Insurance Experiment: Evidence from the First Year.&amp;quot; National Bureau of Economic Research Working Paper Series No. 17190 (2011).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J Gabel</author>
+<author>R McDevitt</author>
+<author>L Gandolfo</author>
+<author>J Pickreign</author>
+<author>S Hawkins</author>
+<author>C Fahlman</author>
+</authors>
+<title>Generosity and adjusted premiums in job-based insurance: Hawaii is up, Wyoming is down.&amp;quot;</title>
+<date>2006</date>
+<journal>Health Affairs</journal>
+<volume>25</volume>
+<pages>832</pages>
+<marker>Gabel, McDevitt, Gandolfo, Pickreign, Hawkins, Fahlman, 2006</marker>
+<rawString>Gabel, J., R. McDevitt, L. Gandolfo, J. Pickreign, S. Hawkins, and C. Fahlman. &amp;quot;Generosity and adjusted premiums in job-based insurance: Hawaii is up, Wyoming is down.&amp;quot; Health Affairs 25, no. 3 (2006): 832.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>The Lewin Group</author>
+</authors>
+<title>Patient Protection and Affordable Care Act (PPACA): Long Term Costs for Gvoernments, Employers, Families and Providers.&amp;quot; Staff Working Paper</title>
+<date>2010</date>
+<journal></journal>
+<volume>11</volume>
+<marker>Group, 2010</marker>
+<rawString>Group, The Lewin. &amp;quot;Patient Protection and Affordable Care Act (PPACA): Long Term Costs for Gvoernments, Employers, Families and Providers.&amp;quot; Staff Working Paper # 11 (2010).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A H Haider</author>
+<author>D C Chang</author>
+<author>D T Efron</author>
+<author>E R Haut</author>
+<author>M Crandall</author>
+<author>E E Cornwell</author>
+</authors>
+<title>Race and insurance status as risk factors for trauma mortality.&amp;quot;</title>
+<date>2008</date>
+<journal>Archives of Surgery</journal>
+<volume>143</volume>
+<pages>945</pages>
+<marker>Haider, Chang, Efron, Haut, Crandall, Cornwell, 2008</marker>
+<rawString>Haider, A.H., D.C. Chang, D.T. Efron, E.R. Haut, M. Crandall, and E.E. Cornwell III. &amp;quot;Race and insurance status as risk factors for trauma mortality.&amp;quot; Archives of Surgery 143, no. 10 (2008): 945.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>of Medicine</author>
+</authors>
+<title>Care without coverage: too little, too late:</title>
+<date>2002</date>
+<publisher>National Academies Press,</publisher>
+<institution>Institute</institution>
+<marker>Medicine, 2002</marker>
+<rawString>Institute of Medicine. Care without coverage: too little, too late: National Academies Press, 2002.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>H Levy</author>
+<author>D Meltzer</author>
+</authors>
+<title>The impact of health insurance on health.&amp;quot;</title>
+<date>2008</date>
+<journal>Annu. Rev. Public Health</journal>
+<volume>29</volume>
+<pages>399--409</pages>
+<marker>Levy, Meltzer, 2008</marker>
+<rawString>Levy, H., and D. Meltzer. &amp;quot;The impact of health insurance on health.&amp;quot; Annu. Rev. Public Health 29 (2008): 399-409.</rawString>
+</citation>
+<citation valid="true">
+<title>of Health Care Finance and Policy. &amp;quot;2009 Annual Report Health Safety Net.&amp;quot;</title>
+<date>2009</date>
+<institution>Massachusetts Division</institution>
+<location>Boston,</location>
+<marker>2009</marker>
+<rawString>Massachusetts Division of Health Care Finance and Policy. &amp;quot;2009 Annual Report Health Safety Net.&amp;quot; Boston, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Patrick B Miller</author>
+</authors>
+<title>All-Payer Claims Databases. (Robert Woods Johnson Foundation.</title>
+<date>2010</date>
+<location></location>
+<marker>Miller, 2010</marker>
+<rawString>Miller, Patrick B, et al. All-Payer Claims Databases. (Robert Woods Johnson Foundation. , 2010).</rawString>
+</citation>
+<citation valid="true">
+<title>Office of External Affairs and Beneficiary Services, Unpublished. &amp;quot;FY</title>
+<date>2010</date>
+<marker>2010</marker>
+<rawString>Office of External Affairs and Beneficiary Services, Unpublished. &amp;quot;FY 2010 SHIP Basic Grant Funding.&amp;quot; Center for Medicare &amp; Medicaid Services, 2009.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Peter B Smulowitz</author>
+<author>Robert Lipton</author>
+<author>J Frank Wharam</author>
+<author>Leon Adelman</author>
+<author>Scott G Weiner</author>
+<author>Laura Burke</author>
+<author>Christopher W Baugh</author>
+<author>Jeremiah D Schuur</author>
+<author>Shan W Liu</author>
+<author>Meghan E McGrath</author>
+<author>Bella Liu</author>
+<author>Assaad Sayeh</author>
+<author>Mary C Burke</author>
+<author>J Hector Pope</author>
+<author>Bruce E Landon</author>
+</authors>
+<title>Office of the Inspector General. Medicaid Managed Care Encounter Data: Collection and Use.</title>
+<date>2009</date>
+<marker>Smulowitz, Lipton, Wharam, Adelman, Weiner, Burke, Baugh, Schuur, Liu, McGrath, Liu, Sayeh, Burke, Pope, Landon, 2009</marker>
+<rawString>Office of the Inspector General. Medicaid Managed Care Encounter Data: Collection and Use. (2009). Pew Internet &amp; Life Project. &amp;quot;Trend Data.&amp;quot; http://www.pewinternet.org/Trend-Data/OnlineActivities-Daily.aspx. Smulowitz, Peter B., Robert Lipton, J. Frank Wharam, Leon Adelman, Scott G. Weiner, Laura Burke, Christopher W. Baugh, Jeremiah D. Schuur, Shan W. Liu, Meghan E. McGrath, Bella Liu, Assaad Sayeh, Mary C. Burke, J. Hector Pope, and Bruce E. Landon. &amp;quot;Emergency Department Utilization After the Implementation of Massachusetts Health Reform.&amp;quot; Annals of Emergency Medicine In Press, Corrected Proof.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>K Swartz</author>
+<author>C Fund</author>
+</authors>
+<title>Reinsurance: How States Can Make Health Coverage More Affordable for Employers and Workers: Commonwealth Fund,</title>
+<date>2005</date>
+<marker>Swartz, Fund, 2005</marker>
+<rawString>Swartz, K., and C. Fund. Reinsurance: How States Can Make Health Coverage More Affordable for Employers and Workers: Commonwealth Fund, 2005.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>K Swartz</author>
+<author>P S Keenan</author>
+</authors>
+<title>Healthy New York: Making Insurance More Affordable for LowIncome Workers: The Commonwealth Fund.,</title>
+<date>2001</date>
+<marker>Swartz, Keenan, 2001</marker>
+<rawString>Swartz, K., and P.S. Keenan. Healthy New York: Making Insurance More Affordable for LowIncome Workers: The Commonwealth Fund., 2001.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>J S Weissman</author>
+<author>J A Bigby</author>
+</authors>
+<title>Massachusetts Health Care Reform—Near-Universal Coverage at What Cost?&amp;quot;</title>
+<date>2009</date>
+<journal>New England Journal of Medicine</journal>
+<volume>361</volume>
+<pages>2012--15</pages>
+<marker>Weissman, Bigby, 2009</marker>
+<rawString>Weissman, J.S., and J.A. Bigby. &amp;quot;Massachusetts Health Care Reform—Near-Universal Coverage at What Cost?&amp;quot; New England Journal of Medicine 361, no. 21 (2009): 2012-15.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

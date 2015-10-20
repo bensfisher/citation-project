@@ -1,0 +1,79 @@
+	NO PARSCIT CITATIONS
+Harkin Boswell want Maytag sale blocked	0.9333333333333333
+Justice to Extend MaytagWhirlpool Merger Review	0.8857142857142857
+The ShareofMarket Picture	0.6923076923076923
+Kytlteknisk Tidskript	0.8333333333333334
+Microeconomics 5th ed	0.9166666666666666
+Appliances Database—Refrigeration	0.7931034482758621
+Clean Air Markets – Data and Maps	0.7777777777777778
+Current Construction Reports C25 – New OneFamily Houses Sold	0.6756756756756757
+Federal Reserve Statistical Release Selected Interest Rates Historical Data Instrument CDs secondary market Maturity 6month Frequency Annual Description Average rate on 6month negotiable certificates of deposit secondary market quoted on an investment basis	0.7209302325581395
+Federal Reserve Statistical Release Selected Interest Rates Historical Data Instrument Corporate bondsMoody’s Seasoned AAA Frequency Annual Description Moody’s yield on seasoned corporate bonds—all industries AAA	0.7
+Federal Reserve Statistical Release Selected Interest Rates Historical Data Instrument State and local bonds Maturity 20year Frequency Monthly  Description Bond buyer go 20bond municipal bond index 	0.8095238095238095
+Historical Income Tables – Households Table H6	0.8064516129032258
+NIST Standard Reference Database 23 NIST Thermodynamic Properties of Refrigerants and Refrigerant Mixtures Database Version 30	0.6666666666666667
+Reference Fluid Thermodynamic and Transport Properties	0.75
+Table 119 Implicit Price Deflators for Gross Domestic Product	0.7575757575757576
+ Form EIA861	0.7142857142857143
+An Updated Annual Energy Outlook 2009 Reference Case Reflecting Provisions of the American Recovery and Reinvestment Act and Recent Changes in the Economic Outlook	0.7073170731707317
+Appliance Efficiency Regulations	0.7857142857142857
+Application of a Hard Sphere Equation of State to Refrigerants and Refrigerant Mixtures	0.7714285714285715
+Canada Gazette Part II Statutory Instruments 2006	0.6774193548387097
+Canada’s Energy Efficiency Regulations Residential Wine Chillers or Wine Coolers Final Bulletin	0.8235294117647058
+Clean Air Interstate Rule	0.5833333333333333
+Cold II The revision of energy labeling and minimum energy efficiency standards for domestic refrigeration appliances Final Report	0.7222222222222222
+Commercial Building Energy Consumption Survey	0.8125
+Commercial Building Energy Consumption Survey 2003 Public Use Data Files	0.8
+Consumer Products Efficiency Standards Engineering Analysis	0.6875
+Consumer Products Efficiency Standards Engineering Analysis Document	0.696969696969697
+Department of Justice Antitrust Division Statement on the Closing of its Investigation of Whirlpool’s Acquisition of Maytag	0.7435897435897436
+ENERGY STAR Criteria for Refrigerators Overview of ENERGY STAR Criteria Setting Process and History of Refrigerator Criteria	0.5263157894736843
+ERA 12E EPA Refrigerator Analysis Program User’s Manual Report to the Environmental Protection Agency Atmospheric Pollution Prevention Division	0.7948717948717949
+Federal Reserve Statistical Release Selected Interest Rates Historical Data Instrument Corporate bondsMoodys Seasoned AAA Frequency Annual Description Moodys yield on seasoned corporate bonds  all industries AAA	0.6842105263157895
+Final ENERGY STAR Program Requirements and Criteria for Residential Refrigerators and Freezers	0.5789473684210527
+Implementation Report Energy Conservation Standards Activities Submitted Pursuant to Section 141 of the Energy Policy Act of 2005	0.6744186046511628
+ImSET Impact of Sector Energy Technologies	0.7419354838709677
+Market Analysis of Potential Changes to the ENERGY STAR Criteria for Refrigerators	0.5555555555555556
+NOM015ENER2002 Energy Efficiency of Household Refrigerators and Freezers Limits Test Methods and Labeling	0.7674418604651163
+Report to Congress on the Costs and Benefits of Federal Regulations and Unfunded Mandates on State Local and Tribal Entities	0.736842105263158
+Residential Energy Tax Credits	0.7037037037037037
+Resources for Appliance Manufacturers and Retailers Appliance Sales Data 1998–2006	0.7837837837837838
+Revision of the ENERGY STAR Criteria for Residential Refrigerators and Freezers	0.6111111111111112
+Six Common Air Pollutants	0.6153846153846154
+State of the art survey of hermetic compressor technology applicable to domestic refrigeratorfreezers	0.8787878787878788
+Survey of Consumer Finances 1989 1992 1995 1998 2001 2004 2007	0.8285714285714285
+Allowance Prices 19952004 SO2 Allowance Price Index	0.6470588235294117
+Energy Efficiency Domestic refrigerators and freezers	0.9285714285714286
+ENERGY STAR Refrigerators  Freezers Key Product Criteria	0.5675675675675675
+GasFilled Panels – How effectively do GFPs insulate	0.8709677419354839
+2008 Lodging Survey Lodging Services Facilities and Trends	0.8181818181818181
+Aggregated RefrigeratorFreezer Incremental Cost Data for DOE RefrigeratorFreezer Energy Efficiency Standards Rulemaking	0.631578947368421
+Aging of Polyurethane Foam Insulation in Simulated Refrigerator Panels – FourYear Results with ThirdGeneration Blowing Agents	0.641025641025641
+AHAM Fact Books 1987 1988 1993 1995	0.8571428571428572
+An Investigation of Household Refrigerator Cabinet Thermal Loads	0.6571428571428571
+Developments in domestic refrigeration and consumer attitudes	0.9310344827586207
+State sales tax rates along with combined average city and county rates	0.875
+Statistical Review	0.7272727272727273
+The NPD GroupNPD Houseworld – POS Refrigerators Freezers January – December 2007	0.7021276595744681
+The NPD GroupNPD Houseworld – POS Refrigerators January – December 2007	0.6888888888888889
+Transition of Blowing Agents Used in RefrigeratorFreezer Foam Insulation	0.7058823529411764
+Embraco’s path in China	0.8461538461538461
+Fact Book 2005—A Statistical Overview of the Home Appliance Industry 2005	0.7619047619047619
+Final Report Home Appliance Saturation and Length of First Ownership Study	0.7297297297297297
+National Residential Home Appliance Market Transformation Strategic Plan	0.6
+Vaqplus data sheet	0.9090909090909091
+GE Consumer  Industrial Press Room Refrigerators GE Profile Refrigerators with ClimateKeeper2™ Technology Offer Fresh Solutions in a Variety of Sizes	0.6444444444444444
+Green Technology Linear DIOS	0.6551724137931034
+HomeTips	0.8888888888888888
+KitchenAid 27” Double Drawer Refrigerator with 53 cuft Capacity Dual Evaporator Independent Temperatures  Extend Fresh Pantry	0.7083333333333333
+On application of nonazeotropic two component refrigerants in domestic refrigerator and home freezers	0.8666666666666667
+Product Life of Refrigerators	0.7692307692307692
+The Sun Frost RF19	0.6799999999999999
+nan	1.0
+SidebySide RefrigeratorFreezer Models 48” 2 Door SidebySide with Stainless Steel InteriorExterior with Full Length Glass Door	0.813953488372093
+EPA Refrigerator Analysis ERA Program Users Manual Version 10	0.7647058823529411
+Energy Conservation Program for Consumer Products Decision and Order Granting a Waiver to Liebherr Hausgeräte From the Department of Energy Electric Refrigerator and Electric RefrigeratorFreezer Test Procedures	0.7333333333333334
+Rule To Reduce Interstate Transport of Fine Particulate Matter and Ozone Clean Air Interstate Rule Revisions to Acid Rain Program Revisions to the NOX SIP Call Final Rule	0.5238095238095238
+Title 10—Energy Chapter II—Department of Energy Part 430—Energy Conservation Program for Consumer Products Subpart A—General Provisions Section 4302— Definitions	0.6956521739130435
+Discount rates in consumer energy related decisions a review of the literature	0.935483870967742
+Testing of propaneisobutane mixture in domestic refrigerators	0.8620689655172413

@@ -1,0 +1,55 @@
+	Division of Regulations, Legislation, and Interpretation, U.S. Department of Labor, Wage and Hour Division, 200 Constitution Avenue NW., Room S– 81197 Federal Register /	Costs with Overtime Work in U.S.	Does the Statutory Overtime Premium Discourage Long Workweeks?’’ Industrial and Labor Relations Review, 56(3): 530– 81221	Census Bureau, Center for Economic Studies. Business Dynamics Statistics: Firm Age by Firm Size. Available at: http://www.ces.census.gov/ index.php/bds/bds_database_list. Accessed	National Population Projections. Table 2: Projections of the Population by Selected Age Groups and Sex for the United States:	Occupational Outlook Handbook, 2010–11 Edition, Home Health Aides and Personal and Home Care Aides, on the Internet at http://www.bls.	81244 Federal Register /	The authority citation for part 552 continues to read as follows: Authority: 29 U.S.C. 213(a)(15), (b)(21), 88 stat. 62; Sec. 29(b) of the Fair Labor Standards Act Amendments of
+New Options and Risks in Home Care for Elderly	0.5900000000000001	0.6	0.64	0.61	0.5900000000000001	0.45999999999999996	0.7	0.5700000000000001
+ReThinking Fiscal Multipliers	0.6599999999999999	0.76	0.6599999999999999	0.6599999999999999	0.6599999999999999	0.6599999999999999	0.6599999999999999	0.6599999999999999
+Labor Demand	0.33999999999999997	0.6699999999999999	0.33999999999999997	0.6699999999999999	0.6699999999999999	0.5900000000000001	0.75	0.25
+2008 National Population Projections	0.5	0.7	0.56	0.64	0.25	0.5900000000000001	0.7	0.53
+BLS Occupational Employment Statistics	0.64	0.74	0.64	0.5	0.5800000000000001	0.56	0.74	0.61
+Business Dynamics Statistics Firm Age by Firm Size	0.62	0.5700000000000001	0.62	0.0	0.6599999999999999	0.6599999999999999	0.6599999999999999	0.6799999999999999
+National Employment MatrixSearch by Occupation	0.5700000000000001	0.6699999999999999	0.6599999999999999	0.6599999999999999	0.55	0.5900000000000001	0.74	0.61
+Standard Occupational Classification	0.56	0.74	0.62	0.7	0.56	0.62	0.74	0.62
+US Census Bureau Health Care and Social Assistance Estimated YeartoYear Change in Revenue for Employer Firms by Source	0.62	0.6	0.6599999999999999	0.5700000000000001	0.63	0.62	0.61	0.64
+2011 Statistical Abstract	0.64	0.76	0.6	0.52	0.64	0.6	0.65	0.64
+Characteristics of Supplemental Nutrition Assistance Program Households Fiscal Year 2009	0.62	0.64	0.64	0.63	0.62	0.62	0.6599999999999999	0.63
+Overtime and extended work shifts Recent findings on illnesses injuries and health behaviors	0.62	0.5700000000000001	0.5700000000000001	0.61	0.62	0.61	0.61	0.64
+The Changing Demographic Profile of the United States	0.65	0.64	0.65	0.61	0.48	0.55	0.61	0.61
+The Medicare Payment Advisory Commission MedPAC	0.5800000000000001	0.6699999999999999	0.62	0.62	0.64	0.62	0.6599999999999999	0.64
+2011 Annual Report of the Boards of Trustees of the Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds	0.65	0.5700000000000001	0.6599999999999999	0.65	0.61	0.63	0.48	0.64
+Background Report on the US Home Care and Personal Assistance Workforce and Industry Forthcoming	0.5900000000000001	0.5700000000000001	0.5900000000000001	0.64	0.61	0.55	0.53	0.64
+Californias DirectCare Workforce	0.54	0.5700000000000001	0.5700000000000001	0.6	0.54	0.63	0.7	0.6
+Fair Pay for Home Care Workers	0.5700000000000001	0.6599999999999999	0.6	0.6	0.5700000000000001	0.47	0.74	0.6
+Family caregiving in the US Findings from a national study	0.61	0.6699999999999999	0.64	0.5700000000000001	0.5900000000000001	0.61	0.7	0.56
+Home Health Study Report Literature Review	0.6	0.64	0.53	0.65	0.6	0.53	0.61	0.65
+Meals on Wheels of Contra Costa County	0.5800000000000001	0.6699999999999999	0.56	0.61	0.5800000000000001	0.5800000000000001	0.6599999999999999	0.5800000000000001
+Medicare and Home Health Care	0.5900000000000001	0.76	0.63	0.6599999999999999	0.56	0.42000000000000004	0.7	0.63
+The PHI Matching Services Project	0.61	0.6599999999999999	0.5800000000000001	0.64	0.52	0.5800000000000001	0.7	0.5800000000000001
+Who Pays for Home Care Services	0.65	0.6699999999999999	0.5900000000000001	0.5900000000000001	0.55	0.45999999999999996	0.69	0.5900000000000001
+15 Million Oregon Private Pay Homecare Registry for Sale	0.5800000000000001	0.64	0.61	0.65	0.5800000000000001	0.54	0.48	0.61
+2009 BLS Occupational Employment Survey employment and Wages for SOC codes 399021 and 311011	0.6	0.6699999999999999	0.6699999999999999	0.69	0.61	0.6	0.7	0.61
+BLS National Compensation Survey	0.5	0.6699999999999999	0.54	0.63	0.54	0.6	0.7	0.54
+Brief of Amici Curiae City of New York	0.64	0.64	0.56	0.61	0.61	0.61	0.6599999999999999	0.64
+Consumer Direction and Family Caregiving Results from a National Survey	0.5700000000000001	0.6	0.61	0.61	0.5700000000000001	0.5700000000000001	0.61	0.61
+Experienced Home Care Registry About Us	0.62	0.6699999999999999	0.62	0.62	0.5900000000000001	0.47	0.43999999999999995	0.62
+FY 2011 Budget	0.5800000000000001	0.72	0.72	0.65	0.65	0.5800000000000001	0.72	0.65
+Golden Care Co Inc Billing Policy	0.64	0.6699999999999999	0.6699999999999999	0.64	0.61	0.61	0.79	0.64
+Home care aides voices from the field Job experiences of personal support specialists	0.63	0.6	0.64	0.62	0.5800000000000001	0.5700000000000001	0.6599999999999999	0.63
+Home Care Services for Seniors in Tolland and Hartford Counties in Connecticut	0.54	0.5700000000000001	0.5900000000000001	0.62	0.61	0.53	0.61	0.63
+Interview of Michael Elsas President and Adria Powell Executive Vice President of Cooperative Health Care Associates by Calvin Franz and Lauren Jankovic of ERG	0.63	0.64	0.63	0.6799999999999999	0.6	0.62	0.61	0.64
+Minimum Wage	0.6699999999999999	0.6699999999999999	0.5900000000000001	0.5900000000000001	0.5900000000000001	0.5900000000000001	0.75	0.6699999999999999
+The Personal Assistance Services and DirectSupport Workforce A Literature Review	0.5900000000000001	0.5700000000000001	0.6	0.63	0.6	0.5800000000000001	0.61	0.64
+The State of the States in Family Caregiver Support A 50State Study	0.63	0.64	0.63	0.6	0.5700000000000001	0.5700000000000001	0.53	0.6
+Understanding Medicaid Home and Community Services A Primer	0.5800000000000001	0.6	0.65	0.63	0.6	0.56	0.7	0.63
+A Data Book Healthcare Spending and the Medicare Program	0.5900000000000001	0.6699999999999999	0.63	0.6699999999999999	0.5900000000000001	0.54	0.6599999999999999	0.61
+Occupational Outlook Handbook 201011 Edition	0.6	0.6699999999999999	0.64	0.73	0.5700000000000001	0.06999999999999995	0.79	0.64
+Federal Register 2011 p 5481	0.4	0.71	0.61	0.65	0.6799999999999999	0.65	0.27	0.65
+Requirements for MedicaidFunded Personal Care Service Attendants	0.6	0.7	0.65	0.5700000000000001	0.5800000000000001	0.5	0.5700000000000001	0.63
+Job Perceptions and Intent to Leave Among Direct Care Workers Evidence From the Better Jobs Better Care Demonstrations	0.5800000000000001	0.5	0.64	0.6599999999999999	0.6	0.5900000000000001	0.5700000000000001	0.63
+The Effects of Overtime Pay Regulation on Worker Compensation	0.55	0.5	0.5	0.6599999999999999	0.53	0.5800000000000001	0.61	0.6
+Organizing home care Lowwaged workers in the welfare state	0.61	0.6	0.5900000000000001	0.64	0.56	0.52	0.61	0.64
+The impact of overtime and long work hours on occupational injuries and illnesses new evidence from the United States	0.5900000000000001	0.5	0.5900000000000001	0.61	0.5	0.55	0.6599999999999999	0.6
+The association between continuity of care and outcomes a systematic and critical review	0.5700000000000001	0.6	0.61	0.62	0.5800000000000001	0.6	0.61	0.55
+Effects of extended work shifts and shift work on patient safety productivity and employee health	0.61	0.54	0.63	0.63	0.5900000000000001	0.62	0.6599999999999999	0.64
+Quits and job changes among home care workers in Maine The role of wages hours and benefits	0.6	0.54	0.61	0.64	0.5800000000000001	0.5800000000000001	0.6599999999999999	0.62
+Does the Statutory Overtime Premium Discourage Long Workweeks	0.5800000000000001	0.47	0.0	0.64	0.6	0.63	0.7	0.6
+The Structure of Labor Costs with Overtime Work in US Jobs	0.56	0.0	0.56	0.64	0.63	0.64	0.7	0.5900000000000001
+The labor market for home care workers Demand supply and institutional barriers	0.55	0.64	0.5900000000000001	0.6	0.63	0.56	0.6599999999999999	0.5700000000000001
+Psychosocial factors contributing to occupational injuries among direct care workers	0.62	0.64	0.65	0.64	0.5900000000000001	0.61	0.7	0.5900000000000001

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<title>A State may provide benchmark or benchmark-equivalent coverage through (Catalog of Federal Domestic Assistance Program</title>
+<date>2007</date>
+<booktitle>No. 93.778, Medical Assistance Program) Dated: October 11,</booktitle>
+<marker>2007</marker>
+<rawString>(c) A State may provide benchmark or benchmark-equivalent coverage through (Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program) Dated: October 11, 2007. Kerry Weems, Acting Administrator, Centers for Medicare &amp; Medicaid Services.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Approved</author>
+</authors>
+<date>2007</date>
+<marker>Approved, 2007</marker>
+<rawString>Approved: November 1, 2007. Michael O. Leavitt, Secretary.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Editorial Note</author>
+</authors>
+<title>This document was received at the Office of the Federal Register on</title>
+<date>2008</date>
+<booktitle>[FR Doc. E8–3206 Filed 2–21–08; 8:45 am] Medicaid Program; Premiums and Cost Sharing AGENCY: Centers for Medicare &amp; Medicaid Services (CMS), HHS. ACTION: Proposed rule.</booktitle>
+<marker>Note, 2008</marker>
+<rawString>Editorial Note: This document was received at the Office of the Federal Register on February 15, 2008. [FR Doc. E8–3206 Filed 2–21–08; 8:45 am] Medicaid Program; Premiums and Cost Sharing AGENCY: Centers for Medicare &amp; Medicaid Services (CMS), HHS. ACTION: Proposed rule.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

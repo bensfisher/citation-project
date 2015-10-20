@@ -1,0 +1,14 @@
+	NO PARSCIT CITATIONS
+Times Are Changing for Gas Storage	0.782608695652174
+Lessons Learned form Natural Gas STAR Partners Composite Wrap for NonLeaking Pipeline Defects	0.7419354838709677
+Reconsideration of Maximum Allowable Operating Pressure for Natural Gas Pipelines	0.8064516129032258
+Distribution  Transmission Annual Mileage Totals 19842005	0.90625
+Final Regulatory Evaluation Pipeline Integrity Management in High Consequence Areas	0.8125
+PHMSA200523387	0.8333333333333334
+Impact of 80 SMYS Operation on Time Dependent Threats	0.8275862068965517
+Increasing MAOP on US Gas Transmission Pipelines	0.72
+Special Permit Analysis and Findings	0.84
+Data Submission	0.9
+Composite Wrap for NonLeaking Pipeline Defects	0.8571428571428572
+Dialogue 	0.9444444444444444
+Response 	0.8666666666666667

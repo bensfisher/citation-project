@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<title>Industrial Production Index (NAICS 2211).................................................................. 3-2 3-2. Internal Combustion Generators by State:</title>
+<date>2006</date>
+<journal>NAICS</journal>
+<booktitle>Direct Requirements for Hospitals (NAICS 622):</booktitle>
+<volume>211</volume>
+<pages>3--3</pages>
+<publisher>FY</publisher>
+<note>x</note>
+<marker>2006</marker>
+<rawString>3-1. Industrial Production Index (NAICS 2211).................................................................. 3-2 3-2. Internal Combustion Generators by State: 2006........................................................... 3-3 3-3. 2002 Regional Distribution of Establishments: Electric Power Generation, Transmission, and Distribution Industry (NAICS 2211).............................................. 3-5 3-4. Industrial Production Index (NAICS 211).................................................................. 3-10 3-5. 2002 Regional Distribution of Establishments: Crude Petroleum and Natural Gas Extraction Industry (NAICS 211111).................................................................. 3-12 3-6. 2002 Regional Distribution of Establishments: Natural Gas Liquid Extraction Industry (NAICS 211112) .......................................................................................... 3-13 3-7. Trends in Marginal Oil and Gas Production: 1997 to 2006........................................ 3-16 3-8. Distribution of Establishments within Pipeline Transportation (NAICS 486) ........... 3-17 3-9. Distribution of Revenue within Pipeline Transportation (NAICS 486) ..................... 3-17 3-10. 2002 Regional Distribution of Establishments: Pipeline Transportation (NAICS 486) ............................................................................................................................. 3-19 3-11. Share of Establishments by Legal Form of Organization in the Pipeline Transportation of Natural Gas Industry (NAICS 48621): 2002 ................................. 3-20 3-12. 2002 Regional Distribution of Establishments: General Medical and Surgical Hospital Industry (NAICS 6221) ................................................................................ 3-24 3-13. Share of Establishments by Legal Form of Organization in the General Medical and Surgical Hospitals Industry (NAICS 6221): 2002 ............................................... 3-25 3-14. Industrial Production Index (NAICS 333111)............................................................ 3-29 3-15. 2003 Regional Distribution of Irrigated Acres ........................................................... 3-32 3-16. 2002 Regional Distribution of Establishments: Heavy and Civil Engineering Construction (NAICS 237) ......................................................................................... 3-33 3-1. Key Statistics: Electric Power Generation, Transmission, and Distribution (NAICS 2211) ($2007) ................................................................................................. 3-2 3-2. Direct Requirements for Electric Power Generation, Transmission, and Distribution (NAICS 2211): 2002 ................................................................................ 3-4 3-3. Firm Concentration for Electric Power Generation, Transmission, and Distribution (NAICS 2211): 2002 ................................................................................ 3-6 3-4. United States Retail Electricity Sales Statistics: 2006.................................................. 3-7 3-5. FY 2007 Financial Data for 70 U.S. Shareholder-Owned Electric Utilities................. 3-8 3-6. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 2211 ......................... 3-8 3-7. Key Enterprise Statistics by Receipt Size for Electric Power Generation, Transmission, and Distribution (NAICS 2211): 2002 .................................................. 3-9 3-8. Key Statistics: Crude Petroleum and Natural Gas Extraction (NAICS 211111): ($2007)........................................................................................................................ 3-10 3-9. Key Statistics: Natural Gas Liquid Extraction (NAICS 211112) ($2007) ................. 3-11 3-10. Direct Requirements for Oil and Gas Extraction (NAICS 211): 2002 ....................... 3-11 3-11. Key Enterprise Statistics by Employment Size for Crude Petroleum and Natural Gas Extraction (NAICS 211111): 2002...................................................................... 3-13 3-12. Key Enterprise Statistics by Employment Size for Crude Natural Gas Liquid Extraction (NAICS 211112): 2002 ............................................................................. 3-14 3-13. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 211......................... 3-14 3-14. Reported Gross Revenue Estimates from Marginal Wells: 2006 ............................... 3-15 3-15. Key Statistics: Pipeline Transportation of Natural Gas (NAICS 48621) ($2007)...... 3-16 3-16. Direct Requirements for Pipeline Transportation (NAICS 486): 2002 ...................... 3-18 3-17. Firm Concentration for Pipeline Transportation of Natural Gas (NAICS 48621): 2002............................................................................................................................. 3-20 3-18. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 486 ......................... 3-21 3-19. Key Enterprise Statistics by Receipt Size for Pipeline Transportation of Natural Gas (NAICS 48621): 2002.......................................................................................... 3-22 3-20. Key Statistics: General Medical and Surgical Hospitals (NAICS 6221) ($2007) ...... 3-23 3-21. Direct Requirements for Hospitals (NAICS 622): 2002............................................. 3-23 3-22. Firm Concentration for General Medical and Surgical Hospitals (NAICS 6221): 2002............................................................................................................................. 3-25 3-23. Government Control and Ownership for General Medical and Surgical Hospitals (NAICS 6221): 2002................................................................................... 3-26 3-24. Hospital Statistics: 2006 ............................................................................................. 3-26 3-25. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 622-4 ..................... 3-26 OMB Review Draft – February 23, 2009 ix 3-26. Key Enterprise Statistics by Receipt Size for General Medical and Surgical Hospitals (NAICS 6221): 2002 ($2007) ..................................................................... 3-28 3-27. Key Statistics: Farm Machinery and Equipment Manufacturing (NAICS 333111) ($2007).......................................................................................................... 3-29 3-28. Key Statistics: Welding and Soldering Equipment Manufacturing (NAICS 333992) ($2007).......................................................................................................... 3-30 3-29. Expenses per Acre by Type of Energy: 2003 ............................................................. 3-31 3-30. Number of On-Farm Pumps of Irrigation Water by Type of Energy: 1998 and 2003............................................................................................................................. 3-31 3-31. Distribution of Farm Statistics by Market Value of Agricultural Products Sold: 2003............................................................................................................................. 3-33 3-32. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 3331,9 .................... 3-34 3-33. Key Enterprise Statistics by Receipt Size for Heavy Construction: 2002 .................. 3-35 4-1. Emission Standards for Stationary RICE Located at Major Sources ........................... 4-6 4-2. Emission Standards and Requirements for Stationary RICE Located at Area Sources.......................................................................................................................... 4-7 4-3. Emission Standards for New or Reconstructed Non-Emergency Stationary RICE &amp;gt;500 HP at Major Sources and Existing Non-Emergency 4SRB Stationary RICE &amp;gt;500 HP at Major Sources During Periods of Startup, Shutdown or Malfunction................................................................................................................. 4-11 4-4. Summary of Major Source and Area Source Costs for the RICE NESHAP.............. 4-35 4-5. Summary of Major Source and Area Source NAICS Costs for the RICE NESHAP..................................................................................................................... 4-37 4-6. Summary of Major Source and Area Source Costs by NAICS for the RICE NESHAP by Size ........................................................................................................ 4-38 4-7. Summary of Major Source and Area Source NAICS Costs for the RICE NESHAP by Number of Engines................................................................................ 4-41 4-8. Summary of Major Source and Area Source Emissions Reductions (tons per year) -Non-Emergency CI engines………………………………………………………… 4-46 4-9. Summary of Major Source and Area Source Emissions Reductions (tons per year) - Emergency CI engines..................................................................................... 4-47 4-10. Summary of Major Source and Area Source Emissions Reductions (tons per year) - SI engines ........................................................................................................ 4-48 4-11. Summary of Emissions Reductions (tons per year) - by Pollutant and Engine Type………. .............................................................................................................. 4-49 4-12. Summary of Major Source and Area Source Emissions Reductions for the RICE NESHAP, 2013........................................................................................................... 4-50 5-1. Selected Industry-Level Annualized Compliance Costs as a Fraction of Total Industry Revenue: 2002 ................................................................................................ 5-4 5-2. Hypothetical Price Increases for a 1% Increase in Unit Costs...................................... 5-6 5-3. Hypothetical Consumption Decreases for a 1% Increase in Unit Costs....................... 5-7 OMB Review Draft – February 23, 2009 x</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Electric Power Sector Energy Consumption (Quadrillion BTUs):</title>
+<date>2013</date>
+<booktitle>Summary of Health Benefits of the Proposed RICE NESHAP....................................................... 7-7 7-2. All Benefits Estimates for RICE NESHAP in 2013 (in millions of</booktitle>
+<pages>6--7</pages>
+<marker>S, 2013</marker>
+<rawString>5-4. U.S. Electric Power Sector Energy Consumption (Quadrillion BTUs): 2013 ............. 5-10 6-1. Proposed NESHAP for Existing Stationary Reciprocating Internal Combustion Engines (RICE): Affected Sectors and SBA Small Business Size Standards .............. 6-3 6-2. Average Receipts for Affected Industry by Enterprise Employment Range: 2002 (millions of $2007 per establishment) .......................................................................... 6-4 6-3. Average Receipts for Affected Industry by Enterprise Receipt Range: 2002 (millions of $2007 per establishment) .......................................................................... 6-5 6-4. Representative Establishment Costs Used for Small Entity Analysis ($2007)............. 6-7 7-1. Summary of Health Benefits of the Proposed RICE NESHAP....................................................... 7-7 7-2. All Benefits Estimates for RICE NESHAP in 2013 (in millions of 2007$)................. 7-8 Source: U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Geographic Area Series: 2002 and 1997.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Medical</author>
+</authors>
+<title>Surgical Hospitals Industry (NAICS 6221): 2002 Source: U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Subject Series—Estab &amp; Firm Size: Legal Form of Organization for the United States:</title>
+<date>2002</date>
+<pages>2007</pages>
+<marker>Medical, 2002</marker>
+<rawString>Medical and Surgical Hospitals Industry (NAICS 6221): 2002 Source: U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Subject Series—Estab &amp; Firm Size: Legal Form of Organization for the United States: 2002” &lt;http://factfinder.census.gov&amp;gt;; (November 21, 2008). well-report-2007&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>F Laden</author>
+<author>J Schwartz</author>
+<author>F E Speizer</author>
+<author>D W Dockery</author>
+</authors>
+<title>Reduction in Fine Particulate Air Pollution and Mortality.</title>
+<date>2006</date>
+<journal>American Journal of Respiratory and Critical Care Medicine.</journal>
+<volume>173</volume>
+<pages>667--672</pages>
+<marker>Laden, Schwartz, Speizer, Dockery, 2006</marker>
+<rawString>Laden, F., J. Schwartz, F.E. Speizer, and D.W. Dockery. 2006. Reduction in Fine Particulate Air Pollution and Mortality. American Journal of Respiratory and Critical Care Medicine. 173: 667-672.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lincoln</author>
+</authors>
+<title>Electric Holdings.</title>
+<date>2006</date>
+<booktitle>Form 10-K. Filed</booktitle>
+<marker>Lincoln, 2006</marker>
+<rawString>Lincoln Electric Holdings. 2006. Form 10-K. Filed February 24, 2006.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>National Research Council</author>
+</authors>
+<title>Estimating the Public Health Benefits of Proposed Air Pollution Regulations.</title>
+<date>2002</date>
+<publisher>The National Academies Press.</publisher>
+<location>Washington, DC:</location>
+<marker>Council, 2002</marker>
+<rawString>National Research Council (NRC). 2002. Estimating the Public Health Benefits of Proposed Air Pollution Regulations. Washington, DC: The National Academies Press.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Parise</author>
+</authors>
+<title>Alpha-Gamma Technologies,</title>
+<date>2008</date>
+<journal>Inc. December</journal>
+<volume>1</volume>
+<note>Memorandum to</note>
+<marker>Parise, 2008</marker>
+<rawString>Nelson, B., EC/R Inc. and T. Parise, Alpha-Gamma Technologies, Inc. December 1, 2008. Memorandum to Jamie Pagan, U.S. Environmental Protection Agency. Impacts Associated with NESHAP for Existing Stationary RICE.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Walter Nicholson</author>
+</authors>
+<title>Microeconomic Theory.</title>
+<date>1998</date>
+<publisher>The Dryden Press.</publisher>
+<location>Orlando:</location>
+<marker>Nicholson, 1998</marker>
+<rawString>Nicholson, Walter. 1998. Microeconomic Theory. Orlando: The Dryden Press.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Budget</author>
+</authors>
+<title>Circular A-4: Regulatory Analysis.</title>
+<date>2003</date>
+<institution>Office of Management</institution>
+<location>Washington, DC.</location>
+<note>Available on the internet at</note>
+<marker>Budget, 2003</marker>
+<rawString>Office of Management and Budget (OMB), 2003. Circular A-4: Regulatory Analysis. Washington, DC. Available on the internet at &lt;http://www.whitehouse.gov/omb/circulars/a004/a-4.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Parise</author>
+<author>Alpha-Gamma Technologies</author>
+<author>Inc</author>
+</authors>
+<title>Memorandum: “Impacts Associated with NESHAP for Existing Stationary</title>
+<date>2008</date>
+<journal>Journal of the American Medical Association</journal>
+<pages>287--1132</pages>
+<marker>Parise, Technologies, Inc, 2008</marker>
+<rawString>Parise, T., Alpha-Gamma Technologies, Inc. 2008. Memorandum: “Impacts Associated with NESHAP for Existing Stationary RICE.” Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D. Krewski, K. Ito, and G.D. Thurston. 2002. “Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.” Journal of the American Medical Association 287:1132-1141.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Henry A Roman</author>
+<author>Katherine D Walker</author>
+<author>Tyra L Walsh</author>
+<author>Lisa Conner</author>
+<author>Harvey M Richmond</author>
+<author>Bryan J Hubbell</author>
+<author>Patrick L Kinney</author>
+</authors>
+<title>Expert Judgment Assessment of the Troy,</title>
+<date>2008</date>
+<booktitle>Almanac of Business and Industrial Financial Ratios: 2009 Edition.” CCH.</booktitle>
+<location>Leo.</location>
+<marker>Roman, Walker, Walsh, Conner, Richmond, Hubbell, Kinney, 2008</marker>
+<rawString>Roman, Henry A., Walker, Katherine D., Walsh, Tyra L., Conner, Lisa, Richmond, Harvey M., Hubbell, Bryan J., and Kinney, Patrick L., 2008. Expert Judgment Assessment of the Troy, Leo. 2008. “Almanac of Business and Industrial Financial Ratios: 2009 Edition.” CCH.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau of Economic Analysis</author>
+</authors>
+<title>and</title>
+<date>2002</date>
+<journal>Tables</journal>
+<volume>4</volume>
+<marker>Analysis, 2002</marker>
+<rawString>U.S. Bureau of Economic Analysis (BEA). 2002. 2002 and 1997 Benchmark Input-Output Accounts: Detailed Make Table, Use Table and Direct Requirements Table. Tables 4 and 5. &lt;http://www.bea.gov/industry/index.htm#benchmark_io&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Economic Analysis (BEA).</title>
+<date>2008</date>
+<marker>Bureau, 2008</marker>
+<rawString>U.S. Bureau of Economic Analysis (BEA). 2008. Table 1.1.9. Implicit Price Deflators for Gross Domestic Product. Last revised November 25, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 21: Mining: Industry Series:</title>
+<date>2002</date>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Bureau of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 21: Mining: Industry Series: 2002 and 1997.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 22: Utilities:</title>
+<date>2002</date>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Bureau of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 22: Utilities: 2002.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Geographic Area Series:</title>
+<date>2002</date>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Bureau of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Geographic Area Series: 2002.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<booktitle>Industry Series.” Crude Petroleum &amp; Natural Gas:</booktitle>
+<volume>1</volume>
+<pages>02--21</pages>
+<location>(RV). Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002a. “Industry Series.” Crude Petroleum &amp; Natural Gas: 2002. EC02-21I-211111 (RV). Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Electric Power Generation, Transmission, and Distribution:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--22</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002b. “Industry Series.” Electric Power Generation, Transmission, and Distribution: 2002. EC02-22I-03. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Hospitals:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--62</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002c. “Industry Series.” Hospitals: 2002. EC02-62I-02. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Natural Gas Liquid Extraction:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--21</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002d. “Industry Series.” Natural Gas Liquid Extraction: 2002. EC02-21I211112. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Pipeline Transportation:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--48</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002e. “Industry Series.” Pipeline Transportation: 2002. EC02-48I-02. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2005</date>
+<journal>Table</journal>
+<booktitle>Census of Governments, Volume 4, Number 3, Finances of County Governments: 2002 GC02(4)-3. U.S. Government Printing Office,</booktitle>
+<volume>12</volume>
+<location>Washington, DC.</location>
+<marker>Bureau, 2005</marker>
+<rawString>U.S. Census Bureau. 2005a. 2002 Census of Governments, Volume 4, Number 3, Finances of County Governments: 2002 GC02(4)-3. U.S. Government Printing Office, Washington, DC. Table 12.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2005</date>
+<journal>Table</journal>
+<booktitle>Census of Governments, Volume 4, Number 4, Finances of Municipal and Township Governments: 2002 GC02(4)-4. U.S. Government Printing Office,</booktitle>
+<volume>13</volume>
+<location>Washington, DC.</location>
+<marker>Bureau, 2005</marker>
+<rawString>U.S. Census Bureau. 2005b. 2002 Census of Governments, Volume 4, Number 4, Finances of Municipal and Township Governments: 2002 GC02(4)-4. U.S. Government Printing Office, Washington, DC. Table 13.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>OMB Review Draft</author>
+</authors>
+<date>2009</date>
+<booktitle>U.S. Census Bureau. 2008a. Firm Size Data from the Statistics of U.S. Businesses: U.S. Detail Employment Sizes:</booktitle>
+<pages>20--6</pages>
+<marker>Draft, 2009</marker>
+<rawString>OMB Review Draft – February 23, 2009 U.S. Census Bureau. 2008a. Firm Size Data from the Statistics of U.S. Businesses: U.S. Detail Employment Sizes: 2002. &lt;http://www2.census.gov/csd/susb/2002/02us_detailed %20sizes_6digitnaics.txt&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Firm Size Data from the Statistics of</title>
+<date>2008</date>
+<marker>Bureau, 2008</marker>
+<rawString>U.S. Census Bureau. 2008b. Firm Size Data from the Statistics of U.S. Businesses, U.S. All U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 00: All sectors: Geographic Area Series: Economy-Wide Key Statistics: 2002” &lt;http://factfinder.census.gov&amp;gt;; (December 17, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<date>2004</date>
+<institution>Department of Agriculture (USDA), National Agricultural Statistics</institution>
+<location>Service (NASS).</location>
+<marker>S, 2004</marker>
+<rawString>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS). 2004.</rawString>
+</citation>
+<citation valid="true">
+<title>Farm and Ranch Irrigation Survey.”</title>
+<date>2003</date>
+<publisher>USDA-NASS.</publisher>
+<location>Washington, DC:</location>
+<marker>2003</marker>
+<rawString>“2003 Farm and Ranch Irrigation Survey.” Washington, DC: USDA-NASS.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture (USDA).</title>
+<date>2008</date>
+<note>Agricultural Projections to</note>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Agriculture (USDA). 2008. “Agricultural Projections to 2017.” &lt;http://www.ers.usda.gov/Publications/OCE081/OCE20081c.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture (USDA).</title>
+<date>2008</date>
+<note>Agricultural Projections to</note>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Agriculture (USDA). 2008. “Agricultural Projections to 2017.” &lt;http://www.ers.usda.gov/Publications/OCE081/OCE20081c.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Information Administration.</title>
+<date>2007</date>
+<booktitle>2006 EIA-906/920 Monthly Time Series.” U.S. Energy Information Administration. 2008a. restructuring/restructure_elect.html&amp;gt;. Last updated</booktitle>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of Energy, Energy Information Administration. 2007. “2006 EIA-906/920 Monthly Time Series.” U.S. Energy Information Administration. 2008a. &lt;http://www.eia.doe.gov/cneaf/electricity/page/ restructuring/restructure_elect.html&amp;gt;. Last updated September 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Energy</author>
+</authors>
+<title>Information Administration.</title>
+<date>2008</date>
+<marker>Energy, 2008</marker>
+<rawString>U.S. Energy Information Administration. 2008b. Supplemental Tables to the Annual Energy Outlook 2009. Table 10. Available at: &lt;http://www.eia.doe.gov/oiaf/aeo/supplement/ supref.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2000</date>
+<journal>EPA</journal>
+<pages>240--00</pages>
+<publisher>EPA.</publisher>
+<location>Washington, DC:</location>
+<marker>S, 2000</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). September 2000. Guidelines for Preparing Economic Analyses. EPA 240-R-00-003. Washington, DC: EPA. &lt;http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/Guidelines.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2004</date>
+<pages>420--04</pages>
+<location>Washington, DC: EPA.</location>
+<note>http://www.epa.gov/nonroad-diesel/2004fr/420r04007.pdf&amp;gt;.</note>
+<marker>S, 2004</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). May 2004. Final Regulatory Analysis: Control of Emissions from Nonroad Diesel Engines. EPA420-R-04-007. Washington, DC: EPA. &lt; http://www.epa.gov/nonroad-diesel/2004fr/420r04007.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2006</date>
+<marker>S, 2006</marker>
+<rawString>U.S. Environmental Protection Agency. 2006. Regulatory Impact Analysis, 2006 National Ambient Air Quality Standards for Particulate Matter, Chapter 5. Available at &lt;http://www.epa.gov/ttn/ecas/regdata/RIAs/Chapter%205--Benefits.pdf &amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2008</date>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency. 2008. Regulatory Impact Analysis, 2008 National Ambient Air Quality Standards for Ground-level Ozone, Chapter 6. Available at &lt;http://www.epa.gov/ttn/ecas/regdata/RIAs/6-ozoneriachapter6.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2008</date>
+<journal>Ozone NAAQS Docket</journal>
+<pages>2007--0225</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency. 2008. Technical Support Document: Calculating Benefit Per-Ton estimates, Ozone NAAQS Docket #EPA-HQ-OAR-2007-0225-0284.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Available on the 3-1. Industrial Production Index (NAICS 2211).................................................................. 3-2 3-2. Internal Combustion Generators by State:</title>
+<date>2008</date>
+<journal>NAICS</journal>
+<booktitle>Key Statistics: General Medical and Surgical Hospitals (NAICS</booktitle>
+<volume>211</volume>
+<pages>3--3</pages>
+<institution>Integrated Science Assessment for Particulate Matter (External</institution>
+<location>Deleted:</location>
+<note>Memorandum to</note>
+<marker>Agency, 2008</marker>
+<rawString>U.S. Environmental Protection Agency. 2008. Integrated Science Assessment for Particulate Matter (External Review Draft). Washington, DC, EPA/600/R-08/139. Available on the 3-1. Industrial Production Index (NAICS 2211).................................................................. 3-2 3-2. Internal Combustion Generators by State: 2006........................................................... 3-3 3-3. 2002 Regional Distribution of Establishments: Electric Power Generation, Transmission, and Distribution Industry (NAICS 2211).............................................. 3-5 3-4. Industrial Production Index (NAICS 211).................................................................. 3-10 3-5. 2002 Regional Distribution of Establishments: Crude Petroleum and Natural Gas Extraction Industry (NAICS 211111).................................................................. 3-12 3-6. 2002 Regional Distribution of Establishments: Natural Gas Liquid Extraction Industry (NAICS 211112) .......................................................................................... 3-13 3-7. Trends in Marginal Oil and Gas Production: 1997 to 2006........................................ 3-16 3-8. Distribution of Establishments within Pipeline Transportation (NAICS 486) ........... 3-17 3-9. Distribution of Revenue within Pipeline Transportation (NAICS 486) ..................... 3-17 3-10. 2002 Regional Distribution of Establishments: Pipeline Transportation (NAICS 486) ............................................................................................................................. 3-19 3-11. Share of Establishments by Legal Form of Organization in the Pipeline Transportation of Natural Gas Industry (NAICS 48621): 2002 ................................. 3-20 3-12. 2002 Regional Distribution of Establishments: General Medical and Surgical Hospital Industry (NAICS 6221) ................................................................................ 3-24 3-13. Share of Establishments by Legal Form of Organization in the General Medical and Surgical Hospitals Industry (NAICS 6221): 2002 ............................................... 3-25 3-14. Industrial Production Index (NAICS 333111)............................................................ 3-29 3-15. 2003 Regional Distribution of Irrigated Acres ........................................................... 3-32 3-16. 2002 Regional Distribution of Establishments: Heavy and Civil Engineering 3-4. United States Retail Electricity Sales Statistics: 2006.................................................. 3-7 3-5. FY 2007 Financial Data for 70 U.S. Shareholder-Owned Electric Utilities................. 3-8 3-6. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 2211 ......................... 3-8 3-7. Key Enterprise Statistics by Receipt Size for Electric Power Generation, Transmission, and Distribution (NAICS 2211): 2002 .................................................. 3-9 3-8. Key Statistics: Crude Petroleum and Natural Gas Extraction (NAICS 211111): ($2007)........................................................................................................................ 3-10 3-9. Key Statistics: Natural Gas Liquid Extraction (NAICS 211112) ($2007) ................. 3-11 3-10. Direct Requirements for Oil and Gas Extraction (NAICS 211): 2002 ....................... 3-11 3-11. Key Enterprise Statistics by Employment Size for Crude Petroleum and Natural Gas Extraction (NAICS 211111): 2002...................................................................... 3-13 3-12. Key Enterprise Statistics by Employment Size for Crude Natural Gas Liquid Extraction (NAICS 211112): 2002 ............................................................................. 3-14 3-13. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 211......................... 3-14 3-14. Reported Gross Revenue Estimates from Marginal Wells: 2006 ............................... 3-15 3-15. Key Statistics: Pipeline Transportation of Natural Gas (NAICS 48621) ($2007)...... 3-16 3-16. Direct Requirements for Pipeline Transportation (NAICS 486): 2002 ...................... 3-18 3-17. Firm Concentration for Pipeline Transportation of Natural Gas (NAICS 48621): 2002............................................................................................................................. 3-20 3-18. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 486 ......................... 3-21 3-19. Key Enterprise Statistics by Receipt Size for Pipeline Transportation of Natural Gas (NAICS 48621): 2002.......................................................................................... 3-22 3-20. Key Statistics: General Medical and Surgical Hospitals (NAICS 6221) ($2007) ...... 3-23 3-21. Direct Requirements for Hospitals (NAICS 622): 2002............................................. 3-23 3-22. Firm Concentration for General Medical and Surgical Hospitals (NAICS 6221): 2002............................................................................................................................. 3-25 3-23. Government Control and Ownership for General Medical and Surgical Hospitals (NAICS 6221): 2002................................................................................... 3-26 3-24. Hospital Statistics: 2006 ............................................................................................. 3-26 3-25. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 622-4 ..................... 3-26 3-27. Key Statistics: Farm Machinery and Equipment Manufacturing (NAICS 333111) ($2007).......................................................................................................... 3-29 3-28. Key Statistics: Welding and Soldering Equipment Manufacturing (NAICS 333992) ($2007).......................................................................................................... 3-30 3-29. Expenses per Acre by Type of Energy: 2003 ............................................................. 3-31 3-30. Number of On-Farm Pumps of Irrigation Water by Type of Energy: 1998 and 2003............................................................................................................................. 3-31 3-31. Distribution of Farm Statistics by Market Value of Agricultural Products Sold: 2003............................................................................................................................. 3-33 3-32. Aggregate Tax Data for Accounting Period 7/05–6/06: NAICS 3331,9 .................... 3-34 3-33. Key Enterprise Statistics by Receipt Size for Heavy Construction: 2002 .................. 3-35 4-1. Emission Standards for Stationary RICE Located at Major Sources ........................... 4-6 4-2. Emission Standards and Requirements for Stationary RICE Located at Area Sources.......................................................................................................................... 4-7 4-3. Emission Standards for New or Reconstructed Non-Emergency Stationary RICE &amp;gt;500 HP at Major Sources and Existing Non-Emergency 4SRB Stationary RICE &amp;gt;500 HP at Major Sources During Periods of Startup, Shutdown or Malfunction................................................................................................................. 4-11 4-4. Summary of Major Source and Area Source Costs for the RICE NESHAP.............. 4-37 4-5. Summary of Major Source and Area Source NAICS Costs for the RICE NESHAP..................................................................................................................... 4-39 4-6. Summary of Major Source and Area Source Costs by NAICS for the RICE NESHAP by Size ........................................................................................................ 4-40 4-7. Summary of Major Source and Area Source NAICS Costs for the RICE NESHAP by Number of Engines................................................................................ 4-43 4-8. Summary of Major Source and Area Source Emissions Reductions (tons per year) -Non-Emergency CI engines………………………………………………………… 4-46 4-9. Summary of Major Source and Area Source Emissions Reductions (tons per year) - Emergency CI engines..................................................................................... 4-47 4-10. Summary of Major Source and Area Source Emissions Reductions (tons per year) - SI engines ........................................................................................................ 4-48 4-11. Summary of Emissions Reductions (tons per year) - by Pollutant and Engine Type………. .............................................................................................................. 4-49 4-12. Summary of Major Source and Area Source Emissions Reductions for the RICE NESHAP, 2013........................................................................................................... 4-50 5-1. Selected Industry-Level Annualized Compliance Costs as a Fraction of Total Industry Revenue: 2002 ................................................................................................ 5-4 5-2. Hypothetical Price Increases for a 1% Increase in Unit Costs...................................... 5-6 5-3. Hypothetical Consumption Decreases for a 1% Increase in Unit Costs....................... 5-7 5-4. U.S. Electric Power Sector Energy Consumption (Quadrillion BTUs): 2013 ............. 5-10 6-1. Proposed NESHAP for Existing Stationary Reciprocating Internal Combustion Engines (RICE): Affected Sectors and SBA Small Business Size Standards .............. 6-3 6-2. Average Receipts for Affected Industry by Enterprise Employment Range: 2002 (millions of $2007 per establishment) .......................................................................... 6-4 6-3. Average Receipts for Affected Industry by Enterprise Receipt Range: 2002 (millions of $2007 per establishment) .......................................................................... 6-5 6-4. Representative Establishment Costs Used for Small Entity Analysis ($2007)............. 6-7 7-1. Summary of Health Benefits of the Proposed RICE NESHAP....................................................... 7-7 7-2. All Benefits Estimates for RICE NESHAP in 2013 (in millions of 2007$)................. 7-8 Deleted: OMB Review Draft – February 23, 2009 Deleted: December 1, 2008. Memorandum to Jamie Pagan, U.S. Environmental Protection Agency.</rawString>
+</citation>
+<citation valid="true">
+<title>Deleted: associated Deleted: existing stationary 447, or Fullerton and Metcalf</title>
+<date>2002</date>
+<marker>2002</marker>
+<rawString>Deleted: associated Deleted: existing stationary 447, or Fullerton and Metcalf (2002).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB</author>
+</authors>
+<title>Review Draft –</title>
+<date>2009</date>
+<location>United States (EIA,</location>
+<marker>OMB, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 United States (EIA, 2000), the competitive model is not necessarily applicable for this industry.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>Formatted: No bullets or numbering, Tabs: Not at 67.5 pt Higher unit costs and lower production level reduce producer surplus because the net price change ()p – t) is negative. However, these losses are mitigated because market prices tend to rise.</title>
+<date>2009</date>
+<note>2 http://tonto.eia.doe.gov/energy_in_brief/print_pages/electricity.pdf.</note>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 Formatted: No bullets or numbering, Tabs: Not at 67.5 pt Higher unit costs and lower production level reduce producer surplus because the net price change ()p – t) is negative. However, these losses are mitigated because market prices tend to rise. 2 http://tonto.eia.doe.gov/energy_in_brief/print_pages/electricity.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>Formatted: Indent: Left: 18 pt, No bullets or numbering, Tabs: Not at 67.5 pt Figure 5-5. Electricity Restructuring by State Source. U.S. Energy Information Administration.</title>
+<date>2009</date>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 Formatted: Indent: Left: 18 pt, No bullets or numbering, Tabs: Not at 67.5 pt Figure 5-5. Electricity Restructuring by State Source. U.S. Energy Information Administration. 2008a.</rawString>
+</citation>
+<citation valid="false">
+<date>2008</date>
+<institution>Last updated</institution>
+<marker>2008</marker>
+<rawString>&lt;http://www.eia.doe.gov/cneaf/electricity/page/restructuring/restructure_elect.html&amp;gt;. Last updated September 2008.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Management</author>
+<author>Budget</author>
+</authors>
+<title>a Statement of Energy Effects for certain actions identified as “significant energy actions.” Section 4(b) of Executive Order 13211 defines “significant energy Deleted:</title>
+<date>2009</date>
+<journal>OMB Review Draft – February</journal>
+<volume>23</volume>
+<marker>Management, Budget, 2009</marker>
+<rawString>Management and Budget, a Statement of Energy Effects for certain actions identified as “significant energy actions.” Section 4(b) of Executive Order 13211 defines “significant energy Deleted: OMB Review Draft – February 23, 2009 Deleted: are likely to Deleted: As a result sources of HAP emissions on January 18, 2008 (73 FR 3568). EPA is required to address HAP emissions from stationary RICE located at area sources under section 112(k) of the CAA.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>The Regulatory Flexibility Act as amended by the Small Business Regulatory Enforcement Fairness Act (SBREFA) generally requires an agency to prepare a regulatory flexibility analysis of any rule subject to notice and comment rulemaking requirements under the Administrative Procedure Act or any other statute, unless the agency certifies that the rule will farms. Since most national security installations are owned by the federal government (e.g., military bases), EPA assumes these entities would not be considered small. For irrigated farms, we relied on receipt data provided in the 2003 Farm and Irrigation Survey (USDA,</title>
+<date>2009</date>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 The Regulatory Flexibility Act as amended by the Small Business Regulatory Enforcement Fairness Act (SBREFA) generally requires an agency to prepare a regulatory flexibility analysis of any rule subject to notice and comment rulemaking requirements under the Administrative Procedure Act or any other statute, unless the agency certifies that the rule will farms. Since most national security installations are owned by the federal government (e.g., military bases), EPA assumes these entities would not be considered small. For irrigated farms, we relied on receipt data provided in the 2003 Farm and Irrigation Survey (USDA, 2004). 2 See http://www.census.gov/csd/susb/ and http://www.sba.gov/advo/research/data.html for additional details.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>Deleted: (Nelson and Parise,</title>
+<date>2009</date>
+<journal>Deleted: OMB Review Draft – February</journal>
+<volume>23</volume>
+<pages>24--25</pages>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 Deleted: (Nelson and Parise, 2008 Deleted: OMB Review Draft – February 23, 2009 be considered can be found at http://www.epa.gov/sbrefa/documents/rfafinalguidance06.pdf , pp. 24-25.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S SBA</author>
+</authors>
+<title>Office of Advocacy. A Guide for Government Agencies, How to Comply with the Regulatory Flexibility Act, Implementing the President’s Small Business Agenda and Executive Order 13272,</title>
+<date>2003</date>
+<marker>SBA, 2003</marker>
+<rawString>8 U.S. SBA, Office of Advocacy. A Guide for Government Agencies, How to Comply with the Regulatory Flexibility Act, Implementing the President’s Small Business Agenda and Executive Order 13272, May 2003.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>reducing one ton of PM2.5 or PM2.5 precursor emissions from a specified source.</title>
+<date>2009</date>
+<journal>We include</journal>
+<volume>1</volume>
+<pages>2007--0225</pages>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 reducing one ton of PM2.5 or PM2.5 precursor emissions from a specified source. We include 1 U.S. EPA, 2008. Technical Support Document: Calculating Benefit Per-Ton estimates, Ozone NAAQS Docket #EPA-HQ-OAR-2007-0225-0284.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S EPA</author>
+</authors>
+<title>Regulatory Impact Analysis,</title>
+<date>2008</date>
+<marker>EPA, 2008</marker>
+<rawString>2 U.S. EPA, 2008. Regulatory Impact Analysis, 2008 National Ambient Air Quality Standards for Ground-level Ozone, Chapter 6. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/RIAs/6-ozoneriachapter6.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>Regulatory Impact Analysis,</title>
+<date>2009</date>
+<booktitle>National Ambient Air Quality Standards for Particulate Matter, Chapter 5. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/RIAs/Chapter%205--Benefits.pdf.</booktitle>
+<volume>4</volume>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 4 U.S. EPA, 2006. Regulatory Impact Analysis, 2006 National Ambient Air Quality Standards for Particulate Matter, Chapter 5. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/RIAs/Chapter%205--Benefits.pdf.</rawString>
+</citation>
+<citation valid="true">
+<title>Expanded Expert Judgment Assessment of the Concentration-Response Relationship Between PM2.5 Exposure and Mortality. Prepared for the U.S. EPA, Office of Air Quality Planning and Standards, September. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_report.pdf.</title>
+<date>2006</date>
+<institution>5 Industrial Economics, Inc.,</institution>
+<marker>2006</marker>
+<rawString>5 Industrial Economics, Inc., 2006. Expanded Expert Judgment Assessment of the Concentration-Response Relationship Between PM2.5 Exposure and Mortality. Prepared for the U.S. EPA, Office of Air Quality Planning and Standards, September. Available on the Internet at http://www.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_report.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Roman</author>
+</authors>
+<title>Expert Judgment Assessment of the Mortality Impact of Changes in</title>
+<date>2008</date>
+<journal>Ambient Fine Particulate Matter in the U.S. Environ. Sci. Technol.,</journal>
+<volume>42</volume>
+<pages>2268--2274</pages>
+<marker>Roman, 2008</marker>
+<rawString>6 Roman et al, 2008. Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci. Technol., 42, 7, 2268 – 2274.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>entitled Impacts Associated with NESHAP for Existing Stationary RICE by Ec/R,</title>
+<date>2009</date>
+<journal>Inc. on February</journal>
+<volume>19</volume>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 entitled Impacts Associated with NESHAP for Existing Stationary RICE by Ec/R, Inc. on February 19, 2009.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>greater than costs *Net Benefits are quantified in terms of PM2.5 benefits at a 3% discount. This graph shows all of the benefits estimates combined with the cost estimate, specifically identifying the estimates based on Pope et al and Laden et al with dark green bars and the expert elicitation with translucent green bars.</title>
+<date>2009</date>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 greater than costs *Net Benefits are quantified in terms of PM2.5 benefits at a 3% discount. This graph shows all of the benefits estimates combined with the cost estimate, specifically identifying the estimates based on Pope et al and Laden et al with dark green bars and the expert elicitation with translucent green bars.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB</author>
+</authors>
+<title>Review Draft</title>
+<date>2009</date>
+<journal>February</journal>
+<volume>23</volume>
+<marker>OMB, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 American Hospital Association. 2007. “AHA Hospital Statistics: 2008 Edition.” Health Forum.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>D Fullerton</author>
+<author>G Metcalf</author>
+</authors>
+<title>Tax Incidence.”</title>
+<date>2002</date>
+<booktitle>Handbook of Public Economics,</booktitle>
+<volume>4</volume>
+<editor>In A. Auerbach and M. Feldstein, eds.,</editor>
+<publisher>Elsevier.</publisher>
+<location>Amsterdam:</location>
+<marker>Fullerton, Metcalf, 2002</marker>
+<rawString>Fullerton, D., and G. Metcalf. 2002. “Tax Incidence.” In A. Auerbach and M. Feldstein, eds., Handbook of Public Economics, Vol. 4, Amsterdam: Elsevier.</rawString>
+</citation>
+<citation valid="true">
+<title>Expanded Expert Judgment Assessment of the ConcentrationResponse Relationship Between</title>
+<date>2006</date>
+<booktitle>PM2.5 Exposure and Mortality. Prepared for the U.S. EPA, Office of Air Quality Planning and Standards, September. Available on the Internet at &lt;2Hhttp://www.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_report.pdf&amp;gt;.</booktitle>
+<institution>Industrial Economics, Inc.,</institution>
+<marker>2006</marker>
+<rawString>Industrial Economics, Inc., 2006. Expanded Expert Judgment Assessment of the ConcentrationResponse Relationship Between PM2.5 Exposure and Mortality. Prepared for the U.S. EPA, Office of Air Quality Planning and Standards, September. Available on the Internet at &lt;2Hhttp://www.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_report.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<title>Interstate Oil &amp; Gas Compact Commission.</title>
+<date>2007</date>
+<pages>3--2007</pages>
+<marker>2007</marker>
+<rawString>Interstate Oil &amp; Gas Compact Commission. 2007. “Marginal Wells: Fuel for Economic Growth.” Table 3.B. &lt;3Hhttp://iogcc.myshopify.com/collections/frontpage/products/2007-marginalwell-report-2007&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>F Laden</author>
+<author>J Schwartz</author>
+<author>F E Speizer</author>
+<author>D W Dockery</author>
+</authors>
+<title>Reduction in Fine Particulate Air Pollution and Mortality.</title>
+<date>2006</date>
+<journal>American Journal of Respiratory and Critical Care Medicine.</journal>
+<volume>173</volume>
+<pages>667--672</pages>
+<marker>Laden, Schwartz, Speizer, Dockery, 2006</marker>
+<rawString>Laden, F., J. Schwartz, F.E. Speizer, and D.W. Dockery. 2006. Reduction in Fine Particulate Air Pollution and Mortality. American Journal of Respiratory and Critical Care Medicine. 173: 667-672.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lincoln</author>
+</authors>
+<title>Electric Holdings.</title>
+<date>2006</date>
+<booktitle>Form 10-K. Filed</booktitle>
+<marker>Lincoln, 2006</marker>
+<rawString>Lincoln Electric Holdings. 2006. Form 10-K. Filed February 24, 2006.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>National Research Council</author>
+</authors>
+<title>Estimating the Public Health Benefits of Proposed Air Pollution Regulations.</title>
+<date>2002</date>
+<publisher>The National Academies Press.</publisher>
+<location>Washington, DC:</location>
+<marker>Council, 2002</marker>
+<rawString>National Research Council (NRC). 2002. Estimating the Public Health Benefits of Proposed Air Pollution Regulations. Washington, DC: The National Academies Press.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Parise</author>
+</authors>
+<title>Alpha-Gamma Technologies,</title>
+<date>2008</date>
+<journal>Inc. December</journal>
+<volume>1</volume>
+<note>Memorandum to</note>
+<marker>Parise, 2008</marker>
+<rawString>Nelson, B., EC/R Inc. and T. Parise, Alpha-Gamma Technologies, Inc. December 1, 2008. Memorandum to Jamie Pagan, U.S. Environmental Protection Agency. Impacts Associated with NESHAP for Existing Stationary RICE.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Walter Nicholson</author>
+</authors>
+<title>Microeconomic Theory.</title>
+<date>1998</date>
+<publisher>The Dryden Press.</publisher>
+<location>Orlando:</location>
+<marker>Nicholson, 1998</marker>
+<rawString>Nicholson, Walter. 1998. Microeconomic Theory. Orlando: The Dryden Press.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Budget</author>
+</authors>
+<title>Circular A-4: Regulatory Analysis.</title>
+<date>2003</date>
+<institution>Office of Management</institution>
+<location>Washington, DC.</location>
+<note>Available on the internet at &lt;4Hhttp://www.whitehouse.gov/omb/circulars/a004/a-4.html&amp;gt;.</note>
+<marker>Budget, 2003</marker>
+<rawString>Office of Management and Budget (OMB), 2003. Circular A-4: Regulatory Analysis. Washington, DC. Available on the internet at &lt;4Hhttp://www.whitehouse.gov/omb/circulars/a004/a-4.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>T Parise</author>
+<author>Alpha-Gamma Technologies</author>
+<author>Inc</author>
+</authors>
+<title>Memorandum: “Impacts Associated with NESHAP for Existing Stationary</title>
+<date>2008</date>
+<journal>Journal of the American Medical Association</journal>
+<pages>287--1132</pages>
+<marker>Parise, Technologies, Inc, 2008</marker>
+<rawString>Parise, T., Alpha-Gamma Technologies, Inc. 2008. Memorandum: “Impacts Associated with NESHAP for Existing Stationary RICE.” Pope, C.A., III, R.T. Burnett, M.J. Thun, E.E. Calle, D. Krewski, K. Ito, and G.D. Thurston. 2002. “Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution.” Journal of the American Medical Association 287:1132-1141.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Henry A Roman</author>
+<author>Katherine D Walker</author>
+<author>Tyra L Walsh</author>
+<author>Lisa Conner</author>
+<author>Harvey M Richmond</author>
+<author>Bryan J Hubbell</author>
+<author>Patrick L Kinney</author>
+</authors>
+<date>2008</date>
+<booktitle>Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci.</booktitle>
+<marker>Roman, Walker, Walsh, Conner, Richmond, Hubbell, Kinney, 2008</marker>
+<rawString>Roman, Henry A., Walker, Katherine D., Walsh, Tyra L., Conner, Lisa, Richmond, Harvey M., Hubbell, Bryan J., and Kinney, Patrick L., 2008. Expert Judgment Assessment of the Mortality Impact of Changes in Ambient Fine Particulate Matter in the U.S. Environ. Sci.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Technol</author>
+</authors>
+<volume>42</volume>
+<pages>2268--2274</pages>
+<marker>Technol, </marker>
+<rawString>Technol., 42, 7, 2268 – 2274.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>The Federal Reserve Board. “Industrial Production and Capacity Utilization:</title>
+<date>2009</date>
+<booktitle>Industrial Production” Series ID: G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2211.S</booktitle>
+<location>Troy, Leo.</location>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 The Federal Reserve Board. “Industrial Production and Capacity Utilization: Industrial Production” Series ID: G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2211.S &lt;http://www.federalreserve.gov/datadownload/&amp;gt;. (December 15, 2008) Troy, Leo. 2008. “Almanac of Business and Industrial Financial Ratios: 2009 Edition.” CCH.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau of Economic Analysis</author>
+</authors>
+<title>and</title>
+<date>2002</date>
+<journal>Tables</journal>
+<volume>4</volume>
+<marker>Analysis, 2002</marker>
+<rawString>U.S. Bureau of Economic Analysis (BEA). 2002. 2002 and 1997 Benchmark Input-Output Accounts: Detailed Make Table, Use Table and Direct Requirements Table. Tables 4 and 5. &lt;http://www.bea.gov/industry/index.htm#benchmark_io&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of Economic Analysis (BEA).</title>
+<date>2008</date>
+<marker>Bureau, 2008</marker>
+<rawString>U.S. Bureau of Economic Analysis (BEA). 2008. Table 1.1.9. Implicit Price Deflators for Gross Domestic Product. Last revised November 25, 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 21: Mining: Industry Series:</title>
+<date>2002</date>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Bureau of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 21: Mining: Industry Series: 2002 and 1997.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 22: Utilities:</title>
+<date>2002</date>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Bureau of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 22: Utilities: 2002.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Bureau</author>
+</authors>
+<title>of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Geographic Area Series:</title>
+<date>2002</date>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Bureau of the Census. 2002; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Geographic Area Series: 2002.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<booktitle>Industry Series.” Crude Petroleum &amp; Natural Gas:</booktitle>
+<volume>1</volume>
+<pages>02--21</pages>
+<location>(RV). Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002a. “Industry Series.” Crude Petroleum &amp; Natural Gas: 2002. EC02-21I-211111 (RV). Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Electric Power Generation, Transmission, and Distribution:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--22</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002b. “Industry Series.” Electric Power Generation, Transmission, and Distribution: 2002. EC02-22I-03. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Hospitals:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--62</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002c. “Industry Series.” Hospitals: 2002. EC02-62I-02. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Natural Gas Liquid Extraction:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--21</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002d. “Industry Series.” Natural Gas Liquid Extraction: 2002. EC02-21I211112. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Industry Series.” Pipeline Transportation:</title>
+<date>2002</date>
+<journal>Bureau of the Census. Table</journal>
+<volume>1</volume>
+<pages>02--48</pages>
+<location>Washington, DC: U.S.</location>
+<marker>Bureau, 2002</marker>
+<rawString>U.S. Census Bureau. 2002e. “Industry Series.” Pipeline Transportation: 2002. EC02-48I-02. Washington, DC: U.S. Bureau of the Census. Table 1.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2005</date>
+<journal>Table</journal>
+<booktitle>Census of Governments, Volume 4, Number 3, Finances of County Governments: 2002 GC02(4)-3. U.S. Government Printing Office,</booktitle>
+<volume>12</volume>
+<location>Washington, DC.</location>
+<marker>Bureau, 2005</marker>
+<rawString>U.S. Census Bureau. 2005a. 2002 Census of Governments, Volume 4, Number 3, Finances of County Governments: 2002 GC02(4)-3. U.S. Government Printing Office, Washington, DC. Table 12.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<date>2005</date>
+<journal>Table</journal>
+<booktitle>Census of Governments, Volume 4, Number 4, Finances of Municipal and Township Governments: 2002 GC02(4)-4. U.S. Government Printing Office,</booktitle>
+<volume>13</volume>
+<location>Washington, DC.</location>
+<marker>Bureau, 2005</marker>
+<rawString>U.S. Census Bureau. 2005b. 2002 Census of Governments, Volume 4, Number 4, Finances of Municipal and Township Governments: 2002 GC02(4)-4. U.S. Government Printing Office, Washington, DC. Table 13.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<date>2009</date>
+<booktitle>U.S. Census Bureau. 2008a. Firm Size Data from the Statistics of U.S. Businesses: U.S. Detail Employment Sizes:</booktitle>
+<note>5Hhttp://www2.census.gov/csd/susb/2002/02us_detailed %20sizes_6digitnaics.txt&amp;gt;.</note>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 U.S. Census Bureau. 2008a. Firm Size Data from the Statistics of U.S. Businesses: U.S. Detail Employment Sizes: 2002. &lt;5Hhttp://www2.census.gov/csd/susb/2002/02us_detailed %20sizes_6digitnaics.txt&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census Bureau</author>
+</authors>
+<title>Firm Size Data from the Statistics of U.S. Businesses, U.S. All Industries Tabulated by Receipt Size:</title>
+<date>2008</date>
+<note>6Hhttp://www2.census.gov/csd/susb/2002/ usalli_r02.xls&amp;gt;.</note>
+<marker>Bureau, 2008</marker>
+<rawString>U.S. Census Bureau. 2008b. Firm Size Data from the Statistics of U.S. Businesses, U.S. All Industries Tabulated by Receipt Size: 2002. &lt;6Hhttp://www2.census.gov/csd/susb/2002/ usalli_r02.xls&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 21: Mining: Industry Series: Historical Statistics for the Industry:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 21: Mining: Industry Series: Historical Statistics for the Industry: 2002 and 1997.” &lt;http://factfinder.census.gov&amp;gt;; (November 26, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 22: Utilities: Subject Series—Estab &amp; Firm Size: Concentration by Largest Firms for the United States:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 22: Utilities: Subject Series—Estab &amp; Firm Size: Concentration by Largest Firms for the United States: 2002.” &lt;http://factfinder.census.gov&amp;gt;; (November 21, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 22: Utilities: Geographic Area Series: Summary Statistics:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 22: Utilities: Geographic Area Series: Summary Statistics: 2002 and 1997.” &lt;http://factfinder.census.gov&amp;gt;; (November 26, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Subject Series—Estab &amp; Firm Size: Legal Form of Organization for the United States:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 62: Health Care and Social Assistance: Subject Series—Estab &amp; Firm Size: Legal Form of Organization for the United States: 2002” &lt;http://factfinder.census.gov&amp;gt;; (November 21, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 31: Manufacturing: Industry Series: Historical Statistics for the Industry:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 31: Manufacturing: Industry Series: Historical Statistics for the Industry: 2002 and Earlier Years” &lt;http://factfinder.census.gov&amp;gt;; (November 25, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 48: Transportation and Warehousing: Industry Series: Comparative Statistics for the United States</title>
+<date>1997</date>
+<booktitle>NAICS Basis): 2002 and</booktitle>
+<marker>Census, 1997</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 48: Transportation and Warehousing: Industry Series: Comparative Statistics for the United States (1997 NAICS Basis): 2002 and 1997” &lt;http://factfinder.census.gov&amp;gt;; (December 12, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 48: Transportation and Warehousing: Subject Series—Estab &amp; Firm Size: Concentration by Largest Firms for the United States:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 48: Transportation and Warehousing: Subject Series—Estab &amp; Firm Size: Concentration by Largest Firms for the United States: 2002” &lt;http://factfinder.census.gov&amp;gt;; (December 12, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 48-49: Geographic Distribution—Pipeline transportation of natural gas:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 48-49: Geographic Distribution—Pipeline transportation of natural gas: 2002.” &lt;http://factfinder.census.gov&amp;gt;; (November 10, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Census</author>
+</authors>
+<title>Bureau; generated by RTI International; using American FactFinder; “Sector 48-49: Transportation and Warehousing: Subject Series—Estab &amp; Firm Size: Legal Form of Organization for the United States:</title>
+<date>2002</date>
+<marker>Census, 2002</marker>
+<rawString>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 48-49: Transportation and Warehousing: Subject Series—Estab &amp; Firm Size: Legal Form of Organization for the United States: 2002” &lt;http://factfinder.census.gov&amp;gt;; (December 12, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Deleted OMB Review Draft</author>
+</authors>
+<title>U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 00: All sectors: Geographic Area Series: Economy-Wide Key Statistics:</title>
+<date>2009</date>
+<marker>Draft, 2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009 U.S. Census Bureau; generated by RTI International; using American FactFinder; “Sector 00: All sectors: Geographic Area Series: Economy-Wide Key Statistics: 2002” &lt;http://factfinder.census.gov&amp;gt;; (December 17, 2008).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<date>2004</date>
+<institution>Department of Agriculture (USDA), National Agricultural Statistics</institution>
+<location>Service (NASS).</location>
+<marker>S, 2004</marker>
+<rawString>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS). 2004.</rawString>
+</citation>
+<citation valid="true">
+<title>Farm and Ranch Irrigation Survey.”</title>
+<date>2003</date>
+<publisher>USDA-NASS.</publisher>
+<location>Washington, DC:</location>
+<marker>2003</marker>
+<rawString>“2003 Farm and Ranch Irrigation Survey.” Washington, DC: USDA-NASS.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture (USDA).</title>
+<date>2008</date>
+<note>Agricultural Projections to</note>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Agriculture (USDA). 2008. “Agricultural Projections to 2017.” &lt;http://www.ers.usda.gov/Publications/OCE081/OCE20081c.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture (USDA).</title>
+<date>2008</date>
+<note>Agricultural Projections to</note>
+<marker>S, 2008</marker>
+<rawString>U.S. Department of Agriculture (USDA). 2008. “Agricultural Projections to 2017.” &lt;http://www.ers.usda.gov/Publications/OCE081/OCE20081c.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Energy, Energy Information Administration.</title>
+<date>2007</date>
+<booktitle>2006 EIA-906/920 Monthly Time Series.” U.S. Energy Information Administration. 2008a. restructuring/restructure_elect.html&amp;gt;. Last updated</booktitle>
+<marker>S, 2007</marker>
+<rawString>U.S. Department of Energy, Energy Information Administration. 2007. “2006 EIA-906/920 Monthly Time Series.” U.S. Energy Information Administration. 2008a. &lt;http://www.eia.doe.gov/cneaf/electricity/page/ restructuring/restructure_elect.html&amp;gt;. Last updated September 2008.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Energy</author>
+</authors>
+<title>Information Administration.</title>
+<date>2008</date>
+<marker>Energy, 2008</marker>
+<rawString>U.S. Energy Information Administration. 2008b. Supplemental Tables to the Annual Energy Outlook 2009. Table 10. Available at: &lt;http://www.eia.doe.gov/oiaf/aeo/supplement/ supref.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2000</date>
+<journal>EPA</journal>
+<pages>240--00</pages>
+<publisher>EPA.</publisher>
+<location>Washington, DC:</location>
+<marker>S, 2000</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). September 2000. Guidelines for Preparing Economic Analyses. EPA 240-R-00-003. Washington, DC: EPA. &lt;http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/Guidelines.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency (EPA).</title>
+<date>2004</date>
+<pages>420--04</pages>
+<location>Washington, DC: EPA.</location>
+<note>http://www.epa.gov/nonroad-diesel/2004fr/420r04007.pdf&amp;gt;.</note>
+<marker>S, 2004</marker>
+<rawString>U.S. Environmental Protection Agency (EPA). May 2004. Final Regulatory Analysis: Control of Emissions from Nonroad Diesel Engines. EPA420-R-04-007. Washington, DC: EPA. &lt; http://www.epa.gov/nonroad-diesel/2004fr/420r04007.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2006</date>
+<marker>S, 2006</marker>
+<rawString>U.S. Environmental Protection Agency. 2006. Regulatory Impact Analysis, 2006 National Ambient Air Quality Standards for Particulate Matter, Chapter 5. Available at &lt;7Hhttp://www.epa.gov/ttn/ecas/regdata/RIAs/Chapter%205--Benefits.pdf &amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2008</date>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency. 2008. Regulatory Impact Analysis, 2008 National Ambient Air Quality Standards for Ground-level Ozone, Chapter 6. Available at &lt;http://www.epa.gov/ttn/ecas/regdata/RIAs/6-ozoneriachapter6.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Environmental Protection Agency.</title>
+<date>2008</date>
+<journal>Ozone NAAQS Docket</journal>
+<pages>2007--0225</pages>
+<marker>S, 2008</marker>
+<rawString>U.S. Environmental Protection Agency. 2008. Technical Support Document: Calculating Benefit Per-Ton estimates, Ozone NAAQS Docket #EPA-HQ-OAR-2007-0225-0284.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S Environmental Protection Agency</author>
+</authors>
+<title>Integrated Science Assessment for Particulate Matter (External Review Draft).</title>
+<date>2008</date>
+<booktitle>EPA/600/R-08/139. Available on the Internet at Deleted: OMB Review Draft –</booktitle>
+<volume>23</volume>
+<location>Washington, DC,</location>
+<note>tablepdf.pdf&amp;gt;.</note>
+<marker>Agency, 2008</marker>
+<rawString>U.S. Environmental Protection Agency. 2008. Integrated Science Assessment for Particulate Matter (External Review Draft). Washington, DC, EPA/600/R-08/139. Available on the Internet at &lt;http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=201805&amp;gt; Deleted: OMB Review Draft – February 23, 2009 U.S. Small Business Administration (SBA). 2008. “Table of Small Business Size Standards Matched to North American Industry Classification System Codes.” Effective August 22, 2008. &lt;http://www.sba.gov/idc/groups/public/documents/sba_homepage/serv_sstd_ tablepdf.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Small Business Administration</author>
+</authors>
+<title>Table of Small Business Size Standards Matched to North American Industry Classification System Codes. Effective</title>
+<date>2008</date>
+<note>size/index.html&amp;gt;.</note>
+<marker>Administration, 2008</marker>
+<rawString>U.S. Small Business Administration (SBA). 2008. Table of Small Business Size Standards Matched to North American Industry Classification System Codes. Effective March 11, 2008. &lt;http://www.sba.gov/services/contractingopportunities/sizestandardstopics/ size/index.html&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>S H Wade</author>
+</authors>
+<date>2003</date>
+<booktitle>Price Responsiveness in the AEO2003 NEMS Residential and Commercial Buildings Sector Models.”</booktitle>
+<marker>Wade, 2003</marker>
+<rawString>Wade, S.H. 2003. “Price Responsiveness in the AEO2003 NEMS Residential and Commercial Buildings Sector Models.” &lt;http://www.eia.doe.gov/oiaf/analysispaper/elasticity/pdf/buildings.pdf&amp;gt;.</rawString>
+</citation>
+<citation valid="true">
+<date>2009</date>
+<journal>Deleted: OMB Review Draft – February</journal>
+<volume>23</volume>
+<marker>2009</marker>
+<rawString>Deleted: OMB Review Draft – February 23, 2009</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

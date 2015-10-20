@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Also</author>
+</authors>
+<title>Ahold announced the pending purchase of Supermarket General-II Holdings Corporation, parent of the Pathmark chain. Similarly, SUPERVALUE acquired Richfood, Food Lion bought out Hannaford Brothers and Scarborough, and Albertson’s purchased American Stores. (Sean Mehegan, ‘‘Consolidation Changes the Face of the North American Supermarket Sector,’’ Meat &amp; Poultry</title>
+<date>1999</date>
+<journal>U.S. Dept. of Agr., Econ. Res.</journal>
+<booktitle>Paperwork Reduction Act Coordinator, Food Safety and Inspection Service, USDA, 112 Annex, 300 12th St.,</booktitle>
+<volume>4</volume>
+<pages>14--86</pages>
+<location>Washington, DC</location>
+<marker>Also, 1999</marker>
+<rawString>Also, Ahold announced the pending purchase of Supermarket General-II Holdings Corporation, parent of the Pathmark chain. Similarly, SUPERVALUE acquired Richfood, Food Lion bought out Hannaford Brothers and Scarborough, and Albertson’s purchased American Stores. (Sean Mehegan, ‘‘Consolidation Changes the Face of the North American Supermarket Sector,’’ Meat &amp; Poultry (September 1999): 22– 25). More recently, Wal-Mart through its operation Wal-Mart Puerto Rico agreed of total costs ......... 4.59 7.12 66.33 10.05 14.86 4.59 7.12 66.33 10.05 14.86 Executive Order 12988 This supplemental proposed rule has been reviewed under Executive Order 12988, Civil Justice Reform. States and local jurisdictions are preempted by the Federal Meat Inspection Act (FMIA) and the Poultry Products Inspection Act (PPIA) from imposing any marking, labeling, packaging, or ingredient requirements on Federally inspected O’Connell, Paperwork Reduction Act Coordinator, Food Safety and Inspection Service, USDA, 112 Annex, 300 12th St., Washington, DC 20250. Comments Additional Public Notification Public awareness of all segments of rulemaking and policy development is important. Consequently, in an effort to ensure that minorities, women, and persons with disabilities are aware of this supplemental proposed rule, FSIS will announce it on-line through the FSIS Web page located at http:// www.fsis.usda.gov/ regulations_&amp;_policies/ 2009_Proposed_Rules_Index/index.asp. FSIS also will make copies of this Federal Register publication available through the FSIS Constituent Update, which is used to provide information regarding FSIS policies, procedures, regulations, Federal Register notices, FSIS public meetings, and other types of Aldrich, Lorna, Consumer Use of Information, Implications for Food Policy. U.S. Dept. of Agr., Econ. Res.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Serv</author>
+</authors>
+<title>Agricultural Handbook No.</title>
+<date>1999</date>
+<volume>715</volume>
+<marker>Serv, 1999</marker>
+<rawString>Serv., Agricultural Handbook No. 715. 1999.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>D Amstein</author>
+<author>NCBA Consultant</author>
+</authors>
+<title>King Marketing Services,</title>
+<date></date>
+<booktitle>Personal communication with Mary Muth, RTI International, Research</booktitle>
+<volume>30</volume>
+<location>Raleigh, North Carolina.</location>
+<marker>Amstein, Consultant, </marker>
+<rawString>Amstein, D., NCBA Consultant, King Marketing Services, Raleigh, North Carolina. April 30, 2003. Personal communication with Mary Muth, RTI International, Research Triangle Park, NC.</rawString>
+</citation>
+<citation valid="true">
+<title>Safety Commission (Miller et al., ‘‘The Consumer Product Safety Commission’s Revised Injury Cost Model,’’ Peer Review Draft Prepared for the U.S. Consumer Product Safety Commission,</title>
+<date>1997</date>
+<institution>Consumer Product</institution>
+<marker>1997</marker>
+<rawString>Consumer Product Safety Commission (Miller et al., ‘‘The Consumer Product Safety Commission’s Revised Injury Cost Model,’’ Peer Review Draft Prepared for the U.S. Consumer Product Safety Commission, July 1, 1997).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Stephen Crutchfield</author>
+<author>Tanya Roberts</author>
+<author>Jean Buzby</author>
+<author>Paul Frenzen</author>
+</authors>
+<date>2001</date>
+<booktitle>Food Safety Efforts Accelerate in the 1990’s,’’ Food Review,</booktitle>
+<volume>23</volume>
+<issue>3</issue>
+<marker>Crutchfield, Roberts, Buzby, Frenzen, 2001</marker>
+<rawString>Crutchfield, Stephen, Tanya Roberts, Jean Buzby, and Paul Frenzen, ‘‘Food Safety Efforts Accelerate in the 1990’s,’’ Food Review, 23 (3), September–December 2001a).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Stephen Crutchfield</author>
+<author>Fred Kuchler</author>
+<author>Jayachandian N Variyam</author>
+</authors>
+<title>The Economic Benefits of Nutrition Labeling: A Case Study for Fresh Meat and Poultry Products.’’</title>
+<journal>Journal of Consumer Policy</journal>
+<volume>24</volume>
+<pages>185--207</pages>
+<marker>Crutchfield, Kuchler, Variyam, </marker>
+<rawString>Crutchfield, Stephen, Fred Kuchler, and Jayachandian N. Variyam. ‘‘The Economic Benefits of Nutrition Labeling: A Case Study for Fresh Meat and Poultry Products.’’ Journal of Consumer Policy 24: 185–207, 2001b.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>American Meat Institute Dopp</author>
+</authors>
+<title>Re: Docket #98– 005F, Food Safety and Inspection Service Proposed Rule: ‘‘Nutrition Labeling of Ground or Chopped Meat and Poultry Products and SingleIngredient Products.’’ Comments submitted to the FSIS Docket Clerk,</title>
+<date>2001</date>
+<location>Washington, DC.</location>
+<marker>Dopp, 2001</marker>
+<rawString>Dopp, M.D., American Meat Institute (AMI), Arlington, VA. 2001. Re: Docket #98– 005F, Food Safety and Inspection Service Proposed Rule: ‘‘Nutrition Labeling of Ground or Chopped Meat and Poultry Products and SingleIngredient Products.’’ Comments submitted to the FSIS Docket Clerk, Washington, DC.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Food</author>
+</authors>
+<title>Drug Administration (60 FR 65095,</title>
+<date>1995</date>
+<booktitle>Procedures for the Safe and Sanitary Processing and Importing of Fish and Fishery Products; Final Rule.</booktitle>
+<marker>Food, 1995</marker>
+<rawString>Food and Drug Administration (60 FR 65095, December 18, 1995). Procedures for the Safe and Sanitary Processing and Importing of Fish and Fishery Products; Final Rule.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Food</author>
+</authors>
+<title>Drug Administration (68 FR 41434–41504,</title>
+<date>2003</date>
+<marker>Food, 2003</marker>
+<rawString>Food and Drug Administration (68 FR 41434–41504, July 11, 2003). Food Labeling: Trans Fatty Acids in Nutrition labeling, Nutrient Content Claims, and Health Claims; Final Rule.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Food</author>
+</authors>
+<title>Drug Administration (69 FR 56824–56906,</title>
+<date>2004</date>
+<marker>Food, 2004</marker>
+<rawString>Food and Drug Administration (69 FR 56824–56906, September 22, 2004). Prevention of Salmonella Enteritidis in Shell Eggs During Production; Proposed Rule. Golan Elise, Fred Kuchler, and Lorraine Mitchell. Economics of Food Labeling.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S Dept</author>
+</authors>
+<date>2000</date>
+<journal>of Agr., Econ. Res. Serv., AER No.</journal>
+<volume>793</volume>
+<marker>Dept, 2000</marker>
+<rawString>U.S. Dept. of Agr., Econ. Res. Serv., AER No. 793. 2000.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Susan G Hadden</author>
+</authors>
+<title>Read the Label: Reducing Risk by Providing Information</title>
+<date>1986</date>
+<publisher>Press).</publisher>
+<location>Boulder, CO: Westview</location>
+<marker>Hadden, 1986</marker>
+<rawString>Hadden, Susan G. 1986. Read the Label: Reducing Risk by Providing Information (Boulder, CO: Westview Press).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Pauline M Ippolito</author>
+<author>Alan Mathios</author>
+</authors>
+<date>1990</date>
+<journal>The Regulation of Science Based Claims in Advertising,’’ Journal of Consumer Policy</journal>
+<volume>13</volume>
+<pages>413--445</pages>
+<marker>Ippolito, Mathios, 1990</marker>
+<rawString>Ippolito, Pauline M., and Alan Mathios. 1990a. ‘‘The Regulation of Science Based Claims in Advertising,’’ Journal of Consumer Policy 13: 413–445.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Pauline M Ippolito</author>
+<author>Alan Mathios</author>
+</authors>
+<title>Information Advertising, and Health Choices:</title>
+<date>1990</date>
+<journal>A Study of the Cereal Market,’’ Rand Journal of Economics</journal>
+<volume>21</volume>
+<issue>3</issue>
+<pages>459--80</pages>
+<marker>Ippolito, Mathios, 1990</marker>
+<rawString>Ippolito, Pauline M., and Alan Mathios. 1990b. ‘‘Information Advertising, and Health Choices: A Study of the Cereal Market,’’ Rand Journal of Economics 21(3): 459–80.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Pauline M Ippolito</author>
+<author>Alan Mathios</author>
+</authors>
+<date>1991</date>
+<booktitle>Information, Advertising, and Health: A Study of the Cereal Market.’’ In Economics of Food Safety,</booktitle>
+<editor>ed. Julie Caswell.</editor>
+<publisher>Elseview Science Publishing Co.,</publisher>
+<location>New York.</location>
+<marker>Ippolito, Mathios, 1991</marker>
+<rawString>Ippolito, Pauline M., and Alan Mathios. 1991. ‘‘Information, Advertising, and Health: A Study of the Cereal Market.’’ In Economics of Food Safety, ed. Julie Caswell. Elseview Science Publishing Co., New York.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Pauline M Ippolito</author>
+<author>Alan Mathios</author>
+</authors>
+<title>Information and Advertising: The Case of</title>
+<date>1995</date>
+<journal>Fat Consumption in the United States.’’ American Economic Review</journal>
+<volume>85</volume>
+<issue>2</issue>
+<pages>91--95</pages>
+<marker>Ippolito, Mathios, 1995</marker>
+<rawString>Ippolito, Pauline M., and Alan Mathios. 1995. ‘‘Information and Advertising: The Case of Fat Consumption in the United States.’’ American Economic Review 85(2): 91–95.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Sung-Yong Kim</author>
+<author>R M Nayaga</author>
+<author>Oral Capps</author>
+</authors>
+<title>The Effect of Food Label Use on Nutrient Intakes: An Endogenous Switching Regression Analysis’’,</title>
+<date>2000</date>
+<journal>Journal of Agricultural and Resource Economics,</journal>
+<pages>25--215</pages>
+<marker>Kim, Nayaga, Capps, 2000</marker>
+<rawString>Kim, Sung-Yong, R.M. Nayaga, Jr., and Oral Capps, Jr. ‘‘The Effect of Food Label Use on Nutrient Intakes: An Endogenous Switching Regression Analysis’’, Journal of Agricultural and Resource Economics, July 2000 25: 215–231.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Fred Kuchler</author>
+<author>Elise Golan</author>
+</authors>
+<title>Assigning Value to Life: Comparing Methods for Valuing Health Risks, Agricultural Economic</title>
+<date>1999</date>
+<tech>Report No. 784, U.S. Dept. Agric.,</tech>
+<location>Econ. Res. Service, Washington, DC.</location>
+<marker>Kuchler, Golan, 1999</marker>
+<rawString>Kuchler, Fred and Elise Golan, 1999. Assigning Value to Life: Comparing Methods for Valuing Health Risks, Agricultural Economic Report No. 784, U.S. Dept. Agric., Econ. Res. Service, Washington, DC.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Kelvin J Lancaster</author>
+</authors>
+<title>A New Approach to Consumer Theory.’’</title>
+<date>1966</date>
+<journal>Journal of Political Economy,</journal>
+<volume>74</volume>
+<pages>132--156</pages>
+<marker>Lancaster, 1966</marker>
+<rawString>Lancaster, Kelvin J., ‘‘A New Approach to Consumer Theory.’’ Journal of Political Economy, 74 (1966) pp 132–156.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Wewsley Magat</author>
+<author>W Kip Viscusi</author>
+</authors>
+<title>Informational Approaches to Regulation</title>
+<date>1992</date>
+<publisher>MIT Press).</publisher>
+<location>Cambridge, MA:</location>
+<marker>Magat, Viscusi, 1992</marker>
+<rawString>Magat, Wewsley, and W. Kip Viscusi. 1992. Informational Approaches to Regulation (Cambridge, MA: MIT Press).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lisa Mancino</author>
+<author>Fred Kuchler</author>
+</authors>
+<title>Offsetting Behavior in Reducing High Cholesterol: Substitution of Medication for Diet and Lifestyle Changes.’’</title>
+<date>2009</date>
+<journal>The Journal of Choice Modelling,</journal>
+<volume>1</volume>
+<pages>51--64</pages>
+<publisher>Spring</publisher>
+<marker>Mancino, Kuchler, 2009</marker>
+<rawString>Mancino, Lisa, and Fred Kuchler. ‘‘Offsetting Behavior in Reducing High Cholesterol: Substitution of Medication for Diet and Lifestyle Changes.’’ The Journal of Choice Modelling, Vol. 1, Issue 2, Spring 2009, pp.51–64.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A D</author>
+<author>P M Ippolito</author>
+</authors>
+<title>Food companies spread nutrition information through advertising and labels. Food Review.</title>
+<date>1998</date>
+<volume>21</volume>
+<issue>2</issue>
+<pages>38--43</pages>
+<marker>D, Ippolito, 1998</marker>
+<rawString>Mathios. A.D., and P.M. Ippolito. 1998. Food companies spread nutrition information through advertising and labels. Food Review. 21(2), 38–43.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>A McGowan</author>
+<author>Centennial NCBA</author>
+<author>CO</author>
+</authors>
+<date>2003</date>
+<booktitle>Personnal communication with Mary Muth, RTI International, Research</booktitle>
+<location>Triangle Park, NC.</location>
+<marker>McGowan, NCBA, CO, 2003</marker>
+<rawString>McGowan, A., NCBA, Centennial, CO. April 9, 2003. Personnal communication with Mary Muth, RTI International, Research Triangle Park, NC.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Christine Moorman</author>
+</authors>
+<title>A Quasi Experiment to Assess the Consumer and Informational Determinants of Nutrition Information Processing Activities: The Case of the Nutrition Labeling and Education Act,’’</title>
+<date>1996</date>
+<journal>Journal of Public Policy and Marketing</journal>
+<volume>15</volume>
+<issue>1</issue>
+<pages>28--44</pages>
+<marker>Moorman, 1996</marker>
+<rawString>Moorman, Christine. 1996 ‘‘A Quasi Experiment to Assess the Consumer and Informational Determinants of Nutrition Information Processing Activities: The Case of the Nutrition Labeling and Education Act,’’ Journal of Public Policy and Marketing 15(1): 28–44.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M K Muth</author>
+<author>E C Gledhill</author>
+<author>S A Karns</author>
+</authors>
+<title>FDA Labeling Cost Model.’’ Prepared for the U.S. Food and Drug Administration, Center for Food Safety and Applied Nutrition. Research Triangle Park, NC.</title>
+<date>2003</date>
+<publisher>RTI International.</publisher>
+<marker>Muth, Gledhill, Karns, 2003</marker>
+<rawString>Muth, M.K., E.C. Gledhill, and S.A. Karns. January, 2003. ‘‘FDA Labeling Cost Model.’’ Prepared for the U.S. Food and Drug Administration, Center for Food Safety and Applied Nutrition. Research Triangle Park, NC. RTI International.</rawString>
+</citation>
+<citation valid="true">
+<title>National Cattlemen’s Beef Association.</title>
+<date>2004</date>
+<institution>National Meat Case Study.</institution>
+<marker>2004</marker>
+<rawString>National Cattlemen’s Beef Association. 2004. National Meat Case Study.</rawString>
+</citation>
+<citation valid="false">
+<date>2009</date>
+<institution>National Cattlemen’s Beef Association.</institution>
+<marker>2009</marker>
+<rawString>National Cattlemen’s Beef Association. 2009.</rawString>
+</citation>
+<citation valid="true">
+<title>The Journey towards Retail Meat Case Nutrition Labeling, A white paper,</title>
+<date>2009</date>
+<note>http:// www.beefretail.org/CMDocs/BeefRetail/ nutrition/ NutritionLabelingWhitePaper.pdf.</note>
+<marker>2009</marker>
+<rawString>The Journey towards Retail Meat Case Nutrition Labeling, A white paper, November 2009. http:// www.beefretail.org/CMDocs/BeefRetail/ nutrition/ NutritionLabelingWhitePaper.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>National Livestock</author>
+<author>Meat Board</author>
+</authors>
+<title>Uniform Retail Meat Identity Standards.</title>
+<date>1995</date>
+<location>Chicago, Illinois.</location>
+<marker>Livestock, Board, 1995</marker>
+<rawString>National Livestock and Meat Board. Uniform Retail Meat Identity Standards. Chicago, Illinois. 1995.</rawString>
+</citation>
+<citation valid="true">
+<date>2003</date>
+<booktitle>The NMI Health and Wellness Trends Database.</booktitle>
+<institution>National Marketing Institute,</institution>
+<marker>2003</marker>
+<rawString>National Marketing Institute, 2003. The NMI Health and Wellness Trends Database.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>PA Harleysville</author>
+</authors>
+<title>As reported in Food Technology. ‘‘What, When and Where Americans Eat:</title>
+<date>2003</date>
+<marker>Harleysville, 2003</marker>
+<rawString>Harleysville, PA. As reported in Food Technology. ‘‘What, When and Where Americans Eat: 2003. August 2003.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>M L Neuhouser</author>
+<author>A R Kristal</author>
+<author>R E Patterson</author>
+</authors>
+<title>Use of food nutrition labels is associated with lower fat intake’’.</title>
+<date>1999</date>
+<journal>Journal of the American Dietetic Association,</journal>
+<volume>99</volume>
+<pages>45--53</pages>
+<marker>Neuhouser, Kristal, Patterson, 1999</marker>
+<rawString>Neuhouser, M.L., Kristal, A.R., and Patterson, R.E. 1999. ‘‘Use of food nutrition labels is associated with lower fat intake’’. Journal of the American Dietetic Association, 99, 45–53.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Lars Noah</author>
+</authors>
+<title>The Imperative to Warn: Disentangling the ‘‘Right to Know’’ from the ‘‘Need to Know’’ about Consumer Product Hazards’’</title>
+<date>1994</date>
+<journal>Yale Journal on Regulation</journal>
+<volume>11</volume>
+<issue>2</issue>
+<pages>293--400</pages>
+<marker>Noah, 1994</marker>
+<rawString>Noah, Lars. 1994. ‘‘The Imperative to Warn: Disentangling the ‘‘Right to Know’’ from the ‘‘Need to Know’’ about Consumer Product Hazards’’ Yale Journal on Regulation 11(2): 293–400.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Budget</author>
+</authors>
+<title>Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies.</title>
+<date>2002</date>
+<tech>67 FR 8452).</tech>
+<institution>Office of Management</institution>
+<marker>Budget, 2002</marker>
+<rawString>Office of Management and Budget, 2002. Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies. 67 FR 8452).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>International RTI</author>
+</authors>
+<title>Cost Analysis for Nutrition Labeling of Ground, Chopped, and Single-Ingredient Meat and Poultry VerDate</title>
+<date>2009</date>
+<booktitle>Nov&lt;24&gt;2008 14:59 Dec 17, 2009 Jkt 220001 PO 00000 Frm 00062 Fmt 4701 Sfmt 4702 E:\FR\FM\18DEP2.SGM 18DEP2ero 67797 Federal Register /</booktitle>
+<volume>74</volume>
+<marker>RTI, 2009</marker>
+<rawString>RTI, International. Cost Analysis for Nutrition Labeling of Ground, Chopped, and Single-Ingredient Meat and Poultry VerDate Nov&lt;24&gt;2008 14:59 Dec 17, 2009 Jkt 220001 PO 00000 Frm 00062 Fmt 4701 Sfmt 4702 E:\FR\FM\18DEP2.SGM 18DEP2ero 67797 Federal Register / Vol. 74, No. 242 / Friday, December 18, 2009 / Proposed Rules Products: May 2003, revised final report, May 20, 2003.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>B Schuller</author>
+<author>Hobart Corporation</author>
+<author>OH Troy</author>
+</authors>
+<date>2003</date>
+<booktitle>Personal communication with Mary Muth, RTI International, Research</booktitle>
+<location>Triangle Park, NC.</location>
+<marker>Schuller, Corporation, Troy, 2003</marker>
+<rawString>Schuller, B., Hobart Corporation, Troy, OH. April 16, 2003. Personal communication with Mary Muth, RTI International, Research Triangle Park, NC.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>George Stigler</author>
+<author>J</author>
+</authors>
+<date>1961</date>
+<journal>The Economics of Information.’’ Journal of Political Economy,</journal>
+<volume>69</volume>
+<pages>213--225</pages>
+<marker>Stigler, J, 1961</marker>
+<rawString>Stigler, George, J. ‘‘The Economics of Information.’’ Journal of Political Economy, 69, (1961) pp. 213–225.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Mario F Teisl</author>
+<author>Alan S Levy</author>
+</authors>
+<title>Does Nutrition Labeling Lead to Healthier Eating?’’</title>
+<date>1997</date>
+<journal>Journal of Food Distribution Research.</journal>
+<volume>28</volume>
+<issue>3</issue>
+<pages>18--27</pages>
+<marker>Teisl, Levy, 1997</marker>
+<rawString>Teisl, Mario F. and Alan S. Levy. ‘‘Does Nutrition Labeling Lead to Healthier Eating?’’ Journal of Food Distribution Research. October 1997. 28(3) pp. 18–27.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Mario F Teisl</author>
+<author>N E Bockstael</author>
+<author>A S Levy</author>
+</authors>
+<title>Measuring the welfare effects of nutrition information.</title>
+<date>2001</date>
+<journal>American Journal of Agricultural Economics,</journal>
+<volume>83</volume>
+<pages>133--149</pages>
+<marker>Teisl, Bockstael, Levy, 2001</marker>
+<rawString>Teisl, Mario F., N.E. Bockstael, and A. S. Levy. (2001) Measuring the welfare effects of nutrition information. American Journal of Agricultural Economics, 83, 133–149.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Sherwin Rosen</author>
+</authors>
+<title>Hedonic Prices and Implicit Markets: Product Differentiation in</title>
+<date>1974</date>
+<journal>Pure Competition.’’ Journal of Political Economy,</journal>
+<volume>74</volume>
+<pages>34--55</pages>
+<marker>Rosen, 1974</marker>
+<rawString>Rosen, Sherwin, ‘‘Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition.’’ Journal of Political Economy, 74 (1974) pp34–55.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture, 1994–1996. Continuing survey of food intake by individuals (CSFII), and companion diet and health knowledge survey (DHKS).</title>
+<marker>S, </marker>
+<rawString>U.S. Department of Agriculture, 1994–1996. Continuing survey of food intake by individuals (CSFII), and companion diet and health knowledge survey (DHKS).</rawString>
+</citation>
+<citation valid="false">
+<title>Survey years 1994–1996.</title>
+<location>Washington, DC.</location>
+<marker></marker>
+<rawString>Survey years 1994–1996. Washington, DC.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Nutrition Labeling/Safe Handling Information Study—Raw Meat and Poultry. Prepared by Retail Diagnostics,</title>
+<date>1996</date>
+<tech>Final Report.</tech>
+<publisher>Inc.,</publisher>
+<institution>Department of Agriculture,</institution>
+<location>Oradell, New Jersey.</location>
+<marker>S, 1996</marker>
+<rawString>U.S. Department of Agriculture, December 1996. Nutrition Labeling/Safe Handling Information Study—Raw Meat and Poultry. Prepared by Retail Diagnostics, Inc., Oradell, New Jersey. Final Report.</rawString>
+</citation>
+<citation valid="false">
+<date>1997</date>
+<note>http://www.fsis.usda.gov/ OPPDE/rdad/FRPubs/98–005P/Rpt1996– 98–005P.pdf.</note>
+<marker>1997</marker>
+<rawString>March 1997. http://www.fsis.usda.gov/ OPPDE/rdad/FRPubs/98–005P/Rpt1996– 98–005P.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Nutrition Labeling/Safe Handling Information Study—Raw Meat and Poultry. Prepared by Retail Diagnostics,</title>
+<date>1999</date>
+<tech>Final Report.</tech>
+<publisher>Inc.,</publisher>
+<institution>Department of Agriculture,</institution>
+<location>Oradell, New Jersey.</location>
+<marker>S, 1999</marker>
+<rawString>U.S. Department of Agriculture, October 1999. Nutrition Labeling/Safe Handling Information Study—Raw Meat and Poultry. Prepared by Retail Diagnostics, Inc., Oradell, New Jersey. Final Report.</rawString>
+</citation>
+<citation valid="false">
+<date>2000</date>
+<note>http://www.fsis.usda.gov/ OPPDE/rdad/FRPubs/98–005P/Rpt1999– 98–005P.pdf.</note>
+<marker>2000</marker>
+<rawString>January 2000. http://www.fsis.usda.gov/ OPPDE/rdad/FRPubs/98–005P/Rpt1999– 98–005P.pdf.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture, Agricultural Research Service,</title>
+<date>2005</date>
+<marker>S, 2005</marker>
+<rawString>U.S. Department of Agriculture, Agricultural Research Service, 2005. USDA National Nutrient Database for Standard Reference, Release 18. Nutrient Data Laboratory Homepage: http:// www.hal.usda.gov.fnic/foodcomp. Van Ravenswaay, Eileen, ‘‘Valuing Food Safety Nutrition: The Research Needs.’’ Valuing Food Safety and Nutrition.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Edited by Julie Caswell</author>
+</authors>
+<date>1995</date>
+<publisher>Westview Press,</publisher>
+<location>Boulder, CO.</location>
+<marker>Caswell, 1995</marker>
+<rawString>Edited by Julie Caswell. Westview Press, Boulder, CO. 1995.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Variyam JN</author>
+</authors>
+<title>Do Nutrition Labels Improve Dietary Outcomes?</title>
+<date>2008</date>
+<journal>Health Economics,</journal>
+<volume>17</volume>
+<pages>695--708</pages>
+<marker>JN, 2008</marker>
+<rawString>Variyam JN (2008). Do Nutrition Labels Improve Dietary Outcomes? Health Economics, 17: 695–708. Variyam, Jaychandram N., James Blaylock, and David Smallwood, Modeling Nutrient Intake; The Role of Dietary Information. U.S. Dept. of Agr., Econ.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Serv</author>
+</authors>
+<date>1842</date>
+<booktitle>Diet-Health Information and Nutrition: The Intake of Dietary Fats</booktitle>
+<marker>Serv, 1842</marker>
+<rawString>Res. Serv., TB–1842, 1995. Variyam, Jaychandram N., James Blaylock, and David Smallwood, Diet-Health Information and Nutrition: The Intake of Dietary Fats and Cholesterol. U.S. Dept.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>of Agr</author>
+</authors>
+<date>1997</date>
+<journal>Econ. Res. Serv.,</journal>
+<volume>1855</volume>
+<marker>Agr, 1997</marker>
+<rawString>of Agr., Econ. Res. Serv., TB–1855, 1997.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>W K Viscusi</author>
+</authors>
+<title>Fatal Tradeoffs—Public &amp; Private Responsibilities for Risk.</title>
+<date>1992</date>
+<publisher>University Press,</publisher>
+<location>New York: Oxford</location>
+<marker>Viscusi, 1992</marker>
+<rawString>Viscusi, W.K. Fatal Tradeoffs—Public &amp; Private Responsibilities for Risk. New York: Oxford University Press, 1992).</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Gary A Zarkin</author>
+<author>Nancy Dean</author>
+<author>Josephine A Mauskopf</author>
+<author>Dierdre M Neighbors</author>
+</authors>
+<title>Estimated Benefits of Nutrition Label Changes: Final Report,</title>
+<date>1991</date>
+<volume>1</volume>
+<pages>27709</pages>
+<institution>Center for Economics Research, Research Triangle Institute, Research</institution>
+<location>Triangle Park, NC,</location>
+<marker>Zarkin, Dean, Mauskopf, Neighbors, 1991</marker>
+<rawString>Zarkin, Gary A., Nancy Dean, Josephine A. Mauskopf, and Dierdre M. Neighbors, ‘‘Estimated Benefits of Nutrition Label Changes: Final Report, Volume 1,’’ Center for Economics Research, Research Triangle Institute, Research Triangle Park, NC, 27709. April 1991).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Gary A Zarkin</author>
+<author>Nancy Dean</author>
+<author>Josephine A Mauskopf</author>
+<author>Richard Williams</author>
+</authors>
+<title>Potential Health Benefits of Nutrition Label Changes,’’</title>
+<date>1993</date>
+<journal>American Journal of Public Health</journal>
+<volume>83</volume>
+<issue>5</issue>
+<pages>2--53</pages>
+<marker>Zarkin, Dean, Mauskopf, Williams, 1993</marker>
+<rawString>Zarkin,Gary A., Nancy Dean, Josephine A. Mauskopf, and Richard Williams, ‘‘Potential Health Benefits of Nutrition Label Changes,’’ American Journal of Public Health 83(5) (May 1993): 717– 724). Section III List of Subjects 9 CFR Part 317 Food labeling, Food packaging, Meat Inspection, Nutrition, Reporting and recordkeeping requirements. 9 CFR Part 381 Food labeling, Food packaging, Nutrition, Poultry and poultry products, Reporting and recordkeeping requirements. For the reasons stated in the preamble, FSIS is proposing to amend 9 CFR Chapter III, as follows: PART 317—LABELING, MARKING DEVICES AND CONTAINERS 1. The authority citation for part 317 continues to read as follows: Authority: 21 U.S.C 601–695; 7 CFR 2.18, 2.53. 2. Section 317.300 is revised to read as follows: § 317.300 Nutrition labeling of meat and meat food products. (a) Unless the product is exempted under § 317.400, nutrition labeling must 10. The authority citation for part 381 continues to read as follows: Authority: 7 U.S.C. 138f, 450; 21 U.S.C. 451–470; 7 CFR 2.18, 2.53.</rawString>
+</citation>
+<citation valid="false">
+<title>Section 381.400 is revised to read as follows:</title>
+<date>2009</date>
+<booktitle>VerDate Nov&lt;24&gt;2008 14:59 Dec 17,</booktitle>
+<marker>2009</marker>
+<rawString>11. Section 381.400 is revised to read as follows: VerDate Nov&lt;24&gt;2008 14:59 Dec 17, 2009 Jkt 220001 PO 00000 Frm 00064 Fmt 4701 Sfmt 4702 E:\FR\FM\18DEP2.SGM 18DEP2ero 14. Section 381.443 is removed. 15. Section 381.445 is amended as follows: a. The section heading and paragraph (a) and (c) are revised. b. Paragraph (d) is amended by removing ‘‘should’’ and adding, in its place, ‘‘for products covered in paragraphs (a)(1) and (a)(2) must’’. c. Paragraph (e) is amended by removing ‘‘its published form, the Agriculture Handbook No. 8 series’’ and by adding, in its place, ‘‘its released form, the USDA National Nutrient Database for Standard Reference.’’ d. Paragraph (f) is amended by adding ‘‘provided’’ after ‘‘nutrition information</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

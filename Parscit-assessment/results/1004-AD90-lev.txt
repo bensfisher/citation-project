@@ -1,0 +1,12 @@
+	NO PARSCIT CITATIONS
+2006 Property Value Study  Discount Rate Range for Oil and Gas Properties 	0.9324324324324325
+Annual Energy Outlook 	1.0
+Assessment of Oil Shale Technologies 	0.918918918918919
+Circular A94	0.9
+Geology and Resources of Some World OilShale Deposits 	0.8888888888888888
+Little Snake Resource Management Plan 	0.9210526315789473
+Oil Shale Development in the United States Prospects and Policy Issues	0.9428571428571428
+Regulatory Analysis Circular A4	0.9032258064516129
+Americas Strategic Unconventional Fuels Resources	0.9591836734693877
+Are we running out of oil	0.92
+Environmental News Service 	0.9629629629629629

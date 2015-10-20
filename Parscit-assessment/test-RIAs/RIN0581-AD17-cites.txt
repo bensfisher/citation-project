@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<authors>
+<author>Thursday</author>
+</authors>
+<title>U.S. Organic Agriculture, 1992–2008, data set available at http:// www.ers.usda.gov/data/organicERS. 42 Ibid.</title>
+<date>1993</date>
+<journal>Federal Register /</journal>
+<volume>77</volume>
+<institution>U.S. Department of Agriculture, Economic Research Service.</institution>
+<marker>Thursday, 1993</marker>
+<rawString>1993 Federal Register / Vol. 77, No. 8 / Thursday, January 12, 2012 / Proposed Rules 41 U.S. Department of Agriculture, Economic Research Service. 2008. U.S. Organic Agriculture, 1992–2008, data set available at http:// www.ers.usda.gov/data/organicERS. 42 Ibid.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>U S</author>
+</authors>
+<title>Department of Agriculture, Economic Research Service,</title>
+<date>2009</date>
+<marker>S, 2009</marker>
+<rawString>43 U.S. Department of Agriculture, Economic Research Service, 2009. Data Sets: Procurement and Contracting by Organic Handlers: Documentation available at http://www.ers.usda.gov/Data/ OrganicHandlers/Documentation.htm.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Carolyn Dimitri</author>
+<author>Kathryn M Venezia</author>
+</authors>
+<title>44 Organic Trade Association,</title>
+<date>2011</date>
+<volume>50</volume>
+<location>Brattleboro, VT.</location>
+<marker>Dimitri, Venezia, 2011</marker>
+<rawString>44 Organic Trade Association, 2011. 2011 Organic Industry Survey. Brattleboro, VT. 50 Dimitri, Carolyn, and Venezia, Kathryn M.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Retail</author>
+</authors>
+<title>Consumer Aspects of the Organic Milk Market/LDP–M–155–01.</title>
+<date>2007</date>
+<institution>U.S. Department of Agriculture, Economic Research Service,</institution>
+<marker>Retail, 2007</marker>
+<rawString>Retail and Consumer Aspects of the Organic Milk Market/LDP–M–155–01. U.S. Department of Agriculture, Economic Research Service, May 2007.</rawString>
+</citation>
+<citation valid="true">
+<title>rangeland.41 The number of certified 53 Sundale Research,</title>
+<date>2011</date>
+<booktitle>State of the Industry: Natural and Organic Pet Food in the U.S., 4th Edition, Bayshore, N.Y. 54 This is available on the Organic Trade Association Web site,</booktitle>
+<location>http://www.ota.com.</location>
+<marker>2011</marker>
+<rawString>rangeland.41 The number of certified 53 Sundale Research, 2011. State of the Industry: Natural and Organic Pet Food in the U.S., 4th Edition, Bayshore, N.Y. 54 This is available on the Organic Trade Association Web site, http://www.ota.com.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Catherine Greene</author>
+<author>Carolyn Dimitri</author>
+<author>BiingHwan Lin</author>
+<author>William McBride</author>
+<author>Lydia Oberholtzer</author>
+<author>Travis Smith</author>
+</authors>
+<title>Emerging Issues in the U.S. Organic Industry.</title>
+<date>2009</date>
+<journal>EIB–55. U.S. Dept. of Agriculture, Economic Research</journal>
+<booktitle>PART 205—NATIONAL ORGANIC PROGRAM 1. The authority citation for 7 CFR part 205 continues to read as follows: Authority: 7 U.S.C. 6501–6522. 2. Section 205.605(b)</booktitle>
+<marker>Greene, Dimitri, Lin, McBride, Oberholtzer, Smith, 2009</marker>
+<rawString>55 Greene, Catherine, Carolyn Dimitri, BiingHwan Lin, William McBride, Lydia Oberholtzer, and Travis Smith. Emerging Issues in the U.S. Organic Industry. EIB–55. U.S. Dept. of Agriculture, Economic Research Service. June 2009. these protections against discrimination. List of Subjects in 7 CFR Part 205. Administrative practice and procedure, Agriculture, Animals, Archives and records, Imports, Labeling, Organically produced products, Plants, Reporting and recordkeeping requirements, Seals and insignia, Soil conservation. For the reasons set forth in the preamble, 7 CFR part 205, is proposed to be amended as follows: PART 205—NATIONAL ORGANIC PROGRAM 1. The authority citation for 7 CFR part 205 continues to read as follows: Authority: 7 U.S.C. 6501–6522. 2. Section 205.605(b) is amended by: A. Removing the listing for ‘‘Nutrient vitamins and minerals’’. B. Adding a listing for ‘‘Vitamins and minerals’’.</rawString>
+</citation>
+<citation valid="false">
+<title>Acting Administrator, Agricultural Marketing Service.</title>
+<marker></marker>
+<rawString>Dated: January 6, 2012. David R. Shipman, Acting Administrator, Agricultural Marketing Service.</rawString>
+</citation>
+<citation valid="false">
+<title>2012–354 Filed 1–11–12; 8:45 am] AGENCY: Agricultural Marketing Service, USDA. ACTION: Proposed rule.</title>
+<marker></marker>
+<rawString>[FR Doc. 2012–354 Filed 1–11–12; 8:45 am] AGENCY: Agricultural Marketing Service, USDA. ACTION: Proposed rule.</rawString>
+</citation>
+<citation valid="true">
+<title>SUMMARY: This proposed rule would address recommendations submitted to the Secretary of Agriculture (Secretary) by the National Organic Standards Board (NOSB) on</title>
+<date>2010</date>
+<location>and</location>
+<marker>2010</marker>
+<rawString>SUMMARY: This proposed rule would address recommendations submitted to the Secretary of Agriculture (Secretary) by the National Organic Standards Board (NOSB) on April 29, 2010, October 28, 2010, and April 29, 2011.</rawString>
+</citation>
+<citation valid="false">
+<title>These recommendations pertain to the 2012 Sunset Review of substances on the U.S. Department of Agriculture’s (USDA) National List of Allowed and Prohibited Substances (National List). Consistent with the NOSB • Federal eRulemaking Portal: http:// www.regulations.gov. Follow the instructions for submitting comments.</title>
+<marker></marker>
+<rawString>These recommendations pertain to the 2012 Sunset Review of substances on the U.S. Department of Agriculture’s (USDA) National List of Allowed and Prohibited Substances (National List). Consistent with the NOSB • Federal eRulemaking Portal: http:// www.regulations.gov. Follow the instructions for submitting comments.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Mail Toni Strother</author>
+</authors>
+<title>Agricultural Marketing Specialist, National Organic Program, USDA–AMS–NOP, 1400 Independence Ave. SW., Room 2646– So., Ag Stop 0268, Washington, DC 20250. Instructions: All submissions received must include the docket number AMS– NOP–09–0074; NOP–09–01, and/or Regulatory Information Number (RIN) 0581–AC96 for this rulemaking. without change to http:// www.regulations.gov.</title>
+<marker>Strother, </marker>
+<rawString>• Mail: Toni Strother, Agricultural Marketing Specialist, National Organic Program, USDA–AMS–NOP, 1400 Independence Ave. SW., Room 2646– So., Ag Stop 0268, Washington, DC 20250. Instructions: All submissions received must include the docket number AMS– NOP–09–0074; NOP–09–01, and/or Regulatory Information Number (RIN) 0581–AC96 for this rulemaking. without change to http:// www.regulations.gov.</rawString>
+</citation>
+<citation valid="false">
+<title>Docket: For access to the docket to read background documents or comments received, go to http:// www.regulations.gov. Comments submitted in response to this proposed rule will also be available for viewing in person at USDA–AMS,</title>
+<booktitle>National Organic Program, 1400 Independence Ave. SW., Room 2646–South Building,</booktitle>
+<volume>202</volume>
+<pages>205--7808</pages>
+<location>Washington, DC, from</location>
+<marker></marker>
+<rawString>Docket: For access to the docket to read background documents or comments received, go to http:// www.regulations.gov. Comments submitted in response to this proposed rule will also be available for viewing in person at USDA–AMS, National Organic Program, 1400 Independence Ave. SW., Room 2646–South Building, Washington, DC, from 9 a.m. to 12 noon and from 1 p.m. to 4 p.m., Monday through Friday, (except official Federal holidays). Persons wanting to visit the USDA South Building to view comments received in response to this proposed rule are requested to make an appointment in advance by calling (202) 720–3252. FOR FURTHER INFORMATION CONTACT: Melissa Bailey, Ph.D., Director, Standards Division, Telephone: (202) 720–3252; Fax: (202) 205–7808.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>SUPPLEMENTARY INFORMATION I</author>
+</authors>
+<title>Background The Organic Foods Production Act of</title>
+<date>1990</date>
+<journal>(OFPA),</journal>
+<volume>7</volume>
+<note>in organic</note>
+<marker>I, 1990</marker>
+<rawString>SUPPLEMENTARY INFORMATION: I. Background The Organic Foods Production Act of 1990 (OFPA), 7 U.S.C. 6501–6522, authorizes the establishment of the National List. The National List identifies synthetic substances that are exempted (allowed) in organic</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

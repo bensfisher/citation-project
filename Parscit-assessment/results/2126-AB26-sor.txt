@@ -1,0 +1,36 @@
+	NO PARSCIT CITATIONS
+Effect of Driver Fatigue on Truck Accident Rates	0.75
+Fatigue Circadian Rhythm and Truck Accidents	0.6774193548387097
+Performing While Sleepy Effects of Experimentally Induced Sleepiness	0.7714285714285715
+Owner Operator Independent Drivers Association Inc v FMCSA	0.625
+Public Citizen et al v FMCSA	0.6428571428571428
+2007 Economic Census Tables 21 to 211	0.8
+2007 Economic Census Transportation 2007 Commodity Flow Survey	0.7777777777777778
+2007 Nonemployer Statistics 	0.7931034482758621
+A Case Control Study of Heavy Vehicle Drivers’ Working Time and Safety	0.7435897435897436
+American Time Use Survey Census Code 9130 DriversSales Workers and Truck Drivers	0.7297297297297297
+Analysis of FatigueRelated Large Truck Crashes the Assignment of Critical Reason and Other Variables Using the Large Truck Crash Causation Study	0.65
+Effects of Operating Practices on Commercial Driver Alertness	0.6875
+Estimates and the Prevalence and Risk of Fatigue in Fatal Accidents Involving Medium and Heavy Trucks	0.6923076923076923
+Evidence of Fatigue and the Circadian Rhythm in the Accident Experience 	0.7647058823529411
+Large Truck Crash Causation Study in the United States	0.7419354838709677
+Regulatory Evaluation of the Fees for the Unified Carrier Registration Plan	0.7575757575757576
+Regulatory Impact Analysis for Hours of Service Options	0.6470588235294117
+Social Security Administration Actuarial Tables	0.7241379310344828
+Table H2 Households by Type Age of Members Region of Residence and Age of Householde 2010	0.7837837837837838
+Unit Cost of MediumHeavy Truck Crashes	0.8181818181818181
+Effect of Driver Hours of Service on TractorTrailer Crash Involvement 	0.696969696969697
+Fatigue Avoidance Scheduling Tool Phase I SBIR Final Report	0.6
+Private Fleet Directory 20072008	0.8571428571428572
+Safety Implications of multiDay Driving Schedules for Truck Driving Comparison of Field Experience and Crash Data Analysis	0.7
+University of Michigan Trucking Industry Program Driver Surveys	0.7222222222222222
+Regulatory Impact Analysis and Small Business Analysis for Hours of Service Options	0.6666666666666667
+The Association Between Job Related Factors Short Sleep and Obesity	0.6571428571428571
+Rotating Shift Work Sleep and Accidents Related to Sleepiness in Hospital Nurses	0.7058823529411764
+Effects of Irregular Schedules and Physical Work on Commercial Driver Fatigue and Performance	0.736842105263158
+Manifest sleepiness and the spectral content of the EEG during shift work	0.9375
+Circadian Rhythms in the Secretion of Cortisol Adrenaline and Nonadrenaline	0.6129032258064516
+Commercial Drivers’ Health A Naturalistic Study of Body Mass Index Fatigue and Involvement in SafetyCritical Events	0.7142857142857143
+Modeling the Impact of the Components of Long Work Hours on Injuries and “Accidents”	0.7948717948717949
+Evaluating the 2003 Revised HoursofService Regulations for Truck Drivers The Impact of Time on Task on Critical Incident Risk	0.7073170731707317
+We are Chronically Sleep Deprived	0.7857142857142857

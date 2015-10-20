@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>U S Census Bureau</author>
+<author>Statistics of U S Businesses</author>
+</authors>
+<title>Comments submitted to OSHA docket S029 Exhibit 3-14 by</title>
+<date>2003</date>
+<journal>IWCA</journal>
+<booktitle>ASTM A394-05. ASTM.</booktitle>
+<volume>3</volume>
+<pages>14--1</pages>
+<institution>City Wide Building Services, Inc. Dated</institution>
+<location>ASTM.</location>
+<marker>Bureau, Businesses, 2003</marker>
+<rawString> [b] U.S. Census Bureau, Statistics of U.S. Businesses, 2003. Amodeo. 2003. Comments submitted to OSHA docket S029 Exhibit 3-14 by Linda Amodeo, Vice President, City Wide Building Services, Inc. Dated July 24. ANSI. 2006. ANSI A14.7-2006, American National Standard for Mobile Ladder Stands and Mobile Ladder Stand Platforms. ANSI. 2005. ANSI MH30.2-2005, Portable Dock Leveling Devices: Safety Performance and Testing. ANSI. 2002. ANSI A14.4-2002, American National Standard Safety Requirements for Job-Made Wooden Ladders and ANSI A14.5-2002, American National Standard for Ladders—Portable Reinforced Plastic–Safety Requirements. ANSI/IWCA, 2001. American National Standard Institute. International Window Cleaning Association. Window Cleaning Safety. IWCA I-14.1-2001. October. ANSI. 2000. ANSI A14.1-2000, American National Standard for Ladders—Wood–Safety Requirements; ANSI A14.2-2000, American National Standard for Ladders—Portable Metal– Safety Requirements; and ANSI A14.3-2000, American National Standard for Ladders—Fixed– Safety Requirements. ANSI. 1995. ANSI A1264, American National Standard Safety Requirements for Workplace Floor and Wall Openings, Stairs and Railing Systems. ASTM. 2005 ASTM Standard Specification for Steel Transmission Tower Bolts, Zinc-Coated and Bare, ASTM A394-05. ASTM. 2006. ASTM C478-06b. ASTM Standard Specification for Precast Reinforced Concrete Manhole Sections. BLS. 2002. Bureau of Labor Statistics. Job Openings and Labor Turnover Survey. 2002. Bright. 2007. Personal communication between Stefan Bright, International Window Cleaning Association, and Andreas Lord, Eastern Research Group, Inc. March 3. CEA. 2007. Council of Economic Advisors. Economic Report of the President. February. CTBUH. 2006. Council on Tall Buildings and Urban Habitat. Web Site. http://www.ctbuh.org/ Accessed 23 August 2006. The database itself is hosted on the Emporis web site. http://buildings.emporis.com/?nav=theplatformconcept&amp;lng=3 accessed 23 August 2006. DiChacho. 2006. Personal communication between Rosita DiChacho, New York Department of Labor, Division of Safety &amp; Health, Engineering Services Unit and Maureen F. Kaplan, Eastern Research Group. 24 August. DOE. 2006. Department of Energy. Energy Information Administration. 2003 Commercial Buildings Energy Consumption Survey. Table B10: Number of Floors, Number of Buildings and Floorspace for Non-Mall Commercial Buildings. http://www.eia.doe.gov/emeu/cbecs/cbecs2003/detailed_tables_2003/detailed_tables_2003.html. DOE. 2004. Department of Energy. Energy Information Administration. 2001 Residential Energy Consumption Surveys. 2001 Housing Characteristics Tables. Table HC1-1a. Housing Unit Characteristics by Climate Zone, Million U.S. Households, (2001). http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html ERG. 2006. Eastern Research Group, Inc. Technical And Analytical Support And Docket Review For OSHA’s Preliminary Analysis Of Costs, Benefits, And Economic Impacts For OSHA’s Proposed Standard For Walking And Working Surfaces. Submitted to OSHA. September 23. ERG. 2005. Eastern Research Group, Inc. and Jack Faucett Associates. Data on Fixed Ladders and Cost Analysis Update in Support of OSHA’s rulemaking on Walking and Working Surfaces. Submitted to OSHA. April 30. ERG. 1999. Eastern Research Group Inc., PPE Cost Survey: Final Report. (Exhibit 14, OSHA Docket S-042: Costs of Personal Protective Equipment). Prepared for OSHA under Task Order</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Base Year</author>
+<author>DOL Contract No</author>
+</authors>
+<title>Institute of Electrical and Electronics Engineers. IEEE Standard for Fall Protection for Utility Work. IEEE Standard 1307-2004. http://standards.ieee.org/reading/ieee/std/numerical.html, accessed</title>
+<date></date>
+<journal>Transportation Research Board. http://safety.transportation.org/htmlguides/utl_pole/exec_sum.htm. NFPA.</journal>
+<booktitle>Comments submitted to OSHA docket S 029, Ex. 3-13 by Marc Lebel, Pro-Bel Enterprises Limited. Dated</booktitle>
+<tech>NCHRP Report 500:</tech>
+<volume>8</volume>
+<pages>9--9</pages>
+<publisher>IEEE.</publisher>
+<marker>3</marker>
+<rawString>, Base Year, DOL Contract No. J-9-F-9-0010. June 23. IEEE. 2006. Institute of Electrical and Electronics Engineers. IEEE Standard for Fall Protection for Utility Work. IEEE Standard 1307-2004. http://standards.ieee.org/reading/ieee/std/numerical.html, accessed July 24, 2006. IEEE. 2004. IEEE 1307-2004; IEEE Standard for Fall Protection for Utility Work. ITC. 2007. United States International Trade Commission. Harmonized Tariff Schedule of the United States (2007). USITC publication 3902. February. http://www.usitc.gov/tata/hts/index.htm Kreidenweis. 2003. Comments submitted to OSHA docket S029 Exhibit 3-126 by Andy Kreidenweis, Braco Window Cleaning Service Inc. Dated July 30. Lebel. 2003. Comments submitted to OSHA docket S 029, Ex. 3-13 by Marc Lebel, Pro-Bel Enterprises Limited. Dated July 18. NATE. 2006. National Association of Tower Erectors. Web site. http://www.natehome.com/MemberBenefitsServices/NATECLIMBERTRAININGSTANDARD/ Index.cfm). Accessed July 24, 2006. National Coalition against the Misuses of Pesticides (NCAMP), 1997. Poison Poles – A Report About Their Toxic Trail and Safer Alternatives. Estimate of Pole Miles and Distribution Poles by State. http://www.ncamp.org/poisonpoles/tables/table2.html. National Cooperative Highway Research Program (NCHRP), 2004. NCHRP Report 500: Guidance for Implementation of the AASHTO Strategic Highway Safety Plan. Volume 8: A guide for Reducing Collisions Involving Utility Poles. Transportation Research Board. http://safety.transportation.org/htmlguides/utl_pole/exec_sum.htm. NFPA. 2006. National Fire Protection Association. Standard 101. Life Safety Code. 2006 Edition. 7.2.2.2.3 Spiral stairs. http://www.nfpa.org/freecodes/free_access_document.asp. Accessed July 24, 2006. NIOSH. 1988. U.S. Department of Health and Human Services. Centers for Disease Control. National Institute for Occupational Safety and Health. National Occupational Exposure Survey. Volume III: Analysis of Management Interview Responses. March. OMB. 2005. Office of Management and Budget. Regulatory Reform of the U.S. Manufacturing Sector. http://www.whitehouse.gov/OMB/inforeg/reports/manufacturing_initiative.pdf. Accessed July 24, 2006. OMB. 2003. Office of Management and Budget. “Regulatory Analysis.” Circular A-4. September 17, 2003. http://www.whitehouse.gov/omb/circulars/a004/a-4.pdf. OMB. 1998. Office of Management and Budget. Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities. Circular A–</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>OSHA</author>
+</authors>
+<title>Occupational Safety and Health Administration. 29 CFR Part</title>
+<date>1998</date>
+<booktitle>Occupational Safety and Health Administration. 29 CFR Part</booktitle>
+<marker>119</marker>
+<rawString>February 10, 1998. http://www.whitehouse.gov/omb/circulars/a119/a119.html. OSHA. 2003. Occupational Safety and Health Administration. 29 CFR Part 1910 Walking and Working surfaces; Personal Protective equipment (Fall Protection Systems); Draft Rule. Federal Register 68:23528-23568. May 2. OSHA. 1996. Occupational Safety and Health Administration. 29 CFR Part 1926. Safety Standards for Scaffolds Used in the Construction Industry; Final Rule. Federal Register</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>OSHA</author>
+</authors>
+<title>Occupational Safety and Health Administration. Fixed Ladders Used on Outdoor Advertising Structures/Billboards in the Outdoor Advertising Industry.</title>
+<date></date>
+<journal>OSHA Instruction STD</journal>
+<pages>46026--46126</pages>
+<marker>61</marker>
+<rawString>:46026-46126. August 30. OSHA. 1993. Occupational Safety and Health Administration. Fixed Ladders Used on Outdoor Advertising Structures/Billboards in the Outdoor Advertising Industry. OSHA Instruction STD</rawString>
+</citation>
+<citation valid="false">
+<title>Occupational Safety and Health Administration. Preliminary Regulatory Impact and Regulatory Flexibility Analysis of Draft Subparts D and I of 29 CFR Part</title>
+<date>1993</date>
+<journal>Boiler, Tank, and Shipping Container Manufacturing</journal>
+<booktitle>6. OSHA. 1990a. Occupational Safety and Health Administration. Application of Gannett Outdoor Religious, Grantmaking, Civic, Professional, and Similar Organizations</booktitle>
+<volume>5</volume>
+<pages>1--14</pages>
+<marker>1</marker>
+<rawString>-1.14. January 26, 1993. OSHA. 1990a. Occupational Safety and Health Administration. Preliminary Regulatory Impact and Regulatory Flexibility Analysis of Draft Subparts D and I of 29 CFR Part 1910 Walking and Working Surfaces. Occupational Safety and Health Administration, Office of Regulatory Analysis. March 6. OSHA. 1990a. Occupational Safety and Health Administration. Application of Gannett Outdoor Religious, Grantmaking, Civic, Professional, and Similar Organizations 5.9 20.2 26.1 34 7,184 Source: Bureau of Labor Statistics. Survey of Occupational Injuries and Illnesses: Case and Demographic Information. 2003. Boiler, Tank, and Shipping Container Manufacturing $775,598 637 $1,217,580 2.20% $26,843 $9,585 $15.05 0.001% 0.056%</rawString>
+</citation>
+<citation valid="false">
+<journal>Hardware Manufacturing</journal>
+<volume>389</volume>
+<pages>0--030</pages>
+<marker>3325</marker>
+<rawString>Hardware Manufacturing $389,732 449 $868,001 4.41% * $38,271 $5,159 $11.49 0.001% 0.030%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Spring</author>
+<author>Wire Product</author>
+</authors>
+<title>0.030% Machine Shops; Turned Product; and Screw, Nut,</title>
+<journal>Manufacturing</journal>
+<booktitle>0.044% Coating, Engraving, Heat Treating, and Allied Activities</booktitle>
+<volume>819</volume>
+<pages>0--070</pages>
+<marker>3326</marker>
+<rawString>Spring and Wire Product Manufacturing $819,438 1,003 $816,987 4.41% * $36,022 $11,000 $10.97 0.001% 0.030% Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing $10,438,206 20,266 $515,060 4.41% * $22,710 $203,023 $10.02 0.002% 0.044% Coating, Engraving, Heat Treating, and Allied Activities $2,262,880 3,943 $573,898 2.61% $15,001 $41,516 $10.53 0.002% 0.070% Navigational, Measuring, Electromedical, and Control Instruments Manufacturing $3,250,939 2,965 $1,096,438 3.70% $40,557 $39,440 $13.30 0.001% 0.033% Manufacturing and Reproducing Magnetic and Optical Media $555,367 655 $847,888 4.89% * $41,419 $6,462 $9.87 0.001% 0.024%</rawString>
+</citation>
+<citation valid="false">
+<title>Electric Lighting Equipment Manufacturing</title>
+<volume>686</volume>
+<pages>0--033</pages>
+<marker>3351</marker>
+<rawString>Electric Lighting Equipment Manufacturing $686,289 725 $946,605 3.45% $32,687 $7,774 $10.72 0.001% 0.033%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Household Appliance Manufacturing $279,213 163 $1,712,962 3.71% $63,608 $2,015 $12.36 0.001% 0.019% Professional and Commercial Equipment and Supplies Merchant Wholesalers</booktitle>
+<volume>39</volume>
+<pages>0--006</pages>
+<marker>3352</marker>
+<rawString>Household Appliance Manufacturing $279,213 163 $1,712,962 3.71% $63,608 $2,015 $12.36 0.001% 0.019% Professional and Commercial Equipment and Supplies Merchant Wholesalers $39,772,111 24,260 $1,639,411 2.26% $37,103 $437,780 $18.05 0.001% 0.049% Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesale Electronic Markets and Agents and Brokers $71,569,552 36,162 $1,979,137 9.78% * $193,492 $401,331 $11.10 0.001% 0.006%</rawString>
+</citation>
+<citation valid="false">
+<journal>Automobile Dealers</journal>
+<volume>70</volume>
+<pages>0--066</pages>
+<marker>4411</marker>
+<rawString>Automobile Dealers $70,742,672 33,011 $2,143,003 1.11% $23,848 $518,538 $15.71 0.001% 0.066%</rawString>
+</citation>
+<citation valid="false">
+<volume>21</volume>
+<pages>0--032</pages>
+<institution>Other Motor Vehicle Dealers</institution>
+<marker>4412</marker>
+<rawString>Other Motor Vehicle Dealers $21,374,415 12,994 $1,644,945 2.72% ** $44,681 $186,087 $14.32 0.001% 0.032%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Automotive Parts</author>
+</authors>
+<title>Accessories,</title>
+<journal>and Tire</journal>
+<volume>21</volume>
+<pages>0--203</pages>
+<marker>4413</marker>
+<rawString>Automotive Parts, Accessories, and Tire $21,376,105 32,013 $667,732 1.37% * $9,131 $593,482 $18.54 0.003% 0.203%</rawString>
+</citation>
+<citation valid="false">
+<journal>Furniture Stores</journal>
+<volume>15</volume>
+<pages>0--034</pages>
+<marker>4421</marker>
+<rawString>Furniture Stores $15,352,218 18,423 $833,318 3.57% * $29,743 $186,185 $10.11 0.001% 0.034%</rawString>
+</citation>
+<citation valid="false">
+<volume>17</volume>
+<pages>0--053</pages>
+<institution>Home Furnishings Stores</institution>
+<marker>4422</marker>
+<rawString>Home Furnishings Stores $17,283,428 26,417 $654,254 3.57% * $23,352 $324,825 $12.30 0.002% 0.053%</rawString>
+</citation>
+<citation valid="false">
+<journal>Electronics and Appliance Stores</journal>
+<volume>17</volume>
+<pages>0--082</pages>
+<marker>4431</marker>
+<rawString>Electronics and Appliance Stores $17,780,752 29,377 $605,261 2.90% * $17,567 $423,143 $14.40 0.002% 0.082%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>0.024% Lawn and Garden Equipment and Supplies Stores</booktitle>
+<volume>39</volume>
+<pages>0--047</pages>
+<institution>Building Material and Supplies Dealers</institution>
+<marker>4441</marker>
+<rawString>Building Material and Supplies Dealers $39,986,231 40,587 $985,198 5.18% * $51,037 $505,078 $12.44 0.001% 0.024% Lawn and Garden Equipment and Supplies Stores $13,283,525 15,611 $850,908 2.44% ** $20,785 $153,568 $9.84 0.001% 0.047%</rawString>
+</citation>
+<citation valid="false">
+<journal>Grocery Stores</journal>
+<volume>38</volume>
+<pages>0--072</pages>
+<marker>4451</marker>
+<rawString>Grocery Stores $38,519,942 60,039 $641,582 1.53% * $9,796 $423,815 $7.06 0.001% 0.072%</rawString>
+</citation>
+<citation valid="false">
+<volume>8</volume>
+<pages>0--114</pages>
+<institution>Specialty Food Stores</institution>
+<marker>4452</marker>
+<rawString>Specialty Food Stores $8,903,554 20,138 $442,127 1.55% * $6,868 $158,034 $7.85 0.002% 0.114%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Wine Beer</author>
+<author>Liquor Stores</author>
+</authors>
+<volume>19</volume>
+<pages>0--033</pages>
+<marker>4453</marker>
+<rawString>Beer, Wine, and Liquor Stores $19,243,325 24,943 $771,492 2.23% * $17,211 $142,052 $5.70 0.001% 0.033%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Health</author>
+<author>Personal Care Stores</author>
+</authors>
+<volume>43</volume>
+<pages>0--035</pages>
+<marker>4461</marker>
+<rawString>Health and Personal Care Stores $43,190,050 39,200 $1,101,787 2.78% * $30,669 $426,523 $10.88 0.001% 0.035%</rawString>
+</citation>
+<citation valid="false">
+<journal>Gasoline Stations</journal>
+<volume>80</volume>
+<pages>0--092</pages>
+<marker>4471</marker>
+<rawString>Gasoline Stations $80,288,994 60,424 $1,328,760 1.10% * $14,652 $812,407 $13.45 0.001% 0.092%</rawString>
+</citation>
+<citation valid="false">
+<journal>Clothing Stores</journal>
+<volume>16</volume>
+<pages>0--061</pages>
+<marker>4481</marker>
+<rawString>Clothing Stores $16,405,939 37,555 $436,851 5.09% * $22,216 $506,899 $13.50 0.003% 0.061%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Shoe Stores</author>
+</authors>
+<journal>Jewelry, Luggage, and Leather Goods Stores</journal>
+<booktitle>0.039% Sporting Goods, Hobby, and Musical Instrument Stores</booktitle>
+<volume>3</volume>
+<pages>0--095</pages>
+<marker>4482</marker>
+<rawString>Shoe Stores $3,298,546 6,184 $533,400 5.09% * $27,126 $159,340 $25.77 0.005% 0.095% Jewelry, Luggage, and Leather Goods Stores $11,149,360 19,463 $572,849 5.09% * $29,133 $223,851 $11.50 0.002% 0.039% Sporting Goods, Hobby, and Musical Instrument Stores $14,550,721 29,604 $491,512 2.52% * $12,383 $309,451 $10.45 0.002% 0.084%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Periodical Book</author>
+<author>Music Stores</author>
+</authors>
+<volume>3</volume>
+<pages>0--102</pages>
+<marker>4512</marker>
+<rawString>Book, Periodical, and Music Stores $3,708,944 9,421 $393,689 2.52% * $9,919 $95,012 $10.09 0.003% 0.102%</rawString>
+</citation>
+<citation valid="false">
+<volume>111</volume>
+<pages>0--715</pages>
+<institution>Department Stores</institution>
+<marker>4521</marker>
+<rawString>Department Stores $111,569 349 $319,681 4.30% * $13,757 $34,312 $98.32 0.031% 0.715%</rawString>
+</citation>
+<citation valid="false">
+<journal>Other General Merchandise Stores</journal>
+<volume>4</volume>
+<pages>0--082</pages>
+<marker>4529</marker>
+<rawString>Other General Merchandise Stores $4,146,365 8,974 $462,042 4.30% * $19,883 $146,999 $16.38 0.004% 0.082%</rawString>
+</citation>
+<citation valid="false">
+<journal>Florists</journal>
+<volume>5</volume>
+<pages>0--038</pages>
+<marker>4531</marker>
+<rawString>Florists $5,079,858 20,389 $249,147 3.21% * $7,996 $62,094 $3.05 0.001% 0.038%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Office Supplies</author>
+<author>Stationery</author>
+<author>Gift Stores</author>
+</authors>
+<volume>9</volume>
+<pages>0--109</pages>
+<marker>4532</marker>
+<rawString>Office Supplies, Stationery, and Gift Stores $9,848,172 29,431 $334,619 3.21% * $10,740 $345,861 $11.75 0.004% 0.109%</rawString>
+</citation>
+<citation valid="false">
+<volume>4</volume>
+<pages>0--062</pages>
+<institution>Used Merchandise Stores</institution>
+<marker>4533</marker>
+<rawString>Used Merchandise Stores $4,022,157 12,659 $317,731 3.21% * $10,198 $80,142 $6.33 0.002% 0.062%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>0.050% Electronic Shopping and Mail-Order Houses $12,662,263 13,335 $949,551 3.96% *</booktitle>
+<volume>21</volume>
+<pages>0--017</pages>
+<institution>Other Miscellaneous Store Retailers</institution>
+<marker>4539</marker>
+<rawString>Other Miscellaneous Store Retailers $21,709,507 33,960 $639,267 3.21% * $20,517 $350,799 $10.33 0.002% 0.050% Electronic Shopping and Mail-Order Houses $12,662,263 13,335 $949,551 3.96% * $37,644 $85,752 $6.43 0.001% 0.017%</rawString>
+</citation>
+<citation valid="false">
+<journal>Vending Machine Operators</journal>
+<volume>2</volume>
+<pages>0--059</pages>
+<marker>4542</marker>
+<rawString>Vending Machine Operators $2,126,861 4,535 $468,988 3.96% * $18,593 $50,156 $11.06 0.002% 0.059%</rawString>
+</citation>
+<citation valid="false">
+<volume>18</volume>
+<pages>0--042</pages>
+<institution>Direct Selling Establishments</institution>
+<marker>4543</marker>
+<rawString>Direct Selling Establishments $18,544,166 23,770 $780,150 3.96% * $30,928 $308,287 $12.97 0.002% 0.042%</rawString>
+</citation>
+<citation valid="false">
+<journal>Scheduled Air Transportation</journal>
+<volume>668</volume>
+<pages>0--243</pages>
+<marker>4811</marker>
+<rawString>Scheduled Air Transportation $668,566 410 $1,630,648 1.85% * $30,192 $30,105 $73.43 0.005% 0.243%</rawString>
+</citation>
+<citation valid="false">
+<journal>Nonscheduled Air Transportation</journal>
+<booktitle>0.095% Deep Sea, Coastal, and Great Lakes Water Transportation $1,019,668 645 $1,580,880 4.17% *</booktitle>
+<volume>1</volume>
+<pages>0--027</pages>
+<marker>4812</marker>
+<rawString>Nonscheduled Air Transportation $1,497,075 1,761 $850,128 1.85% * $15,741 $26,376 $14.98 0.002% 0.095% Deep Sea, Coastal, and Great Lakes Water Transportation $1,019,668 645 $1,580,880 4.17% * $65,874 $11,664 $18.08 0.001% 0.027%</rawString>
+</citation>
+<citation valid="false">
+<volume>354</volume>
+<pages>0--033</pages>
+<institution>Inland Water Transportation</institution>
+<marker>4832</marker>
+<rawString>Inland Water Transportation $354,798 434 $817,507 4.17% * $34,065 $4,862 $11.20 0.001% 0.033%</rawString>
+</citation>
+<citation valid="false">
+<volume>20</volume>
+<pages>0--095</pages>
+<institution>General Freight Trucking</institution>
+<marker>4841</marker>
+<rawString>General Freight Trucking $20,480,733 45,233 $452,783 2.33% * $10,544 $452,054 $9.99 0.002% 0.095%</rawString>
+</citation>
+<citation valid="false">
+<volume>19</volume>
+<pages>0--079</pages>
+<institution>Specialized Freight Trucking</institution>
+<marker>4842</marker>
+<rawString>Specialized Freight Trucking $19,584,474 43,742 $447,727 2.33% * $10,426 $359,720 $8.22 0.002% 0.079%</rawString>
+</citation>
+<citation valid="false">
+<volume>132</volume>
+<pages>0--286</pages>
+<institution>Urban Transit Systems</institution>
+<marker>4851</marker>
+<rawString>Urban Transit Systems $132,229 482 $274,333 1.80% * $4,948 $6,819 $14.15 0.005% 0.286%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Interurban</author>
+</authors>
+<title>Rural Bus Transportation</title>
+<volume>63</volume>
+<pages>0--278</pages>
+<marker>4852</marker>
+<rawString>Interurban and Rural Bus Transportation $63,672 164 $388,243 1.80% * $7,003 $3,189 $19.45 0.005% 0.278%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Taxi</author>
+<author>Limousine Service</author>
+</authors>
+<volume>1</volume>
+<pages>0--156</pages>
+<marker>4853</marker>
+<rawString>Taxi and Limousine Service $1,727,774 6,180 $279,575 1.80% * $5,043 $48,695 $7.88 0.003% 0.156%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>School</author>
+</authors>
+<title>Employee Bus Transportation</title>
+<volume>471</volume>
+<pages>0--312</pages>
+<marker>4854</marker>
+<rawString>School and Employee Bus Transportation $471,622 2,211 $213,307 1.80% * $3,847 $26,505 $11.99 0.006% 0.312%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>0.102% Other Transit and Ground Passenger Transportation</booktitle>
+<volume>341</volume>
+<pages>0--143</pages>
+<institution>Charter Bus Industry</institution>
+<marker>4855</marker>
+<rawString>Charter Bus Industry $341,050 769 $443,498 1.80% * $7,999 $6,272 $8.16 0.002% 0.102% Other Transit and Ground Passenger Transportation $606,784 2,209 $274,687 1.80% * $4,955 $15,598 $7.06 0.003% 0.143%</rawString>
+</citation>
+<citation valid="false">
+<journal>Pipeline Transportation of Crude Oil</journal>
+<volume>104</volume>
+<marker>4861</marker>
+<rawString>Pipeline Transportation of Crude Oil $104,769 23 $4,555,190 14.74% * $671,457 $0 NA NA NA</rawString>
+</citation>
+<citation valid="false">
+<journal>Pipeline Transportation of Natural Gas</journal>
+<volume>604</volume>
+<pages>0--020</pages>
+<marker>4862</marker>
+<rawString>Pipeline Transportation of Natural Gas $604,014 87 $6,942,692 14.74% * $1,023,387 $17,843 $205.10 0.003% 0.020%</rawString>
+</citation>
+<citation valid="false">
+<journal>NA NA NA Scenic and Sightseeing Transportation, Other NA 144 NA 4.01% * NA $601 $4.18 NA NA</journal>
+<volume>29</volume>
+<institution>Other Pipeline Transportation</institution>
+<marker>4869</marker>
+<rawString>Other Pipeline Transportation $29,062 19 $1,529,567 14.74% * $225,466 $0 NA NA NA Scenic and Sightseeing Transportation, Other NA 144 NA 4.01% * NA $601 $4.18 NA NA</rawString>
+</citation>
+<citation valid="false">
+<title>Support Activities for Air Transportation</title>
+<volume>1</volume>
+<pages>0--091</pages>
+<marker>4881</marker>
+<rawString>Support Activities for Air Transportation $1,968,978 3,037 $648,330 2.77% ** $17,929 $49,723 $16.37 0.003% 0.091%</rawString>
+</citation>
+<citation valid="false">
+<volume>274</volume>
+<pages>0--091</pages>
+<institution>Support Activities for Rail Transportation</institution>
+<marker>4882</marker>
+<rawString>Support Activities for Rail Transportation $274,748 323 $850,612 2.77% ** $23,523 $6,884 $21.31 0.003% 0.091%</rawString>
+</citation>
+<citation valid="false">
+<volume>904</volume>
+<pages>0--098</pages>
+<institution>Support Activities for Water Transportation</institution>
+<marker>4883</marker>
+<rawString>Support Activities for Water Transportation $904,475 1,408 $642,383 2.77% ** $17,765 $24,533 $17.42 0.003% 0.098%</rawString>
+</citation>
+<citation valid="false">
+<volume>2</volume>
+<pages>0--095</pages>
+<institution>Support Activities for Road Transportation</institution>
+<marker>4884</marker>
+<rawString>Support Activities for Road Transportation $2,539,532 7,259 $349,846 2.77% ** $9,675 $66,930 $9.22 0.003% 0.095%</rawString>
+</citation>
+<citation valid="false">
+<volume>8</volume>
+<pages>0--050</pages>
+<institution>Freight Transportation Arrangement</institution>
+<marker>4885</marker>
+<rawString>Freight Transportation Arrangement $8,469,552 10,897 $777,237 2.77% ** $21,494 $116,132 $10.66 0.001% 0.050%</rawString>
+</citation>
+<citation valid="false">
+<volume>673</volume>
+<pages>0--051</pages>
+<institution>Other Support Activities for Transportation</institution>
+<marker>4889</marker>
+<rawString>Other Support Activities for Transportation $673,747 1,125 $598,886 2.77% ** $16,562 $9,412 $8.37 0.001% 0.051%</rawString>
+</citation>
+<citation valid="false">
+<journal>NA</journal>
+<volume>29</volume>
+<pages>0--002</pages>
+<marker>3328</marker>
+<rawString>** NA $29,365 $6.95 0.002% NA</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Warehousing</author>
+<author>Storage</author>
+</authors>
+<journal>Newspaper, Periodical, Book, and Directory Publishers</journal>
+<volume>2</volume>
+<pages>0--013</pages>
+<marker>4931</marker>
+<rawString>Warehousing and Storage $2,869,363 3,781 $758,890 3.68% * $27,908 $66,563 $17.60 0.002% 0.063% Newspaper, Periodical, Book, and Directory Publishers $7,161,123 13,651 $524,586 11.49% * $60,250 $109,371 $8.01 0.002% 0.013%</rawString>
+</citation>
+<citation valid="false">
+<journal>Software Publishers</journal>
+<volume>3</volume>
+<pages>0--006</pages>
+<marker>5112</marker>
+<rawString>Software Publishers $3,878,033 4,884 $794,028 16.84% * $133,683 $36,757 $7.53 0.001% 0.006%</rawString>
+</citation>
+<citation valid="false">
+<title>Motion Picture and Video Industries</title>
+<volume>10</volume>
+<pages>0--011</pages>
+<marker>5121</marker>
+<rawString>Motion Picture and Video Industries $10,650,831 14,076 $756,666 7.07% ** $53,525 $80,306 $5.71 0.001% 0.011%</rawString>
+</citation>
+<citation valid="false">
+<journal>Sound Recording Industries</journal>
+<volume>1</volume>
+<pages>0--052</pages>
+<marker>5122</marker>
+<rawString>Sound Recording Industries $1,356,348 2,855 $475,078 3.60% ** $17,079 $25,172 $8.82 0.002% 0.052%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Radio</author>
+</authors>
+<title>Television Broadcasting</title>
+<volume>1</volume>
+<pages>0--075</pages>
+<marker>5151</marker>
+<rawString>Radio and Television Broadcasting $1,875,318 3,862 $485,582 4.55% * $22,081 $64,110 $16.60 0.003% 0.075%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Cable</author>
+</authors>
+<title>Other Subscription Programming</title>
+<volume>1</volume>
+<pages>0--025</pages>
+<marker>5152</marker>
+<rawString>Cable and Other Subscription Programming $1,121,749 315 $3,561,108 4.55% * $161,936 $12,839 $40.76 0.001% 0.025%</rawString>
+</citation>
+<citation valid="false">
+<volume>930</volume>
+<pages>0--018</pages>
+<institution>Internet Publishing and Broadcasting</institution>
+<marker>5161</marker>
+<rawString>Internet Publishing and Broadcasting $930,582 1,520 $612,225 5.20% * $31,805 $8,710 $5.73 0.001% 0.018%</rawString>
+</citation>
+<citation valid="false">
+<journal>Wired Telecommunications Carriers</journal>
+<booktitle>0.263% Data Processing, Hosting, and Related Services</booktitle>
+<volume>2</volume>
+<pages>0--030</pages>
+<marker>5171</marker>
+<rawString>Wired Telecommunications Carriers $2,743,167 2,297 $1,194,239 3.30% * $39,461 $238,734 $103.93 0.009% 0.263% Data Processing, Hosting, and Related Services $3,739,607 6,049 $618,219 3.76% * $23,215 $42,763 $7.07 0.001% 0.030%</rawString>
+</citation>
+<citation valid="false">
+<journal>Other Information Services</journal>
+<volume>1</volume>
+<pages>0--013</pages>
+<marker>5191</marker>
+<rawString>Other Information Services $1,033,794 3,264 $316,726 9.07% * $28,738 $12,362 $3.79 0.001% 0.013%</rawString>
+</citation>
+<citation valid="false">
+<title>Monetary Authorities - Central Bank</title>
+<journal>NA 10 NA 18.99% * NA NA NA NA NA</journal>
+<marker>5211</marker>
+<rawString>Monetary Authorities - Central Bank NA 10 NA 18.99% * NA NA NA NA NA</rawString>
+</citation>
+<citation valid="false">
+<volume>11</volume>
+<pages>0--005</pages>
+<institution>Depository Credit Intermediation</institution>
+<marker>5221</marker>
+<rawString>Depository Credit Intermediation $11,362,795 8,941 $1,270,864 13.14% * $166,984 $72,270 $8.08 0.001% 0.005%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>0.005% Securities and Commodity Contracts Intermediation and Brokerage</booktitle>
+<volume>13</volume>
+<pages>0--008</pages>
+<institution>Nondepository Credit Intermediation</institution>
+<marker>5222</marker>
+<rawString>Nondepository Credit Intermediation $13,331,607 18,871 $706,460 13.14% * $92,825 $79,616 $4.22 0.001% 0.005% Securities and Commodity Contracts Intermediation and Brokerage $9,504,015 12,434 $764,357 10.68% * $81,618 $80,395 $6.47 0.001% 0.008%</rawString>
+</citation>
+<citation valid="false">
+<journal>Securities and Commodity Exchanges</journal>
+<volume>20</volume>
+<marker>5232</marker>
+<rawString>Securities and Commodity Exchanges $20,592 46 $447,659 10.68% * $47,801 NA NA NA NA</rawString>
+</citation>
+<citation valid="false">
+<journal>Other Financial Investment Activities</journal>
+<volume>22</volume>
+<pages>0--002</pages>
+<marker>5239</marker>
+<rawString>Other Financial Investment Activities $22,286,541 33,353 $668,202 17.55% * $117,269 $61,996 $1.86 0.000% 0.002%</rawString>
+</citation>
+<citation valid="false">
+<journal>Insurance Carriers</journal>
+<booktitle>0.000% Agencies, Brokerages, and Other Insurance Related Activities</booktitle>
+<volume>6</volume>
+<pages>0--013</pages>
+<marker>5241</marker>
+<rawString>Insurance Carriers $6,660,757 4,689 $1,420,507 5.37% * $76,327 $0 $0.00 0.000% 0.000% Agencies, Brokerages, and Other Insurance Related Activities $45,060,735 120,559 $373,765 5.37% * $20,083 $317,882 $2.64 0.001% 0.013%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Other Investment</author>
+</authors>
+<title>Pools and Funds</title>
+<journal>60.77% * $1,432,918 NA NA NA NA</journal>
+<volume>4</volume>
+<marker>5259</marker>
+<rawString>Other Investment Pools and Funds $4,626,100 1,962 $2,357,849 60.77% * $1,432,918 NA NA NA NA</rawString>
+</citation>
+<citation valid="false">
+<journal>Lessors of Real Estate</journal>
+<volume>57</volume>
+<pages>0--005</pages>
+<marker>5311</marker>
+<rawString>Lessors of Real Estate $57,328,357 93,353 $614,103 12.63% * $77,538 $358,093 $3.84 0.001% 0.005%</rawString>
+</citation>
+<citation valid="false">
+<title>Offices of Real Estate Agents and Brokers</title>
+<volume>39</volume>
+<pages>0--008</pages>
+<marker>5312</marker>
+<rawString>Offices of Real Estate Agents and Brokers $39,197,266 73,462 $533,572 9.59% * $51,165 $286,263 $3.90 0.001% 0.008%</rawString>
+</citation>
+<citation valid="false">
+<title>Activities Related to Real Estate</title>
+<volume>23</volume>
+<pages>0--007</pages>
+<marker>5313</marker>
+<rawString>Activities Related to Real Estate $23,186,226 59,698 $388,392 13.77% * $53,488 $219,510 $3.68 0.001% 0.007%</rawString>
+</citation>
+<citation valid="false">
+<title>Automotive Equipment Rental and Leasing</title>
+<volume>3</volume>
+<pages>0--102</pages>
+<marker>5321</marker>
+<rawString>Automotive Equipment Rental and Leasing $3,047,087 4,123 $739,046 1.15% ** $8,487 $35,548 $8.62 0.001% 0.102%</rawString>
+</citation>
+<citation valid="false">
+<volume>4</volume>
+<pages>0--071</pages>
+<institution>Consumer Goods Rental</institution>
+<marker>5322</marker>
+<rawString>Consumer Goods Rental $4,328,810 12,843 $337,056 3.07% * $10,364 $94,144 $7.33 0.002% 0.071%</rawString>
+</citation>
+<citation valid="false">
+<journal>General Rental Centers</journal>
+<booktitle>0.040% Commercial and Industrial Machinery and Equipment Rental and Leasing</booktitle>
+<volume>1</volume>
+<pages>0--001</pages>
+<marker>5323</marker>
+<rawString>General Rental Centers $1,551,497 3,294 $471,007 3.13% * $14,730 $19,327 $5.87 0.001% 0.040% Commercial and Industrial Machinery and Equipment Rental and Leasing $5,778,296 7,170 $805,899 5.36% ** $43,205 $54,152 $7.55 0.001% 0.017% Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) $2,156,035 1,811 $1,190,522 25.70% * $305,920 $6,732 $3.72 0.000% 0.001%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Legal Services $73,138,890 164,606 $444,327 8.52% ** $37,841 $657,652 $4.00 0.001% 0.011% Accounting, Tax Preparation, Bookkeeping, and Payroll Services</booktitle>
+<volume>25</volume>
+<pages>0--021</pages>
+<marker>5411</marker>
+<rawString>Legal Services $73,138,890 164,606 $444,327 8.52% ** $37,841 $657,652 $4.00 0.001% 0.011% Accounting, Tax Preparation, Bookkeeping, and Payroll Services $25,561,834 95,100 $268,789 8.61% ** $23,129 $469,362 $4.94 0.002% 0.021% Architectural, Engineering, and Related Services $39,133,956 84,707 $461,992 4.45% ** $20,575 $593,178 $7.00 0.002% 0.034%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Specialized Design Services $12,493,910 29,234 $427,376 6.23% ** $26,635 $138,628 $4.74 0.001% 0.018% Computer Systems Design and Related Services</booktitle>
+<volume>33</volume>
+<pages>0--029</pages>
+<marker>5414</marker>
+<rawString>Specialized Design Services $12,493,910 29,234 $427,376 6.23% ** $26,635 $138,628 $4.74 0.001% 0.018% Computer Systems Design and Related Services $33,423,524 84,560 $395,264 5.48% ** $21,651 $529,178 $6.26 0.002% 0.029% Management, Scientific, and Technical Consulting Services $41,781,779 109,948 $380,014 6.87% ** $26,111 $514,883 $4.68 0.001% 0.018%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Scientific Research and Development</booktitle>
+<volume>6</volume>
+<pages>0--018</pages>
+<marker>5417</marker>
+<rawString>Scientific Research and Development $6,604,816 9,272 $712,340 6.56% ** $46,739 $77,986 $8.41 0.001% 0.018%</rawString>
+</citation>
+<citation valid="false">
+<journal>Offices of Other Health Practitioners</journal>
+<volume>28</volume>
+<pages>0--010</pages>
+<marker>6213</marker>
+<rawString>Offices of Other Health Practitioners $28,457,609 96,344 $295,375 8.92% * $26,333 $261,999 $2.72 0.001% 0.010%</rawString>
+</citation>
+<citation valid="false">
+<volume>5</volume>
+<pages>0--017</pages>
+<institution>Outpatient Care Centers</institution>
+<marker>6214</marker>
+<rawString>Outpatient Care Centers $5,017,087 8,298 $604,614 5.58% * $33,730 $48,821 $5.88 0.001% 0.017%</rawString>
+</citation>
+<citation valid="false">
+<volume>5</volume>
+<pages>0--011</pages>
+<institution>Medical and Diagnostic Laboratories</institution>
+<marker>6215</marker>
+<rawString>Medical and Diagnostic Laboratories $5,030,676 5,662 $888,498 5.45% * $48,465 $30,328 $5.36 0.001% 0.011%</rawString>
+</citation>
+<citation valid="false">
+<title>Home Health Care Services</title>
+<volume>2</volume>
+<pages>0--021</pages>
+<marker>6216</marker>
+<rawString>Home Health Care Services $2,508,304 8,000 $313,538 5.45% * $17,102 $28,708 $3.59 0.001% 0.021%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Other Ambulatory</author>
+</authors>
+<title>Health Care Services</title>
+<volume>1</volume>
+<pages>0--020</pages>
+<marker>6219</marker>
+<rawString>Other Ambulatory Health Care Services $1,891,509 3,933 $480,933 5.45% * $26,233 $21,124 $5.37 0.001% 0.020%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>General Medical and Surgical Hospitals</booktitle>
+<volume>435</volume>
+<pages>0--004</pages>
+<marker>6221</marker>
+<rawString>General Medical and Surgical Hospitals $435,561 151 $2,884,513 5.08% ** $146,458 $956 $6.33 0.000% 0.004%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Psychiatric and Substance Abuse Hospitals $103,678 48 $2,159,950 5.08% ** $109,669 $210 $4.37 0.000% 0.004% Specialty (except Psychiatric and Substance Abuse) Hospitals $140,371 130 $1,079,779 5.08% **</booktitle>
+<volume>54</volume>
+<pages>0--012</pages>
+<marker>6222</marker>
+<rawString>Psychiatric and Substance Abuse Hospitals $103,678 48 $2,159,950 5.08% ** $109,669 $210 $4.37 0.000% 0.004% Specialty (except Psychiatric and Substance Abuse) Hospitals $140,371 130 $1,079,779 5.08% ** $54,825 $826 $6.35 0.001% 0.012%</rawString>
+</citation>
+<citation valid="false">
+<journal>Nursing Care Facilities</journal>
+<booktitle>0.013% Residential Mental Retardation, Mental Health and Substance Abuse Facilities $1,155,914 4,046 $285,693 5.08% **</booktitle>
+<volume>1</volume>
+<pages>0--069</pages>
+<marker>6231</marker>
+<rawString>Nursing Care Facilities $1,718,618 2,217 $775,200 5.08% ** $39,360 $11,513 $5.19 0.001% 0.013% Residential Mental Retardation, Mental Health and Substance Abuse Facilities $1,155,914 4,046 $285,693 5.08% ** $14,506 $40,459 $10.00 0.004% 0.069%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Community Care</author>
+</authors>
+<title>Facilities for the Elderly</title>
+<volume>2</volume>
+<pages>0--026</pages>
+<marker>6233</marker>
+<rawString>Community Care Facilities for the Elderly $2,284,461 9,203 $248,230 5.08% ** $12,604 $29,961 $3.26 0.001% 0.026%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Other Residential</author>
+</authors>
+<title>Care Facilities</title>
+<volume>558</volume>
+<pages>0--034</pages>
+<marker>6239</marker>
+<rawString>Other Residential Care Facilities $558,961 1,877 $297,795 5.08% ** $15,120 $9,728 $5.18 0.002% 0.034%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Individual and Family Services $8,057,734 27,310 $295,047 5.08% ** $14,981 $86,180 $3.16 0.001% 0.021% Community Food and Housing, and Emergency and Other Relief Services $3,126,011 6,774 $461,472 5.08% **</booktitle>
+<volume>23</volume>
+<pages>0--012</pages>
+<marker>6241</marker>
+<rawString>Individual and Family Services $8,057,734 27,310 $295,047 5.08% ** $14,981 $86,180 $3.16 0.001% 0.021% Community Food and Housing, and Emergency and Other Relief Services $3,126,011 6,774 $461,472 5.08% ** $23,431 $19,728 $2.91 0.001% 0.012%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Vocational Rehabilitation Services</booktitle>
+<volume>1</volume>
+<pages>0--019</pages>
+<marker>6243</marker>
+<rawString>Vocational Rehabilitation Services $1,022,676 2,623 $389,888 5.08% ** $19,796 $9,873 $3.76 0.001% 0.019%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Child Day</author>
+</authors>
+<title>Care Services</title>
+<volume>7</volume>
+<pages>0--035</pages>
+<marker>6244</marker>
+<rawString>Child Day Care Services $7,254,249 47,892 $151,471 5.08% ** $7,691 $129,007 $2.69 0.002% 0.035%</rawString>
+</citation>
+<citation valid="false">
+<journal>Performing Arts Companies</journal>
+<volume>3</volume>
+<pages>0--005</pages>
+<marker>7111</marker>
+<rawString>Performing Arts Companies $3,739,335 7,819 $478,237 9.26% * $44,293 $16,945 $2.17 0.000% 0.005%</rawString>
+</citation>
+<citation valid="false">
+<title>0.006% Promoters of Performing Arts, Sports, and Similar Events $2,931,291</title>
+<booktitle>4,565 $642,123 9.26% * $59,471 $34,067 $7.46 0.001% 0.013% Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures</booktitle>
+<volume>1</volume>
+<pages>0--010</pages>
+<institution>Spectator Sports</institution>
+<marker>7112</marker>
+<rawString>Spectator Sports $1,921,724 3,500 $549,064 9.26% * $50,853 $11,233 $3.21 0.001% 0.006% Promoters of Performing Arts, Sports, and Similar Events $2,931,291 4,565 $642,123 9.26% * $59,471 $34,067 $7.46 0.001% 0.013% Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures $2,147,875 3,204 $670,373 9.26% * $62,088 $5,423 $1.69 0.000% 0.003% Independent Artists, Writers, and Performers $9,177,876 16,611 $552,518 9.26% * $51,172 $39,055 $2.35 0.000% 0.005% Museums, Historical Sites, and Similar Institutions $1,758,005 5,261 $334,158 6.95% ** $23,211 $12,437 $2.36 0.001% 0.010%</rawString>
+</citation>
+<citation valid="false">
+<journal>Amusement Parks and Arcades</journal>
+<volume>721</volume>
+<pages>0--015</pages>
+<marker>7131</marker>
+<rawString>Amusement Parks and Arcades $721,704 1,897 $380,445 5.36% * $20,377 $5,986 $3.16 0.001% 0.015%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Rooming</author>
+</authors>
+<title>Boarding Houses</title>
+<volume>549</volume>
+<pages>0--044</pages>
+<marker>7213</marker>
+<rawString>Rooming and Boarding Houses $549,947 2,405 $228,668 2.95% * $6,748 $7,086 $2.95 0.001% 0.044%</rawString>
+</citation>
+<citation valid="false">
+<journal>Full-Service Restaurants</journal>
+<volume>36</volume>
+<pages>0--024</pages>
+<marker>7221</marker>
+<rawString>Full-Service Restaurants $36,898,445 130,156 $283,494 4.15% * $11,762 $362,767 $2.79 0.001% 0.024%</rawString>
+</citation>
+<citation valid="false">
+<volume>30</volume>
+<pages>0--034</pages>
+<institution>Limited-Service Eating Places</institution>
+<marker>7222</marker>
+<rawString>Limited-Service Eating Places $30,495,707 124,944 $244,075 4.15% * $10,127 $426,817 $3.42 0.001% 0.034%</rawString>
+</citation>
+<citation valid="false">
+<journal>Special Food Services</journal>
+<volume>3</volume>
+<pages>0--076</pages>
+<marker>7223</marker>
+<rawString>Special Food Services $3,096,456 11,376 $272,192 4.15% * $11,293 $97,678 $8.59 0.003% 0.076%</rawString>
+</citation>
+<citation valid="false">
+<volume>9</volume>
+<pages>0--021</pages>
+<institution>Drinking Places (Alcoholic Beverages)</institution>
+<marker>7224</marker>
+<rawString>Drinking Places (Alcoholic Beverages) $9,494,057 43,640 $217,554 4.15% * $9,026 $84,325 $1.93 0.001% 0.021%</rawString>
+</citation>
+<citation valid="false">
+<title>0.091% Electronic and Precision Equipment Repair and</title>
+<journal>Automotive Repair and Maintenance</journal>
+<booktitle>0.066% Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance $9,400,474 21,243 $442,521 4.15% * $18,386 $262,961 $12.38 0.003% 0.067% Personal and Household Goods Repair and Maintenance</booktitle>
+<volume>54</volume>
+<pages>0--085</pages>
+<marker>8111</marker>
+<rawString>Automotive Repair and Maintenance $54,579,544 145,857 $374,199 3.67% * $13,719 $1,821,691 $12.49 0.003% 0.091% Electronic and Precision Equipment Repair and Maintenance $4,213,288 11,323 $372,100 5.14% * $19,122 $142,769 $12.61 0.003% 0.066% Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance $9,400,474 21,243 $442,521 4.15% * $18,386 $262,961 $12.38 0.003% 0.067% Personal and Household Goods Repair and Maintenance $5,447,836 23,522 $231,606 4.15% * $9,623 $191,337 $8.13 0.004% 0.085%</rawString>
+</citation>
+<citation valid="false">
+<volume>12</volume>
+<pages>0--030</pages>
+<institution>Personal Care Services</institution>
+<marker>8121</marker>
+<rawString>Personal Care Services $12,170,150 84,303 $144,362 5.71% * $8,241 $211,426 $2.51 0.002% 0.030%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Death Care Services</booktitle>
+<volume>7</volume>
+<pages>0--022</pages>
+<marker>8122</marker>
+<rawString>Death Care Services $7,536,235 14,986 $502,885 5.71% * $28,708 $94,512 $6.31 0.001% 0.022%</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Drycleaning</author>
+<author>Laundry Services</author>
+</authors>
+<volume>6</volume>
+<pages>0--041</pages>
+<marker>8123</marker>
+<rawString>Drycleaning and Laundry Services $6,711,399 32,496 $206,530 5.71% * $11,790 $155,917 $4.80 0.002% 0.041%</rawString>
+</citation>
+<citation valid="false">
+<volume>6</volume>
+<pages>0--038</pages>
+<institution>Other Personal Services</institution>
+<marker>8129</marker>
+<rawString>Other Personal Services $6,535,483 26,943 $242,567 5.71% * $13,847 $140,742 $5.22 0.002% 0.038%</rawString>
+</citation>
+<citation valid="false">
+<journal>Religious Organizations</journal>
+<volume>34</volume>
+<pages>0--080</pages>
+<marker>8131</marker>
+<rawString>Religious Organizations $34,213,454 156,574 $218,513 2.22% * $4,855 $607,873 $3.88 0.002% 0.080%</rawString>
+</citation>
+<citation valid="false">
+<booktitle>Grantmaking and Giving Services</booktitle>
+<volume>18</volume>
+<pages>0--011</pages>
+<marker>8132</marker>
+<rawString>Grantmaking and Giving Services $18,515,506 11,353 $1,630,891 2.22% * $36,239 $44,498 $3.92 0.000% 0.011%</rawString>
+</citation>
+<citation valid="false">
+<journal>Social Advocacy Organizations</journal>
+<volume>3</volume>
+<pages>0--039</pages>
+<marker>8133</marker>
+<rawString>Social Advocacy Organizations $3,993,173 9,003 $443,538 2.22% * $9,856 $34,510 $3.83 0.001% 0.039%</rawString>
+</citation>
+<citation valid="false">
+<journal>Civic and Social Organizations</journal>
+<volume>7</volume>
+<pages>0--059</pages>
+<publisher>Business, Professional,</publisher>
+<marker>8134</marker>
+<rawString>Civic and Social Organizations $7,378,615 26,658 $276,788 2.22% * $6,150 $96,234 $3.61 0.001% 0.059% Business, Professional, Labor, Political, and Similar Organizations $25,082,876 58,608 $427,977 2.22% * $9,510 $235,083 $4.01 0.001% 0.042%</rawString>
+</citation>
+<citation valid="false">
+<title>receipts and payroll data from US Census Bureau, Statistics of U.S. Businesses,</title>
+<date>2002</date>
+<journal>by the US Internal Revenue Service, Corporation Source Book,</journal>
+<note>48 [a] Estimated based on</note>
+<marker>5</marker>
+<rawString>-48 [a] Estimated based on 2002 receipts and payroll data from US Census Bureau, Statistics of U.S. Businesses, 2002 and payroll data from US Census Bureau, Statistics of [a] U.S. Businesses, 2003. Receipts are not reported for 2003, but were estimated assuming the ratio of receipts to payroll remained unchanged between 2002 and 2003. [b] US Census Bureau, Statistics of U.S. Businesses, 2003. [c] Estimated from ratios of net income to total receipts as reported for 2003 by the US Internal Revenue Service, Corporation Source Book, 2003. &lt;&lt;http://www.irs.gov/ taxstats/bustaxstats/article/0,,id=149687,00.html&amp;gt;&amp;gt; Data not available at disaggregated levels for all industries, and profit rates at more highly aggregated levels are used for such industries. NA: Data not available * Profit rate imputed from corresponding 3-digit NAICS industry. ** Profit rate imputed from corresponding 2-digit NAICS industry. Manufacturing and industrial bldgs. 350,866 350,866 Census, 2007b</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Mary Carlise</author>
+<author>TowerSource</author>
+<author>Maureen Kaplan</author>
+<author>ERG</author>
+</authors>
+<title>(1) Discussions with Outdoor Amusement Business Association (OABA) staff indicate that very few office and multi-family residential buildings use fixed ladders greater than 20 feet in height. A-5 Based on this data, ERG estimated that all 28,906 estimated fixed ladders on lift towers are infrequently climbed. A.4 Communications Towers (Radio, Television, Cellular, and Microwave) Virtually all communication towers have fixed ladders. The Federal Communications Commission (FCC) Antenna Structure Registration Database lists 93,000 registered Albee.</title>
+<date>2004</date>
+<journal>American Wind Energy Association (AWEA).</journal>
+<booktitle>Telephone conversations between Steve Albee, Project Director of the GAP Analysis, Environmental Protection Agency (EPA) and Ayesha Berlind,</booktitle>
+<volume>108</volume>
+<location>ERG.</location>
+<marker>19</marker>
+<rawString>,108,456 3,059,106 (1) Discussions with Outdoor Amusement Business Association (OABA) staff indicate that very few office and multi-family residential buildings use fixed ladders greater than 20 feet in height. A-5 Based on this data, ERG estimated that all 28,906 estimated fixed ladders on lift towers are infrequently climbed. A.4 Communications Towers (Radio, Television, Cellular, and Microwave) Virtually all communication towers have fixed ladders. The Federal Communications Commission (FCC) Antenna Structure Registration Database lists 93,000 registered Albee. 2004. Telephone conversations between Steve Albee, Project Director of the GAP Analysis, Environmental Protection Agency (EPA) and Ayesha Berlind, ERG. August 19, 2004. American Wind Energy Association (AWEA). 2004. Telephone conversations between Kathy Belyeu, Strategic Communications and Ayesha Berlind, ERG. August 19, 2004. Beyer. 2004. Telephone conversations between Bob Beyer, President, Elevator Advisors, Inc. and Ayesha Berlind, ERG. August 19, 2004. Carlise. 2007. Telephone conversations between Mary Carlise, TowerSource, and Maureen Kaplan, ERG. June 28, 2007. Census. 2002a. U.S. Census Bureau. 2002. 2002 Economic Census: Manufacturing. As downloaded from http://www.census.gov/econ/census02/data/industry/E22111.HTM on June 28,</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>2002b U S Census Bureau</author>
+</authors>
+<title>Economic Census: Manufacturing. As downloaded from http://factfinder.census.gov/servlet/IQRTable?_bm=y&amp;-ds_name=EC0200A1&amp;-NAICS2002=31-33&amp;-_lang=en on</title>
+<date>2002</date>
+<booktitle>Telephone conversations between</booktitle>
+<institution>Tom Dailey, Maintenance Foreman, Newburyport Sewer Department and Ayesha Berlind,</institution>
+<location>ERG.</location>
+<marker>2007</marker>
+<rawString>. Census. 2002b. U.S. Census Bureau. 2002. 2002 Economic Census: Manufacturing. As downloaded from http://factfinder.census.gov/servlet/IQRTable?_bm=y&amp;-ds_name=EC0200A1&amp;-NAICS2002=31-33&amp;-_lang=en on June 28, 2007. Census. 1997. U.S. Census Bureau. 1997 Economic Census: Manufacturing. As downloaded from http://www.census.gov/epcd/ec97/us/US000_31.HTM#N325 on August 23, 2004. A-13 Clothier. 2004. Telephone conversations between David Clothier, Copying Editor, Elevator World and Ayesha Berlind, ERG. August 18, 2004. Dailey. 2004. Telephone conversations between Tom Dailey, Maintenance Foreman, Newburyport Sewer Department and Ayesha Berlind, ERG. August 26, 2004. Department of Energy (DOE)/EIA. 2002. 1999 Building activities: Compare activities by number of buildings. As downloaded from http://www.eia.doe.gov/emeu/cbecs/pba99/comparenumber.html and http://www.eia.doe.gov/emeu/cbecs/pba99/other/otherbasictables.html on August 17, 2004. Department of Energy (DOE)/EIA. 2001 Residential Energy Consumption Survey (Table HC1-</rawString>
+</citation>
+<citation valid="false">
+<title>As downloaded from ftp://ftp.eia.doe.gov/pub/consumption/residential/2001hc_tables/housingunit_household.pdf on August 24,</title>
+<date>2004</date>
+<location>and</location>
+<note>http://www.eia.doe.gov/cneaf/electricity/page/fact_sheets/transmission.html downloaded</note>
+<marker>4</marker>
+<rawString>a). As downloaded from ftp://ftp.eia.doe.gov/pub/consumption/residential/2001hc_tables/housingunit_household.pdf on August 24, 2004. Ellis. 2004. Telephone conversations between Nigel Ellis, Ph.D., CSP, P.E., CPE and Ayesha Berlind, ERG. August 16, 2004, and August 23, 2004. Encyclopedia. 2007. Search for astronomical observatories. http://www.infoplease.com/encyclopedia/1obs.html Energy Information Administration (EIA). 2004. Department of Energy. Energy Information Administration. Electricity Transmission Fact Sheet. http://www.eia.doe.gov/cneaf/electricity/page/fact_sheets/transmission.html downloaded June</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Environmental Protection Agency</author>
+</authors>
+<title>United States Environmental Protection Agency.</title>
+<date>2007</date>
+<booktitle>2007)database at ftp://ftp.epa.gov/EmisInventory/2002finalnei/point_sector_data/national/ Downloaded</booktitle>
+<volume>3</volume>
+<publisher>EPA</publisher>
+<marker>2007</marker>
+<rawString>. Environmental Protection Agency (EPA). 2007. United States Environmental Protection Agency. 2002 National Emission Inventory homepage at http://www.epa.gov/ttn/chief/net/2002inventory.html. and Version 3 (April 2007)database at ftp://ftp.epa.gov/EmisInventory/2002finalnei/point_sector_data/national/ Downloaded June 2007. Environmental Protection Agency (EPA). 2004. Changes to the Chemical Accident Prevention Rule (Risk Management Program) in 2004. RMP Series Factsheet EPA-F—4-002. March. As downloaded from http://yosemite.epa.gov/oswer/ceppoweb.nsf/vwResourcesByFilename/RMP2004_factsheet.pdf/ $File/RMP2004_factsheet.pdf on August 23, 2004. Environmental Protection Agency (EPA). 2002. Community Water System Survey 2000. EPA</rawString>
+</citation>
+<citation valid="false">
+<title>As downloaded from http://www.epa.gov/safewater/cwssvr.html on August 23,</title>
+<date>2002</date>
+<booktitle>A-14 Federal Highway Administration (FHWA). 2004a. Deficient Bridges by State and Highway System. As downloaded from http://www.fhwa.dot.gov/bridge/defbr04.htm on March 30, 2005. Federal Highway Administration (FHWA). 2004b. Telephone conversation between Tom Everett, Director of the Office of Bridge Technology and Ayesha Berlind,</booktitle>
+<pages>02--005</pages>
+<location>ERG.</location>
+<marker>815</marker>
+<rawString>-R-02-005A. December 2002 As downloaded from http://www.epa.gov/safewater/cwssvr.html on August 23, 2004. FCC. 2007. Federal Communications Commission (FCC). Antenna Structure Registration database. http://wireless2.fcc.gov/UlsApp/AsrSearch/asrAdvancedSearch.jsp as searched on May 2, 2007. A-14 Federal Highway Administration (FHWA). 2004a. Deficient Bridges by State and Highway System. As downloaded from http://www.fhwa.dot.gov/bridge/defbr04.htm on March 30, 2005. Federal Highway Administration (FHWA). 2004b. Telephone conversation between Tom Everett, Director of the Office of Bridge Technology and Ayesha Berlind, ERG. August 19,</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>ISA</author>
+</authors>
+<title>Telephone conversation between Joe Shefchik and Ayesha Berlind,</title>
+<date>2004</date>
+<location>ERG.</location>
+<marker>2004</marker>
+<rawString>. ISA. 2004. Telephone conversation between Joe Shefchik and Ayesha Berlind, ERG. August 26,</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Kido</author>
+</authors>
+<title>Telephone conversation between Wendell, Kido, Chief, Policy and Planning Division, Sacramento County Regional Sanitation District and Ayesha Berlind,</title>
+<date>2004</date>
+<location>ERG.</location>
+<marker>2004</marker>
+<rawString>. Kido. 2004. Telephone conversation between Wendell, Kido, Chief, Policy and Planning Division, Sacramento County Regional Sanitation District and Ayesha Berlind, ERG. August 26,</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>King</author>
+</authors>
+<title>Telephone conversation between</title>
+<date>2004</date>
+<journal>Outdoor Advertising Association of America (OAAA).</journal>
+<booktitle>National Ski Areas Association (NSAA). 2004b. Telephone conversation between Michael Berry, President, National Ski Areas Association, and Ayesha Berlind, ERG.</booktitle>
+<volume>17</volume>
+<pages>68--23527</pages>
+<location>ERG.</location>
+<note>Interview with</note>
+<marker>2004</marker>
+<rawString>. King. 2004. Telephone conversation between Brian King, Chairman, ASTM and Ayesha Berlind, ERG. August 18, 2004. Meehan. 2004. Telephone conversation between Dennis Meehan, Sewer Superintendent, Lexington Public Works and Ayesha Berlind, ERG. August 25, 2004. Miller. 2004. Telephone conversation between Gerald Miller, Construction Superintendent, Marietta Structures, Inc. and Ayesha Berlind, ERG. August 24, 2004. National Inspection Services (NIS). 2007. Ups &amp; Downs: Checking for Elevator Safety. www.nationalinspection.net/inspector/articles/elevator.html downloaded July 3. National Ski Areas Association (NSAA). 2004a. Telephone conversation between Sid Roslund, Director of Technical Services, National Ski Areas Association and Ayesha Berlind, ERG. August 17, 2004. National Ski Areas Association (NSAA). 2004b. Telephone conversation between Michael Berry, President, National Ski Areas Association, and Ayesha Berlind, ERG. August 17. Outdoor Advertising Association of America (OAAA), 2005. Interview with Myron Liable, President, and J.R. Watson, Director Legislation and Research, Outdoor Advertising Association of America. April 5, 2005. Outdoor Advertising Association of America (OAAA). 2004. Telephone conversation between Myron Liable, President, Outdoor Advertising Association of America and Ayesha Berlind, ERG. August 17, 2004. OABA. 2004. Telephone conversation between Bob Johnson, President, Outdoor Amusement Business Association and Ayesha Berlind, ERG. August 18, 2004. A-15 OSHA. 2003. Walking and Working Surfaces; Personal Protective Equipment (Fall Protection Systems). Federal Register 68:23527-23568. May 2. Putnam. 2004. Telephone conversation between Dee Putnam, Safety Professional, Duke Power, and Ayesha Berlind, ERG. August 19, 2004. Rudy. 2004. Telephone conversation between Jim Rudy, Safety Director, CBI and Ayesha Berlind, ERG. August 23, 2004. Weisbrich and Weisbrich. 2004. Weisbrich, Alfred L. and Gunther J. Weisbrich. Dual Use Tower: Transmission and Generation. Utility Automation &amp; Engineering T&amp;D Online. http://uaelp.pennnet.com/articles/article_display.cfm?article_id=199789 March 1. downloaded June 2007. Windmills. 2007. List of windmills in the United States. http://www.windmillworld.com/world/usa.htm</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

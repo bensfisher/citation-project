@@ -1,0 +1,19 @@
+	Effectiveness and Benefits Cost Analyses A. Cost Effectiveness Analysis	"A Primer on the Major Issues Relating to the Discount Rate for Evaluating National Energy Options,"""	A Suggested Approach for Discounting the Benefits and Costs of Environmental Regulations,: unpublished working papers.	"Discounting Environmental Health Risks: New Evidence and Policy Implications,"""	1-5. For this analysis, the estimates were inflated to	Revised Departmental Guidance, Treatment of Value of Preventing Fatalities and Injuries in Preparing Economic Analyses‚Äù, Memorandum from D.
+A Primer on the Major Issues Relating to the Discount Rate for Evaluating National Energy Options in Discounting for Time and Risks in Energy Policy	0.7702702702702703	0.34459459459459457	0.7094594594594594	0.7837837837837838	0.8108108108108109	0.75
+Cost and Weight Added by the Federal Motor Vehicle Safety Standards for Model Years 19682001 in Passenger Cars and Light Trucks	0.8031496062992126	0.7637795275590551	0.8188976377952756	0.8110236220472441	0.7952755905511811	0.782608695652174
+Ejection Mitigation Using Advanced Glazing Status Report II	0.8	0.7628865979381443	0.7652173913043478	0.8	0.8305084745762712	0.7898550724637681
+Fatality Reduction by Safety Belts for FrontSeat Occupants of Cars and Light Trucks	0.7951807228915663	0.7835051546391752	0.7565217391304347	0.8192771084337349	0.7951807228915663	0.7753623188405797
+Final Economic Assessment and Regulatory Flexibility Analysis Costs and Benefits of Putting a Shoulder Belt in the Center Seats of Passenger Cars and Light Trucks	0.7530864197530864	0.7592592592592593	0.7592592592592593	0.7962962962962963	0.7962962962962963	0.7592592592592593
+NHTSAs Approahc to Motorcoach Safety	0.8428571428571429	0.8350515463917526	0.808695652173913	0.84	0.803921568627451	0.8695652173913043
+The Economic Impact of Motor Vehicle Crashes 2000	0.8285714285714286	0.8144329896907216	0.8	0.8533333333333334	0.8431372549019608	0.8188405797101449
+The Economic Impact of Motor vehicle Crashes 2000	0.8285714285714286	0.8041237113402062	0.8	0.84	0.8431372549019608	0.8188405797101449
+Three Point Seat Belts on Coaches – the First Decade in Australia	0.7285714285714285	0.7422680412371134	0.7478260869565218	0.7866666666666666	0.7076923076923077	0.7681159420289855
+Treatment of the Economic Value of a Statistical Life in Departmental Analyses	0.7051282051282052	0.7216494845360825	0.7565217391304347	0.8076923076923077	0.7435897435897436	0.6594202898550725
+A Benchmarking Study of the Size and Activity of the Motorcoach Industry in the United States and Canada in 2007	0.7589285714285714	0.75	0.8347826086956521	0.8035714285714286	0.7589285714285714	0.7536231884057971
+Comparisons of Energy Use and Emission from Different Transportation Modes	0.7972972972972973	0.7731958762886598	0.7478260869565218	0.84	0.7297297297297297	0.7681159420289855
+Motorcoach Census 2008 A Benchmarking Study of the Size and Activity of the Motorcoach Industry in the United States and Canada in 2007	0.7703703703703704	0.7555555555555555	0.7703703703703704	0.8148148148148148	0.8	0.8188405797101449
+A Suggested Approach for Discounting the Benefits and Costs of Environmental Regulations unpublished working papers	0.7391304347826086	0.7217391304347827	0.0	0.7304347826086957	0.7739130434782608	0.7898550724637681
+Revised Departmental Guidance Treatment of Value of Preventing Fatalities and Injuries in Preparing Economic Analyses	0.7350427350427351	0.7521367521367521	0.811965811965812	0.7435897435897436	0.7692307692307693	0.15217391304347827
+ECE Regulation 14	0.8857142857142857	0.8762886597938144	0.8782608695652174	0.8933333333333333	0.8823529411764706	0.927536231884058
+TRANSWP2978Rev1Amend2	0.9428571428571428	0.9484536082474226	0.9391304347826087	0.92	0.9019607843137255	0.9492753623188406
+Discounting Environmental Health Risks New Evidence and Policy Implications	0.84	0.7628865979381443	0.7304347826086957	0.0	0.76	0.7536231884057971

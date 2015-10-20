@@ -1,0 +1,5 @@
+	NO PARSCIT CITATIONS
+2006 Property Value Study  Discount Rate Range for Oil and Gas Properties 	0.8
+Annual Energy Outlook 	0.85
+Assessment of Oil Shale Technologies 	0.75
+Are we running out of oil	0.9

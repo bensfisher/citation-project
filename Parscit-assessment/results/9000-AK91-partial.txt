@@ -1,0 +1,8 @@
+	NO PARSCIT CITATIONS
+Average annual salary of federal employees within the United States	0.85
+Census information on education 	0.9
+EVerify program	0.94
+wwwsbagovadvoresearchdatauspdfxls	1.0
+Illegal Immigration Reform and Immigrant Responsibility Act 	0.8
+Westat Report	0.9299999999999999
+Congressional Hearing	0.95

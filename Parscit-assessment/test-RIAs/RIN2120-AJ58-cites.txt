@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>MR Rosekind</author>
+</authors>
+<title>Managing work schedules: an alertness and safety perspective. In: Kryger MH,</title>
+<booktitle>Principles and Practice of Sleep Medicine; 2005:682. Rosekind, Neri and Dinges, “From Laboratory to Flightdeck: Promoting Operational Alertness” in Fatigue and Duty Limitations—An International Review, (download 1-25-99, http/olicas.arc.nasa.gov/Zteam/FCP/subs/raes.html),</booktitle>
+<pages>1</pages>
+<editor>Roth T, Dement WC, editors.</editor>
+<marker>Rosekind, </marker>
+<rawString>Rosekind, MR. Managing work schedules: an alertness and safety perspective. In: Kryger MH, Roth T, Dement WC, editors. Principles and Practice of Sleep Medicine; 2005:682. Rosekind, Neri and Dinges, “From Laboratory to Flightdeck: Promoting Operational Alertness” in Fatigue and Duty Limitations—An International Review, (download 1-25-99, http/olicas.arc.nasa.gov/Zteam/FCP/subs/raes.html), page 1.</rawString>
+</citation>
+<citation valid="false">
+<title>previously called Federal Aviation Regulation (FAR). Pilot deviations also take place when the North American Aerospace Defense Command (NORAD), Air Defense Identification Zone (ADIZ) tolerance is neglected. Starting with 1987, pilot deviations have been documented by air traffic and flight standards on FAA Form 8020-17, Preliminary Pilot Deviation Report, and FAA Form 8020-18, Investigation of Pilot Deviation Report. The results are then coded into the Pilot Deviation System (PDS) database. The FAA uses the PDS database to monitor the number of</title>
+<marker></marker>
+<rawString>previously called Federal Aviation Regulation (FAR). Pilot deviations also take place when the North American Aerospace Defense Command (NORAD), Air Defense Identification Zone (ADIZ) tolerance is neglected. Starting with 1987, pilot deviations have been documented by air traffic and flight standards on FAA Form 8020-17, Preliminary Pilot Deviation Report, and FAA Form 8020-18, Investigation of Pilot Deviation Report. The results are then coded into the Pilot Deviation System (PDS) database. The FAA uses the PDS database to monitor the number of</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

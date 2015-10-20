@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="false">
+<authors>
+<author>Federal Register Vol</author>
+</authors>
+<date>2008</date>
+<journal>Proposed Rules</journal>
+<booktitle>The Behavioral Economics of Retirement Savings Behavior, AARP Public Policy Institute White Paper</booktitle>
+<volume>73</volume>
+<pages>631886</pages>
+<marker>Vol, 2008</marker>
+<rawString>49903 Federal Register / Vol. 73, No. 164 / Friday, August 22, 2008 / Proposed Rules 13 See, e.g., Richard H. Thaler &amp; Shlomo Benartzi, The Behavioral Economics of Retirement Savings Behavior, AARP Public Policy Institute White Paper 2007–02 (Jan. 2007); and Jeffrey R. Brown &amp; Scott Weisbenner, Individual Account Investment Options and Portfolio Choice: Behavioral Lessons from 401(k) Plans, Social Science Research Network Abstract 631886 (Dec. 2004).</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>Mind</author>
+</authors>
+<title>The Effects of Expenses on Mutual Fund Flows,</title>
+<date></date>
+<journal>Journal of Business, Volume 79, Number</journal>
+<booktitle>National Bureau of Economic Research Working Paper W12261</booktitle>
+<volume>6</volume>
+<marker>Mind, </marker>
+<rawString>Mind, The Effects of Expenses on Mutual Fund Flows, Journal of Business, Volume 79, Number 6 2095, 2095–2119 (2005); Edwin J. Elton et al., Are Investors Rational? Choices Among Index Funds, Social Science Research Network Abstract 340482 (June 2002); James J. Choi et al., Why Does the Law of One Price Fail? An Experiment on Index Mutual Funds, National Bureau of Economic Research Working Paper W12261 (May 2006); and Sarah Holden &amp; Michael Hadley, The Economics of Providing 401(k) Plans: Services, Fees and Expenses 2006, Investment Company Institute Research Fundamentals, Volume 16, Number 4 (Sept. 2007). Agency: Employee Benefits Security Administration, Department of Labor. Titles: (1) Proposed Class Exemption for the Provision of Investment Advice to Participants and Beneficiaries of SelfDirected Individual Account Plans and IRAs and (2) Proposed Investment Advice Regulation.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>OMB Control</author>
+</authors>
+<title>Number: 1210–NEW. Affected Public: Business or other forprofit. Estimated Number of Respondents: 16,000. Estimated Number of Annual Responses: 20,656,000. Frequency of Response: Initially, Annually, Upon Request, when a material change. Estimated Total Annual Burden Hours: 8,398,000 hours in the first year; 5,776,000 hours in each subsequent year. Estimated Total Annual Burden Cost: $642,541,000 for the first year; $493,242,000 for each subsequent year.</title>
+<marker>Control, </marker>
+<rawString>OMB Control Number: 1210–NEW. Affected Public: Business or other forprofit. Estimated Number of Respondents: 16,000. Estimated Number of Annual Responses: 20,656,000. Frequency of Response: Initially, Annually, Upon Request, when a material change. Estimated Total Annual Burden Hours: 8,398,000 hours in the first year; 5,776,000 hours in each subsequent year. Estimated Total Annual Burden Cost: $642,541,000 for the first year; $493,242,000 for each subsequent year.</rawString>
+</citation>
+<citation valid="true">
+<title>List of Subjects in 29 CFR Part 2550 Employee benefit plans, Exemptions, Fiduciaries, Investments, Pensions, Prohibited transactions, Reporting and recordkeeping requirements, and 1. The authority citation for part 2550 is revised to read as follows:</title>
+<date></date>
+<booktitle>Authority: 29 U.S.C. 1135; and Secretary of Labor’s Order No. 1–2003, 68 FR</booktitle>
+<pages>5374</pages>
+<marker></marker>
+<rawString>List of Subjects in 29 CFR Part 2550 Employee benefit plans, Exemptions, Fiduciaries, Investments, Pensions, Prohibited transactions, Reporting and recordkeeping requirements, and 1. The authority citation for part 2550 is revised to read as follows: Authority: 29 U.S.C. 1135; and Secretary of Labor’s Order No. 1–2003, 68 FR 5374 (Feb.</rawString>
+</citation>
+<citation valid="true">
+<title>Sec. 2550.401b–1 also issued under sec. 102, Reorganization Plan No.</title>
+<date>2003</date>
+<booktitle>Comp. 332, effective Dec. 31, 1978, 44 FR</booktitle>
+<volume>4</volume>
+<pages>47713</pages>
+<marker>2003</marker>
+<rawString>3, 2003). Sec. 2550.401b–1 also issued under sec. 102, Reorganization Plan No. 4 of 1978, 43 FR 47713 (Oct. 17, 1978), 3 CFR, 1978 Comp. 332, effective Dec. 31, 1978, 44 FR 1065 (Jan. 3, 1978), 3 CFR, 1978 Comp. 332.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>CFR</author>
+</authors>
+<date></date>
+<journal>and</journal>
+<booktitle>Sec. 2550.401c–1 also issued under 29 U.S.C. 1101. Sec. 2550.404c–1 also issued under 29 U.S.C. 1104. Sec. 2550.407c–3 also issued under 29 U.S.C. 1107. Sec. 2550.404a–2 also issued under 26 U.S.C. 401 note (sec. 657, Pub. L. 107–16, 115 Stat. 38). Sec. 2550.408b–1 also issued under 29 U.S.C. 1108(b)(1) and sec. 102, Reorganization Plan No. 4 of 1978, 3 CFR, 1978 Comp. p. 332, effective Dec. 31, 1978, 44 FR</booktitle>
+<volume>3</volume>
+<pages>1065</pages>
+<marker>CFR, </marker>
+<rawString>Sec. 2550.401c–1 also issued under 29 U.S.C. 1101. Sec. 2550.404c–1 also issued under 29 U.S.C. 1104. Sec. 2550.407c–3 also issued under 29 U.S.C. 1107. Sec. 2550.404a–2 also issued under 26 U.S.C. 401 note (sec. 657, Pub. L. 107–16, 115 Stat. 38). Sec. 2550.408b–1 also issued under 29 U.S.C. 1108(b)(1) and sec. 102, Reorganization Plan No. 4 of 1978, 3 CFR, 1978 Comp. p. 332, effective Dec. 31, 1978, 44 FR 1065 (Jan. 3, 1978), and 3 CFR, 1978 Comp. 332. Sec. 2550.412–1 also issued under 29 U.S.C. 1112.</rawString>
+</citation>
+<citation valid="false">
+<title>Add § 2550.408g–1 to read as follows:</title>
+<booktitle>2550.408g–1 Investment Advice— Participants and Beneficiaries.</booktitle>
+<marker></marker>
+<rawString>2. Add § 2550.408g–1 to read as follows: § 2550.408g–1 Investment Advice— Participants and Beneficiaries.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>General</author>
+</authors>
+<title>Section 408(g)(1) of the Employee Retirement Income Security Advice Exemption Notification— Statutory, U.S. Department of Labor, Employee Benefits Security Administration, Room N–1513, 200 Constitution Ave.,</title>
+<date></date>
+<location>NW., Washington, DC,</location>
+<marker>General, </marker>
+<rawString>(a) General. Section 408(g)(1) of the Employee Retirement Income Security Advice Exemption Notification— Statutory, U.S. Department of Labor, Employee Benefits Security Administration, Room N–1513, 200 Constitution Ave., NW., Washington, DC, 20210. (3) For purposes of this paragraph (f), (4) ‘‘Individual Retirement Account’’ or ‘‘IRA’’ means— (i) An individual retirement account described in section 408(a) of the Code; (ii) An individual retirement annuity described in section 408(b) of the Code; (iii) An Archer MSA described in section 220(d) of the Code; (iv) A health savings account described in section 223(d) of the Code; (v) A Coverdell education savings account described in section 530 of the Code; or (vi) A trust, plan, account, or annuity which, at any time, has been determined by the Secretary of the Treasury to be described in any of paragraphs (j)(4)(i) through (v) of this section. (5) An ‘‘affiliate’’ of another person means— (i) Any person directly or indirectly owning, controlling, or holding with power to vote, 5 percent or more of the outstanding voting securities of such other person; (ii) Any person 5 percent or more of whose outstanding voting securities are directly or indirectly owned, controlled, or held with power to vote, by such other person; (iii) Any person directly or indirectly controlling, controlled by, or under common control with, such other person; and (iv) Any officer, director, partner, copartner, or employee of such other person. (6)(i) A person with a ‘‘material affiliation’’ with another person means— (A) Any affiliate of the other person; (B) Any person directly or indirectly owning, controlling, or holding, 5 percent or more of the interests of such other person; (C) Any person 5 percent or more of whose interests are directly or indirectly owned, controlled, or held, by such other person.</rawString>
+</citation>
+<citation valid="true">
+<title>For purposes of paragraph (j)(6)(i) Signed at Washington, DC, this 15th day of August,</title>
+<date>2008</date>
+<booktitle>Assistant Secretary, Employee Benefits Security Administration, Department of Labor. [FR Doc. E8–19272 Filed 8–21–08; 8:45 am]</booktitle>
+<marker>2008</marker>
+<rawString>(ii) For purposes of paragraph (j)(6)(i) Signed at Washington, DC, this 15th day of August, 2008. Bradford P. Campbell, Assistant Secretary, Employee Benefits Security Administration, Department of Labor. [FR Doc. E8–19272 Filed 8–21–08; 8:45 am]</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

@@ -1,0 +1,19 @@
+	NO PARSCIT CITATIONS
+Average annual salary of federal employees within the United States	0.8181818181818181
+Census information on education 	0.84
+EVerify program	0.9130434782608696
+Federal Procurement Data SystemNext Generation	0.75
+wwwsbagovadvoresearchdatauspdfxls	1.0
+Executive Order 12989	0.8461538461538461
+Illegal Immigration Reform and Immigrant Responsibility Act 	0.7419354838709677
+Immigration Reform and Control Act	0.6428571428571428
+“Characteristics and Pay of Federal Civilian Employees”	0.8235294117647058
+Basic Pilot program	0.8333333333333334
+Job Openings and Labor Turnover	0.7857142857142857
+National Compensation Survey Occupational Earnings in the United States	0.7142857142857143
+Westat Report	0.8
+Economic Analysis of the Santa Monica Living Wage Proposal	0.7714285714285715
+New Ideas for Retaining StoreLevel Employees	0.7058823529411764
+Employment Eligibility Verification Form Form I9	0.8709677419354839
+Registration for the Employer Verification Program	0.8064516129032258
+USCIS EVerify User’s Manual	0.7241379310344828

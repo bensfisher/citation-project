@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<algorithms version="110505">
+<algorithm name="ParsCit" version="110505">
+<citationList>
+<citation valid="true">
+<title>31 Refer to: http://www.eccj.or.jp/top_runner/ index.html. (Last accessed</title>
+<date>2011</date>
+<journal>Maximum Standby Power =</journal>
+<volume>2</volume>
+<pages>watts.</pages>
+<contexts>
+<context position="175753" citStr="(2011)" startWordPosition="26638" endWordPosition="26638"> Class 2 (Built-In and Over-theRange Combination Microwave Ovens). As discussed in section IV.C.3, based on the engineering analysis, DOE included updated manufacturer production costs (MPCs) for Product Class 1 and new MPCs for Product Class 2. For the SNOPR DOE updated its engineering analysis to 2010$ using the PPI. DOE also incorporated price trends into the analysis. Incorporating prices trends rather than assuming prices remain fixed in real terms throughout the analysis also impacts the MIA results. DOE used the default prices trends in the NIA starting in the base year of the analysis (2011) and continuing through the end of the analysis period (2043). DOE also assumed that MPCs and MSPs were similarly impacted by price trends in both the base case and standards cases. See section IV.D.1 for a VerDate Mar&amp;lt;15&amp;gt;2010 18:08 Feb 13, 2012 Jkt 226001 PO 00000 Frm 00026 Fmt 4701 Sfmt 4702 E:\FR\FM\14FEP3.SGM 14FEP3tke lle y on D SK 3S PT VN 1P RO D wi th P RO PO SA LS 3 8551 Federal Register / Vol. 77, No. 30 / Tuesday, February 14, 2012 / Proposed Rules 20 See Bureau of Economic Analysis, ‘‘Regional Multipliers: A User Handbook for the Regional Input-Output Modeling System (RIMS II),’’ W</context>
+</contexts>
+<marker>2011</marker>
+<rawString>standby.html. (Last accessed March 18, 2011.) 31 Refer to: http://www.eccj.or.jp/top_runner/ index.html. (Last accessed March 18, 2011.) Product classes Proposed energy conservation standard Microwave-Only Ovens and Countertop Combination Microwave Ovens Maximum Standby Power = 1.0 watt. Built-In and Over-the-Range Combination Microwave Ovens ................. Maximum Standby Power = 2.2 watts.</rawString>
+</citation>
+<citation valid="false">
+<title>Reference case, Low Economic Growth case, and High Economic Growth case, respectively. In addition, the Low estimate uses incremental product costs that reflects constant prices (no learning rate) for product prices, and the High estimate uses incremental product costs that reflects a declining trend (high learning rate) for product prices.</title>
+<date>2010</date>
+<booktitle>2. Summary of Benefits and Costs 3% ......................... 2.14 ....................... 2.02 ....................... 2.26 Total† .................................................................................. 7% plus CO2 range 178 to 277 ............. 160 to 253 ............. 196 to 301 7% ......................... 204 ........................ 185 ........................ 224 3% ......................... 243 ........................ 217 ........................ 269 3% plus CO2 range 216 to 315 ............. 193 to 286 ............. 241 to 346 Costs Incremental Product Costs ................................................ 7% ......................... 20.32 ..................... 23.39 ..................... 20.25 3% ......................... 21.59 ..................... 25.48 ..................... 21.48 Total Net Benefits Total† .................................................................................. 7% plus CO2 range 157 to 256 ............. 137 to 230 ............. 176 to 281 7% ......................... 184 ........................ 162 ........................ 204 3% ......................... 221 ........................ 192 ........................ 247 3% plus CO2 range 195 to 294 ............. 167 to 260 ............. 219 to 324 * The Primary, Benefits, and High Benefits Estimates utilize forecasts of energy prices and housing starts from the AEO</booktitle>
+<marker>2010</marker>
+<rawString>2. Summary of Benefits and Costs 3% ......................... 2.14 ....................... 2.02 ....................... 2.26 Total† .................................................................................. 7% plus CO2 range 178 to 277 ............. 160 to 253 ............. 196 to 301 7% ......................... 204 ........................ 185 ........................ 224 3% ......................... 243 ........................ 217 ........................ 269 3% plus CO2 range 216 to 315 ............. 193 to 286 ............. 241 to 346 Costs Incremental Product Costs ................................................ 7% ......................... 20.32 ..................... 23.39 ..................... 20.25 3% ......................... 21.59 ..................... 25.48 ..................... 21.48 Total Net Benefits Total† .................................................................................. 7% plus CO2 range 157 to 256 ............. 137 to 230 ............. 176 to 281 7% ......................... 184 ........................ 162 ........................ 204 3% ......................... 221 ........................ 192 ........................ 247 3% plus CO2 range 195 to 294 ............. 167 to 260 ............. 219 to 324 * The Primary, Benefits, and High Benefits Estimates utilize forecasts of energy prices and housing starts from the AEO 2010 Reference case, Low Economic Growth case, and High Economic Growth case, respectively. In addition, the Low estimate uses incremental product costs that reflects constant prices (no learning rate) for product prices, and the High estimate uses incremental product costs that reflects a declining trend (high learning rate) for product prices.</rawString>
+</citation>
+<citation valid="false">
+<title>The CO2 values represent global values (in 2010$) of the social cost of CO2 emissions in 2010 under several scenarios. The values of $4.9, $22.3, and $36.5 per ton are the averages of SCC distributions calculated using 5%, 3%, and 2.5% discount rates, respectively. The value of $67.6 per ton represents the 95th percentile of the SCC distribution calculated using a 3% discount rate. The value for NOX (in 2010$) is the average of the low and high values used in DOE’s analysis.</title>
+<marker></marker>
+<rawString>** The CO2 values represent global values (in 2010$) of the social cost of CO2 emissions in 2010 under several scenarios. The values of $4.9, $22.3, and $36.5 per ton are the averages of SCC distributions calculated using 5%, 3%, and 2.5% discount rates, respectively. The value of $67.6 per ton represents the 95th percentile of the SCC distribution calculated using a 3% discount rate. The value for NOX (in 2010$) is the average of the low and high values used in DOE’s analysis.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Total</author>
+</authors>
+<title>Benefits for both the 3% and 7% cases are derived using the SCC value calculated at a 3% discount rate, which is $22.3/ton in</title>
+<date>2010</date>
+<booktitle>In the rows labeled as ‘‘7% plus CO2 range’’ and ‘‘3% plus CO2 range,’’ the</booktitle>
+<marker>Total, 2010</marker>
+<rawString>† Total Benefits for both the 3% and 7% cases are derived using the SCC value calculated at a 3% discount rate, which is $22.3/ton in 2010 (in 2010$). In the rows labeled as ‘‘7% plus CO2 range’’ and ‘‘3% plus CO2 range,’’ the operating cost and NOX benefits are calculated using the labeled discount rate, and those values are added to the full range of CO2 values.</rawString>
+</citation>
+<citation valid="true">
+<title>Additional Technical Corrections to 8570 Federal Register /</title>
+<date>2012</date>
+<booktitle>Proposed Rules VII. Procedural Issues and Regulatory Review A. Review Under Executive Order 12866 and 13563 Section 1(b)(1) of Executive Order 12866, ‘‘Regulatory Planning and Review,’’ 58 FR</booktitle>
+<volume>77</volume>
+<pages>51735</pages>
+<marker>2012</marker>
+<rawString>VI. Additional Technical Corrections to 8570 Federal Register / Vol. 77, No. 30 / Tuesday, February 14, 2012 / Proposed Rules VII. Procedural Issues and Regulatory Review A. Review Under Executive Order 12866 and 13563 Section 1(b)(1) of Executive Order 12866, ‘‘Regulatory Planning and Review,’’ 58 FR 51735 (Oct. 4, 1993), currently valid OMB Control Number.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>D Review</author>
+</authors>
+<title>Under the National Environmental Policy Act of 1969 Pursuant to the National Environmental Policy Act (NEPA) of 1969, as amended (42 U.S.C. 4321 et seq.), DOE has determined that the proposed rule fits within the category of actions included in Categorical Exclusion (CX) B5.1 and otherwise meets the requirements for application of a CX. (See 10 CFR 1021.410(b) and Appendix B to Subpart D) The proposed rule fits within this category of actions because it is a rulemaking that establishes energy conservation standards for consumer products or industrial equipment, and for which none of the exceptions identified in CX B5.1(b) apply. Therefore, DOE has made a CX determination for this rulemaking, and DOE does not need to prepare an Environmental Assessment or Environmental Impact Statement for this proposed rule. DOE’s CX determination for this proposed rule is available at http://cxnepa.energy.gov.</title>
+<marker>Review, </marker>
+<rawString>D. Review Under the National Environmental Policy Act of 1969 Pursuant to the National Environmental Policy Act (NEPA) of 1969, as amended (42 U.S.C. 4321 et seq.), DOE has determined that the proposed rule fits within the category of actions included in Categorical Exclusion (CX) B5.1 and otherwise meets the requirements for application of a CX. (See 10 CFR 1021.410(b) and Appendix B to Subpart D) The proposed rule fits within this category of actions because it is a rulemaking that establishes energy conservation standards for consumer products or industrial equipment, and for which none of the exceptions identified in CX B5.1(b) apply. Therefore, DOE has made a CX determination for this rulemaking, and DOE does not need to prepare an Environmental Assessment or Environmental Impact Statement for this proposed rule. DOE’s CX determination for this proposed rule is available at http://cxnepa.energy.gov.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>E</author>
+</authors>
+<title>Review Under Executive Order 13132 Executive Order 13132,</title>
+<date></date>
+<journal>Federalism,’’</journal>
+<volume>64</volume>
+<pages>43255</pages>
+<marker>E, </marker>
+<rawString>E. Review Under Executive Order 13132 Executive Order 13132, ‘‘Federalism,’’ 64 FR 43255 (Aug. 10, 1999) imposes certain requirements on Federal agencies formulating and implementing policies or regulations that preempt State law or that have Federalism implications. The Executive Order prepare a Family Policymaking Assessment.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>I</author>
+</authors>
+<title>Review Under Executive Order 12630 DOE has determined, under Executive Order 12630,</title>
+<date>1988</date>
+<booktitle>Governmental Actions and Interference with Constitutionally Protected Property Rights’’</booktitle>
+<volume>53</volume>
+<publisher>Constitution.</publisher>
+<marker>I, 1988</marker>
+<rawString>I. Review Under Executive Order 12630 DOE has determined, under Executive Order 12630, ‘‘Governmental Actions and Interference with Constitutionally Protected Property Rights’’ 53 FR 8859 (March 18, 1988), that this regulation would not result in any takings that might require compensation under the Fifth Amendment to the U.S. Constitution.</rawString>
+</citation>
+<citation valid="false">
+<authors>
+<author>J Review</author>
+</authors>
+<title>Under the Treasury and General Government Appropriations Act,</title>
+<date>2001</date>
+<tech>66 FR 28355</tech>
+<marker>Review, 2001</marker>
+<rawString>J. Review Under the Treasury and General Government Appropriations Act, 2001 Section 515 of the Treasury and General Government Appropriations Act, 2001 (44 U.S.C. 3516, note) K. Review Under Executive Order 13211 Executive Order 13211, ‘‘Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use’’ 66 FR 28355 (May 22, 2001), requires Federal agencies to prepare and submit to OIRA at OMB, a Statement of Energy Effects for any projects. The ‘‘Energy Conservation Standards Rulemaking Peer Review Report’’ dated February 2007 has been disseminated and is available at the following Web site: http:// www1.eere.energy.gov/buildings/ appliance_standards/peer_review.html. VIII. Public Participation A. Attendance at Public Meeting Confidential Business Information (CBI)). Comments submitted through regulations.gov cannot be claimed as CBI. Comments received through the Web site will waive any CBI claims for the information submitted. For information on submitting CBI, see the Confidential Business Information section. DOE processes submissions made The Secretary of Energy has approved publication of today’s proposed rule. List of Subjects in 10 CFR Part 430 Administrative practice and procedure, Confidential business information, Energy conservation, Household appliances, Reporting and recordkeeping requirements, and Small businesses.</rawString>
+</citation>
+<citation valid="true">
+<authors>
+<author>Issued in Washington</author>
+<author>on January DC</author>
+</authors>
+<title>Henry Kelly, Acting Assistant Secretary, Energy Efficiency and Renewable Energy. 1. The authority citation for part 429 continues to read as follows:</title>
+<date>2012</date>
+<journal>Authority:</journal>
+<booktitle>In § 429.23 revise</booktitle>
+<volume>42</volume>
+<marker>Washington, DC, 2012</marker>
+<rawString>Issued in Washington, DC, on January 31, 2012. Henry Kelly, Acting Assistant Secretary, Energy Efficiency and Renewable Energy. 1. The authority citation for part 429 continues to read as follows: Authority: 42 U.S.C. 6291–6317. 2. In § 429.23 revise paragraph (b)(2) to read as follows: § 429.23 Conventional cooking tops, conventional ovens, microwave ovens.</rawString>
+</citation>
+<citation valid="false">
+<title>The authority citation for part 430 continues to read as follows:</title>
+<journal>Authority:</journal>
+<booktitle>In § 430.23 revise</booktitle>
+<volume>42</volume>
+<marker></marker>
+<rawString>1. The authority citation for part 430 continues to read as follows: Authority: 42 U.S.C. 6291–6309; 28 U.S.C. 2461 note. 2. In § 430.23 revise paragraph (i)(3) to read as follows: § 430.23 Test procedures for the measurement of energy and water consumption.</rawString>
+</citation>
+</citationList>
+</algorithm>
+</algorithms>

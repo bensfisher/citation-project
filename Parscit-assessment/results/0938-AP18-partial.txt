@@ -1,0 +1,6 @@
+	NO PARSCIT CITATIONS
+Health Facts	0.92
+OMB Circular A4	0.6699999999999999
+Proposed Rule	0.85
+CPT Codes and Descriptions	0.8
+Federalism	1.0
