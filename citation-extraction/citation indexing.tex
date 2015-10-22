@@ -154,11 +154,13 @@ There has been limited publicly available work done on improving automated citat
 \section{RIA Description}
 
 \section{Research Design}
-We use 104 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. \\ 
+We use 105 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. \\ 
 
 To assess how our own approach compares to existing citation indexing programs, we run the ParsCit program on the manually coded sample of RIAs. ParsCit was originally developed for indexing scholarly citations from journal articles for the Citeseer project \cite{councilletal2008}. In addition to extracting citations, the program also extracts citation metadata, such as author, article title, and journal. We do not expect it to handle metadata extraction for non-scholarly citations. However, it may be able to extract text containing non-scholarly citations, which could then be manually coded. This would greatly speed up the current coding process, which requires research assistants to read the entire document for citations. If ParsCit performs well enough at extracting all citation types, then there is no need to develop new indexing software for this project.\\
 
-We use four different string distance metrics to measure similarity between the manually collected citations and the citations collected by ParsCit: Levenshtein, Jaccard, Sorenson, and partial string similarity. Levenshtein distance is measured by calculating the number of insertions, deletions, or substitutions needed to turn one string into another string [CITE Levenshtein 1966]. To calculate the Jaccard distance, the number of characters shared by two strings is divided by the total number of characters and subtracted from 1 [CITE Jaccard 1901]. The Sorenson distance measure is very similar to the Jaccard measure. Instead of looking at the number of shared characters, the Sorenson measure calculates the number of shared bigrams. This number is multiplied by 2 and then divided by the total number of bigrams in each string and subtracted from 1 [CITE Sorenson 1948]. Except for Levenshtein distance, all measures fall on a scale of 0 to 1, with 0 indicating an exact match and 1 indicating two completely different strings. The Levenshtein measure is normalized to the same scale for the purposes of comparison. The final measure, partial string similarity, uses substring matching and measures the percentage of characters in string $a$ that appear in string $b$.\\
+We use four different string distance metrics to measure similarity between the titles of manually collected citations and those of the citations collected by ParsCit: Levenshtein, Jaccard, Sorenson, and partial string similarity. Levenshtein distance is measured by calculating the number of insertions, deletions, or substitutions needed to turn one string into another string [CITE Levenshtein 1966]. To calculate the Jaccard distance, the number of characters shared by two strings is divided by the total number of characters and subtracted from 1 [CITE Jaccard 1901]. The Sorenson distance measure is very similar to the Jaccard measure. Instead of looking at the number of shared characters, the Sorenson measure calculates the number of shared bigrams. This number is multiplied by 2 and then divided by the total number of bigrams in each string and subtracted from 1 [CITE Sorenson 1948]. Except for Levenshtein distance, all measures fall on a scale of 0 to 1, with 0 indicating an exact match and 1 indicating two completely different strings. The Levenshtein measure is normalized to the same scale for the purposes of comparison. The final measure, partial string similarity, uses substring matching and measures the percentage of characters in string $a$ that appear in string $b$.\\
+
+To determine which distance measure works best as a classifier in this case, we first hand code whether the best match from the ParsCit-collected citations suggested by each distance measure for each hand coding whether the suggested match is actually a match. The best distance measure is that which provides the most correct matches. We then determine a cutoff point for the best distance measure that which best divides matches from non-matches and apply it to the whole sample.\\
 
 \subsection{Tasks}
 
@@ -172,6 +174,76 @@ We use four different string distance metrics to measure similarity between the 
 
 
 \section{Results}
+We treat the values for each distance measure as pseudoprobabilities, which we use to generate Receiver Operating Characteristic (ROC) curves. Figure X displays ROC curves for each distance measure. The best measure is the one that has the greatest area-under-the-curve (AUC). In this case, partial string similarity is the best. We determine the ideal cutoff point by choosing the point that maximizes the sum of sensitivity and specificity. In this case, the best threshold is .15. Potential matches with a score below .15 are considered matches, while those above are considered non-matches.
+
+Roughly $41\%$ of the hand-coded citations are also present in the ParsCit-extracted citations. Table~\ref{tab:focalhand} displays the number of matched citations by the major citation types\footnote{not all citations fell into one of these categories}. The major advantage of ParsCit should be it's ability to pick up scholarly journal citations. However, it actually performs quite poorly, picking up less than half of the scholarly citations present in the hand-coded dataset. This may be due to the fact that ParsCit was designed under the assumption that each document contains a reference section, which is not always the case with RIAs. Table~\ref{tab:bibmatch} displays the number of matches and total citations for RIAs with bibliographies and RIAs without, while Table~\ref{tab:bibtypes} displays matches by citation types for RIAs with bibliographies only.
+
+\begin{table}[ht]
+\centering
+\caption{Hand-coded citations matched by type}\label{tab:focalhand}
+\begin{tabular}{lll}
+  \hline
+  \hline
+ Type & Matched & Total\\
+ \hline
+Article & 105 & 188 \\
+Book & 66 & 131\\
+Court Case & 0 & 25\\
+Database & 147 & 349\\
+Government Report & 522 & 1308\\
+Hearing & 20 & 45\\
+Magazine/Newspaper & 10 & 13\\
+NGO Report & 243 & 622 \\
+Other & 224 & 640\\
+Reference Manual & 21 & 64\\
+Regulation & 54 & 296\\
+RIA & 31 & 80\\
+Scholarly Journal & 576 & 1209\\
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption{Hand-coded citations matched by presence of bibliography}\label{tab:bibmatch}
+\begin{tabular}{lll}
+  \hline
+  \hline
+ Bibliography? & Matched & Total\\
+ \hline
+ Yes & 1788 & 3300\\
+ No & 227 & 1713\\
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption{Hand-coded citations matched for RIAs with bibliography}\label{tab:bibtypes}
+\begin{tabular}{lll}
+  \hline
+  \hline
+ Type & Matched & Total\\
+ \hline
+Article & 87 & 143 \\
+Book & 43 & 80\\
+Court Case & 0 & 2\\
+Database & 111 & 208 \\
+Government Report & 337 & 712 \\
+Hearing & 16 & 20\\
+Magazine/Newspaper & 5 & 5\\
+NGO Report & 190 & 376 \\
+Other & 206 & 397 \\
+Reference Manual & 13 &  29\\
+Regulation & 32 & 69 \\
+RIA & 21 & 54\\
+Scholarly Journal & 430 & 787\\
+  \hline
+  \hline
+\end{tabular}
+\end{table}
 
 \subsection{Tasks}
 
@@ -197,122 +269,4 @@ We use four different string distance metrics to measure similarity between the 
 \clearpage
 
 \end{document}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\documentclass[12pt]{article}
-\usepackage[swedish,icelandic,english]{babel}
-\usepackage[T1]{fontenc}
-\usepackage{afterpage}
-\usepackage{setspace}
-\usepackage{amssymb}
-\usepackage{epsfig}
-\usepackage{dcolumn}
-\usepackage{afterpage}
-\usepackage{multirow}
-\usepackage{booktabs}
-\usepackage{colortbl}
-\usepackage{fullpage}
-\usepackage{times}
-\usepackage{amsthm}
-\usepackage{amsfonts}
-\usepackage{lscape}
-\usepackage{threeparttable}
-\usepackage{psfrag}
-\usepackage{dcolumn}
-\usepackage{fleqn}
-\usepackage{epic}
-\usepackage{longtable}
-\usepackage{rotating}
-\usepackage{latexsym}
-\usepackage{url}
-\usepackage{endnotes}
-\usepackage{url}
-\usepackage{subcaption}
-\usepackage{subfigure}
-\usepackage [abbr] {harvard}
-\usepackage[hang,flushmargin]{footmisc} 
-%\usepackage{natbib}
-\renewcommand{\harvardurl}{URL: \url}
-\usepackage{amsmath, bm}
-\usepackage{afterpage}
-\usepackage{graphics}
-\usepackage{graphicx}
-\usepackage{paralist} % \setdefaultenum{(a)}{i}{A}{1}
-\setlength{\LTcapwidth}{6in}
-
-\def\p3s{\phantom{xxx}}
-\parskip=0pt
-\parindent=0pt
-\interfootnotelinepenalty=10000
-\begin{document}
-\parindent=30pt
-\renewcommand{\thefootnote}{\fnsymbol{footnote}}
-
-
-
-\doublespace
-\setcounter{page}{1}
-\renewcommand{\thefootnote}{\fnsymbol{footnote}}
-
-\normalsize
-\hyphenpenalty 1000
-
-\singlespace
-\begin{center}
-
-\title{\vspace{-2cm} Automated Citation Indexing of Government Documents} \\
-
-
-\vspace{1cm}
-\large
-\normalsize\vspace*{8.5cm}
-
-
-%\textsc{}\\
-%\textit{}\\
-
-\end{center}
-\vspace{3.5cm}
-
-%\begin{center}
-%\large \textbf{ABSTRACT}
-%\end{center}
-
-\singlespace \noindent 
-
-% \noindent Abstract
-
-\newpage
-\doublespace
-\setcounter{page}{1}
-\renewcommand{\thefootnote}{\arabic{footnote}} \setcounter{footnote}{0}
-\normalsize
-\hyphenpenalty 1000
-
 
