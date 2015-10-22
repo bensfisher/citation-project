@@ -1,9 +1,10 @@
-This is BibTeX, Version 0.99d (TeX Live 2012)
+This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: citation indexing.aux
 The style file: apsr.bst
 Database file #1: citationextraction.bib
 Warning--there's a number but no volume in ellig2013
+<<<<<<< HEAD
 You've used 12 entries,
             2874 wiz_defined-function locations,
             707 strings with 6969 characters,
@@ -46,3 +47,48 @@ while$ -- 279
 width$ -- 0
 write$ -- 176
 (There was 1 warning)
+=======
+Warning--there's a number but no volume in hahn2007
+You've used 15 entries,
+            2874 wiz_defined-function locations,
+            726 strings with 7676 characters,
+and the built_in function-call counts, 68528 in all, are:
+= -- 11204
+> -- 949
+< -- 0
++ -- 5356
+- -- 328
+* -- 5911
+:= -- 13738
+add.period$ -- 61
+call.type$ -- 15
+change.case$ -- 196
+chr.to.int$ -- 15
+cite$ -- 17
+duplicate$ -- 223
+empty$ -- 463
+format.name$ -- 338
+if$ -- 12308
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 14
+newline$ -- 69
+num.names$ -- 184
+pop$ -- 50
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 203
+stack$ -- 0
+substring$ -- 15776
+swap$ -- 35
+text.length$ -- 210
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 2
+while$ -- 351
+width$ -- 0
+write$ -- 221
+(There were 2 warnings)
+>>>>>>> origin/master
