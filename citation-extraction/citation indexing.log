@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  22 OCT 2015 11:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  22 OCT 2015 12:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1167,62 +1167,52 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
  [2]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 142.
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+ [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 170.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 173.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 170.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 173.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 170.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 173.
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[5] [6] [7] (./citation indexing.bbl [8
+[6] [7] [8] (./citation indexing.bbl [9
 
-]) [9]
+]) [10]
 
 Package caption Warning: Unused \captionsetup[subfloat] on input line 51.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
 (./citation indexing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
 Package rerunfilecheck Info: File `"citation indexing".out' has not changed.
 (rerunfilecheck)             Checksum: F971911CA25AA3BF3EC62496FA658B72;558.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
  ) 
 Here is how much of TeX's memory you used:
- 19025 strings out of 493315
- 327410 string characters out of 6137904
- 431225 words of memory out of 5000000
- 22053 multiletter control sequences out of 15000+600000
+ 19031 strings out of 493315
+ 327515 string characters out of 6137904
+ 431309 words of memory out of 5000000
+ 22057 multiletter control sequences out of 15000+600000
  48184 words of font info for 84 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,6n,55p,1588b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1231,10 +1221,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dis
 t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "citation indexing.pdf" (9 pages, 68456 bytes).
+Output written on "citation indexing.pdf" (10 pages, 71050 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

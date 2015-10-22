@@ -79,6 +79,16 @@ NRC. 2012.
 \newblock Using Science as Evidence in Public Policy. Technical report National
   Research Council: The National Academies Press Washington, DC: .
 
+\harvarditem[Toutanova et~al.]{Toutanova, Klein, Manning \harvardand\
+  Singer}{2003}{toutanova2003}
+Toutanova, Kristina, Dan Klein, Christopher~D Manning \harvardand\ Yoram
+  Singer. 2003.
+\newblock Feature-rich part-of-speech tagging with a cyclic dependency network.
+   In {\em Proceedings of the 2003 Conference of the North American Chapter of
+  the Association for Computational Linguistics on Human Language
+  Technology-Volume 1}.
+\newblock Association for Computational Linguistics pp.~173--180.
+
 \harvarditem{Wong \harvardand\ Wang}{2015}{wong2015}
 Wong, Chan-Yuan \harvardand\ Lili Wang. 2015.
 \newblock ``Trajectories of science and technology and their co-evolution in
