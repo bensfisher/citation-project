@@ -1,4 +1,4 @@
-	Coal Mine Salaries, Wages, and Benefits:	Department of Energy, Energy Information Administration, Annual Coal Report	Office of Program Evaluation and Information Resources (PEIR),
+	Coal Mine Salaries Wages and Benefits	Department of Energy Energy Information Administration Annual Coal Report	Office of Program Evaluation and Information Resources PEIR
 US Coal Mine Salaries Wages  Benefits 2007 Survey Results 	0.08999999999999997	0.69	0.62
 Fee Adjustments for Testing Evaluation and Approval of Mining Products	0.63	0.5900000000000001	0.5
 Annual Coal Report 2006	0.7	0.13	0.61

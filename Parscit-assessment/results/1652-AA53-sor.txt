@@ -1,4 +1,4 @@
-	48811, Airport Operations, while publicly-owned airports are classified by NAICS code 926120, Regulation and Administration of Transportation Programs.	Department of Transportation, Federal Aviation Administration, “Categories of Airports,” Available from: http://www.faa.gov/airports_airtraffic/airports/planning_capacity/passenger_allcargo_stats/categories/. Accessed on February 28,	Forecasts,
+	48811 Airport Operations while publiclyowned airports are classified by NAICS code 926120 Regulation and Administration of Transportation Programs	Department of Transportation Federal Aviation Administration “Categories of Airports” Available from httpwwwfaagovairportsairtrafficairportsplanningcapacitypassengerallcargostatscategories Accessed on February 28	Forecasts
 Page 1213	0.6888888888888889	0.7560975609756098	0.75
 Economic Consequences of a Nuclear Detonation in an Urban Area	0.38983050847457623	0.34545454545454546	0.5333333333333333
 Economic Values for FAA Investment and Regulatory Decisions A Guide	0.3650793650793651	0.288135593220339	0.5294117647058824

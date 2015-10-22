@@ -1,8 +1,0 @@
-	Richard: &quot;Proposal for a Market-Based Solution to Airport Delays&quot; Economic Analysis Group,	Enhancing the Performance of the Deregulated Air Transportation System,&quot; Brookings Papers on Economic Activity,
-Economic Regulation of Domestic Air Transport: Theory and Policy	0.78	0.6810344827586207
-Airport Benefit-Cost Analysis Guidance	0.78	0.8275862068965517
-Economic Values for FAA Investment and Regulatory Decisions, A Guide	0.78	0.7758620689655172
-Proposal for a Market-Based Solution to Airport Delays	0.46	0.7844827586206896
-Trade Impact Assessment and Unfunded Mandate Reform Act Assessment, Congestion Management Rule for LaGuardia Airport	0.8362068965517241	0.853448275862069
-Modeling Delays and Cancellation Probilities to Support Strategic Simulations	0.76	0.7672413793103449
-Enhancing the Performance of the Deregulated Air Transportation System	0.77	0.39655172413793105

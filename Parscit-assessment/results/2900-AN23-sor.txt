@@ -1,4 +1,4 @@
-	Secretary of Veterans Affairs.
+	Secretary of Veterans Affairs
 VetPop Data	0.5
 Paperwork Reduction Act of 1995	0.38888888888888884
 68 FR 2669	0.9090909090909091

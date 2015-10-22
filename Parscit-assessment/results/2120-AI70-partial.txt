@@ -1,4 +1,4 @@
-	Richard: &quot;Proposal for a Market-Based Solution to Airport Delays&quot; Economic Analysis Group,	Enhancing the Performance of the Deregulated Air Transportation System,&quot; Brookings Papers on Economic Activity,
+	Richard quotProposal for a MarketBased Solution to Airport Delaysquot Economic Analysis Group	Enhancing the Performance of the Deregulated Air Transportation Systemquot Brookings Papers on Economic Activity
 Economic Regulation of Domestic Air Transport Theory and Policy	0.5800000000000001	0.51
 Airport BenefitCost Analysis Guidance	0.45999999999999996	0.6
 Economic Values for FAA Investment and Regulatory Decisions A Guide	0.62	0.6

@@ -12,8 +12,6 @@ for dirs, subdirs, files in os.walk(root):
         if name.endswith('cites.txt'):
             rias.append(os.path.join(root, name))
 
-#rias = ['Parscit-assessment/test-RIAs/RIN2060-AP90-cites.txt']
-
 pc = {}
 processed = 0
 # create dictionary with RIN as key and list of citation titles as value for Parscit output
@@ -40,7 +38,11 @@ for ria in rias:
             pass
     except AttributeError,e:
         print e
-    pc[ria[-19:-10]] = titles
+    titles2 = []
+    for item in titles:
+        item = str(item).translate(None, string.punctuation)
+        titles2.append(item)
+    pc[ria[-19:-10]] = titles2
     processed += 1
 
 for k in pc:
@@ -52,10 +54,16 @@ for k in pc:
 # create similar dictionary for manually coded data 
 cites = pd.read_csv('Parscit-assessment/RIACitations.csv')
 cites = cites[(cites.RIN != 'RIN1190-AA44') & (cites.RIN != 'RIN1190-AA46') & (cites.RIN != 'RIN1601-AA52')]
-cites = cites[['RIN','Title']]
+cites = cites[['RIN','Title','Type']]
 cites['rin'] = cites['RIN']
+cites['Title2'] = cites['Title']
+for i in range(len(cites['Title'])):
+    cites['Title2'][i] = str(cites['Title'][i]).translate(None, string.punctuation)
 for i in range(len(cites['RIN'])):
     cites['rin'][i] = cites['RIN'][i][0:9]
+df_types = cites[['RIN','Title2','Type']]
+df_types.columns = ['ria','cite','type']
+
 rins = pd.unique(cites.rin.ravel()).tolist()
 
 gt = {}
@@ -91,7 +99,7 @@ sys.setdefaultencoding('utf8')
 
 
 all_ratios = []
-colnames = ['ria','cite','type','partial','partial_match','lev','lev_match','jac','jac_match','sor','sor_match']
+colnames = ['ria','cite','source','partial','partial_match','lev','lev_match','jac','jac_match','sor','sor_match']
 df = pd.DataFrame(columns=colnames)
 for a in gt:
     print "checking {}".format(a)
@@ -159,48 +167,49 @@ for a in gt:
     partial_list = []
     for i in df_partial.columns:
         print i
-        holder = {'ria': a, 'cite': i, 'type': 'pc', 'partial_match':df_partial[i].idxmin(), 'partial':df_partial[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'pc', 'partial_match':df_partial[i].idxmin(), 'partial':df_partial[i].min()}
         partial_list.append(holder)
     lev_list = []
     for i in df_lev.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'pc', 'lev_match':df_lev[i].idxmin(), 'lev':df_lev[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'pc', 'lev_match':df_lev[i].idxmin(), 'lev':df_lev[i].min()}
         lev_list.append(holder)
     jac_list = []
     for i in df_jac.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'pc', 'jac_match':df_jac[i].idxmin(), 'jac':df_jac[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'pc', 'jac_match':df_jac[i].idxmin(), 'jac':df_jac[i].min()}
         jac_list.append(holder)
     sor_list = []
     for i in df_sor.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'pc', 'sor_match':df_sor[i].idxmin(), 'sor':df_sor[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'pc', 'sor_match':df_sor[i].idxmin(), 'sor':df_sor[i].min()}
         sor_list.append(holder)
 
     df_partial = df_partial.transpose()
     for i in df_partial.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'gt', 'partial_match':df_partial[i].idxmin(), 'partial':df_partial[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'gt', 'partial_match':df_partial[i].idxmin(), 'partial':df_partial[i].min()}
         partial_list.append(holder)
     df_lev = df_lev.transpose()
     for i in df_lev.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'gt', 'lev_match':df_lev[i].idxmin(), 'lev':df_lev[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'gt', 'lev_match':df_lev[i].idxmin(), 'lev':df_lev[i].min()}
         lev_list.append(holder)
     df_jac = df_jac.transpose()
     for i in df_jac.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'gt', 'jac_match':df_jac[i].idxmin(), 'jac':df_jac[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'gt', 'jac_match':df_jac[i].idxmin(), 'jac':df_jac[i].min()}
         jac_list.append(holder)
     df_sor = df_sor.transpose()
     for i in df_sor.columns:
-        holder = {'ria': a, 'cite': i, 'type': 'gt', 'sor_match':df_sor[i].idxmin(), 'sor':df_sor[i].min()}
+        holder = {'ria': a, 'cite': i, 'source': 'gt', 'sor_match':df_sor[i].idxmin(), 'sor':df_sor[i].min()}
         sor_list.append(holder)
     
     df_partial = pd.DataFrame(partial_list)
     df_lev = pd.DataFrame(lev_list)
     df_jac = pd.DataFrame(jac_list)
     df_sor = pd.DataFrame(sor_list)
-    df_full = pd.merge(df_partial, df_lev, on = ('ria','cite','type'))
-    df_full = pd.merge(df_full, df_jac, on = ('ria','cite','type'))
-    df_full = pd.merge(df_full, df_sor, on = ('ria','cite','type'))
+    df_full = pd.merge(df_partial, df_lev, on = ('ria','cite','source'))
+    df_full = pd.merge(df_full, df_jac, on = ('ria','cite','source'))
+    df_full = pd.merge(df_full, df_sor, on = ('ria','cite','source'))
     df = df.append(df_full)
     print df
 
+df = pd.merge(df, df_types, how = 'left', on = ('ria','cite'))
 df.to_csv('Parscit-assessment/results/matches.txt', sep=':', index=False)
 
 

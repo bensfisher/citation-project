@@ -1,4 +1,4 @@
-	A State may provide benchmark or benchmark-equivalent coverage through (Catalog of Federal Domestic Assistance Program	This document was received at the Office of the Federal Register on
+	A State may provide benchmark or benchmarkequivalent coverage through Catalog of Federal Domestic Assistance Program	This document was received at the Office of the Federal Register on
 Presidents Budget 	0.46341463414634143	0.4285714285714286
 Deficit Reduction Act	0.4285714285714286	0.38888888888888884
 OMB Circular A4	0.5714285714285714	0.5555555555555556

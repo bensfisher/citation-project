@@ -1,8 +1,0 @@
-doc/*.zip
-doc/*.tgz
-lib/cgiLog.txt
-*~
-thang/*
-tmp/*
-archive/*
-doc/.htaccess
