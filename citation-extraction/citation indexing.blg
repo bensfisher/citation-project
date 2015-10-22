@@ -1,49 +1,49 @@
-This is BibTeX, Version 0.99d (TeX Live 2012)
+This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: citation indexing.aux
 The style file: apsr.bst
 Database file #1: citationextraction.bib
-Warning--I didn't find a database entry for "garfield1965"
-Warning--I didn't find a database entry for "lawrencetal1999"
-You've used 5 entries,
+Warning--there's a number but no volume in ellig2013
+Warning--there's a number but no volume in hahn2007
+You've used 14 entries,
             2874 wiz_defined-function locations,
-            666 strings with 5531 characters,
-and the built_in function-call counts, 24538 in all, are:
-= -- 4038
-> -- 334
+            719 strings with 7312 characters,
+and the built_in function-call counts, 61113 in all, are:
+= -- 9961
+> -- 866
 < -- 0
-+ -- 1956
-- -- 115
-* -- 2111
-:= -- 4924
-add.period$ -- 20
-call.type$ -- 5
-change.case$ -- 65
-chr.to.int$ -- 5
-cite$ -- 5
-duplicate$ -- 70
-empty$ -- 131
-format.name$ -- 117
-if$ -- 4390
++ -- 4756
+- -- 300
+* -- 5260
+:= -- 12322
+add.period$ -- 56
+call.type$ -- 14
+change.case$ -- 183
+chr.to.int$ -- 14
+cite$ -- 16
+duplicate$ -- 198
+empty$ -- 417
+format.name$ -- 307
+if$ -- 10952
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 5
-newline$ -- 23
-num.names$ -- 64
-pop$ -- 17
+missing$ -- 13
+newline$ -- 64
+num.names$ -- 173
+pop$ -- 44
 preamble$ -- 1
-purify$ -- 75
+purify$ -- 210
 quote$ -- 0
-skip$ -- 69
+skip$ -- 179
 stack$ -- 0
-substring$ -- 5704
-swap$ -- 10
-text.length$ -- 70
+substring$ -- 13992
+swap$ -- 26
+text.length$ -- 196
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
-warning$ -- 0
-while$ -- 116
+type$ -- 56
+warning$ -- 2
+while$ -- 327
 width$ -- 0
-write$ -- 73
+write$ -- 203
 (There were 2 warnings)

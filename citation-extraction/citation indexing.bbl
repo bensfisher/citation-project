@@ -11,10 +11,43 @@ Councill, Isaac, C.~Lee Giles \harvardand\ Min-Yen Kan. 2008.
 \newblock ``ParsCit: An Open-Source CRF Reference String Parsing Package.''
   {\em LREC} .
 
+\harvarditem{Desmarais \harvardand\ Hird}{2014}{desmarais2014}
+Desmarais, Bruce~A. \harvardand\ John~A. Hird. 2014.
+\newblock ``Public policy's bibliography: The use of research in US regulatory
+  impact analyses.'' {\em Regulation \& Governance} 8(4):497--510.
+\newline\harvardurl{http://dx.doi.org/10.1111/rego.12041}
+
+\harvarditem{Ellig \harvardand\ Fike}{2013}{ellig2013}
+Ellig, Jerry \harvardand\ Rosemarie Fike. 2013.
+\newblock ``Regulatory Process, Regulatory Reform, and the Quality of
+  Regulatory Impact Analysis.'' {\em Mercatus Center at George Mason University
+  Working Paper} (13-13).
+
 \harvarditem{Garfield}{1964}{garfield1964}
 Garfield, Eugene. 1964.
 \newblock ``Science Citation Index - A New Dimension in Indexing.'' {\em
   Science} .
+
+\harvarditem{Hahn \harvardand\ Tetlock}{2007}{hahn2007}
+Hahn, Robert~W \harvardand\ Paul~C Tetlock. 2007.
+\newblock ``Has economic analysis improved regulatory decisions?'' {\em
+  AEI-Brookings Joint Center Working Paper} (07-08).
+
+\harvarditem[Huang, Yang \harvardand\ Chen]{Huang, Yang \harvardand\
+  Chen}{2015}{huang2015}
+Huang, Mu-Hsuan, Hsiao-Wen Yang \harvardand\ Dar-Zen Chen. 2015.
+\newblock ``Increasing science and technology linkage in fuel cells: A cross
+  citation analysis of papers and patents.'' {\em Journal of Informetrics}
+  9(2):237 -- 249.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S175115771500019X}
+
+\harvarditem[Huang, Huang \harvardand\ Chen]{Huang, Huang \harvardand\
+  Chen}{2014}{huang2014}
+Huang, Mu-Hsuan, Wei-Tzu Huang \harvardand\ Dar-Zen Chen. 2014.
+\newblock ``Technological impact factor: An indicator to measure the impact of
+  academic publications on practical innovation.'' {\em Journal of
+  Informetrics} 8(1):241 -- 251.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S1751157713001132}
 
 \harvarditem[Lafferty, McCallum \harvardand\ Pereira]{Lafferty, McCallum
   \harvardand\ Pereira}{2001}{laffertyetal2001}
@@ -28,5 +61,29 @@ Lafferty, John, Andrew McCallum \harvardand\ Fernando~C.N. Pereira. 2001.
 Lawrence, Steve, C.~Lee Giles \harvardand\ Kurt Bollacker. 1999.
 \newblock ``Digital Libraries and Autonomous Citation Indexing.'' {\em
   Computer} .
+
+\harvarditem[Liaw et~al.]{Liaw, Chan, Fan \harvardand\ Chiang}{2014}{liaw2014}
+Liaw, Yi-Ching, Te-Yi Chan, Chin-Yuan Fan \harvardand\ Cheng-Hsin Chiang. 2014.
+\newblock ``Can the technological impact of academic journals be evaluated? The
+  practice of non-patent reference (NPR) analysis.'' {\em Scientometrics}
+  101(1):17--37.
+\newline\harvardurl{http://dx.doi.org/10.1007/s11192-014-1337-0}
+
+\harvarditem{Morrall \harvardand\ Broughel}{2014}{morrall2014}
+Morrall, John~F \harvardand\ James Broughel. 2014.
+\newblock ``The Role of Regulatory Impact Analysis in Federal Rulemaking.''
+  {\em Available at SSRN 2501096} .
+
+\harvarditem{NRC}{2012}{nrc2012}
+NRC. 2012.
+\newblock Using Science as Evidence in Public Policy. Technical report National
+  Research Council: The National Academies Press Washington, DC: .
+
+\harvarditem{Wong \harvardand\ Wang}{2015}{wong2015}
+Wong, Chan-Yuan \harvardand\ Lili Wang. 2015.
+\newblock ``Trajectories of science and technology and their co-evolution in
+  BRICS: Insights from publication and patent analysis.'' {\em Journal of
+  Informetrics} 9(1):90 -- 101.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S1751157714001084}
 
 \end{thebibliography}
