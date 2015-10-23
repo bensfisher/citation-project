@@ -41,18 +41,41 @@ types = melt(types, id.vars=c('type'))
 types = dcast(types, type~variable, fun.aggregate=sum)
 
 partial.gt.pred = prediction((1-gt.sample$partial), gt.sample$partial_check)
-partial.gt.auc = performance(partial.gt.pred, measure='auc')
+partial.gt.auc = performance(partial.gt.pred, measure='auc')@y.values[[1]]
 partial.gt.roc = performance(partial.gt.pred, 'tpr', 'fpr')
-partial.gt.pr = performance(partial.gt.pred, 'prec', 'rec')
 
-cutoffs = data.frame(cut=partial.gt.roc@alpha.values[[1]], sens=partial.gt.roc@y.values[[1]],
-                     spec=(1-partial.gt.roc@x.values[[1]]))
+jac.gt.pred = prediction((1-gt.sample$jac), gt.sample$jac_check)
+jac.gt.auc = performance(jac.gt.pred, measure='auc')@y.values[[1]]
+jac.gt.roc = performance(jac.gt.pred, 'tpr', 'fpr')
+
+lev.gt.pred = prediction((1-gt.sample$lev), gt.sample$lev_check)
+lev.gt.auc = performance(lev.gt.pred, measure='auc')@y.values[[1]]
+lev.gt.roc = performance(lev.gt.pred, 'tpr', 'fpr')
+
+sor.gt.pred = prediction((1-gt.sample$sor), gt.sample$sor_check)
+sor.gt.auc = performance(sor.gt.pred, measure='auc')@y.values[[1]]
+sor.gt.roc = performance(sor.gt.pred, 'tpr', 'fpr')
+
+png('roc_curves.png')
+plot(partial.gt.roc, col=1, lwd=1, ylim=c(0,1))
+plot(jac.gt.roc, col=2, lwd=1, add=TRUE)
+plot(lev.gt.roc, col=3, lwd=1, add=TRUE)
+plot(sor.gt.roc, col=4, lwd=1, add=TRUE)
+legend(.4,.5, c(paste('Partial AUC =', round(partial.gt.auc, digits=2)), 
+                paste('Jaccard AUC =', round(jac.gt.auc, digits=2)),
+                paste('Levenshtein AUC =', round(lev.gt.auc, digits=2)),
+                paste('Sorenson AUC =', round(sor.gt.auc, digits=2))), lwd=rep(2,1), col = c(1,2,3,4))
+dev.off()
+
+
+cutoffs = data.frame(cut=lev.gt.roc@alpha.values[[1]], sens=lev.gt.roc@y.values[[1]],
+                     spec=(1-lev.gt.roc@x.values[[1]]))
 cutoffs$sum = cutoffs$sens + cutoffs$spec
 cutoffs = arrange(cutoffs, desc(sum))
 best = 1 - cutoffs[1,1]
 
 gt$check = 0
-gt$check[gt$partial<=best] = 1
+gt$check[gt$lev<=best] = 1
 sum(gt$check)/length(gt$check)
 gt.types = select(gt, type, check)
 gt.types$total = 1

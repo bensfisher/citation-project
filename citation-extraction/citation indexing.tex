@@ -186,9 +186,17 @@ To determine which distance measure works best as a classifier in this case, we 
 
 
 \section{Results}
-We treat the values for each distance measure as pseudoprobabilities, which we use to generate Receiver Operating Characteristic (ROC) curves. Figure X displays ROC curves for each distance measure. The best measure is the one that has the greatest area-under-the-curve (AUC). In this case, partial string similarity is the best. We determine the ideal cutoff point by choosing the point that maximizes the sum of sensitivity and specificity. In this case, the best threshold is .15. Potential matches with a score below .15 are considered matches, while those above are considered non-matches.
+We treat the values for each distance measure as pseudoprobabilities, which we use to generate Receiver Operating Characteristic (ROC) curves. Figure~\ref{fig:roc} displays ROC curves for each distance measure. The best measure is the one that has the greatest area-under-the-curve (AUC). In this case, partial string similarity and Levenshtein distance perform roughly the same, while Jaccard and Sorenson measures do worse. We use Levenshtein distance due to its superior performance and wide use. Using the Levenshtein measure, we determine the ideal cutoff point by choosing the point that maximizes the sum of sensitivity and specificity. In this case, the best threshold is .6. Potential matches with a score below .6 are considered matches, while those above are considered non-matches.
 
 Roughly $41\%$ of the hand-coded citations are also present in the ParsCit-extracted citations. Table~\ref{tab:focalhand} displays the number of matched citations by the major citation types\footnote{not all citations fell into one of these categories}. The major advantage of ParsCit should be it's ability to pick up scholarly journal citations. However, it actually performs quite poorly, picking up less than half of the scholarly citations present in the hand-coded dataset. This may be due to the fact that ParsCit was designed under the assumption that each document contains a reference section, which is not always the case with RIAs. Table~\ref{tab:bibmatch} displays the number of matches and total citations for RIAs with bibliographies and RIAs without, while Table~\ref{tab:bibtypes} displays matches by citation types for RIAs with bibliographies only.
+
+\begin{figure}
+\begin{center}
+\includegraphics[height=8cm]{roc_curves.png}
+\caption{ROC Curves}
+\label{fig:roc}
+\end{center}
+\end{figure}
 
 \begin{table}[ht]
 \centering
@@ -198,19 +206,19 @@ Roughly $41\%$ of the hand-coded citations are also present in the ParsCit-extra
   \hline
  Type & Matched & Total\\
  \hline
-Article & 105 & 188 \\
-Book & 66 & 131\\
-Court Case & 0 & 25\\
-Database & 147 & 349\\
-Government Report & 522 & 1308\\
-Hearing & 20 & 45\\
+Article & 96 & 188 \\
+Book & 65 & 131\\
+Court Case & 1 & 26\\
+Database & 115 & 334\\
+Government Report & 462 & 1308\\
+Hearing & 16 & 45\\
 Magazine/Newspaper & 10 & 13\\
-NGO Report & 243 & 622 \\
-Other & 224 & 640\\
-Reference Manual & 21 & 64\\
-Regulation & 54 & 296\\
-RIA & 31 & 80\\
-Scholarly Journal & 576 & 1209\\
+NGO Report & 217 & 622 \\
+Other & 183 & 640\\
+Reference Manual & 14 & 67\\
+Regulation & 46 & 296\\
+RIA & 28 & 80\\
+Scholarly Journal & 626 & 1209\\
   \hline
   \hline
 \end{tabular}
@@ -224,8 +232,8 @@ Scholarly Journal & 576 & 1209\\
   \hline
  Bibliography? & Matched & Total\\
  \hline
- Yes & 1788 & 3300\\
- No & 227 & 1713\\
+ Yes & 1788 & 3340\\
+ No & 227 & 1750\\
   \hline
   \hline
 \end{tabular}
@@ -239,19 +247,19 @@ Scholarly Journal & 576 & 1209\\
   \hline
  Type & Matched & Total\\
  \hline
-Article & 87 & 143 \\
-Book & 43 & 80\\
+Article & 76 & 143 \\
+Book & 45 & 80\\
 Court Case & 0 & 2\\
-Database & 111 & 208 \\
-Government Report & 337 & 712 \\
-Hearing & 16 & 20\\
+Database & 92 & 208 \\
+Government Report & 299 & 712 \\
+Hearing & 13 & 20\\
 Magazine/Newspaper & 5 & 5\\
-NGO Report & 190 & 376 \\
-Other & 206 & 397 \\
-Reference Manual & 13 &  29\\
-Regulation & 32 & 69 \\
-RIA & 21 & 54\\
-Scholarly Journal & 430 & 787\\
+NGO Report & 176 & 376 \\
+Other & 166 & 398 \\
+Reference Manual & 7 &  32\\
+Regulation & 35 & 69 \\
+RIA & 20 & 54\\
+Scholarly Journal & 470 & 787\\
   \hline
   \hline
 \end{tabular}
