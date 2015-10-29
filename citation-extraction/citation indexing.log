@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  23 OCT 2015 13:03
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  29 OCT 2015 09:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1188,12 +1188,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
-[5]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -1210,11 +1209,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 189.
-
-LaTeX Warning: Reference `fig:roc' on page 7 undefined on input line 189.
-
 [7]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 191.
@@ -1222,20 +1216,43 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 191.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 191.
-File: roc_curves.png Graphic file (type QTm)
- <use  "roc_curves.png" > [8] [9] [10] [11] (./citation indexing.bbl
-[12
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 193.
 
-]) [13]
+
+LaTeX Warning: Reference `fig:yearlyaccuracy' on page 8 undefined on input line
+ 193.
+
+
+LaTeX Warning: Reference `fig:scholarlytotals' on page 8 undefined on input lin
+e 193.
+
+
+LaTeX Warning: Reference `fig:scholarlyaccuracy' on page 8 undefined on input l
+ine 193.
+
+[8]
+File: roc_curves.png Graphic file (type QTm)
+ <use  "roc_curves.png" >
+File: yearly_accuracy.png Graphic file (type QTm)
+ <use  "yearly_accuracy.png" >
+File: scholarly_totals.png Graphic file (type QTm)
+
+<use  "scholarly_totals.png" >
+File: scholarly_accuracy.png Graphic file (type QTm)
+ <use  "scholarly_accuracy.png" > [9] [10]
+[11] [12] (./citation indexing.bbl [13
+
+]) [14]
 
 Package caption Warning: Unused \captionsetup[subfloat] on input line 51.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
 (./citation indexing.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 291.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 291.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 317.
 
 
 LaTeX Warning: There were undefined references.
@@ -1243,15 +1260,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
  ) 
 Here is how much of TeX's memory you used:
- 19403 strings out of 494004
- 328304 string characters out of 3150890
+ 19412 strings out of 494004
+ 328490 string characters out of 3150890
  420517 words of memory out of 3000000
- 22302 multiletter control sequences out of 15000+200000
+ 22308 multiletter control sequences out of 15000+200000
  54669 words of font info for 102 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  56i,8n,55p,1588b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on citation indexing.pdf (13 pages).
+Output written on citation indexing.pdf (14 pages).

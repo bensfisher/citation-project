@@ -99,3 +99,42 @@ gt.bib$total = 1
 gt.bib = melt(gt.bib, id.vars='type')
 gt.bib = dcast(gt.bib, type~variable, fun.aggregate=sum)
 gt.bib
+
+## check over time ##
+meta = read.csv('RIAMeta.csv')
+meta = select(meta, RIN, Release.Date)
+colnames(meta) = c('ria','date')
+meta$date = as.character(meta$date)
+substrRight <- function(x, n){
+  substr(x, nchar(x)-n+1, nchar(x))
+}
+meta$year = substrRight(meta$date, 2)
+meta$date = NULL
+
+gt.year = merge(gt, meta, by=c('ria'), all.x=TRUE)
+gt.year = select(gt.year, year, type, check)
+gt.year = filter(gt.year, year=='08' | year=='09' | year=='10' | year=='11' | year=='12')
+schol = filter(gt.year, type=='Scholarly Journal')
+
+png('scholarly_totals.png')
+ggplot(schol, aes(year)) +
+  geom_bar()
+dev.off()
+
+gt.year$total = 1
+gt.year = melt(gt.year, id.vars=c('year','type'))
+gt.year = dcast(gt.year, year+type~variable, fun.aggregate=sum)
+gt.year$accuracy = gt.year$check/gt.year$total
+acc = select(gt.year, year, accuracy)
+acc = melt(acc, id.vars=c('year'))
+acc = dcast(acc, year~variable, fun.aggregate=mean)
+
+png('yearly_accuracy.png')
+qplot(year, accuracy, data=acc) + ylim(0,1)
+dev.off()
+
+schol = filter(gt.year, type=="Scholarly Journal")
+
+png('scholarly_accuracy.png')
+qplot(year, accuracy, data=schol) + ylim(0,1)
+dev.off()

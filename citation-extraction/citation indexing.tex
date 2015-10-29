@@ -165,7 +165,7 @@ Citation indexing can be seen as a special case of token tagging in text (i.e., 
 \section{RIA Description}
 
 \section{Research Design}
-We use 105 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. \\ 
+We use 105 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. The source documents are in PDF format, which we convert to plain text for the purposes of analysis using the PDFBox software [CITE].\\ 
 
 To assess how our own approach compares to existing citation indexing programs, we run the ParsCit program on the manually coded sample of RIAs. ParsCit was originally developed for indexing scholarly citations from journal articles for the Citeseer project \cite{councilletal2008}. In addition to extracting citations, the program also extracts citation metadata, such as author, article title, and journal. We do not expect it to handle metadata extraction for non-scholarly citations. However, it may be able to extract text containing non-scholarly citations, which could then be manually coded. This would greatly speed up the current coding process, which requires research assistants to read the entire document for citations. If ParsCit performs well enough at extracting all citation types, then there is no need to develop new indexing software for this project.\\
 
@@ -189,6 +189,8 @@ To determine which distance measure works best as a classifier in this case, we 
 We treat the values for each distance measure as pseudoprobabilities, which we use to generate Receiver Operating Characteristic (ROC) curves. Figure~\ref{fig:roc} displays ROC curves for each distance measure. The best measure is the one that has the greatest area-under-the-curve (AUC). In this case, partial string similarity and Levenshtein distance perform roughly the same, while Jaccard and Sorenson measures do worse. We use Levenshtein distance due to its superior performance and wide use. Using the Levenshtein measure, we determine the ideal cutoff point by choosing the point that maximizes the sum of sensitivity and specificity. In this case, the best threshold is .6. Potential matches with a score below .6 are considered matches, while those above are considered non-matches.
 
 Roughly $41\%$ of the hand-coded citations are also present in the ParsCit-extracted citations. Table~\ref{tab:focalhand} displays the number of matched citations by the major citation types\footnote{not all citations fell into one of these categories}. The major advantage of ParsCit should be it's ability to pick up scholarly journal citations. However, it actually performs quite poorly, picking up less than half of the scholarly citations present in the hand-coded dataset. This may be due to the fact that ParsCit was designed under the assumption that each document contains a reference section, which is not always the case with RIAs. Table~\ref{tab:bibmatch} displays the number of matches and total citations for RIAs with bibliographies and RIAs without, while Table~\ref{tab:bibtypes} displays matches by citation types for RIAs with bibliographies only.
+
+We also look at how these metrics change over time. The sample of RIAs we use here covers 2008 through 2012. Figure~\ref{fig:yearlyaccuracy} shows the average accuracy of ParsCit for all citation types by year when compared to the hand coded data. Figure~\ref{fig:scholarlytotals} and Figure~\ref{fig:scholarlyaccuracy} look at scholarly citations specifically. The former shows the total number of scholarly citations from the hand coded data by year, while the latter shows the percentage of these that were actually picked up by ParsCit for each year. ParsCit maintains a fairly consistent accuracy of around 50\%.
 
 \begin{figure}
 \begin{center}
@@ -264,6 +266,30 @@ Scholarly Journal & 470 & 787\\
   \hline
 \end{tabular}
 \end{table}
+
+\begin{figure}
+\begin{center}
+\includegraphics[height=8cm]{yearly_accuracy.png}
+\caption{ParsCit Accuracy by Year}
+\label{fig:yearlyaccuracy}
+\end{center}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+\includegraphics[height=8cm]{scholarly_totals.png}
+\caption{Scholarly Citations by Year}
+\label{fig:scholarlytotals}
+\end{center}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+\includegraphics[height=8cm]{scholarly_accuracy.png}
+\caption{ParsCit Scholarly Accuracy by Year}
+\label{fig:scholarlyaccuracy}
+\end{center}
+\end{figure}
 
 \subsection{Tasks}
 
