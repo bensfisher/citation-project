@@ -175,15 +175,23 @@ We use four different string distance metrics to measure similarity between the 
 
 To determine which distance measure works best as a classifier in this case, we first hand code whether the best match from the ParsCit-collected citations suggested by each distance measure for each hand coding whether the suggested match is actually a match. The best distance measure is that which provides the most correct matches. We then determine a cutoff point for the best distance measure that which best divides matches from non-matches and apply it to the whole sample.\\
 
+
+We can think of our use of Levenshtein distance to label a match as a diagnostic test with X\% accuracy. Given the standard testing adjustments \cite{pewsner2004}, we can say that ParsCit identifies A-B\% of all citations in the data.
+
+
 \subsection{Tasks}
 
 \begin{enumerate}
-\item How did we OCR the RIAs in order to read them into ParsCit (BF)?
-\item Assessing the precision and recall of parscit (BF)
+\item Add in all BibTeX records for cites (BF)?
 \item See how this changes over the RIA date (BF)
-\item Derive test accuracy adjustments for Levenshtein and apply them to matching rates on the full data (BF -- Bruce get cite).
-\item Derive journal impact factors with this cite data (BF)
+\item Derive test accuracy adjustments for Levenshtein and apply them to matching rates on the full data (BF).
+\item Derive journal impact factors with this cite data (BF).
 \item See if journal rankings differ between hand and machine codings (for both bibliography and non-bib RIAs) (BF). 
+\item Need to figure out if cite records from ParsCit can pull DOIs from the web (BF)
+\begin{itemize}
+\item CiteULike offers DOI field in BibTeX record -- see if regex search using ParsCit can grab DOIs from actually cited articles.
+\item 
+\end{itemize}
 \end{enumerate}
 
 

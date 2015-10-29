@@ -4,91 +4,46 @@ The top-level auxiliary file: citation indexing.aux
 The style file: apsr.bst
 Database file #1: citationextraction.bib
 Warning--there's a number but no volume in ellig2013
-<<<<<<< HEAD
-You've used 12 entries,
-            2874 wiz_defined-function locations,
-            707 strings with 6969 characters,
-and the built_in function-call counts, 53218 in all, are:
-= -- 8672
-> -- 764
-< -- 0
-+ -- 4154
-- -- 264
-* -- 4585
-:= -- 10723
-add.period$ -- 48
-call.type$ -- 12
-change.case$ -- 157
-chr.to.int$ -- 12
-cite$ -- 13
-duplicate$ -- 169
-empty$ -- 354
-format.name$ -- 271
-if$ -- 9536
-int.to.chr$ -- 5
-int.to.str$ -- 0
-missing$ -- 11
-newline$ -- 55
-num.names$ -- 149
-pop$ -- 37
-preamble$ -- 1
-purify$ -- 180
-quote$ -- 0
-skip$ -- 155
-stack$ -- 0
-substring$ -- 12197
-swap$ -- 22
-text.length$ -- 168
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 48
-warning$ -- 1
-while$ -- 279
-width$ -- 0
-write$ -- 176
-(There was 1 warning)
-=======
 Warning--there's a number but no volume in hahn2007
-You've used 15 entries,
+You've used 16 entries,
             2874 wiz_defined-function locations,
-            726 strings with 7676 characters,
-and the built_in function-call counts, 68528 in all, are:
-= -- 11204
-> -- 949
+            735 strings with 7923 characters,
+and the built_in function-call counts, 78522 in all, are:
+= -- 12887
+> -- 1074
 < -- 0
-+ -- 5356
-- -- 328
-* -- 5911
-:= -- 13738
-add.period$ -- 61
-call.type$ -- 15
-change.case$ -- 196
-chr.to.int$ -- 15
-cite$ -- 17
-duplicate$ -- 223
-empty$ -- 463
-format.name$ -- 338
-if$ -- 12308
++ -- 6198
+- -- 370
+* -- 6824
+:= -- 15642
+add.period$ -- 65
+call.type$ -- 16
+change.case$ -- 209
+chr.to.int$ -- 16
+cite$ -- 18
+duplicate$ -- 238
+empty$ -- 499
+format.name$ -- 383
+if$ -- 14111
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 69
-num.names$ -- 184
-pop$ -- 50
+missing$ -- 15
+newline$ -- 73
+num.names$ -- 195
+pop$ -- 52
 preamble$ -- 1
-purify$ -- 225
+purify$ -- 240
 quote$ -- 0
-skip$ -- 203
+skip$ -- 217
 stack$ -- 0
-substring$ -- 15776
-swap$ -- 35
-text.length$ -- 210
+substring$ -- 18237
+swap$ -- 37
+text.length$ -- 224
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
+type$ -- 64
 warning$ -- 2
-while$ -- 351
+while$ -- 374
 width$ -- 0
-write$ -- 221
+write$ -- 236
 (There were 2 warnings)
->>>>>>> origin/master

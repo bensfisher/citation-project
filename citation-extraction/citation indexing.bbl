@@ -11,15 +11,12 @@ Councill, Isaac, C.~Lee Giles \harvardand\ Min-Yen Kan. 2008.
 \newblock ``ParsCit: An Open-Source CRF Reference String Parsing Package.''
   {\em LREC} .
 
-<<<<<<< HEAD
-=======
 \harvarditem{Desmarais \harvardand\ Hird}{2014}{desmarais2014}
 Desmarais, Bruce~A. \harvardand\ John~A. Hird. 2014.
 \newblock ``Public policy's bibliography: The use of research in US regulatory
   impact analyses.'' {\em Regulation \& Governance} 8(4):497--510.
 \newline\harvardurl{http://dx.doi.org/10.1111/rego.12041}
 
->>>>>>> origin/master
 \harvarditem{Ellig \harvardand\ Fike}{2013}{ellig2013}
 Ellig, Jerry \harvardand\ Rosemarie Fike. 2013.
 \newblock ``Regulatory Process, Regulatory Reform, and the Quality of
@@ -31,14 +28,11 @@ Garfield, Eugene. 1964.
 \newblock ``Science Citation Index - A New Dimension in Indexing.'' {\em
   Science} .
 
-<<<<<<< HEAD
-=======
 \harvarditem{Hahn \harvardand\ Tetlock}{2007}{hahn2007}
 Hahn, Robert~W \harvardand\ Paul~C Tetlock. 2007.
 \newblock ``Has economic analysis improved regulatory decisions?'' {\em
   AEI-Brookings Joint Center Working Paper} (07-08).
 
->>>>>>> origin/master
 \harvarditem[Huang, Yang \harvardand\ Chen]{Huang, Yang \harvardand\
   Chen}{2015}{huang2015}
 Huang, Mu-Hsuan, Hsiao-Wen Yang \harvardand\ Dar-Zen Chen. 2015.
@@ -85,8 +79,13 @@ NRC. 2012.
 \newblock Using Science as Evidence in Public Policy. Technical report National
   Research Council: The National Academies Press Washington, DC: .
 
-<<<<<<< HEAD
-=======
+\harvarditem[Pewsner et~al.]{Pewsner, Battaglia, Minder, Marx, Bucher
+  \harvardand\ Egger}{2004}{pewsner2004}
+Pewsner, Daniel, Markus Battaglia, Christoph Minder, Arthur Marx, Heiner~C
+  Bucher \harvardand\ Matthias Egger. 2004.
+\newblock ``Ruling a diagnosis in or out with ?SpPIn? and ?SnNOut?: a note of
+  caution.'' {\em BMJ} 329(7459):209--213.
+
 \harvarditem[Toutanova et~al.]{Toutanova, Klein, Manning \harvardand\
   Singer}{2003}{toutanova2003}
 Toutanova, Kristina, Dan Klein, Christopher~D Manning \harvardand\ Yoram
@@ -97,7 +96,6 @@ Toutanova, Kristina, Dan Klein, Christopher~D Manning \harvardand\ Yoram
   Technology-Volume 1}.
 \newblock Association for Computational Linguistics pp.~173--180.
 
->>>>>>> origin/master
 \harvarditem{Wong \harvardand\ Wang}{2015}{wong2015}
 Wong, Chan-Yuan \harvardand\ Lili Wang. 2015.
 \newblock ``Trajectories of science and technology and their co-evolution in
