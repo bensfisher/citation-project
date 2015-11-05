@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  3 NOV 2015 12:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 NOV 2015 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,14 +22,14 @@ Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -50,11 +50,18 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: xetex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def
-File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -117,19 +124,15 @@ ode.tex
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-xetex.def on input line 900.
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
-f
-File: pgfsys-xetex.def 2010/02/16  (rcs-revision 1.3)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
 df.def
 File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
-)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df-via-dvi.def
-File: pgfsys-common-pdf-via-dvi.def 2008/05/19  (rcs-revision 1.7)
 )))
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
@@ -146,8 +149,9 @@ Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
@@ -357,7 +361,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
@@ -391,16 +395,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
-Invalid UTF-8 byte or sequence at line 322 replaced by U+FFFD.
 Package: algorithm2e 2008/00/00 v3.10 algorithms environments
 \c@AlgoLine=\count113
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-Invalid UTF-8 byte or sequence at line 778 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 780 replaced by U+FFFD.
-
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
@@ -454,14 +454,6 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \c@algocf=\count116
 \algocf@algoframe=\box41
 \algocf@algobox=\box42
-Invalid UTF-8 byte or sequence at line 2420 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2501 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2532 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2584 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryarrows.code.tex
@@ -921,8 +913,8 @@ Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
@@ -938,10 +930,9 @@ Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
@@ -972,8 +963,8 @@ Now handling font encoding PD1 ...
 )
 \Hy@SavedSpaceFactor=\count147
 
-(/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetexconfig/hyperref.cfg
-File: hyperref.cfg 2008/07/11 v1.2 hyperref configuration for XeLaTeX
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
 Package hyperref Info: Hyper figures OFF on input line 4062.
@@ -1002,34 +993,17 @@ LaTeX Info: Redefining \pageref on input line 5847.
 \c@Hfootnote=\count152
 )
 
-Package hyperref Message: Driver (autodetected): hxetex.
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2012/05/13 v6.82q Hyperref driver for XeTeX
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2012/05/13 v6.82q Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
-)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/stringenc.sty
-Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
-)
-)
-\pdfm@box=\box48
-\c@Hy@AnnotLevel=\count153
-\HyField@AnnotCount=\count154
-\Fld@listcount=\count155
-\c@bookmark@seq@number=\count156
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count153
+\c@bookmark@seq@number=\count154
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
-(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
-
-(rerunfilecheck)             Therefore file contents cannot be checked efficien
-tly
-(rerunfilecheck)             and the loading of the package is aborted.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
 )
 \Hy@SectionHShift=\skip78
 )
@@ -1050,18 +1024,44 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 113.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count155
+\scratchdimen=\dimen198
+\scratchbox=\box48
+\nofMPsegments=\count156
+\nofMParguments=\count157
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen199
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
+\everyMPtoPDFconversion=\toks40
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1104,7 +1104,7 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count157
+\c@section@level=\count161
 )
 LaTeX Info: Redefining \ref on input line 113.
 LaTeX Info: Redefining \pageref on input line 113.
@@ -1170,101 +1170,121 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+ [1
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
-
-)
-[1
-
-]
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 135.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 137.
  [2]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 142.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 144.
  [3] [4]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 175.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 175.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 175.
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
-[7]
-Overfull \hbox (0.31107pt too wide) in paragraph at lines 192--194
-[]\T1/ptm/m/n/12 CiteULike of-fers DOI field in Bib-TeX record -- see if regex 
-search us-ing ParsCit
- []
-
+[7] [8]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 202.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 204.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 202.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 204.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 202.
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 204.
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
-[9]
-File: roc_curves.png Graphic file (type QTm)
- <use  "roc_curves.png" >
-File: yearly_accuracy.png Graphic file (type QTm)
- <use  "yearly_accuracy.png" >
-File: scholarly_totals.png Graphic file (type QTm)
+[9] <roc_curves.png, id=122, 481.8pt x 481.8pt>
+File: roc_curves.png Graphic file (type png)
+ <use roc_curves.png>
+Package pdftex.def Info: roc_curves.png used on input line 212.
+(pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<use  "scholarly_totals.png" >
-File: scholarly_accuracy.png Graphic file (type QTm)
- <use  "scholarly_accuracy.png" >
-File: impacts.png Graphic file (type QTm)
+<yearly_accuracy.png, id=124, 481.8pt x 481.8pt>
+File: yearly_accuracy.png Graphic file (type png)
+ <use yearly_accuracy.png>
+Package pdftex.def Info: yearly_accuracy.png used on input line 333.
+(pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<use  "impacts.png" > [10] [11] [12] [13] [14] (./citation indexing.bbl
-[15
+<scholarly_totals.png, id=125, 481.8pt x 481.8pt>
+File: scholarly_totals.png Graphic file (type png)
+ <use scholarly_totals.png>
+Package pdftex.def Info: scholarly_totals.png used on input line 341.
+(pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-]) [16]
+<scholarly_accuracy.png, id=126, 481.8pt x 481.8pt>
+File: scholarly_accuracy.png Graphic file (type png)
+
+<use scholarly_accuracy.png>
+Package pdftex.def Info: scholarly_accuracy.png used on input line 349.
+(pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
+ <impacts.png, id=127, 481.8pt x 481.8pt>
+File: impacts.png Graphic file (type png)
+
+<use impacts.png>
+Package pdftex.def Info: impacts.png used on input line 357.
+(pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
+ [10 <./roc_curves.png>] [11 <./yearly_accuracy.png> <./scholarly_totals.png>] 
+[12 <./scholarly_accuracy.png> <./impacts.png>] [13] [14]
+[15] (./citation indexing.bbl [16
+
+]) [17]
 
 Package caption Warning: Unused \captionsetup[subfloat] on input line 51.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
 (./citation indexing.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 338.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 338.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package rerunfilecheck Info: File `"citation indexing".out' has not changed.
+(rerunfilecheck)             Checksum: F971911CA25AA3BF3EC62496FA658B72;558.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 338.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
  ) 
 Here is how much of TeX's memory you used:
- 19429 strings out of 494004
- 328806 string characters out of 3150890
- 420741 words of memory out of 3000000
- 22324 multiletter control sequences out of 15000+200000
- 52973 words of font info for 101 fonts, out of 3000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 56i,8n,55p,1588b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 18743 strings out of 493488
+ 322115 string characters out of 3141326
+ 427236 words of memory out of 3000000
+ 21590 multiletter control sequences out of 15000+200000
+ 66334 words of font info for 116 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 56i,8n,55p,1588b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012
+/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dis
+t/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "citation indexing.pdf" (17 pages, 141992 bytes).
+PDF statistics:
+ 227 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on citation indexing.pdf (16 pages).

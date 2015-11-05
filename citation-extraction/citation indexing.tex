@@ -179,12 +179,15 @@ To determine which distance measure works best as a classifier in this case, we 
 
 We can think of our use of Levenshtein distance to label a match as a diagnostic test with X\% accuracy. Given the standard testing adjustments \cite{pewsner2004}, we can say that ParsCit identifies A-B\% of all citations in the data.
 
+Steps: Get Parscit, find CiteULike, calculate precision and recall
+
 
 \subsection{Tasks}
 
 \begin{enumerate}
 \item Make sure data we are using on articles comes from WebofScience via DOI download. BF send comma-separated list of DOIs to BD. BD return DOI-based data frame to BF.
 \item Normalize journal impact factors by volume of articles published (BF). Get data on journals from JCR. For each journal, try to download number of articles published and impact factor data for each year going back as far as you can.
+\item Calculate precision after CiteULike matches.
 \item Calculate five year impact factor (BF).  For time T, the number of cites to that journal between T and T+4 (verify this shouldn't be T+5).
 \item Create journal ranking scatterplot in hand-coded and parsCit coded (BF).
 \item Calculate average difference in rank between hand-coded and Parscit coded (BF).
