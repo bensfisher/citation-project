@@ -5,6 +5,9 @@ import xmldict
 import pandas as pd
 from fuzzywuzzy import fuzz
 
+reload(sys)  
+sys.setdefaultencoding('utf8')
+
 rias = []
 root = 'Parscit-assessment/test-RIAs'
 for dirs, subdirs, files in os.walk(root):
@@ -144,25 +147,25 @@ for a in gt:
     df_partial.columns = pc[a]
     df_partial = df_partial.drop_duplicates()
     df_partial = df_partial.T.drop_duplicates().T
-    df_partial.to_csv("Parscit-assessment/results/{}-partial.txt".format(a),sep='\t')
+    #df_partial.to_csv("Parscit-assessment/results/{}-partial.txt".format(a),sep='\t')
     df_lev = pd.DataFrame(ls_levs)
     df_lev.index = gt[a]
     df_lev.columns = pc[a]
     df_lev = df_lev.drop_duplicates()
     df_lev = df_lev.T.drop_duplicates().T
-    df_lev.to_csv("Parscit-assessment/results/{}-lev.txt".format(a),sep='\t')
+    #df_lev.to_csv("Parscit-assessment/results/{}-lev.txt".format(a),sep='\t')
     df_jac = pd.DataFrame(ls_jacs)
     df_jac.index = gt[a]
     df_jac.columns = pc[a]
     df_jac = df_jac.drop_duplicates()
     df_jac = df_jac.T.drop_duplicates().T
-    df_jac.to_csv("Parscit-assessment/results/{}-jac.txt".format(a),sep='\t')
+    #df_jac.to_csv("Parscit-assessment/results/{}-jac.txt".format(a),sep='\t')
     df_sor = pd.DataFrame(ls_sors)
     df_sor.index = gt[a]
     df_sor.columns = pc[a]
     df_sor = df_sor.drop_duplicates()
     df_sor = df_sor.T.drop_duplicates().T
-    df_sor.to_csv("Parscit-assessment/results/{}-sor.txt".format(a),sep='\t')
+    #df_sor.to_csv("Parscit-assessment/results/{}-sor.txt".format(a),sep='\t')
     
     partial_list = []
     for i in df_partial.columns:
@@ -210,7 +213,7 @@ for a in gt:
     print df
 
 df = pd.merge(df, df_types, how = 'left', on = ('ria','cite'))
-df.to_csv('Parscit-assessment/results/matches.txt', sep=':', index=False)
+df.to_csv('Parscit-assessment/results/matches2.txt', sep=':', index=False)
 
 
 

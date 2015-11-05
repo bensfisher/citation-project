@@ -138,3 +138,60 @@ schol = filter(gt.year, type=="Scholarly Journal")
 png('scholarly_accuracy.png')
 qplot(year, accuracy, data=schol) + ylim(0,1)
 dev.off()
+
+## impact factor ##
+impf = read.csv('JournalHomeGrid.csv')
+impf = select(impf, Full.Journal.Title, Journal.Impact.Factor)
+colnames(impf) = c('journal','impact')
+impf$journal = gsub( "[^[:alnum:]]", "", impf$journal)
+impf$journal = tolower(impf$journal)
+riac = read.csv('RIACitations.csv')
+riac = filter(riac, Type=='Scholarly Journal')
+riac = select(riac, RIN, Title, Source)
+colnames(riac) = c('ria','cite','journal')
+riac$cite2 = gsub( "[^[:alnum:]]", "", riac$cite)
+riac$cite2 = tolower(riac$cite2)
+riac$journal = gsub( "[^[:alnum:]]", "", riac$journal)
+riac$journal = tolower(riac$journal)
+riac = merge(riac, impf, by=c('journal'), all.x=TRUE)
+riac$cite = NULL
+
+gt$cite2 = gsub( "[^[:alnum:]]", "", gt$cite)
+gt$cite2 = tolower(gt$cite2)
+gt.imp = filter(gt, type=='Scholarly Journal')
+gt.imp = merge(gt.imp, riac, by=c('ria','cite2'), all.x=TRUE)
+
+gt.imp$impact = as.numeric(as.character(gt.imp$impact))
+summary(gt.imp$impact)
+summary(filter(gt.imp, check==1)$impact)
+summary(filter(gt.imp, check==0)$impact)
+summary(filter(gt.imp, bibliography=='No' | bibliography=='no')$impact)
+summary(filter(gt.imp, bibliography!='No' | bibliography!='no')$impact)
+
+impplt.all = select(gt.imp, journal, impact)
+impplt.all$count = 1 
+impplt.all = melt(impplt.all, id.vars=c('journal','impact'))
+impplt.all = dcast(impplt.all, journal+impact~variable, fun.aggregate=sum)
+impplt.all = arrange(impplt.all, desc(count))
+head(impplt.all, 10)
+
+impplt.pc = filter(gt.imp, check==1)
+impplt.pc = select(impplt.pc, journal, impact)
+impplt.pc$count = 1 
+impplt.pc = melt(impplt.pc, id.vars=c('journal','impact'))
+impplt.pc = dcast(impplt.pc, journal+impact~variable, fun.aggregate=sum)
+impplt.pc = arrange(impplt.pc, desc(count))
+head(impplt.pc, 10)
+
+
+
+impplt = as.data.frame(cbind(gt.imp$impact, filter(gt.imp, check==1)$impact, filter(gt.imp, check==0)$impact,
+                             filter(gt.imp, bibliography=='No' | bibliography=='no')$impact,
+                             filter(gt.imp, bibliography!='No' | bibliography!='no')$impact))
+colnames(impplt) = c('All','Found','Not Found','Bibliography','No Bibliography')
+impplt = melt(impplt)
+colnames(impplt) = c('Sample','Impact.Factor')
+png('~/citation-project/citation-extraction/impacts.png')
+ggplot(impplt, aes(Sample, Impact.Factor)) +
+  geom_boxplot(colour = "#3366FF")
+dev.off()

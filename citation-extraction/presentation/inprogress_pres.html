@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Extracting Citations from Government Reports
+
+---
+
+# Agenda
+
+1. Introduction
+
+2. Results so far
+
+3. Future work
+
+---
+
+# Introduction
+
+* How do we measure impact of scientific research on government policy?
+
+* Look at what they cite.
+
+---
+
+# Regulator Impact Analysis
+
+* Each new government regulation has an associated RIA.
+
+* RIAs detail the potential effects of a new regulation.
+
+* Assess how scientific research is used by seeing what RIAs cite.
+
+---
+
+# Current Data Collection Process
+
+* Byzantine.
+
+* Undergraduate coders read RIAs and put info into a database.
+
+---
+
+# Proposed Process
+
+* Use existing citation indexing software to extract citations.
+
+* ParsCit - used by CiteSeerX project.
+
+---
+
+# How well does ParsCit do?
+
+* Tested on hand-coded set of 104 RIAs.
+
+* Across all citation types, accuracy rate of about 30% compared to hand-collected sample.
+
+* About 50% for scholarly citations.
+
+---
+
+# Future Work
+
+* Look at improving ParsCit for RIAs.
+
+* Improve flow of metadata coding using DOIs.
+
+
+    </textarea>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>

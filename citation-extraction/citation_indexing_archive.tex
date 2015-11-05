@@ -167,11 +167,11 @@ Citation indexing can be seen as a special case of token tagging in text (i.e., 
 \section{RIA Description}
 
 \section{Research Design}
-We use 105 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. The source documents are in PDF format, which we convert to plain text for the purposes of analysis using Apache Software's PDFBox program.\\ 
+We use 105 RIAs whose citations have already been extracted by hand as a test sample. The structure of these RIAs is very heterogeneous. They vary in length from a few dozen pages to hundreds of pages. References may appear in a reference section, in footnotes, or be scattered throughout the text. The citations of interest include both scholarly citations and non-scholarly citations, such as existing federal regulations, court cases, and treaties. The source documents are in PDF format, which we convert to plain text for the purposes of analysis using the PDFBox software [CITE].\\ 
 
 To assess how our own approach compares to existing citation indexing programs, we run the ParsCit program on the manually coded sample of RIAs. ParsCit was originally developed for indexing scholarly citations from journal articles for the Citeseer project \cite{councilletal2008}. In addition to extracting citations, the program also extracts citation metadata, such as author, article title, and journal. We do not expect it to handle metadata extraction for non-scholarly citations. However, it may be able to extract text containing non-scholarly citations, which could then be manually coded. This would greatly speed up the current coding process, which requires research assistants to read the entire document for citations. If ParsCit performs well enough at extracting all citation types, then there is no need to develop new indexing software for this project.\\
 
-We use four different string distance metrics to measure similarity between the titles of manually collected citations and those of the citations collected by ParsCit: Levenshtein, Jaccard, Sorensen, and partial string similarity. Levenshtein distance is measured by calculating the number of insertions, deletions, or substitutions needed to turn one string into another string \cite{levenshtein1966}. To calculate the Jaccard distance, the number of characters shared by two strings is divided by the total number of characters and subtracted from 1 \cite{jaccard1901}. The Sorensen distance measure is very similar to the Jaccard measure. Instead of looking at the number of shared characters, the Sorensen measure calculates the number of shared bigrams. This number is multiplied by 2 and then divided by the total number of bigrams in each string and subtracted from 1 \cite{sorensen1948}. Except for Levenshtein distance, all measures fall on a scale of 0 to 1, with 0 indicating an exact match and 1 indicating two completely different strings. The Levenshtein measure is normalized to the same scale for the purposes of comparison. The final measure, partial string similarity, uses substring matching and measures the percentage of characters in string $a$ that appear in string $b$.\\
+We use four different string distance metrics to measure similarity between the titles of manually collected citations and those of the citations collected by ParsCit: Levenshtein, Jaccard, Sorenson, and partial string similarity. Levenshtein distance is measured by calculating the number of insertions, deletions, or substitutions needed to turn one string into another string [CITE Levenshtein 1966]. To calculate the Jaccard distance, the number of characters shared by two strings is divided by the total number of characters and subtracted from 1 [CITE Jaccard 1901]. The Sorenson distance measure is very similar to the Jaccard measure. Instead of looking at the number of shared characters, the Sorenson measure calculates the number of shared bigrams. This number is multiplied by 2 and then divided by the total number of bigrams in each string and subtracted from 1 [CITE Sorenson 1948]. Except for Levenshtein distance, all measures fall on a scale of 0 to 1, with 0 indicating an exact match and 1 indicating two completely different strings. The Levenshtein measure is normalized to the same scale for the purposes of comparison. The final measure, partial string similarity, uses substring matching and measures the percentage of characters in string $a$ that appear in string $b$.\\
 
 To determine which distance measure works best as a classifier in this case, we first hand code whether the best match from the ParsCit-collected citations suggested by each distance measure for each hand coding whether the suggested match is actually a match. The best distance measure is that which provides the most correct matches. We then determine a cutoff point for the best distance measure that which best divides matches from non-matches and apply it to the whole sample.\\
 
@@ -197,13 +197,11 @@ We can think of our use of Levenshtein distance to label a match as a diagnostic
 
 
 \section{Results}
-We treat the values for each distance measure as pseudoprobabilities, which we use to generate Receiver Operating Characteristic (ROC) curves. Figure~\ref{fig:roc} displays ROC curves for each distance measure. The best measure is the one that has the greatest area-under-the-curve (AUC). In this case, partial string similarity and Levenshtein distance perform roughly the same, while Jaccard and sorensen measures do worse. We use Levenshtein distance due to its superior performance and wide use. Using the Levenshtein measure, we determine the ideal cutoff point by choosing the point that maximizes the sum of sensitivity and specificity. In this case, the best threshold is .6. Potential matches with a score below .6 are considered matches, while those above are considered non-matches.
+We treat the values for each distance measure as pseudoprobabilities, which we use to generate Receiver Operating Characteristic (ROC) curves. Figure~\ref{fig:roc} displays ROC curves for each distance measure. The best measure is the one that has the greatest area-under-the-curve (AUC). In this case, partial string similarity and Levenshtein distance perform roughly the same, while Jaccard and Sorenson measures do worse. We use Levenshtein distance due to its superior performance and wide use. Using the Levenshtein measure, we determine the ideal cutoff point by choosing the point that maximizes the sum of sensitivity and specificity. In this case, the best threshold is .6. Potential matches with a score below .6 are considered matches, while those above are considered non-matches.
 
 Roughly $41\%$ of the hand-coded citations are also present in the ParsCit-extracted citations. Table~\ref{tab:focalhand} displays the number of matched citations by the major citation types\footnote{not all citations fell into one of these categories}. The major advantage of ParsCit should be it's ability to pick up scholarly journal citations. However, it actually performs quite poorly, picking up less than half of the scholarly citations present in the hand-coded dataset. This may be due to the fact that ParsCit was designed under the assumption that each document contains a reference section, which is not always the case with RIAs. Table~\ref{tab:bibmatch} displays the number of matches and total citations for RIAs with bibliographies and RIAs without, while Table~\ref{tab:bibtypes} displays matches by citation types for RIAs with bibliographies only.
 
 We also look at how these metrics change over time. The sample of RIAs we use here covers 2008 through 2012. Figure~\ref{fig:yearlyaccuracy} shows the average accuracy of ParsCit for all citation types by year when compared to the hand coded data. Figure~\ref{fig:scholarlytotals} and Figure~\ref{fig:scholarlyaccuracy} look at scholarly citations specifically. The former shows the total number of scholarly citations from the hand coded data by year, while the latter shows the percentage of these that were actually picked up by ParsCit for each year. ParsCit maintains a fairly consistent accuracy of around 50\%. One caveat is that this is all under the same presidential administration, and these metrics may change with a change in president and consequent policies.
-
-Figure~\ref{fig:impacts} shows journal impact factor statistics for the full sample of scholarly citations and various subsets of the data. These subsets include citations found by ParsCit, citations not found by Parscit, citations from RIAs with bibliographies, and citations from RIAs without bibliographies. Overall, the average impact factor across the different samples is fairly similar, with the found by ParsCit and no bibliography samples slightly higher on average. Table~\ref{tab:allimpact} and Table~\ref{tab:pcimpact} show the top journals for the full sample of scholarly citations and the sample of those found by ParsCit respectively. The two are quite similar and, and with one exception, consist entirely of scientific and health journals. \\
 
 \begin{figure}
 \begin{center}
@@ -280,52 +278,6 @@ Scholarly Journal & 470 & 787\\
 \end{tabular}
 \end{table}
 
-\begin{table}[ht]
-\centering
-\caption{Top Journals from Hand Coded Sample}\label{tab:allimpact}
-\begin{tabular}{lll}
-  \hline
-  \hline
- Journal & Cites & Impact Factor\\
- \hline
-Epidemiology & 62 & 6.196\\
-Environmental Science and Technology & 56 & 5.330 \\
-Environmental Health Perspectives & 35 & 7.977\\
-American Journal of Respiratory and Critical Care Medicine & 33 & 12.996\\
-Energy Policy & 30 & 2.575\\
-Environmental Research & 30 & 4.373\\ 
-American Economic Review & 3.673\\
-Atmospheric Environment & 25 & 3.281\\
-Health Affairs & 24 & 4.966\\
-Journal of Environmental Economics and Management & 24 & 2.394\\
-  \hline
-  \hline
-\end{tabular}
-\end{table}
-
-\begin{table}[ht]
-\centering
-\caption{Top Journals from ParsCit Sample}\label{tab:pcimpact}
-\begin{tabular}{lll}
-  \hline
-  \hline
- Journal & Cites & Impact Factor\\
- \hline
-Epidemiology & 30 & 6.196\\
-Environmental Science and Technology & 27 & 5.330 \\
-Environmental Health Perspectives & 25 & 7.977\\
-Atmospheric Environment & 20 & 3.281\\
-Journal of the American Medical Association & 19 & 35.289\\
-Environmental Research & 30 & 4.373\\ 
-American Journal of Respiratory and Critical Care Medicine & 33 & 12.996\\
-New England Journal of Medicine & 14 & 55.873\\
-Circulation & 12 & 15.073\\
-American Journal of Public Health & 12 & 4.552\\
-  \hline
-  \hline
-\end{tabular}
-\end{table}
-
 \begin{figure}
 \begin{center}
 \includegraphics[height=8cm]{yearly_accuracy.png}
@@ -347,14 +299,6 @@ American Journal of Public Health & 12 & 4.552\\
 \includegraphics[height=8cm]{scholarly_accuracy.png}
 \caption{ParsCit Scholarly Accuracy by Year}
 \label{fig:scholarlyaccuracy}
-\end{center}
-\end{figure}
-
-\begin{figure}
-\begin{center}
-\includegraphics[height=8cm]{impacts.png}
-\caption{Impact Factor by Sample}
-\label{fig:impacts}
 \end{center}
 \end{figure}
 
@@ -382,4 +326,3 @@ American Journal of Public Health & 12 & 4.552\\
 \clearpage
 
 \end{document}
-

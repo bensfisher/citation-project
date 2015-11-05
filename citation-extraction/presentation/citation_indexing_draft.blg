@@ -1,13 +1,13 @@
 This is BibTeX, Version 0.99d (TeX Live 2012)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: citation indexing.aux
+The top-level auxiliary file: citation_indexing_draft.aux
 The style file: apsr.bst
 Database file #1: citationextraction.bib
 Warning--there's a number but no volume in ellig2013
 Warning--there's a number but no volume in hahn2007
 You've used 19 entries,
             2874 wiz_defined-function locations,
-            750 strings with 8471 characters,
+            750 strings with 8483 characters,
 and the built_in function-call counts, 86447 in all, are:
 = -- 14179
 > -- 1122
