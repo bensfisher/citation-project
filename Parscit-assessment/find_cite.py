@@ -22,6 +22,8 @@ def find_cite(cite, user, agent = "scraper/1.0"):
     for a in soup.find_all('a',{'class':'title'}):
         if stop == 0:
             title2 = a.get_text()[2:-1]
+            print 'citation is: %s' % cite
+            print 'best match is: %s' % title2
             stop += 1
     score = distance.levenshtein(cite, title2, normalized = True)
     stop = 0

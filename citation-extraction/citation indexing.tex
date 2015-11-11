@@ -181,6 +181,8 @@ We can think of our use of Levenshtein distance to label a match as a diagnostic
 
 Steps: Get Parscit, find CiteULike, calculate precision and recall
 
+To better assess the performance of ParsCit, we filter the results through CiteULike, an open source citation database website, by checking whether a citation title supplied by ParsCit is found using CiteULike's search engine. The matching procedure is the same as the one for the hand-coded dataset, using Levenshtein distance with a cutoff point. Using this in conjunction with the hand-coded data, we calculate precision and recall metrics for ParsCit. Performance is poor on both metrics. Precision is $.07$, while recall is $.2$. A review of some of the scholarly citations from the hand-coded dataset suggests that not all scholarly articles are on CiteULike, which may explain the results.\\
+
 
 \subsection{Tasks}
 

@@ -195,3 +195,7 @@ png('~/citation-project/citation-extraction/impacts.png')
 ggplot(impplt, aes(Sample, Impact.Factor)) +
   geom_boxplot(colour = "#3366FF")
 dev.off()
+
+## pull in citeulike results ##
+cul = read.csv('citeulike.csv')
+cul.dois = filter(cul, citeulike!='no match')
