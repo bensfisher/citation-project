@@ -5,11 +5,32 @@ Anzaroot, Sam \harvardand\ Andrew McCallum. 2013.
 \newblock ``A New Dataset for Fine-Grained Citation Field Extraction.'' {\em
   Proceedings of the 30th International Conference on Machine Learning} .
 
+\harvarditem[Belkhodja et~al.]{Belkhodja, Amara, Landry \harvardand\
+  Ouimet}{2007}{belkhodja2007}
+Belkhodja, Omar, Nabil Amara, R{\'e}jean Landry \harvardand\ Mathieu Ouimet.
+  2007.
+\newblock ``The extent and organizational determinants of research utilization
+  in Canadian health services organizations.'' {\em Science Communication}
+  28(3):377--417.
+
+\harvarditem[Cohen, Salomon \harvardand\ Nijkamp]{Cohen, Salomon \harvardand\
+  Nijkamp}{2002}{cohen2002}
+Cohen, Galit, Ilan Salomon \harvardand\ Peter Nijkamp. 2002.
+\newblock ``Information--communications technologies (ICT) and transport: does
+  knowledge underpin policy?'' {\em Telecommunications Policy} 26(1):31--52.
+
 \harvarditem[Councill, Giles \harvardand\ Kan]{Councill, Giles \harvardand\
   Kan}{2008}{councilletal2008}
 Councill, Isaac, C.~Lee Giles \harvardand\ Min-Yen Kan. 2008.
 \newblock ``ParsCit: An Open-Source CRF Reference String Parsing Package.''
   {\em LREC} .
+
+\harvarditem[Davis et~al.]{Davis, Moseley, Olsen, Abrams \harvardand\
+  Creighton}{2013}{davis2013}
+Davis, Emily~Jane, Cassandra Moseley, Christine Olsen, Jesse Abrams
+  \harvardand\ Janean Creighton. 2013.
+\newblock ``Diversity and dynamism of fire science user needs.'' {\em Journal
+  of Forestry} 111(2):101--107.
 
 \harvarditem{Desmarais \harvardand\ Hird}{2014}{desmarais2014}
 Desmarais, Bruce~A. \harvardand\ John~A. Hird. 2014.
@@ -62,6 +83,13 @@ Lafferty, John, Andrew McCallum \harvardand\ Fernando~C.N. Pereira. 2001.
   Labeling Sequence Data.'' {\em Proceedings of the 18th Inernational
   Conference on Machine Learning} .
 
+\harvarditem[Landry, Lamari \harvardand\ Amara]{Landry, Lamari \harvardand\
+  Amara}{2003}{landry2003}
+Landry, R{\'e}jean, Moktar Lamari \harvardand\ Nabil Amara. 2003.
+\newblock ``The extent and determinants of the utilization of university
+  research in government agencies.'' {\em Public Administration Review}
+  pp.~192--205.
+
 \harvarditem[Lawrence, Giles \harvardand\ Bollacker]{Lawrence, Giles
   \harvardand\ Bollacker}{1999}{lawrenceetal1999}
 Lawrence, Steve, C.~Lee Giles \harvardand\ Kurt Bollacker. 1999.
@@ -90,12 +118,30 @@ NRC. 2012.
 \newblock Using Science as Evidence in Public Policy. Technical report National
   Research Council: The National Academies Press Washington, DC: .
 
+\harvarditem[Ouimet et~al.]{Ouimet, B{\'e}dard, Turgeon, Lavis, G{\'e}lineau,
+  Gagnon \harvardand\ Dallaire}{2010}{ouimet2010}
+Ouimet, Mathieu, Pierre-Olivier B{\'e}dard, Jean Turgeon, John~N Lavis,
+  Fran{\c{c}}ois G{\'e}lineau, France Gagnon \harvardand\ Cl{\'e}mence
+  Dallaire. 2010.
+\newblock ``Correlates of consulting research evidence among policy analysts in
+  government ministries: a cross-sectional survey.'' {\em Evidence \& Policy: A
+  Journal of Research, Debate and Practice} 6(4):433--460.
+
 \harvarditem[Pewsner et~al.]{Pewsner, Battaglia, Minder, Marx, Bucher
   \harvardand\ Egger}{2004}{pewsner2004}
 Pewsner, Daniel, Markus Battaglia, Christoph Minder, Arthur Marx, Heiner~C
   Bucher \harvardand\ Matthias Egger. 2004.
 \newblock ``Ruling a diagnosis in or out with ?SpPIn? and ?SnNOut?: a note of
   caution.'' {\em BMJ} 329(7459):209--213.
+
+\harvarditem[Pohl et~al.]{Pohl, Rist, Zimmermann, Fry, Gurung, Schneider,
+  Speranza, Kiteme, Boillat, Serrano et~al.}{2010}{pohl2010}
+Pohl, Christian, Stephan Rist, Anne Zimmermann, Patricia Fry, Ghana~S Gurung,
+  Flurina Schneider, Chinwe~Ifejika Speranza, Boniface Kiteme, S{\'e}bastian
+  Boillat, Elvira Serrano et~al. 2010.
+\newblock ``Researchers' roles in knowledge co-production: experience from
+  sustainability research in Kenya, Switzerland, Bolivia and Nepal.'' {\em
+  Science and Public Policy} 37(4):267--281.
 
 \harvarditem{S{\o}rensen}{1948}{sorensen1948}
 S{\o}rensen, Thorvald. 1948.

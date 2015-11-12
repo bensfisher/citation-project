@@ -24,7 +24,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{indentfirst}
-%\usepackage[longnamesfirst]{natbib} % For references
+\usepackage[longnamesfirst]{natbib} % For references
 %\bibpunct{(}{)}{;}{a}{}{,} % Reference punctuation
 \usepackage{changepage}
 \usepackage{setspace}
@@ -33,8 +33,8 @@
 \usepackage{amsmath}
 \usepackage{multirow}
 \usepackage{color}
-\usepackage{harvard}
-\renewcommand{\harvardurl}{URL: \url}
+%\usepackage{harvard}
+%\renewcommand{\harvardurl}{URL: \url}
 \usepackage{dcolumn}
 \usepackage{comment}
 %\usepackage{fullwidth}
@@ -43,6 +43,9 @@
 \newcolumntype{3}{D{.}{.}{3}}
 \newcolumntype{4}{D{.}{.}{4}}
 \newcolumntype{5}{D{.}{.}{5}}
+
+\newcommand\citeapos[1]{\citeauthor{#1}'s (\citeyear{#1})}
+
 \usepackage{float}
 \usepackage[hyphens]{url}
 %\usepackage[margin = 1.25in]{geometry}
@@ -150,11 +153,13 @@ Our goal is to assess the degree to which a publication in a peer-reviewed scien
 \end{itemize}
 
 \section{Literature Review}
-The development of citation indexing has primarily focused on indexing scholarly citations in the confines of large-scale projects like \citeasnoun{garfield1964}'s Science Citation Index, which eventually morphed present Web of Science or \citeasnoun{lawrenceetal1999}'s Citeseer database. The process by which proprietary services like Web of Science or Google Scholar actually extract citations is opaque. The Citeseer project employs a heuristic, rule-based approach to identify citation strings within text. For example, the ParsCit parser developed by \citeasnoun{councilletal2008}, which Citeseer currently uses, identifies the bibliography of a paper by searching for ``bibliography'' or synonyms like ``references''. If one of these is found past the first 40\% of the paper, then the parser extracts all of the text past that line through the end of the paper or the appearance of another section heading, such as ``appendix''. The citation strings are then separated using regular expressions. 
+The development of citation indexing has primarily focused on indexing scholarly citations in the confines of large-scale projects like \citeapos{garfield1964}'s Science Citation Index, which eventually morphed present Web of Science or \citeapos{lawrenceetal1999}'s Citeseer database. The process by which proprietary services like Web of Science or Google Scholar actually extract citations is opaque. The Citeseer project employs a heuristic, rule-based approach to identify citation strings within text. For example, the ParsCit parser developed by \citeapos{councilletal2008}, which Citeseer currently uses, identifies the bibliography of a paper by searching for ``bibliography'' or synonyms like ``references''. If one of these is found past the first 40\% of the paper, then the parser extracts all of the text past that line through the end of the paper or the appearance of another section heading, such as ``appendix''. The citation strings are then separated using regular expressions. 
 
 There has been limited publicly available work done on improving automated citation indexing beyond the Citeseer project. Papers on citation metadata extraction generally rely on citation datasets downloaded from Citeseer or manually compiled datasets, rather than developing new methods for parsing documents themselves \cite{anzaroot2013}. Additionally, the automated citation indexing methods used by Citeseer and similar databases is tailored for extracting scholarly citations, making the application of existing algorithms problematic for extracting heterogeneous citations from government reports.
 
 Citation indexing can be seen as a special case of token tagging in text (i.e., part of speech (POS)) tagging. Consider a document in which every word (or token) has a tag from a given tag set (e.g., POS = \{noun, verb, adjective,...,\}). The word ``run'', for example, would likely be tagged as a verb, but could also be tagged as a noun (e.g., ``I am going on a run''). Citation indexing could be seen as a two-part token tagging task. First, within a document, we need to tag tokens regarding whether they are within a citation instance, with adjacent sets of tokens in a citation instance representing a single citation. Second, after extracting citations, tagging the tokens within the citation index as title, author, etc. For our purposes, we really only need a tagger that performs well at the first task, as the second task can be performed by hand or with the assistance of other citation indexes (e.g., Google Scholar). The Stanford POS tagger can be used to train a tagger using a custom tag set \cite{toutanova2003}. We could use a grep for scientific cite titles in our hand-coded data to tag tokens as starting a cite title, within a cite title, ending a cite title and not in a cite title. Other tags may be useful, but whatever the tag set, we could train the Stanford Tagger and test extraction rules for automatically indexing cites.  
+
+Given broad-based calls from scholars, policymakers and advocacy groups for wider use of science in public policymaking, it is of great interest to derive measures of the use of science by policymakers. Past work in this area has focused on specific instances of science use or science use by a limited set of policymakers. \citet{landry2003}, \cite{belkhodja2007}, and \cite{ouimet2010} survey Canadian government officials to study the extent and variation of the use of university research in general.  This work helps us understand which public officials and agencies make greater use of scholarly research, but do not facilitate the assessment of the impact of scientific disciplines, journals or specific publications. Another class of studies has focused on specific cases or domains of science use, including the uses of fire science \citep{davis2013}, environmental sustainability research \citep{pohl2010}, and research on information-communications technologies \citep{cohen2002}. These studies provide in-depth coverage of the use (or lack thereof) of specific domains of scientific research in particular policymaking contexts, but do not provide a broad comparison of the use of different areas of scientific research.  
 
 
 \subsection{Tasks}
