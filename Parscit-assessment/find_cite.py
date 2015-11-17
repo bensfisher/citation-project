@@ -5,13 +5,13 @@ from bs4 import BeautifulSoup
 def find_cite(cite, user, agent = "scraper/1.0"):
     """ get DOI for citation on citeulike
     Keyword arguments:
-    user -- username and email for citelike (e.g. 'user/email')
+    user -- username and email for citeulike (e.g. 'user/email')
     agent -- name of program used (default 'scraper/1.0)
     cite -- citation title
     """
     user_agent = "%s %s" % (user, agent)
     hdr = {'User-Agent':user_agent}
-    title = cite.replace(' ', '+')
+    title = cite.replace(' ', '+') # format title for search url
     url = "http://www.citeulike.org/search/all?q=%s" % title
     req = urllib2.Request(url, headers=hdr)
     page = urllib2.urlopen(req)
@@ -19,20 +19,20 @@ def find_cite(cite, user, agent = "scraper/1.0"):
     soup = BeautifulSoup(text, 'html.parser')
 
     stop = 0
-    for a in soup.find_all('a',{'class':'title'}):
+    for a in soup.find_all('a',{'class':'title'}): # get title of first result
         if stop == 0:
             title2 = a.get_text()[2:-1]
             print 'citation is: %s' % cite
             print 'best match is: %s' % title2
             stop += 1
-    score = distance.levenshtein(cite, title2, normalized = True)
+    score = distance.levenshtein(cite, title2, normalized = True) #check if titles match
     stop = 0
-    for a in soup.find_all('a'):
+    for a in soup.find_all('a'): # get doi of first result
         if stop == 0:
             if str(a.string)[0:3] == 'doi':
                 doi = a.string[4:-1]
                 stop += 1
-            else:
+            else: # sometimes doi search yields no results
                 doi = 'no match'
     if score <=.6:
         return doi
