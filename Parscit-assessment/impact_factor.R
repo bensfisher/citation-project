@@ -2,6 +2,7 @@
 rm(list=ls())
 
 library(dplyr)
+library(reshape2)
 
 setwd('~/citation-project/Parscit-assessment/')
 
@@ -21,25 +22,55 @@ substrRight <- function(x, n){
 }
 
 journals = rbind(journals08, journals09, journals10, journals11, journals12)
-journals = select(journals, Full.Journal.Title, Issn, Journal.Impact.Factor, Citable.Items, year)
-colnames(journals) = c('journal','issn','impact.factor', 'articles', 'year')
+rm(journals08)
+rm(journals09)
+rm(journals10)
+rm(journals11)
+rm(journals12)
+journals = select(journals, Full.Journal.Title, Issn, Journal.Impact.Factor, X5.Year.Impact.Factor, Citable.Items, year)
+colnames(journals) = c('journal','issn','impact.factor','impact.factor.5', 'articles', 'year')
 journals$year = substrRight(journals$year, 2)
-
 
 riac = read.csv('RIACitations.csv')
 riac = filter(riac, Type=='Scholarly Journal')
-riac = select(riac, RIN, Title, Source, ISSN)
-colnames(riac) = c('ria','cite','journal','issn')
-riac$cite2 = gsub( "[^[:alnum:]]", "", riac$cite)
-riac$cite2 = tolower(riac$cite2)
+riam = read.csv('RIAMeta.csv')
+riam = select(riam, RIN, Release.Date)
+riac = merge(riac, riam, by=c('RIN'), all.x=TRUE)
+riac$counter = 1
+riac$Release.Date = substrRight(as.character(riac$Release.Date), 2)
+riac = select(riac, ISSN, Release.Date, counter)
+colnames(riac) = c('issn','year','articles.cited')
+am = melt(riac, id.vars=c('issn','year'))
+riac = dcast(am, issn+year~variable, fun.aggregate=sum)
 
-riac = merge(riac, journals, by=c(''), all.x=TRUE)
-riac$cite = NULL
+journals = merge(journals, riac, by=c('issn','year'), all.x=TRUE)
+journals$articles.cited[is.na(journals$articles.cited)] = 0
+journals = select(journals, issn, journal, articles, articles.cited)
+journals$articles = as.numeric(as.character(journals$articles))
+am = melt(journals, id.vars=c('issn','journal'))
+journals = dcast(am, issn+journal~variable, fun.aggregate=sum)
 
-matches = read.table('results/matches.txt', header=TRUE, sep=':')
-matches$partial = as.numeric(as.character(matches$partial))
-matches$jac = as.numeric(as.character(matches$jac))
-matches$lev = as.numeric(as.character(matches$lev))
-matches$sor = as.numeric(as.character(matches$sor))
-matches = na.omit(matches)
-gt = filter(matches, source=='gt')
+journals$new.impact.factor = journals$articles.cited/journals$articles
+journals = arrange(journals, desc(new.impact.factor))
+journals13 = read.csv('JournalHomeGrid13.csv', skip=1)
+journals13 = select(journals13, Issn, X5.Year.Impact.Factor)
+colnames(journals13) = c('issn','old.impact.factor')
+journals = merge(journals, journals13, by='issn', all.x=TRUE)
+journals = filter(journals, old.impact.factor!='Not Available')
+journals$old.impact.factor = as.numeric(as.character(journals$old.impact.factor))
+journals = unique(journals)
+
+journals = arrange(journals, desc(old.impact.factor))
+journals$old.rank = seq(1, nrow(journals), 1)
+journals = arrange(journals, desc(new.impact.factor))
+journals$new.rank = seq(1, nrow(journals), 1)
+
+png('~/citation-project/citation-extraction/impact_factor_scatter.png')
+ggplot(journals, aes(old.impact.factor, new.impact.factor)) +
+  geom_point() +
+  geom_smooth(method=lm)
+dev.off()
+rankings = as.data.frame(cbind(journals$old.rank, journals$new.rank))
+
+cor(rankings, method='kendall', use='pairwise')
+cor(rankings[1:50,], method='kendall', use='pairwise')
