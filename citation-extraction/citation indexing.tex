@@ -192,14 +192,11 @@ To better assess the performance of ParsCit, we filter the results through CiteU
 \subsection{Tasks}
 
 \begin{enumerate}
-\item Make sure data we are using on articles comes from WebofScience via DOI download. BF send comma-separated list of DOIs to BD. BD return DOI-based data frame to BF.
-\item Normalize journal impact factors by volume of articles published (BF). Get data on journals from JCR. For each journal, try to download number of articles published and impact factor data for each year going back as far as you can.
+\item Get data on journals from JCR. For each journal, try to download number of articles published and impact factor data for each year going back as far as you can.
 \item Calculate precision after CiteULike matches.
-\item Calculate five year impact factor (BF).  For time T, the number of cites to that journal between T and T+4 (verify this shouldn't be T+5).
-\item Create journal ranking scatterplot in hand-coded and parsCit coded (BF).
 \item Calculate average difference in rank between hand-coded and Parscit coded (BF).
 \item Need to figure out if cite records from ParsCit can pull DOIs from the web (BF).
-\item What is the rate of article recovery if we use CiteULike matched records rather than ParScit matched records (i.e., re-do Figure 4 throwing out parscit-discovered records that cannot be found on CiteULike)? (BF) 
+\item What is the rate of article recovery if we use WoS matched records rather than ParScit matched records (i.e., re-do Figure 4 throwing out parscit-discovered records that cannot be found on WoS)? (BF) 
 \item Get big trove of RIAs (BD)
 \end{enumerate}
 
