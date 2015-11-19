@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 NOV 2015 11:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 NOV 2015 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1204,75 +1204,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
 [8] [9]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 210.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 210.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 210.
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
-
- []
-
-[10]
 Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
-[11] <roc_curves.png, id=219, 481.8pt x 481.8pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+[11] <roc_curves.png, id=221, 481.8pt x 481.8pt>
 File: roc_curves.png Graphic file (type png)
  <use roc_curves.png>
-Package pdftex.def Info: roc_curves.png used on input line 221.
+Package pdftex.def Info: roc_curves.png used on input line 223.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<yearly_accuracy.png, id=221, 481.8pt x 481.8pt>
+<yearly_accuracy.png, id=223, 481.8pt x 481.8pt>
 File: yearly_accuracy.png Graphic file (type png)
  <use yearly_accuracy.png>
-Package pdftex.def Info: yearly_accuracy.png used on input line 342.
+Package pdftex.def Info: yearly_accuracy.png used on input line 344.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<scholarly_totals.png, id=222, 481.8pt x 481.8pt>
+<scholarly_totals.png, id=224, 481.8pt x 481.8pt>
 File: scholarly_totals.png Graphic file (type png)
  <use scholarly_totals.png>
-Package pdftex.def Info: scholarly_totals.png used on input line 350.
+Package pdftex.def Info: scholarly_totals.png used on input line 352.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<scholarly_accuracy.png, id=223, 481.8pt x 481.8pt>
+<scholarly_accuracy.png, id=225, 481.8pt x 481.8pt>
 File: scholarly_accuracy.png Graphic file (type png)
 
 <use scholarly_accuracy.png>
-Package pdftex.def Info: scholarly_accuracy.png used on input line 358.
+Package pdftex.def Info: scholarly_accuracy.png used on input line 360.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
- <impacts.png, id=224, 481.8pt x 481.8pt>
+ <impacts.png, id=226, 481.8pt x 481.8pt>
 File: impacts.png Graphic file (type png)
 
 <use impacts.png>
-Package pdftex.def Info: impacts.png used on input line 366.
+Package pdftex.def Info: impacts.png used on input line 368.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
- <rankings_scatter.png, id=225, 481.8pt x 481.8pt>
+ <rankings_scatter.png, id=227, 481.8pt x 481.8pt>
 File: rankings_scatter.png Graphic file (type png)
 
 <use rankings_scatter.png>
-Package pdftex.def Info: rankings_scatter.png used on input line 374.
+Package pdftex.def Info: rankings_scatter.png used on input line 376.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<impact_factor_scatter2.png, id=226, 481.8pt x 481.8pt>
+<impact_factor_scatter2.png, id=228, 481.8pt x 481.8pt>
 File: impact_factor_scatter2.png Graphic file (type png)
 
 <use impact_factor_scatter2.png>
-Package pdftex.def Info: impact_factor_scatter2.png used on input line 382.
+Package pdftex.def Info: impact_factor_scatter2.png used on input line 384.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
 
-<impact_factor_scatter.png, id=227, 481.8pt x 481.8pt>
+<impact_factor_scatter.png, id=229, 481.8pt x 481.8pt>
 File: impact_factor_scatter.png Graphic file (type png)
 
 <use impact_factor_scatter.png>
-Package pdftex.def Info: impact_factor_scatter.png used on input line 390.
+Package pdftex.def Info: impact_factor_scatter.png used on input line 392.
 (pdftex.def)             Requested size: 227.62228pt x 227.62204pt.
  [12 <./roc_curves.png>] [13 <./yearly_accuracy.png> <./scholarly_totals.png>] 
 [14 <./scholarly_accuracy.png> <./impacts.png>]
@@ -1287,18 +1287,18 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 Package caption Warning: Unused \captionsetup[subfloat] on input line 54.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 419.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 419.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
 (./citation indexing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 419.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 419.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
 Package rerunfilecheck Info: File `"citation indexing".out' has not changed.
 (rerunfilecheck)             Checksum: F971911CA25AA3BF3EC62496FA658B72;558.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 419.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
  ) 
 Here is how much of TeX's memory you used:
- 19417 strings out of 493315
- 332762 string characters out of 6137904
+ 19419 strings out of 493315
+ 332774 string characters out of 6137904
  445797 words of memory out of 5000000
  22391 multiletter control sequences out of 15000+600000
  69302 words of font info for 119 fonts, out of 8000000 for 9000
@@ -1310,10 +1310,10 @@ xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on "citation indexing.pdf" (21 pages, 222875 bytes).
+Output written on "citation indexing.pdf" (21 pages, 223030 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 274 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 276 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
  141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
