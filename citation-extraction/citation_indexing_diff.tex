@@ -1,7 +1,7 @@
 \documentclass[12pt]{article}
 %DIF LATEXDIFF DIFFERENCE FILE
 %DIF DEL citation_indexing_archive.tex   Wed Nov 18 10:04:35 2015
-%DIF ADD citation indexing.tex           Wed Nov 18 13:01:03 2015
+%DIF ADD citation indexing.tex           Thu Nov 19 09:51:49 2015
 
 %==============Packages & Commands==============
 \usepackage{graphicx}
@@ -242,7 +242,10 @@ We also look at how these metrics change over time. The sample of RIAs we use he
 
 Figure~\ref{fig:impacts} shows journal impact factor statistics for the full sample of scholarly citations and various subsets of the data. These subsets include citations found by ParsCit, citations not found by Parscit, citations from RIAs with bibliographies, and citations from RIAs without bibliographies. Overall, the average impact factor across the different samples is fairly similar, with the found by ParsCit and no bibliography samples slightly higher on average. Table~\ref{tab:allimpact} and Table~\ref{tab:pcimpact} show the top journals for the full sample of scholarly citations and the sample of those found by ParsCit respectively. The two are quite similar and, and with one exception, consist entirely of scientific and health journals. \\
 
-\DIFaddbegin \DIFadd{In order to better measure the policy impact of scientific journals, we create a new impact factor measure based on the citation data we have collected. It is equivalent to the standard 5 year impact factor measure. The impact factor for a journal at year $t$ is the result of dividing the total number of times the journal was cited in the period from $t-5$ to $t-1$ by the total number of articles published by the journal in the same period. For our purposes, the former number is the total number of times the journal was cited by RIAs published during a 5 year period. Figure~\ref{fig:impact_scatter} plots the standard journal impact factor measure against our new measure for 2013. We also calculate Kendall's rank coefficient to measure the correlation between journal rankings using the two measures. For the entire corpus of approximately 10000 journals, the correlation is approximately $.93$. This decreases drastically to $.07$ when looking at only the top 50 journals. }\\
+\DIFaddbegin \DIFadd{To better understand how the ParsCit sample compares to the hand-coded sample, we generate 5 year impact factors for journals using citation counts from the two samples. There may be bias in ParsCit's indexing process if citations from some journals are overselected in comparison to the hand-coded data. The impact factors are calculated by dividing the total number of articles from a journal cited by RIAs over a five year period (2008-2012 in this case) by the total number of articles published by a journal in the same five year period. Figure~\ref{fig:impact_scatter2} plots the hand-coded impact factors against the ParsCit impact factors, while Figure~\ref{fig:rankings_scatter} plots the corresponding journal rankings based on the two measures. We also calculate Kendall's rank coefficient to measure the correlation between the two rankings. There is a correlation of approximately $.52$. }\\ 
+
+
+\DIFadd{In order to better measure the policy impact of scientific journals, we create a new impact factor measure based on the citation data we have collected. It is equivalent to the standard 5 year impact factor measure. The impact factor for a journal at year $t$ is the result of dividing the total number of times the journal was cited in the period from $t-5$ to $t-1$ by the total number of articles published by the journal in the same period. For our purposes, the former number is the total number of times the journal was cited by RIAs published during a 5 year period. Figure~\ref{fig:impact_scatter} plots the standard journal impact factor measure against our new measure for 2013. We also calculate Kendall's rank coefficient to measure the correlation between journal rankings using the two measures. For the entire corpus of approximately 10000 journals, the correlation is approximately $.93$. This decreases drastically to $.07$ when looking at only the top 50 journals. }\\
 
 \DIFaddend \begin{figure}
 \begin{center}
@@ -395,6 +398,22 @@ American Journal of Public Health & 12 & 4.552\\
 \caption{Impact Factor by Sample}
 \label{fig:impacts}
 \DIFaddbeginFL \end{center}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+\includegraphics[height=8cm]{rankings_scatter.png}
+\caption{\DIFaddFL{Hand-coded vs. ParsCit Journal Rankings}}
+\label{fig:rankings_scatter}
+\end{center}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+\includegraphics[height=8cm]{impact_factor_scatter2.png}
+\caption{\DIFaddFL{Hand-coded vs. ParsCit Impact Factors}}
+\label{fig:impact_scatter2}
+\end{center}
 \end{figure}
 
 \begin{figure}

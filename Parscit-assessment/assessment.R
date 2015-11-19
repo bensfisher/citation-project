@@ -196,6 +196,93 @@ ggplot(impplt, aes(Sample, Impact.Factor)) +
   geom_boxplot(colour = "#3366FF")
 dev.off()
 
-## pull in citeulike results ##
-cul = read.csv('citeulike.csv')
-cul.dois = filter(cul, citeulike!='no match')
+####
+riac = read.csv('RIACitations.csv')
+riac = filter(riac, Type=='Scholarly Journal')
+riam = read.csv('RIAMeta.csv')
+riam = select(riam, RIN, Release.Date)
+riac = merge(riac, riam, by=c('RIN'), all.x=TRUE)
+riac$counter = 1
+riac$Release.Date = substrRight(as.character(riac$Release.Date), 2)
+riac = select(riac, ISSN, counter)
+colnames(riac) = c('issn','articles.cited')
+am = melt(riac, id.vars=c('issn'))
+riac = dcast(am, issn~variable, fun.aggregate=sum)
+
+riac2 = read.csv('RIACitations.csv')
+riac2 = filter(riac2, Type=='Scholarly Journal')
+riac2 = select(riac2, RIN, Title, Source, ISSN)
+colnames(riac2) = c('ria','cite','journal', 'issn')
+riac2$cite2 = gsub( "[^[:alnum:]]", "", riac2$cite)
+riac2$cite2 = tolower(riac2$cite2)
+
+gt$cite2 = gsub( "[^[:alnum:]]", "", gt$cite)
+gt$cite2 = tolower(gt$cite2)
+imp = filter(gt, type=='Scholarly Journal')
+imp = merge(imp, riac2, by=c('ria','cite2'), all.x=TRUE)
+imp$counter = 1
+
+
+gt.imp = imp
+gt.imp = select(gt.imp, issn, counter)
+gt.imp = melt(gt.imp, id.vars='issn')
+gt.imp = dcast(gt.imp, issn~variable, fun.aggregate=sum)
+colnames(gt.imp) = c('issn','gt.cites')
+
+pc.imp = filter(imp, check==1)
+pc.imp = select(pc.imp, issn, counter)
+pc.imp = melt(pc.imp, id.vars='issn')
+pc.imp = dcast(pc.imp, issn~variable, fun.aggregate=sum)
+colnames(pc.imp) = c('issn','pc.cites')
+
+journals08 = read.csv('JournalHomeGrid08.csv', skip=1)
+journals08$year = 2008
+journals09 = read.csv('JournalHomeGrid09.csv', skip=1)
+journals09$year = 2009
+journals10 = read.csv('JournalHomeGrid10.csv', skip=1)
+journals10$year = 2010
+journals11 = read.csv('JournalHomeGrid11.csv', skip=1)
+journals11$year = 2011
+journals12 = read.csv('JournalHomeGrid12.csv', skip=1)
+journals12$year = 2012
+
+journals = rbind(journals08, journals09, journals10, journals11, journals12)
+rm(journals08)
+rm(journals09)
+rm(journals10)
+rm(journals11)
+rm(journals12)
+journals = select(journals, Issn, Citable.Items)
+colnames(journals) = c('issn','articles')
+journals$articles = as.numeric(as.character(journals$articles))
+journals = melt(journals, id.vars='issn')
+journals = dcast(journals, issn~variable, fun.aggregate=sum)
+
+journals = merge(journals, gt.imp, by='issn', all.x=TRUE)
+journals = merge(journals, pc.imp, by='issn', all.x=TRUE)
+journals$gt.cites[is.na(journals$gt.cites)] = 0
+journals$pc.cites[is.na(journals$pc.cites)] = 0
+journals$gt.imp = journals$gt.cites/journals$articles
+journals$pc.imp = journals$pc.cites/journals$articles
+journals = filter(journals, gt.imp>0)
+
+journals = arrange(journals, desc(gt.imp))
+journals$gt.rank = seq(1, nrow(journals), 1)
+journals = arrange(journals, desc(pc.imp))
+journals$pc.rank = seq(1, nrow(journals), 1)
+
+png('~/citation-project/citation-extraction/impact_factor_scatter2.png')
+ggplot(journals, aes(gt.imp, pc.imp)) +
+  geom_point() +
+  geom_smooth(method=lm)
+dev.off()
+
+png('~/citation-project/citation-extraction/rankings_scatter.png')
+ggplot(journals, aes(gt.rank, pc.rank)) +
+  geom_point() +
+  geom_smooth(method=lm)
+dev.off()
+
+rankings = as.data.frame(cbind(journals$gt.rank, journals$pc.rank))
+
+cor(rankings, method='kendall', use='pairwise')

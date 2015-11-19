@@ -74,3 +74,5 @@ rankings = as.data.frame(cbind(journals$old.rank, journals$new.rank))
 
 cor(rankings, method='kendall', use='pairwise')
 cor(rankings[1:50,], method='kendall', use='pairwise')
+
+
