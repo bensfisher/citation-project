@@ -1,0 +1,176 @@
+@article{numberaction,
+  title={ACTION: Notice with request for comment. SUMMARY: The OCC, FRB, FDIC, OTS, and NCUA (the Agencies), request comment on the proposed Interagency},
+  author={Number, Number Docket ID}
+}
+
+No results found, try again with a different query!
+@article{sloan1992we,
+  title={What Are We Writing For-Student Works as Authority and Their Citation by the Federal Bench, 1986-1990},
+  author={Sloan, Bart},
+  journal={Geo. Wash. L. Rev.},
+  volume={61},
+  pages={221},
+  year={1992},
+  publisher={HeinOnline}
+}
+
+@article{kleinberg1999authoritative,
+  title={Authoritative sources in a hyperlinked environment},
+  author={Kleinberg, Jon M},
+  journal={Journal of the ACM (JACM)},
+  volume={46},
+  number={5},
+  pages={604--632},
+  year={1999},
+  publisher={ACM}
+}
+
+@article{deal1995capital,
+  title={Capital Punishment: The Death of Limited Liability for Shareholders of Federally Regulated Financial Institutions},
+  author={Deal, John C and Thompson, Bob F and Ross, Bennett L},
+  journal={Cap. UL Rev.},
+  volume={24},
+  pages={67},
+  year={1995},
+  publisher={HeinOnline}
+}
+
+No results found, try again with a different query!
+@article{meese1983empirical,
+  title={Empirical exchange rate models of the seventies: Do they fit out of sample?},
+  author={Meese, Richard A and Rogoff, Kenneth},
+  journal={Journal of international economics},
+  volume={14},
+  number={1},
+  pages={3--24},
+  year={1983},
+  publisher={Elsevier}
+}
+
+@article{act2003executive,
+  title={Executive summary},
+  author={Act, No Child Left Behind},
+  journal={Salt Lake City, Utah: Olympus Research},
+  year={2003}
+}
+
+@article{hubbell2006implementing,
+  title={Implementing QALYs in the analysis of air pollution regulations},
+  author={Hubbell, Bryan J},
+  journal={Environmental \& Resource Economics},
+  volume={34},
+  number={3},
+  pages={365--384},
+  year={2006},
+  publisher={Springer}
+}
+
+@article{salonen1995intake,
+  title={Intake of mercury from fish, lipid peroxidation, and the risk of myocardial infarction and coronary, cardiovascular, and any death in eastern Finnish men},
+  author={Salonen, Jukka T and Sepp{\"a}nen, Kari and Nyyss{\"o}nen, Kristiina and Korpela, Heikki and Kauhanen, Jussi and Kantola, Marjatta and Tuomilehto, Jaakko and Esterbauer, Hermann and Tatzber, Franz and Salonen, Riitta},
+  journal={Circulation},
+  volume={91},
+  number={3},
+  pages={645--655},
+  year={1995},
+  publisher={Am Heart Assoc}
+}
+
+@article{sorensen1999prenatal,
+  title={Prenatal methylmercury exposure as a cardiovascular risk factor at seven years of age},
+  author={S{\o}rensen, Nicolina and Murata, Katsuyuki and Budtz-J{\o}rgensen, Esben and Weihe, Pal and Grandjean, Philippe},
+  journal={Epidemiology},
+  pages={370--375},
+  year={1999},
+  publisher={JSTOR}
+}
+
+@article{castoldi2001neurotoxicity,
+  title={Neurotoxicity and molecular effects of methylmercury},
+  author={Castoldi, Anna F and Coccini, Teresa and Ceccatelli, Sandra and Manzo, Luigi},
+  journal={Brain research bulletin},
+  volume={55},
+  number={2},
+  pages={197--203},
+  year={2001},
+  publisher={Elsevier}
+}
+
+@article{axelrod1981evolution,
+  title={The evolution of cooperation},
+  author={Axelrod, Robert and Hamilton, William Donald},
+  journal={Science},
+  volume={211},
+  number={4489},
+  pages={1390--1396},
+  year={1981},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{leandro2007january,
+  title={The January 11, 2007 meeting will be held at},
+  author={Leandro, San},
+  year={2007}
+}
+
+@article{ep2012oaqps,
+  title={OAQPS/SPPD (E143-03)},
+  author={EP-D, EPA Contract No and No, Work Assignment},
+  year={2012}
+}
+
+@article{walton2010regulatory,
+  title={Regulatory Impact Analysis: Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Sewage Sludge Incineration Units},
+  author={Walton, Tom},
+  year={2010}
+}
+
+@article{fann2009influence,
+  title={The influence of location, source, and emission type in estimates of the human health benefits of reducing a ton of air pollution},
+  author={Fann, Neal and Fulcher, Charles M and Hubbell, Bryan J},
+  journal={Air Quality, Atmosphere \& Health},
+  volume={2},
+  number={3},
+  pages={169--176},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{walton2008economic,
+  title={Economic Impacts of Revised MACT Standards for Hospital/Medical/Infectious Waste Incinerators},
+  author={Walton, Tom and Heller, Katherine and Nourani, Vesall and Braun, Fern},
+  year={2008}
+}
+
+@article{mrozek2001determines,
+  title={WHAT DETERMINES THE VALUE OF LIFE? AMeta-ANALYSIS},
+  author={Mrozek, Janusz R and Taylor, Laura O and Taylor, Laura},
+  year={2001}
+}
+
+@article{cherubini2009life,
+  title={Life cycle assessment (LCA) of waste management strategies: Landfilling, sorting plant and incineration},
+  author={Cherubini, Francesco and Bargigli, Silvia and Ulgiati, Sergio},
+  journal={Energy},
+  volume={34},
+  number={12},
+  pages={2116--2123},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{atkinson1974cost,
+  title={A cost-effectiveness analysis of alternative air quality control strategies},
+  author={Atkinson, Scott E and Lewis, Donald H},
+  journal={Journal of Environmental Economics and Management},
+  volume={1},
+  number={3},
+  pages={237--250},
+  year={1974},
+  publisher={Elsevier}
+}
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.

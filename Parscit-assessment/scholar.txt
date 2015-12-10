@@ -1,0 +1,66 @@
+Environmental Protection Agency 2008b Proposed National Ambient Air Quality Standards for Lead Office of Air and Radiation
+@article{fann2009influence,
+  title={The influence of location, source, and emission type in estimates of the human health benefits of reducing a ton of air pollution},
+  author={Fann, Neal and Fulcher, Charles M and Hubbell, Bryan J},
+  journal={Air Quality, Atmosphere \& Health},
+  volume={2},
+  number={3},
+  pages={169--176},
+  year={2009},
+  publisher={Springer}
+}
+
+Environmental Protection Agency 2008c Economic Analysis for the TSCA Lead Renovation Repair and Painting Program Final Rule for Target Housing and ChildOccupied Facilities Economic and Policy Analysis Branch Economics Exposure and Technology Division Office of Pollution Prevention and Toxics
+No results found, try again with a different query!
+The Yugoslavia Prospective Lead Industry Study Contributions of Prenatal and Postnatal Lead Exposure to Early Intelligence
+@article{wasserman2000yugoslavia,
+  title={The Yugoslavia Prospective Lead Study: contributions of prenatal and postnatal lead exposure to early intelligence},
+  author={Wasserman, GA and Liu, X and Popovac, Dusan and Factor-Litvak, Pam and Kline, Jennie and Waternaux, C and LoIacono, N and Graziano, JH},
+  journal={Neurotoxicology and Teratology},
+  volume={22},
+  number={6},
+  pages={811--818},
+  year={2000},
+  publisher={Elsevier}
+}
+
+Population by Single Year of Age CD
+@article{kugathasan2003epidemiologic,
+  title={Epidemiologic and clinical characteristics of children with newly diagnosed inflammatory bowel disease in Wisconsin: a statewide population-based study},
+  author={Kugathasan, Subra and Judd, Robert H and Hoffmann, Raymond G and Heikenen, Janice and Telega, Gregorz and Khan, Farhat and Weisdorf-Schindele, Sally and San Pablo, William and Perrault, Jean and Park, Roger and others},
+  journal={The Journal of pediatrics},
+  volume={143},
+  number={4},
+  pages={525--531},
+  year={2003},
+  publisher={Elsevier}
+}
+
+World Health Organization
+@book{world2001international,
+  title={International classification of functioning, disability and health: ICF.},
+  author={World Health Organization},
+  year={2001},
+  publisher={World Health Organization}
+}
+
+NO PARSCIT CITATIONS
+@inproceedings{councill2008parscit,
+  title={ParsCit: an Open-source CRF Reference String Parsing Package.},
+  author={Councill, Isaac G and Giles, C Lee and Kan, Min-Yen},
+  booktitle={LREC},
+  year={2008}
+}
+
+Secretary of Veterans Affairs
+@article{agha2000patients,
+  title={Are patients at Veterans Affairs medical centers sicker?: A comparative analysis of health status and medical resource use},
+  author={Agha, Zia and Lofgren, Richard P and VanRuiswyk, Jerome V and Layde, Peter M},
+  journal={Archives of Internal Medicine},
+  volume={160},
+  number={21},
+  pages={3252--3257},
+  year={2000},
+  publisher={American Medical Association}
+}
+
