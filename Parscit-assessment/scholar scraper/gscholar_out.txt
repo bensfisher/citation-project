@@ -1,9 +1,12 @@
+Counsel 202 452–2036 Legal Division For the hearing impaired only Telecommunication Device for the Deaf TDD
 @article{numberaction,
   title={ACTION: Notice with request for comment. SUMMARY: The OCC, FRB, FDIC, OTS, and NCUA (the Agencies), request comment on the proposed Interagency},
   author={Number, Number Docket ID}
 }
 
+Adoption of Proposed Common Rule 1 The authority citation for part 3 continues to read as follows Authority 12 USC 93a 161 1818 3907 and 3909 1921 Federal Register 
 No results found, try again with a different query!
+Governors of the Federal 4 The authority citation for part 208 continues to read as follows Authority
 @article{sloan1992we,
   title={What Are We Writing For-Student Works as Authority and Their Citation by the Federal Bench, 1986-1990},
   author={Sloan, Bart},
@@ -14,6 +17,7 @@ No results found, try again with a different query!
   publisher={HeinOnline}
 }
 
+The authority citation for part 225 continues to read as follows Authority
 @article{kleinberg1999authoritative,
   title={Authoritative sources in a hyperlinked environment},
   author={Kleinberg, Jon M},
@@ -25,6 +29,7 @@ No results found, try again with a different query!
   publisher={ACM}
 }
 
+Federal Deposit Insurance Corporation 12 CFR Chapter III Authority and Issuance For the reasons set forth in the common preamble part 325 of chapter III of title 12 of the Code of Federal Regulations is proposed to be amended as follows PART 325—CAPITAL MAINTENANCE 10 The authority citation for part 325 continues to read as follows
 @article{deal1995capital,
   title={Capital Punishment: The Death of Limited Liability for Shareholders of Federally Regulated Financial Institutions},
   author={Deal, John C and Thompson, Bob F and Ross, Bennett L},
@@ -35,7 +40,9 @@ No results found, try again with a different query!
   publisher={HeinOnline}
 }
 
+to Part 325—RiskBased Capital for State Nonmember Banks Market Risk 12 Appendix C is further amended by a Removing ‘‘Agency’’ wherever it appears and adding in its place ‘‘FDIC’’ b Removing ‘‘Agency’s’’ wherever it appears and adding in its place ‘‘FDIC’s’’ c Removing ‘‘banking organization’’ wherever it appears and adding in its place ‘‘bank’’ d Removing ‘‘banking organizations’’ wherever it appears and adding in its place ‘‘banks’’ e Removing Call Report or FR Y–9C wherever it appears and adding in its place ‘‘Call Report’’ f Removing ‘‘the advanced capital adequacy framework’’ wherever it appears and adding in its place ‘‘Appendix D to this part’’ g Removing ‘‘regulatory report’’ wherever it appears and adding in its place ‘‘Consolidated Reports of Condition and Income Call Report’’ h Removing ‘‘the general riskbased capital rules’’ wherever it appears and adding in its place ‘‘Appendix A to this part’’
 No results found, try again with a different query!
+By order of the Board of Governors of the Federal Reserve System
 @article{meese1983empirical,
   title={Empirical exchange rate models of the seventies: Do they fit out of sample?},
   author={Meese, Richard A and Rogoff, Kenneth},
@@ -47,6 +54,7 @@ No results found, try again with a different query!
   publisher={Elsevier}
 }
 
+this 14th of December 2010 By order of the Board of Directors Federal Deposit Insurance Corporation Robert E Feldman Executive Secretary
 @article{act2003executive,
   title={Executive summary},
   author={Act, No Child Left Behind},
@@ -54,6 +62,7 @@ No results found, try again with a different query!
   year={2003}
 }
 
+Breakdown of Monetized PM25 Health Benefits using Mortality Function from
 @article{hubbell2006implementing,
   title={Implementing QALYs in the analysis of air pollution regulations},
   author={Hubbell, Bryan J},
@@ -65,6 +74,7 @@ No results found, try again with a different query!
   publisher={Springer}
 }
 
+Intake of mercury from fish lipid peroxidation and the risk of myocardial infarction and coronary cardiovascular and any death in Eastern Finnish men”
 @article{salonen1995intake,
   title={Intake of mercury from fish, lipid peroxidation, and the risk of myocardial infarction and coronary, cardiovascular, and any death in eastern Finnish men},
   author={Salonen, Jukka T and Sepp{\"a}nen, Kari and Nyyss{\"o}nen, Kristiina and Korpela, Heikki and Kauhanen, Jussi and Kantola, Marjatta and Tuomilehto, Jaakko and Esterbauer, Hermann and Tatzber, Franz and Salonen, Riitta},
@@ -76,6 +86,7 @@ No results found, try again with a different query!
   publisher={Am Heart Assoc}
 }
 
+Prenatal Methylmercury Exposure As A Cardiovascular Risk Factor At Seven Years of Age” Epidemiology
 @article{sorensen1999prenatal,
   title={Prenatal methylmercury exposure as a cardiovascular risk factor at seven years of age},
   author={S{\o}rensen, Nicolina and Murata, Katsuyuki and Budtz-J{\o}rgensen, Esben and Weihe, Pal and Grandjean, Philippe},
@@ -85,6 +96,7 @@ No results found, try again with a different query!
   publisher={JSTOR}
 }
 
+Toxicological Effects of Methylmercury
 @article{castoldi2001neurotoxicity,
   title={Neurotoxicity and molecular effects of methylmercury},
   author={Castoldi, Anna F and Coccini, Teresa and Ceccatelli, Sandra and Manzo, Luigi},
@@ -96,6 +108,7 @@ No results found, try again with a different query!
   publisher={Elsevier}
 }
 
+Environmental Protection Agency
 @article{axelrod1981evolution,
   title={The evolution of cooperation},
   author={Axelrod, Robert and Hamilton, William Donald},
@@ -107,24 +120,28 @@ No results found, try again with a different query!
   publisher={American Association for the Advancement of Science}
 }
 
+Co‑Chair NACWA Biosolids Management Committee email to
 @article{leandro2007january,
   title={The January 11, 2007 meeting will be held at},
   author={Leandro, San},
   year={2007}
 }
 
+Memorandum from Eastern Research Group to Amy Hambrick US Environmental Protection Agency
 @article{ep2012oaqps,
   title={OAQPS/SPPD (E143-03)},
   author={EP-D, EPA Contract No and No, Work Assignment},
   year={2012}
 }
 
+and Emissions Test Database for the Sewage Sludge Incineration Source Category Memorandum from Eastern Research Group to Amy Hambrick US Environmental Protection Agency
 @article{walton2010regulatory,
   title={Regulatory Impact Analysis: Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Sewage Sludge Incineration Units},
   author={Walton, Tom},
   year={2010}
 }
 
+The influence of location source and emission type in estimates of the human health benefits of reducing a ton of air pollution Air Qual Atmos Health
 @article{fann2009influence,
   title={The influence of location, source, and emission type in estimates of the human health benefits of reducing a ton of air pollution},
   author={Fann, Neal and Fulcher, Charles M and Hubbell, Bryan J},
@@ -136,18 +153,21 @@ No results found, try again with a different query!
   publisher={Springer}
 }
 
+Revised Compliance Costs and Economic Inputs for Existing HMIWI
 @article{walton2008economic,
   title={Economic Impacts of Revised MACT Standards for Hospital/Medical/Infectious Waste Incinerators},
   author={Walton, Tom and Heller, Katherine and Nourani, Vesall and Braun, Fern},
   year={2008}
 }
 
+What Determines the Value of Life
 @article{mrozek2001determines,
   title={WHAT DETERMINES THE VALUE OF LIFE? AMeta-ANALYSIS},
   author={Mrozek, Janusz R and Taylor, Laura O and Taylor, Laura},
   year={2001}
 }
 
+AP 42 Chapter 2 Solid Waste Disposal
 @article{cherubini2009life,
   title={Life cycle assessment (LCA) of waste management strategies: Landfilling, sorting plant and incineration},
   author={Cherubini, Francesco and Bargigli, Silvia and Ulgiati, Sergio},
@@ -159,6 +179,7 @@ No results found, try again with a different query!
   publisher={Elsevier}
 }
 
+Environmental Protection Agency Office of Air Quality Planning and Standards
 @article{atkinson1974cost,
   title={A cost-effectiveness analysis of alternative air quality control strategies},
   author={Atkinson, Scott E and Lewis, Donald H},
@@ -170,7 +191,48 @@ No results found, try again with a different query!
   publisher={Elsevier}
 }
 
+Guidelines for Preparing Economic Analyses
+@article{siegel1996recommendations,
+  title={Recommendations for reporting cost-effectiveness analyses},
+  author={Siegel, Joanna E and Weinstein, Milton C and Russell, Louise B and Gold, Marthe R},
+  journal={Jama},
+  volume={276},
+  number={16},
+  pages={1339--1341},
+  year={1996},
+  publisher={American Medical Association}
+}
+
+OAQPS Control Cost Manual Section 42 NOX Post Combustion Chapter 1 Selective Noncatalytic Reduction Publication US
+@book{schnelle2001air,
+  title={Air pollution control technology handbook},
+  author={Schnelle Jr, Karl B and Brown, Charles A},
+  year={2001},
+  publisher={CRC press}
+}
+
+Park NC EPA600R09019F
+@article{wilbur2012toxicological,
+  title={Toxicological Profile for Carbon Monoxide},
+  author={Wilbur, Sharon and Williams, Malcolm and Williams, Robert and Scinicariello, Franco and Klotzbach, Julie M and Diamond, Gary L and Citra, Mario},
+  journal={Atlanta (GA): Agency for Toxic Substances and Disease Registry (US)},
+  year={2012}
+}
+
+Final Regulatory Impact Analysis RIA for the NO2 National Ambient Air Quality Standards NAAQS
+@article{fann2009influence,
+  title={The influence of location, source, and emission type in estimates of the human health benefits of reducing a ton of air pollution},
+  author={Fann, Neal and Fulcher, Charles M and Hubbell, Bryan J},
+  journal={Air Quality, Atmosphere \& Health},
+  volume={2},
+  number={3},
+  pages={169--176},
+  year={2009},
+  publisher={Springer}
+}
+
+Summary of Expert Opinions on the Existence of a Threshold in the ConcentrationResponse Function for PM25related Mortality Technical Support Document Compiled by Office of Air Quality Planning and Standards Research Triangle Park
+Lowest Measured Level LML Assessment for Rules without PolicySpecific Air Quality Data Available Technical Support Document Office of Air Quality Planning and Standards Research Triangle Park
 Saving session...
-...copying shared history...
 ...saving history...truncating history files...
 ...completed.

@@ -105,8 +105,8 @@ all_ratios = []
 colnames = ['ria','cite','source','partial','partial_match','lev','lev_match','jac','jac_match','sor','sor_match']
 df = pd.DataFrame(columns=colnames)
 for a in gt:
-    print "checking {}".format(a)
-    ls_partials = []
+    print "checking {}".format(a) # loop through cite titles in both dataframes
+    ls_partials = []              # to calculate distance scores for all combinations
     ls_levs = []
     ls_hams = []
     ls_jacs = []
@@ -142,6 +142,8 @@ for a in gt:
                 pass
         else:
             pass
+    # create distance score matrices with row index as hand coded titles and 
+    # column index as parscit coded titles
     df_partial = pd.DataFrame(ls_partials)
     df_partial.index = gt[a]
     df_partial.columns = pc[a]
@@ -167,6 +169,8 @@ for a in gt:
     df_sor = df_sor.T.drop_duplicates().T
     #df_sor.to_csv("Parscit-assessment/results/{}-sor.txt".format(a),sep='\t')
     
+    # find best match for each distance score with parscit as focal and then 
+    # hand coded as focal
     partial_list = []
     for i in df_partial.columns:
         print i
@@ -202,6 +206,7 @@ for a in gt:
         holder = {'ria': a, 'cite': i, 'source': 'gt', 'sor_match':df_sor[i].idxmin(), 'sor':df_sor[i].min()}
         sor_list.append(holder)
     
+    # add results to a dataframe 
     df_partial = pd.DataFrame(partial_list)
     df_lev = pd.DataFrame(lev_list)
     df_jac = pd.DataFrame(jac_list)
@@ -212,8 +217,8 @@ for a in gt:
     df = df.append(df_full)
     print df
 
-df = pd.merge(df, df_types, how = 'left', on = ('ria','cite'))
-df.to_csv('Parscit-assessment/results/matches2.txt', sep=':', index=False)
+df = pd.merge(df, df_types, how = 'left', on = ('ria','cite')) # merge in cite type for hand coded
+df.to_csv('Parscit-assessment/results/matches.txt', sep=':', index=False)
 
 
 
