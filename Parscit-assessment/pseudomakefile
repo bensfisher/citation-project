@@ -1,0 +1,24 @@
+## convert pdfs to txts
+test-RIAs-txt/: convert_pdf.sh test-RIAs/
+	shell $<
+
+## extract cites using parscit
+extracted_cites/: get_cites.sh test-RIAs-txt/
+	shell $<
+
+## match cites using distance measures
+results/matches.txt: match_cites.py extracted_cites/
+	python $<
+
+## query google scholar
+scholar-scraper/gscholar_out.bib: scholar-scraper/search.sh scholar-scraper/title_list.txt
+	shell $<
+
+## convert gscholar bibfile output
+scholar-scraper/bib_frame.csv: scholar-scraper/read_bibs.R scholar-scraper/gscholar_out.csv
+	R $<
+
+## match titles and generate list of clean titles
+scholar-scraper/clean_titles.txt: scholar-scraper/match_scholar_cites.py \
+	scholar-scraper/bib_frame.csv
+	python $<

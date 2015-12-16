@@ -9,7 +9,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 rias = []
-root = 'Parscit-assessment/test-RIAs'
+root = 'extracted-cites/'
 for dirs, subdirs, files in os.walk(root):
     for name in files:
         if name.endswith('cites.txt'):
@@ -55,7 +55,7 @@ for k in pc:
         pass
 
 # create similar dictionary for manually coded data 
-cites = pd.read_csv('Parscit-assessment/RIACitations.csv')
+cites = pd.read_csv('RIACitations.csv')
 cites = cites[(cites.RIN != 'RIN1190-AA44') & (cites.RIN != 'RIN1190-AA46') & (cites.RIN != 'RIN1601-AA52')]
 cites = cites[['RIN','Title','Type']]
 cites['rin'] = cites['RIN']
@@ -149,25 +149,25 @@ for a in gt:
     df_partial.columns = pc[a]
     df_partial = df_partial.drop_duplicates()
     df_partial = df_partial.T.drop_duplicates().T
-    #df_partial.to_csv("Parscit-assessment/results/{}-partial.txt".format(a),sep='\t')
+    #df_partial.to_csv("results/{}-partial.txt".format(a),sep='\t')
     df_lev = pd.DataFrame(ls_levs)
     df_lev.index = gt[a]
     df_lev.columns = pc[a]
     df_lev = df_lev.drop_duplicates()
     df_lev = df_lev.T.drop_duplicates().T
-    #df_lev.to_csv("Parscit-assessment/results/{}-lev.txt".format(a),sep='\t')
+    #df_lev.to_csv("results/{}-lev.txt".format(a),sep='\t')
     df_jac = pd.DataFrame(ls_jacs)
     df_jac.index = gt[a]
     df_jac.columns = pc[a]
     df_jac = df_jac.drop_duplicates()
     df_jac = df_jac.T.drop_duplicates().T
-    #df_jac.to_csv("Parscit-assessment/results/{}-jac.txt".format(a),sep='\t')
+    #df_jac.to_csv("results/{}-jac.txt".format(a),sep='\t')
     df_sor = pd.DataFrame(ls_sors)
     df_sor.index = gt[a]
     df_sor.columns = pc[a]
     df_sor = df_sor.drop_duplicates()
     df_sor = df_sor.T.drop_duplicates().T
-    #df_sor.to_csv("Parscit-assessment/results/{}-sor.txt".format(a),sep='\t')
+    #df_sor.to_csv("results/{}-sor.txt".format(a),sep='\t')
     
     # find best match for each distance score with parscit as focal and then 
     # hand coded as focal
@@ -218,7 +218,7 @@ for a in gt:
     print df
 
 df = pd.merge(df, df_types, how = 'left', on = ('ria','cite')) # merge in cite type for hand coded
-df.to_csv('Parscit-assessment/results/matches.txt', sep=':', index=False)
+df.to_csv('results/matches.txt', sep=':', index=False)
 
 
 
