@@ -8,10 +8,13 @@ sys.setdefaultencoding('utf8')
 
 with open('test_titles.txt') as f:
     reader = csv.reader(f)
-    titles1 = list(reader)
+    titles = list(reader)
 f.close()
 
-titles1 = titles1[0]
+titles1 = []
+for i in titles:
+    for j in i:
+        titles1.append(j)
 
 df = pd.read_csv("bib_frame.csv")
 titles2 = df['title']
