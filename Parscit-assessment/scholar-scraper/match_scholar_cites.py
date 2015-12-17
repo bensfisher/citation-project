@@ -18,9 +18,11 @@ for i in titles:
 
 df = pd.read_csv("bib_frame.csv")
 titles2 = df['title']
+titles2 = list(set(titles2)) # remove duplicates
 
 ls_levs = []
 
+# calculate distance scores for all combinations
 for title1 in titles1:
     levs = []
     for title2 in titles2:
@@ -34,16 +36,18 @@ df_lev = pd.DataFrame(ls_levs)
 df_lev.index = titles1
 df_lev.columns = titles2
 
-ls_levs = []
+# get best match
+ls_levs2 = []
 for i in df_lev.columns:
     try:
         holder = {'parscit':i, 'gscholar':df_lev[i].idxmin(), 'score':df_lev[i].min()}
     except ValueError:
         pass
-    ls_levs.append(holder)
+    ls_levs2.append(holder)
 
-df = pd.DataFrame(ls_levs)
+df = pd.DataFrame(ls_levs2)
 
+# filter based on .6 distance threshold
 df = df[(df.score <= .6)]
 matched = list(df['gscholar'])
 
