@@ -19,6 +19,10 @@ for i in titles:
 df = pd.read_csv("bib_frame.csv")
 titles2 = df['title']
 titles2 = list(set(titles2)) # remove duplicates
+titles3 = []
+for i in titles2:
+    titles3.append(str(i).replace(',',''))
+titles2 = titles3
 
 ls_levs = []
 
