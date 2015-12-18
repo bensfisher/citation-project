@@ -35,6 +35,7 @@ for title1 in titles1:
 df_lev = pd.DataFrame(ls_levs)
 df_lev.index = titles1
 df_lev.columns = titles2
+df_lev = df_lev.T
 
 # get best match
 ls_levs2 = []

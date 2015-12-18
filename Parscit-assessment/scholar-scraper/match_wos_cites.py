@@ -15,6 +15,7 @@ titles1 = []
 for i in titles:
     for j in i:
         titles1.append(j)
+titles1 = list(set(titles1))
 
 df = pd.read_csv("wos_bib_frame.csv")
 titles2 = df['title']
@@ -35,12 +36,13 @@ for title1 in titles1:
 df_lev = pd.DataFrame(ls_levs)
 df_lev.index = titles1
 df_lev.columns = titles2
+df_lev = df_lev.T
 
 # get best match
 ls_levs2 = []
 for i in df_lev.columns:
     try:
-        holder = {'parscit':i, 'wos':df_lev[i].idxmin(), 'score':df_lev[i].min()}
+        holder = {'gscholar':i, 'wos':df_lev[i].idxmin(), 'score':df_lev[i].min()}
     except ValueError:
         pass
     ls_levs2.append(holder)
